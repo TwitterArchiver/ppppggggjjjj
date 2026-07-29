@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2033183831361306624"
+      ],
+      "media_source_tweet_id": [
+        "2033186144981291113"
+      ]
+    },
+    "author_id": "1569397683814629379",
+    "conversation_id": "2033452118426948014",
+    "created_at": "2026-03-16T07:55:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-16T08:55:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2033452118426948014"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "411574613",
+          "start": 3,
+          "username": "MilkPuppy77"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/BDWhA1AzM6",
+          "end": 50,
+          "expanded_url": "https://x.com/MilkPuppy77/status/2033186144981291113/photo/1",
+          "media_key": "3_2033183831361306624",
+          "start": 27,
+          "url": "https://t.co/BDWhA1AzM6"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2033452118426948014",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 814
+    },
+    "referenced_tweets": [
+      {
+        "id": "2033186144981291113",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @MilkPuppy77: ももにな~\n🦔🍼🍑 https://t.co/BDWhA1AzM6"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2033452118426948014].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2033452118426948014",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2033452118426948014"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1200,
+        "media_key": "3_2033183831361306624",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDdR7B9bwAAki3g.jpg",
+        "width": 1200
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2033183831361306624"
+          ]
+        },
+        "author_id": "411574613",
+        "conversation_id": "2033186144981291113",
+        "created_at": "2026-03-15T14:18:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-15T15:18:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2033186144981291113"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/BDWhA1AzM6",
+              "end": 33,
+              "expanded_url": "https://x.com/MilkPuppy77/status/2033186144981291113/photo/1",
+              "media_key": "3_2033183831361306624",
+              "start": 10,
+              "url": "https://t.co/BDWhA1AzM6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2033186144981291113",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1937,
+          "impression_count": 82361,
+          "like_count": 9482,
+          "quote_count": 26,
+          "reply_count": 23,
+          "retweet_count": 814
+        },
+        "reply_settings": "everyone",
+        "text": "ももにな~\n🦔🍼🍑 https://t.co/BDWhA1AzM6"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-12T18:50:19.000Z",
+        "description": "随缘//医学爱好者/les🏳️‍🌈/lgbt友好/中文/EN/Arknights/绘画/混乱日常碎碎念/很吵//喵喵//提问箱↓ ↓ ↓",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ppppppppp38481",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ppppppppp38481",
+                "start": 0,
+                "url": "https://t.co/dw8CaO6ajX"
+              }
+            ]
+          }
+        },
+        "id": "1569397683814629379",
+        "location": "世界的尽头",
+        "name": "腐烂培根卷",
+        "pinned_tweet_id": "2012485424057291255",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953366409284861953/HM3Aeou7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 191,
+          "following_count": 1188,
+          "like_count": 5457,
+          "listed_count": 1,
+          "media_count": 97,
+          "tweet_count": 4745
+        },
+        "url": "https://t.co/dw8CaO6ajX",
+        "username": "ppppggggjjjj",
+        "verified": false
+      },
+      {
+        "created_at": "2011-11-13T16:07:17.000Z",
+        "description": "■ 未经许可，请勿转载 || 無断転用禁止 ||  Don't reproduce without permission ■",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "bsky.app/profile/milkpu…",
+                "end": 23,
+                "expanded_url": "https://bsky.app/profile/milkpuppy77.bsky.social",
+                "start": 0,
+                "url": "https://t.co/wYTr3Mha3E"
+              }
+            ]
+          }
+        },
+        "id": "411574613",
+        "location": "■ AI学習禁止 || No AI training ■",
+        "name": "Milk Puppy",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1986738678300033024/Qxmm9l5H_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14789,
+          "following_count": 470,
+          "like_count": 13020,
+          "listed_count": 139,
+          "media_count": 254,
+          "tweet_count": 6776
+        },
+        "url": "https://t.co/wYTr3Mha3E",
+        "username": "MilkPuppy77",
+        "verified": false
+      }
+    ]
+  }
+}

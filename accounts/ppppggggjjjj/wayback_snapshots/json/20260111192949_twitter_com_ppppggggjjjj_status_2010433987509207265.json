@@ -1,0 +1,412 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2010048209138204672",
+        "3_2010048209146499072",
+        "3_2010048209599483904",
+        "3_2010048209163345920"
+      ],
+      "media_source_tweet_id": [
+        "2010068122322321822",
+        "2010068122322321822",
+        "2010068122322321822",
+        "2010068122322321822"
+      ]
+    },
+    "author_id": "1569397683814629379",
+    "conversation_id": "2010433987509207265",
+    "created_at": "2026-01-11T19:29:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-11T20:29:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2010433987509207265"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 38,
+          "normalized_text": "gyaru",
+          "probability": 0.6062,
+          "start": 34,
+          "type": "Other"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1392083916127887361",
+          "start": 3,
+          "username": "qiandaiyiyu"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/VMeGrcHet1",
+          "end": 74,
+          "expanded_url": "https://x.com/qiandaiyiyu/status/2010068122322321822/photo/1",
+          "media_key": "3_2010048209138204672",
+          "start": 51,
+          "url": "https://t.co/VMeGrcHet1"
+        },
+        {
+          "display_url": "pic.x.com/VMeGrcHet1",
+          "end": 74,
+          "expanded_url": "https://x.com/qiandaiyiyu/status/2010068122322321822/photo/1",
+          "media_key": "3_2010048209146499072",
+          "start": 51,
+          "url": "https://t.co/VMeGrcHet1"
+        },
+        {
+          "display_url": "pic.x.com/VMeGrcHet1",
+          "end": 74,
+          "expanded_url": "https://x.com/qiandaiyiyu/status/2010068122322321822/photo/1",
+          "media_key": "3_2010048209599483904",
+          "start": 51,
+          "url": "https://t.co/VMeGrcHet1"
+        },
+        {
+          "display_url": "pic.x.com/VMeGrcHet1",
+          "end": 74,
+          "expanded_url": "https://x.com/qiandaiyiyu/status/2010068122322321822/photo/1",
+          "media_key": "3_2010048209163345920",
+          "start": 51,
+          "url": "https://t.co/VMeGrcHet1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2010433987509207265",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 7717
+    },
+    "referenced_tweets": [
+      {
+        "id": "2010068122322321822",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @qiandaiyiyu: Tap the post for gyaru x goth\nSFW https://t.co/VMeGrcHet1"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 675,
+        "media_key": "3_2010048209138204672",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-UgMk8XwAAOIDz.jpg",
+        "width": 1199
+      },
+      {
+        "height": 675,
+        "media_key": "3_2010048209146499072",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-UgMk-WUAA7DVg.jpg",
+        "width": 1199
+      },
+      {
+        "height": 675,
+        "media_key": "3_2010048209599483904",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-UgMmqWUAATXDR.jpg",
+        "width": 1199
+      },
+      {
+        "height": 675,
+        "media_key": "3_2010048209163345920",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-UgMlCXYAAnvrf.jpg",
+        "width": 1199
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2010048209138204672",
+            "3_2010048209146499072",
+            "3_2010048209599483904",
+            "3_2010048209163345920"
+          ],
+          "media_source_tweet_id": [
+            "2010068122322321822",
+            "2010068122322321822",
+            "2010068122322321822",
+            "2010068122322321822"
+          ]
+        },
+        "author_id": "1569397683814629379",
+        "conversation_id": "2010433987509207265",
+        "created_at": "2026-01-11T19:29:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-11T20:29:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2010433987509207265"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 38,
+              "normalized_text": "gyaru",
+              "probability": 0.6062,
+              "start": 34,
+              "type": "Other"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1392083916127887361",
+              "start": 3,
+              "username": "qiandaiyiyu"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/VMeGrcHet1",
+              "end": 74,
+              "expanded_url": "https://x.com/qiandaiyiyu/status/2010068122322321822/photo/1",
+              "media_key": "3_2010048209138204672",
+              "start": 51,
+              "url": "https://t.co/VMeGrcHet1"
+            },
+            {
+              "display_url": "pic.x.com/VMeGrcHet1",
+              "end": 74,
+              "expanded_url": "https://x.com/qiandaiyiyu/status/2010068122322321822/photo/1",
+              "media_key": "3_2010048209146499072",
+              "start": 51,
+              "url": "https://t.co/VMeGrcHet1"
+            },
+            {
+              "display_url": "pic.x.com/VMeGrcHet1",
+              "end": 74,
+              "expanded_url": "https://x.com/qiandaiyiyu/status/2010068122322321822/photo/1",
+              "media_key": "3_2010048209599483904",
+              "start": 51,
+              "url": "https://t.co/VMeGrcHet1"
+            },
+            {
+              "display_url": "pic.x.com/VMeGrcHet1",
+              "end": 74,
+              "expanded_url": "https://x.com/qiandaiyiyu/status/2010068122322321822/photo/1",
+              "media_key": "3_2010048209163345920",
+              "start": 51,
+              "url": "https://t.co/VMeGrcHet1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2010433987509207265",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 7717
+        },
+        "referenced_tweets": [
+          {
+            "id": "2010068122322321822",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @qiandaiyiyu: Tap the post for gyaru x goth\nSFW https://t.co/VMeGrcHet1"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2010048209138204672",
+            "3_2010048209146499072",
+            "3_2010048209599483904",
+            "3_2010048209163345920"
+          ]
+        },
+        "author_id": "1392083916127887361",
+        "conversation_id": "2010068122322321822",
+        "created_at": "2026-01-10T19:16:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-10T20:16:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2010068122322321822"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 21,
+              "normalized_text": "gyaru",
+              "probability": 0.5194,
+              "start": 17,
+              "type": "Other"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/VMeGrcHet1",
+              "end": 57,
+              "expanded_url": "https://x.com/qiandaiyiyu/status/2010068122322321822/photo/1",
+              "media_key": "3_2010048209138204672",
+              "start": 34,
+              "url": "https://t.co/VMeGrcHet1"
+            },
+            {
+              "display_url": "pic.x.com/VMeGrcHet1",
+              "end": 57,
+              "expanded_url": "https://x.com/qiandaiyiyu/status/2010068122322321822/photo/1",
+              "media_key": "3_2010048209146499072",
+              "start": 34,
+              "url": "https://t.co/VMeGrcHet1"
+            },
+            {
+              "display_url": "pic.x.com/VMeGrcHet1",
+              "end": 57,
+              "expanded_url": "https://x.com/qiandaiyiyu/status/2010068122322321822/photo/1",
+              "media_key": "3_2010048209599483904",
+              "start": 34,
+              "url": "https://t.co/VMeGrcHet1"
+            },
+            {
+              "display_url": "pic.x.com/VMeGrcHet1",
+              "end": 57,
+              "expanded_url": "https://x.com/qiandaiyiyu/status/2010068122322321822/photo/1",
+              "media_key": "3_2010048209163345920",
+              "start": 34,
+              "url": "https://t.co/VMeGrcHet1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2010068122322321822",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {},
+          "text": "Tap the post for gyaru x goth\nSFW"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 39660,
+          "impression_count": 7994711,
+          "like_count": 175630,
+          "quote_count": 494,
+          "reply_count": 293,
+          "retweet_count": 7717
+        },
+        "reply_settings": "everyone",
+        "text": "Tap the post for gyaru x goth\nSFW https://t.co/VMeGrcHet1"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-12T18:50:19.000Z",
+        "description": "随缘//医学爱好者/les🏳️‍🌈/lgbt友好/中文/EN/Arknights/绘画/混乱日常碎碎念/很吵//喵喵 【永远拥护培根卷番茄！】提问箱↓ ↓ ↓",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ppppppppp38481",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ppppppppp38481",
+                "start": 0,
+                "url": "https://t.co/dw8CaO5Cup"
+              }
+            ]
+          }
+        },
+        "id": "1569397683814629379",
+        "location": "世界的尽头",
+        "name": "腐烂培根卷",
+        "pinned_tweet_id": "1993298688010322328",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953366409284861953/HM3Aeou7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 176,
+          "following_count": 1035,
+          "like_count": 4189,
+          "listed_count": 1,
+          "media_count": 91,
+          "tweet_count": 4334
+        },
+        "url": "https://t.co/dw8CaO5Cup",
+        "username": "ppppggggjjjj",
+        "verified": false
+      },
+      {
+        "created_at": "2021-05-11T11:47:43.000Z",
+        "description": "♡ Illustrator cosplayer & VA of pretty girls ໒꒱ ‧₊˚ ♡ Fanart tag: #Qiandart ♡",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 75,
+                "start": 66,
+                "tag": "Qiandart"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "patreon.com/qiandaiyiyu",
+                "end": 23,
+                "expanded_url": "http://patreon.com/qiandaiyiyu",
+                "start": 0,
+                "url": "https://t.co/FDCzclyj0q"
+              }
+            ]
+          }
+        },
+        "id": "1392083916127887361",
+        "location": "Spicy art cosplay & audio ♡ →",
+        "name": "Qiandai以宇",
+        "pinned_tweet_id": "2003182292869726669",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1800141135253323776/fz6dNy11_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 871781,
+          "following_count": 422,
+          "like_count": 24255,
+          "listed_count": 3641,
+          "media_count": 653,
+          "tweet_count": 2796
+        },
+        "url": "https://t.co/FDCzclyj0q",
+        "username": "qiandaiyiyu",
+        "verified": true
+      }
+    ]
+  }
+}

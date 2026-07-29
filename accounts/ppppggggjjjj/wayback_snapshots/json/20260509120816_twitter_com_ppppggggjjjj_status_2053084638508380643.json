@@ -1,0 +1,259 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1569397683814629379",
+    "conversation_id": "2053084638508380643",
+    "created_at": "2026-05-09T12:08:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-09T13:08:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2053084638508380643"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/tz_2022/status…",
+          "end": 29,
+          "expanded_url": "https://twitter.com/tz_2022/status/2052786232908784046",
+          "start": 6,
+          "url": "https://t.co/9uY2wlbT9H"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053084638508380643",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052786232908784046",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "感觉好好玩 https://t.co/9uY2wlbT9H"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 13834,
+        "height": 1280,
+        "media_key": "13_2051914925056933895",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2051914925056933895/img/Br1Cg3FHljaD6Mwr.jpg",
+        "public_metrics": {
+          "view_count": 1500727
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2051914925056933895/vid/avc1/320x568/JDFuwgh9TVbGl6Bp.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2051914925056933895/vid/avc1/480x852/tCQQ-3YPs6wrptwq.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2051914925056933895/vid/avc1/720x1280/Om_ffSK37royyHvj.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2051914925056933895/pl/JzOSpMdy1gt-5La0.m3u8?v=d49"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1569397683814629379",
+        "conversation_id": "2053084638508380643",
+        "created_at": "2026-05-09T12:08:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-09T13:08:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2053084638508380643"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/tz_2022/status…",
+              "end": 29,
+              "expanded_url": "https://twitter.com/tz_2022/status/2052786232908784046",
+              "start": 6,
+              "url": "https://t.co/9uY2wlbT9H"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053084638508380643",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052786232908784046",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "感觉好好玩 https://t.co/9uY2wlbT9H"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2051914925056933895"
+          ],
+          "media_source_tweet_id": [
+            "2052169036541370604"
+          ]
+        },
+        "author_id": "100399047",
+        "conversation_id": "2052786232908784046",
+        "created_at": "2026-05-08T16:22:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-08T17:22:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2052786232908784046"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/0EOcXp9qUx",
+              "end": 88,
+              "expanded_url": "https://x.com/nexta_tv/status/2052169036541370604/video/1",
+              "media_key": "13_2051914925056933895",
+              "start": 65,
+              "url": "https://t.co/0EOcXp9qUx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052786232908784046",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 108,
+          "impression_count": 37257,
+          "like_count": 450,
+          "quote_count": 6,
+          "reply_count": 35,
+          "retweet_count": 41
+        },
+        "reply_settings": "everyone",
+        "text": "原帖里说这把椅子是给 ADHD 患者用的。。。\n我不是 ADHD，可我怎么觉得我也需要一把一模一样的来缓解生活和精神压力。。。🙃\nhttps://t.co/0EOcXp9qUx"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-12T18:50:19.000Z",
+        "description": "随缘//医学爱好者/Arknights/绘画/混乱日常碎碎念无营养内容/可能会很吵？ /les/lgbt友好/中文/EN//喵喵//提问箱↓ ↓ ↓",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ppppppppp38481",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ppppppppp38481",
+                "start": 0,
+                "url": "https://t.co/dw8CaO6ajX"
+              }
+            ]
+          }
+        },
+        "id": "1569397683814629379",
+        "location": "世界的尽头",
+        "name": "腐烂培根卷",
+        "pinned_tweet_id": "2012485424057291255",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953366409284861953/HM3Aeou7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 233,
+          "following_count": 1421,
+          "like_count": 7766,
+          "listed_count": 1,
+          "media_count": 100,
+          "tweet_count": 5871
+        },
+        "url": "https://t.co/dw8CaO6ajX",
+        "username": "ppppggggjjjj",
+        "verified": false
+      },
+      {
+        "created_at": "2009-12-30T04:06:23.000Z",
+        "description": "品味是一种异常值。→ tastes.md\nAI is the steam engine of the mind. \nAI 是心灵的蒸汽机。科幻是现实的有效坍塌。加速正在被加速。看，那千尺海啸正扑面而来，而我们还在海滩上捡垃圾。\n念念不忘，必有回响。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "tastes.md",
+                "end": 23,
+                "expanded_url": "https://tastes.md",
+                "start": 0,
+                "url": "https://t.co/vbxodrKnzl"
+              }
+            ]
+          }
+        },
+        "id": "100399047",
+        "location": "Scotland, United Kingdom",
+        "name": "Tz",
+        "pinned_tweet_id": "2039485765193801819",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1579478276287905794/7-2NGiY3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 23568,
+          "following_count": 1553,
+          "like_count": 11214,
+          "listed_count": 272,
+          "media_count": 1853,
+          "tweet_count": 9010
+        },
+        "url": "https://t.co/vbxodrKnzl",
+        "username": "Tz_2022",
+        "verified": true
+      }
+    ]
+  }
+}

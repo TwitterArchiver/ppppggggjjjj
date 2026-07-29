@@ -1,0 +1,288 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2051620207802847232"
+      ],
+      "media_source_tweet_id": [
+        "2051620582912053631"
+      ]
+    },
+    "author_id": "1569397683814629379",
+    "conversation_id": "2051638531651776598",
+    "created_at": "2026-05-05T12:21:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-05T13:21:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2051638531651776598"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "338193091",
+          "start": 3,
+          "username": "kuromu0305"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/MO3tUtZQt6",
+          "end": 51,
+          "expanded_url": "https://x.com/kuromu0305/status/2051620582912053631/photo/1",
+          "media_key": "3_2051620207802847232",
+          "start": 28,
+          "url": "https://t.co/MO3tUtZQt6"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2051638531651776598",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 179
+    },
+    "referenced_tweets": [
+      {
+        "id": "2051620582912053631",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @kuromu0305: ケルシー+Mon3tr https://t.co/MO3tUtZQt6"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_2051620207802847232",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHjRtYQaEAArd0N.jpg",
+        "width": 2892
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2051620207802847232"
+          ],
+          "media_source_tweet_id": [
+            "2051620582912053631"
+          ]
+        },
+        "author_id": "1569397683814629379",
+        "conversation_id": "2051638531651776598",
+        "created_at": "2026-05-05T12:21:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-05T13:21:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2051638531651776598"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "338193091",
+              "start": 3,
+              "username": "kuromu0305"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/MO3tUtZQt6",
+              "end": 51,
+              "expanded_url": "https://x.com/kuromu0305/status/2051620582912053631/photo/1",
+              "media_key": "3_2051620207802847232",
+              "start": 28,
+              "url": "https://t.co/MO3tUtZQt6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051638531651776598",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 179
+        },
+        "referenced_tweets": [
+          {
+            "id": "2051620582912053631",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @kuromu0305: ケルシー+Mon3tr https://t.co/MO3tUtZQt6"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2051620207802847232"
+          ]
+        },
+        "author_id": "338193091",
+        "conversation_id": "2051620582912053631",
+        "created_at": "2026-05-05T11:10:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-05T12:10:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2051620582912053631"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/MO3tUtZQt6",
+              "end": 35,
+              "expanded_url": "https://x.com/kuromu0305/status/2051620582912053631/photo/1",
+              "media_key": "3_2051620207802847232",
+              "start": 12,
+              "url": "https://t.co/MO3tUtZQt6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051620582912053631",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 144,
+          "impression_count": 8385,
+          "like_count": 1200,
+          "quote_count": 2,
+          "reply_count": 0,
+          "retweet_count": 179
+        },
+        "reply_settings": "everyone",
+        "text": "ケルシー+Mon3tr https://t.co/MO3tUtZQt6"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-12T18:50:19.000Z",
+        "description": "随缘//医学爱好者/Arknights/绘画/混乱日常碎碎念无营养内容/可能会很吵？ /les/lgbt友好/中文/EN//喵喵//提问箱↓ ↓ ↓",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ppppppppp38481",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ppppppppp38481",
+                "start": 0,
+                "url": "https://t.co/dw8CaO6ajX"
+              }
+            ]
+          }
+        },
+        "id": "1569397683814629379",
+        "location": "世界的尽头",
+        "name": "腐烂培根卷",
+        "pinned_tweet_id": "2012485424057291255",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953366409284861953/HM3Aeou7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 231,
+          "following_count": 1405,
+          "like_count": 7537,
+          "listed_count": 1,
+          "media_count": 99,
+          "tweet_count": 5708
+        },
+        "url": "https://t.co/dw8CaO6ajX",
+        "username": "ppppggggjjjj",
+        "verified": false
+      },
+      {
+        "created_at": "2011-07-19T06:21:11.000Z",
+        "description": "絵を描いてます。無断転載・AI学習への使用禁止 ≪リクエスト停止中≫【skeb】 https://t.co/nDhBW9jOsd 【pixivRequest】 https://t.co/7H3BqLSaAh【FANBOX】https://t.co/5lDCjPrL6z",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "skeb.jp/@kuromu0305",
+                "end": 64,
+                "expanded_url": "http://skeb.jp/@kuromu0305",
+                "start": 41,
+                "url": "https://t.co/nDhBW9jOsd"
+              },
+              {
+                "display_url": "pixiv.net/users/3129188/…",
+                "end": 103,
+                "expanded_url": "http://www.pixiv.net/users/3129188/request",
+                "start": 80,
+                "url": "https://t.co/7H3BqLSaAh"
+              },
+              {
+                "display_url": "kuromu0305.fanbox.cc",
+                "end": 134,
+                "expanded_url": "http://kuromu0305.fanbox.cc",
+                "start": 111,
+                "url": "https://t.co/5lDCjPrL6z"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/3129188",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/3129188",
+                "start": 0,
+                "url": "https://t.co/cE69OkPEYt"
+              }
+            ]
+          }
+        },
+        "id": "338193091",
+        "location": "関西",
+        "name": "Kuromu",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009795998802161664/6-s10ODI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 23921,
+          "following_count": 4517,
+          "like_count": 126315,
+          "listed_count": 173,
+          "media_count": 3358,
+          "tweet_count": 16059
+        },
+        "url": "https://t.co/cE69OkPEYt",
+        "username": "kuromu0305",
+        "verified": false
+      }
+    ]
+  }
+}

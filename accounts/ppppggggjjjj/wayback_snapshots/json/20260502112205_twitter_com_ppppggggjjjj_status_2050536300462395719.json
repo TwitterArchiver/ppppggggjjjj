@@ -1,0 +1,589 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2050232295945388032"
+      ],
+      "media_source_tweet_id": [
+        "2050232665551548566"
+      ]
+    },
+    "author_id": "1569397683814629379",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A video game like Overwatch",
+          "id": "71",
+          "name": "Video Game"
+        },
+        "entity": {
+          "id": "1233113060732092416",
+          "name": "Arknights"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Gaming",
+          "id": "847527650667094017",
+          "name": "Gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1070028159964262400",
+          "name": "Video games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1233113060732092416",
+          "name": "Arknights"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1491897789013393420",
+          "name": "Strategy games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1491900085583577097",
+          "name": "Idol games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1491900373098921986",
+          "name": "Gacha games"
+        }
+      }
+    ],
+    "conversation_id": "2050536300462395719",
+    "created_at": "2026-05-02T11:22:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-02T12:22:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2050536300462395719"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 46,
+          "start": 41,
+          "tag": "明日方舟"
+        },
+        {
+          "end": 57,
+          "start": 47,
+          "tag": "Arknights"
+        },
+        {
+          "end": 65,
+          "start": 58,
+          "tag": "アークナイツ"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1931987472285941760",
+          "start": 3,
+          "username": "nucleardan_hlin"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/RSntTy8TEN",
+          "end": 89,
+          "expanded_url": "https://x.com/nucleardan_hlin/status/2050232665551548566/photo/1",
+          "media_key": "3_2050232295945388032",
+          "start": 66,
+          "url": "https://t.co/RSntTy8TEN"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2050536300462395719",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 80
+    },
+    "referenced_tweets": [
+      {
+        "id": "2050232665551548566",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @nucleardan_hlin: 画了凯尔希·思衡托（新加了点东西上去）\n#明日方舟 #Arknights #アークナイツ https://t.co/RSntTy8TEN"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2050232295945388032",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHPjaRrbwAAghRI.jpg",
+        "width": 1603
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2050232295945388032"
+          ],
+          "media_source_tweet_id": [
+            "2050232665551548566"
+          ]
+        },
+        "author_id": "1569397683814629379",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1233113060732092416",
+              "name": "Arknights"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1233113060732092416",
+              "name": "Arknights"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491897789013393420",
+              "name": "Strategy games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491900085583577097",
+              "name": "Idol games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491900373098921986",
+              "name": "Gacha games"
+            }
+          }
+        ],
+        "conversation_id": "2050536300462395719",
+        "created_at": "2026-05-02T11:22:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-02T12:22:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2050536300462395719"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 46,
+              "start": 41,
+              "tag": "明日方舟"
+            },
+            {
+              "end": 57,
+              "start": 47,
+              "tag": "Arknights"
+            },
+            {
+              "end": 65,
+              "start": 58,
+              "tag": "アークナイツ"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1931987472285941760",
+              "start": 3,
+              "username": "nucleardan_hlin"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/RSntTy8TEN",
+              "end": 89,
+              "expanded_url": "https://x.com/nucleardan_hlin/status/2050232665551548566/photo/1",
+              "media_key": "3_2050232295945388032",
+              "start": 66,
+              "url": "https://t.co/RSntTy8TEN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050536300462395719",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 80
+        },
+        "referenced_tweets": [
+          {
+            "id": "2050232665551548566",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @nucleardan_hlin: 画了凯尔希·思衡托（新加了点东西上去）\n#明日方舟 #Arknights #アークナイツ https://t.co/RSntTy8TEN"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2050232295945388032"
+          ]
+        },
+        "author_id": "1931987472285941760",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1233113060732092416",
+              "name": "Arknights"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1233113060732092416",
+              "name": "Arknights"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491897789013393420",
+              "name": "Strategy games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491900085583577097",
+              "name": "Idol games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491900373098921986",
+              "name": "Gacha games"
+            }
+          }
+        ],
+        "conversation_id": "2050232665551548566",
+        "created_at": "2026-05-01T15:15:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-01T16:15:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2050232665551548566"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 25,
+              "start": 20,
+              "tag": "明日方舟"
+            },
+            {
+              "end": 36,
+              "start": 26,
+              "tag": "Arknights"
+            },
+            {
+              "end": 44,
+              "start": 37,
+              "tag": "アークナイツ"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/RSntTy8TEN",
+              "end": 68,
+              "expanded_url": "https://x.com/nucleardan_hlin/status/2050232665551548566/photo/1",
+              "media_key": "3_2050232295945388032",
+              "start": 45,
+              "url": "https://t.co/RSntTy8TEN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050232665551548566",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 68,
+          "impression_count": 5643,
+          "like_count": 785,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 80
+        },
+        "reply_settings": "everyone",
+        "text": "画了凯尔希·思衡托（新加了点东西上去）\n#明日方舟 #Arknights #アークナイツ https://t.co/RSntTy8TEN"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-12T18:50:19.000Z",
+        "description": "随缘//医学爱好者/Arknights/绘画/混乱日常碎碎念无营养内容/可能会很吵？ /les/lgbt友好/中文/EN//喵喵//提问箱↓ ↓ ↓",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ppppppppp38481",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ppppppppp38481",
+                "start": 0,
+                "url": "https://t.co/dw8CaO6ajX"
+              }
+            ]
+          }
+        },
+        "id": "1569397683814629379",
+        "location": "世界的尽头",
+        "name": "腐烂培根卷",
+        "pinned_tweet_id": "2012485424057291255",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953366409284861953/HM3Aeou7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 218,
+          "following_count": 1369,
+          "like_count": 7202,
+          "listed_count": 1,
+          "media_count": 98,
+          "tweet_count": 5503
+        },
+        "url": "https://t.co/dw8CaO6ajX",
+        "username": "ppppggggjjjj",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-09T08:11:29.000Z",
+        "description": "没什么好说的 原名（original name/元）→核振丸铃霰",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/49657338",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/49657338",
+                "start": 0,
+                "url": "https://t.co/bdrurMQzs6"
+              }
+            ]
+          }
+        },
+        "id": "1931987472285941760",
+        "name": "远则性结构",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1977974260938543104/OiCKt-IX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 614,
+          "following_count": 134,
+          "like_count": 665,
+          "listed_count": 3,
+          "media_count": 47,
+          "tweet_count": 546
+        },
+        "url": "https://t.co/bdrurMQzs6",
+        "username": "nucleardan_hlin",
+        "verified": false
+      }
+    ]
+  }
+}

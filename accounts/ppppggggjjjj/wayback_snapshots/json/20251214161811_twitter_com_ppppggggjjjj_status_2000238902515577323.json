@@ -1,0 +1,223 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2000093558834155520"
+      ],
+      "media_source_tweet_id": [
+        "2000093568636276863"
+      ]
+    },
+    "author_id": "1569397683814629379",
+    "conversation_id": "2000238902515577323",
+    "created_at": "2025-12-14T16:18:11.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-14T17:18:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2000238902515577323"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 19,
+          "normalized_text": "ユキ",
+          "probability": 0.5026,
+          "start": 18,
+          "type": "Person"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1483510138913058816",
+          "start": 3,
+          "username": "white_garand"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/msHsjpwAFx",
+          "end": 44,
+          "expanded_url": "https://x.com/white_garand/status/2000093568636276863/photo/1",
+          "media_key": "3_2000093558834155520",
+          "start": 21,
+          "url": "https://t.co/msHsjpwAFx"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2000238902515577323",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 97
+    },
+    "referenced_tweets": [
+      {
+        "id": "2000093568636276863",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @white_garand: ユキ https://t.co/msHsjpwAFx"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2000238902515577323].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2000238902515577323",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2000238902515577323"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 3541,
+        "media_key": "3_2000093558834155520",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G8HCfqvbUAAXCRf.jpg",
+        "width": 2508
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2000093558834155520"
+          ]
+        },
+        "author_id": "1483510138913058816",
+        "conversation_id": "2000093568636276863",
+        "created_at": "2025-12-14T06:40:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-14T07:40:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2000093568636276863"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 1,
+              "normalized_text": "ユキ",
+              "probability": 0.4921,
+              "start": 0,
+              "type": "Person"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/msHsjpwAFx",
+              "end": 26,
+              "expanded_url": "https://x.com/white_garand/status/2000093568636276863/photo/1",
+              "media_key": "3_2000093558834155520",
+              "start": 3,
+              "url": "https://t.co/msHsjpwAFx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2000093568636276863",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 164,
+          "impression_count": 48632,
+          "like_count": 1815,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 97
+        },
+        "reply_settings": "everyone",
+        "text": "ユキ https://t.co/msHsjpwAFx"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-12T18:50:19.000Z",
+        "description": "随缘//医学爱好者/les🏳️‍🌈/lgbt友好/中文/EN/Arknights/绘画/混乱日常碎碎念/很吵//喵喵 【永远拥护培根卷番茄！】",
+        "id": "1569397683814629379",
+        "location": "世界的尽头",
+        "name": "腐烂培根卷",
+        "pinned_tweet_id": "1993298688010322328",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953366409284861953/HM3Aeou7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 158,
+          "following_count": 950,
+          "like_count": 3452,
+          "listed_count": 1,
+          "media_count": 88,
+          "tweet_count": 4031
+        },
+        "username": "ppppggggjjjj",
+        "verified": false
+      },
+      {
+        "created_at": "2022-01-18T18:42:42.000Z",
+        "description": "主にVTuberさんのイラスト描いてます￤実績・ご依頼はリットリンクより￤ハイライトにいろいろ載せています￤ がらんどタグ→ #がらんder",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 70,
+                "start": 63,
+                "tag": "がらんder"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/ibitsugara",
+                "end": 23,
+                "expanded_url": "https://lit.link/ibitsugara",
+                "start": 0,
+                "url": "https://t.co/QdPtHxoWX2"
+              }
+            ]
+          }
+        },
+        "id": "1483510138913058816",
+        "location": "企業様(所属含)、団体様のご依頼のみ受付中",
+        "name": "がらんど︎ @C107 1日目 東 “ツ”37b",
+        "pinned_tweet_id": "1988547353234518301",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1981480777817702400/nBu79f-x_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5666,
+          "following_count": 940,
+          "like_count": 57703,
+          "listed_count": 39,
+          "media_count": 2674,
+          "tweet_count": 20408
+        },
+        "url": "https://t.co/QdPtHxoWX2",
+        "username": "white_garand",
+        "verified": true
+      }
+    ]
+  }
+}

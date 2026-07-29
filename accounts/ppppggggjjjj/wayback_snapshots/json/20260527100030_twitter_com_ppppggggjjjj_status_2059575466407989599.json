@@ -1,0 +1,403 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2059216467313508352"
+      ],
+      "media_source_tweet_id": [
+        "2059216483008590264"
+      ]
+    },
+    "author_id": "1569397683814629379",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A video game like Overwatch",
+          "id": "71",
+          "name": "Video Game"
+        },
+        "entity": {
+          "id": "1390782787301494785",
+          "name": "Touhou Project"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1390782787301494785",
+          "name": "Touhou Project"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1403427158953922560",
+          "name": "Shooting games"
+        }
+      }
+    ],
+    "conversation_id": "2059575466407989599",
+    "created_at": "2026-05-27T10:00:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-27T11:00:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059575466407989599"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 28,
+          "start": 18,
+          "tag": "東方Project"
+        },
+        {
+          "end": 34,
+          "start": 29,
+          "tag": "藤原妹紅"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1841072773059526658",
+          "start": 3,
+          "username": "kisaragi1709"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/wMknMWDDKH",
+          "end": 60,
+          "expanded_url": "https://x.com/kisaragi1709/status/2059216483008590264/photo/1",
+          "media_key": "3_2059216467313508352",
+          "start": 37,
+          "url": "https://t.co/wMknMWDDKH"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059575466407989599",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 504
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059216483008590264",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "following",
+    "text": "RT @kisaragi1709: #東方Project\n#藤原妹紅\n🔥 https://t.co/wMknMWDDKH"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1500,
+        "media_key": "3_2059216467313508352",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJPOd4HbQAAo8kx.jpg",
+        "width": 1356
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2059216467313508352"
+          ],
+          "media_source_tweet_id": [
+            "2059216483008590264"
+          ]
+        },
+        "author_id": "1569397683814629379",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1390782787301494785",
+              "name": "Touhou Project"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1390782787301494785",
+              "name": "Touhou Project"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1403427158953922560",
+              "name": "Shooting games"
+            }
+          }
+        ],
+        "conversation_id": "2059575466407989599",
+        "created_at": "2026-05-27T10:00:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T11:00:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059575466407989599"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 28,
+              "start": 18,
+              "tag": "東方Project"
+            },
+            {
+              "end": 34,
+              "start": 29,
+              "tag": "藤原妹紅"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1841072773059526658",
+              "start": 3,
+              "username": "kisaragi1709"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/wMknMWDDKH",
+              "end": 60,
+              "expanded_url": "https://x.com/kisaragi1709/status/2059216483008590264/photo/1",
+              "media_key": "3_2059216467313508352",
+              "start": 37,
+              "url": "https://t.co/wMknMWDDKH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059575466407989599",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 504
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059216483008590264",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "following",
+        "text": "RT @kisaragi1709: #東方Project\n#藤原妹紅\n🔥 https://t.co/wMknMWDDKH"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2059216467313508352"
+          ]
+        },
+        "author_id": "1841072773059526658",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1390782787301494785",
+              "name": "Touhou Project"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1390782787301494785",
+              "name": "Touhou Project"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1403427158953922560",
+              "name": "Shooting games"
+            }
+          }
+        ],
+        "conversation_id": "2059216483008590264",
+        "created_at": "2026-05-26T10:14:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-26T11:14:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059216483008590264"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 10,
+              "start": 0,
+              "tag": "東方Project"
+            },
+            {
+              "end": 16,
+              "start": 11,
+              "tag": "藤原妹紅"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/wMknMWDDKH",
+              "end": 42,
+              "expanded_url": "https://x.com/kisaragi1709/status/2059216483008590264/photo/1",
+              "media_key": "3_2059216467313508352",
+              "start": 19,
+              "url": "https://t.co/wMknMWDDKH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059216483008590264",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 258,
+          "impression_count": 32099,
+          "like_count": 3297,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 504
+        },
+        "reply_settings": "following",
+        "text": "#東方Project\n#藤原妹紅\n🔥 https://t.co/wMknMWDDKH"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-12T18:50:19.000Z",
+        "description": "随缘//医学爱好者/Arknights/绘画/混乱日常碎碎念无营养内容/可能会很吵？ /les/lgbt友好/中文/EN//喵喵//提问箱↓ ↓ ↓",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ppppppppp38481",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ppppppppp38481",
+                "start": 0,
+                "url": "https://t.co/dw8CaO6ajX"
+              }
+            ]
+          }
+        },
+        "id": "1569397683814629379",
+        "location": "世界的尽头",
+        "name": "腐烂培根卷",
+        "pinned_tweet_id": "2012485424057291255",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953366409284861953/HM3Aeou7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 246,
+          "following_count": 1589,
+          "like_count": 8833,
+          "listed_count": 1,
+          "media_count": 104,
+          "tweet_count": 6445
+        },
+        "url": "https://t.co/dw8CaO6ajX",
+        "username": "ppppggggjjjj",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-01T11:09:48.000Z",
+        "description": "⚠️雑多⚠️人外 不思議なもの/FA ORG描きます✍アナログ原画はヤフオクにて販売\nhttps://t.co/yHbBi61Kfn\n\nAI学習転載加工❌",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "lit.link/kisaragi0822",
+                "end": 66,
+                "expanded_url": "https://lit.link/kisaragi0822",
+                "start": 43,
+                "url": "https://t.co/yHbBi61Kfn"
+              }
+            ]
+          }
+        },
+        "id": "1841072773059526658",
+        "location": "本丸のすみっコ",
+        "name": "きさらぎ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1841076043828117504/eGRoDBXq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7774,
+          "following_count": 64,
+          "like_count": 5140,
+          "listed_count": 55,
+          "media_count": 108,
+          "tweet_count": 1470
+        },
+        "username": "kisaragi1709",
+        "verified": true
+      }
+    ]
+  }
+}

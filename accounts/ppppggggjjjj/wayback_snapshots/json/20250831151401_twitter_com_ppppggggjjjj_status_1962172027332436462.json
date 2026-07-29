@@ -1,0 +1,210 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1961823783494545408"
+      ],
+      "media_source_tweet_id": [
+        "1961823789077168128"
+      ]
+    },
+    "author_id": "1569397683814629379",
+    "conversation_id": "1962172027332436462",
+    "created_at": "2025-08-31T15:14:01.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-31T16:14:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1962172027332436462"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1692136120027320320",
+          "start": 3,
+          "username": "CypressAlbert18"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/vOFrr3YtTm",
+          "end": 81,
+          "expanded_url": "https://x.com/CypressAlbert18/status/1961823789077168128/photo/1",
+          "media_key": "3_1961823783494545408",
+          "start": 58,
+          "url": "https://t.co/vOFrr3YtTm"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1962172027332436462",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "1961823789077168128",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @CypressAlbert18: 有抑郁焦虑等的友友们最好别看可能会被触发，，，\n天啊，写完发现我是真坏。 https://t.co/vOFrr3YtTm"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1962172027332436462].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1962172027332436462",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1962172027332436462"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1001,
+        "media_key": "3_1961823783494545408",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GznMVj8a8AA5D9G.jpg",
+        "width": 1079
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1961823783494545408"
+          ]
+        },
+        "author_id": "1692136120027320320",
+        "conversation_id": "1961823789077168128",
+        "created_at": "2025-08-30T16:10:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-30T17:10:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1961823789077168128"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/vOFrr3YtTm",
+              "end": 60,
+              "expanded_url": "https://x.com/CypressAlbert18/status/1961823789077168128/photo/1",
+              "media_key": "3_1961823783494545408",
+              "start": 37,
+              "url": "https://t.co/vOFrr3YtTm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1961823789077168128",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6,
+          "impression_count": 849,
+          "like_count": 48,
+          "quote_count": 0,
+          "reply_count": 12,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "有抑郁焦虑等的友友们最好别看可能会被触发，，，\n天啊，写完发现我是真坏。 https://t.co/vOFrr3YtTm"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-12T18:50:19.000Z",
+        "description": "随缘//医学爱好者/les🏳️‍🌈/lgbt友好/中文/EN/Arknights/绘画/混乱日常碎碎念/很吵//喵喵 【永远拥护培根卷番茄！】",
+        "id": "1569397683814629379",
+        "location": "世界的尽头",
+        "name": "腐烂培根卷",
+        "pinned_tweet_id": "1937498024907010498",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953366409284861953/HM3Aeou7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 99,
+          "following_count": 663,
+          "like_count": 1893,
+          "listed_count": 1,
+          "media_count": 56,
+          "tweet_count": 2361
+        },
+        "username": "ppppggggjjjj",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-17T11:27:49.000Z",
+        "description": "不是人类不说人话精神状态是量子叠加态|成分复杂关注请谨慎|INFJ 5w6（经常化身TP人形态）|Median系统|分裂情感性精神病&阿斯伯格|无性恋&泛浪漫|误block致歉|看我不爽建议您去死捏|🩸@theLostCypress ✝️@Kashiwagi_7593",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 116,
+                "start": 101,
+                "username": "theLostCypress"
+              },
+              {
+                "end": 134,
+                "start": 119,
+                "username": "Kashiwagi_7593"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "b23.tv/OyZXUu3",
+                "end": 23,
+                "expanded_url": "https://b23.tv/OyZXUu3",
+                "start": 0,
+                "url": "https://t.co/oROirNnIey"
+              }
+            ]
+          }
+        },
+        "id": "1692136120027320320",
+        "location": "星期八",
+        "name": "住在星期八的柏树7.0【#INSANE】",
+        "pinned_tweet_id": "1958549106378617305",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1962043921133076480/C58e2bLQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1401,
+          "following_count": 1122,
+          "like_count": 29027,
+          "listed_count": 7,
+          "media_count": 1202,
+          "tweet_count": 8457
+        },
+        "url": "https://t.co/oROirNnIey",
+        "username": "CypressAlbert18",
+        "verified": true
+      }
+    ]
+  }
+}

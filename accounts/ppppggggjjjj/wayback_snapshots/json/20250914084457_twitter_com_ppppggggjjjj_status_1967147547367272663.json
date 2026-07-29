@@ -1,0 +1,236 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1966901519514509312"
+      ],
+      "media_source_tweet_id": [
+        "1967060739790610550"
+      ]
+    },
+    "author_id": "1569397683814629379",
+    "conversation_id": "1967147547367272663",
+    "created_at": "2025-09-14T08:44:57.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-14T09:44:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1967147547367272663"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1132541109547278336",
+          "start": 3,
+          "username": "Hamsterie"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/jlPm8SJm7D",
+          "end": 38,
+          "expanded_url": "https://x.com/Hamsterie/status/1967060739790610550/photo/1",
+          "media_key": "3_1966901519514509312",
+          "start": 15,
+          "url": "https://t.co/jlPm8SJm7D"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1967147547367272663",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 375
+    },
+    "referenced_tweets": [
+      {
+        "id": "1967060739790610550",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Hamsterie: https://t.co/jlPm8SJm7D"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1200,
+        "media_key": "3_1966901519514509312",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G0vWgsrWoAAmpUy.jpg",
+        "width": 675
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1966901519514509312"
+          ],
+          "media_source_tweet_id": [
+            "1967060739790610550"
+          ]
+        },
+        "author_id": "1569397683814629379",
+        "conversation_id": "1967147547367272663",
+        "created_at": "2025-09-14T08:44:57.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-14T09:44:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1967147547367272663"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1132541109547278336",
+              "start": 3,
+              "username": "Hamsterie"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/jlPm8SJm7D",
+              "end": 38,
+              "expanded_url": "https://x.com/Hamsterie/status/1967060739790610550/photo/1",
+              "media_key": "3_1966901519514509312",
+              "start": 15,
+              "url": "https://t.co/jlPm8SJm7D"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1967147547367272663",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 375
+        },
+        "referenced_tweets": [
+          {
+            "id": "1967060739790610550",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Hamsterie: https://t.co/jlPm8SJm7D"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1966901519514509312"
+          ]
+        },
+        "author_id": "1132541109547278336",
+        "conversation_id": "1967060739790610550",
+        "created_at": "2025-09-14T03:00:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-14T04:00:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1967060739790610550"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/jlPm8SJm7D",
+              "end": 23,
+              "expanded_url": "https://x.com/Hamsterie/status/1967060739790610550/photo/1",
+              "media_key": "3_1966901519514509312",
+              "start": 0,
+              "url": "https://t.co/jlPm8SJm7D"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1967060739790610550",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 107,
+          "impression_count": 36805,
+          "like_count": 2028,
+          "quote_count": 45,
+          "reply_count": 0,
+          "retweet_count": 375
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/jlPm8SJm7D"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-12T18:50:19.000Z",
+        "description": "随缘//医学爱好者/les🏳️‍🌈/lgbt友好/中文/EN/Arknights/绘画/混乱日常碎碎念/很吵//喵喵 【永远拥护培根卷番茄！】",
+        "id": "1569397683814629379",
+        "location": "世界的尽头",
+        "name": "腐烂培根卷",
+        "pinned_tweet_id": "1937498024907010498",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953366409284861953/HM3Aeou7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 108,
+          "following_count": 696,
+          "like_count": 2135,
+          "listed_count": 1,
+          "media_count": 59,
+          "tweet_count": 2722
+        },
+        "username": "ppppggggjjjj",
+        "verified": false
+      },
+      {
+        "created_at": "2019-05-26T06:56:56.000Z",
+        "description": "Im a hamster trying to make a change in this world... • business inquiries hamsteriebusiness@gmail.com",
+        "id": "1132541109547278336",
+        "location": "DM for credit/removal",
+        "name": "hamster",
+        "pinned_tweet_id": "1964652366646706615",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1132543489953214464/Vjj2v_A-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 111432,
+          "following_count": 923,
+          "like_count": 4395,
+          "listed_count": 415,
+          "media_count": 2624,
+          "tweet_count": 2801
+        },
+        "username": "Hamsterie",
+        "verified": true
+      }
+    ]
+  }
+}

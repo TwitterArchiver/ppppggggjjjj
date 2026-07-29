@@ -1,0 +1,236 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1967468644407119872"
+      ],
+      "media_source_tweet_id": [
+        "1967468650769928486"
+      ]
+    },
+    "author_id": "1569397683814629379",
+    "conversation_id": "1967796163949854751",
+    "created_at": "2025-09-16T03:42:20.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-16T04:42:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1967796163949854751"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1807784016839622656",
+          "start": 3,
+          "username": "LinusAUR"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/lWJREKHTPv",
+          "end": 46,
+          "expanded_url": "https://x.com/LinusAUR/status/1967468650769928486/photo/1",
+          "media_key": "3_1967468644407119872",
+          "start": 23,
+          "url": "https://t.co/lWJREKHTPv"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1967796163949854751",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 140
+    },
+    "referenced_tweets": [
+      {
+        "id": "1967468650769928486",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @LinusAUR: 我现在要哭出来了 https://t.co/lWJREKHTPv"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 800,
+        "media_key": "3_1967468644407119872",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G03aTtibEAABm2l.jpg",
+        "width": 1249
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1967468644407119872"
+          ],
+          "media_source_tweet_id": [
+            "1967468650769928486"
+          ]
+        },
+        "author_id": "1569397683814629379",
+        "conversation_id": "1967796163949854751",
+        "created_at": "2025-09-16T03:42:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-16T04:42:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1967796163949854751"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1807784016839622656",
+              "start": 3,
+              "username": "LinusAUR"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/lWJREKHTPv",
+              "end": 46,
+              "expanded_url": "https://x.com/LinusAUR/status/1967468650769928486/photo/1",
+              "media_key": "3_1967468644407119872",
+              "start": 23,
+              "url": "https://t.co/lWJREKHTPv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1967796163949854751",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 140
+        },
+        "referenced_tweets": [
+          {
+            "id": "1967468650769928486",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @LinusAUR: 我现在要哭出来了 https://t.co/lWJREKHTPv"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1967468644407119872"
+          ]
+        },
+        "author_id": "1807784016839622656",
+        "conversation_id": "1967468650769928486",
+        "created_at": "2025-09-15T06:00:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-15T07:00:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1967468650769928486"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/lWJREKHTPv",
+              "end": 32,
+              "expanded_url": "https://x.com/LinusAUR/status/1967468650769928486/photo/1",
+              "media_key": "3_1967468644407119872",
+              "start": 9,
+              "url": "https://t.co/lWJREKHTPv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1967468650769928486",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 85,
+          "impression_count": 89510,
+          "like_count": 1375,
+          "quote_count": 13,
+          "reply_count": 20,
+          "retweet_count": 140
+        },
+        "reply_settings": "everyone",
+        "text": "我现在要哭出来了 https://t.co/lWJREKHTPv"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-12T18:50:19.000Z",
+        "description": "随缘//医学爱好者/les🏳️‍🌈/lgbt友好/中文/EN/Arknights/绘画/混乱日常碎碎念/很吵//喵喵 【永远拥护培根卷番茄！】",
+        "id": "1569397683814629379",
+        "location": "世界的尽头",
+        "name": "腐烂培根卷",
+        "pinned_tweet_id": "1937498024907010498",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953366409284861953/HM3Aeou7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 108,
+          "following_count": 699,
+          "like_count": 2162,
+          "listed_count": 1,
+          "media_count": 59,
+          "tweet_count": 2770
+        },
+        "username": "ppppggggjjjj",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-01T14:31:22.000Z",
+        "description": "既然猫是一种液体 那橘猫是不是一种橙汁？",
+        "id": "1807784016839622656",
+        "location": "0x00007C00      ",
+        "name": "𝙵𝚘𝚛𝚐𝚎𝚝𝙰𝚄𝚁",
+        "pinned_tweet_id": "1912731001408876631",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1945730299171680256/X9RRFjK0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4130,
+          "following_count": 543,
+          "like_count": 17569,
+          "listed_count": 5,
+          "media_count": 480,
+          "tweet_count": 4661
+        },
+        "username": "LinusAUR",
+        "verified": false
+      }
+    ]
+  }
+}

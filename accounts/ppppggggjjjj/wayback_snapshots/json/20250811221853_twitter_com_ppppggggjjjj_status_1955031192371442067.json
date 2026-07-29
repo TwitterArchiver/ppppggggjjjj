@@ -1,0 +1,256 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "16_1954562470816960512"
+      ],
+      "media_source_tweet_id": [
+        "1954562621983645984"
+      ]
+    },
+    "author_id": "1569397683814629379",
+    "conversation_id": "1955031192371442067",
+    "created_at": "2025-08-11T22:18:53.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-11T23:18:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1955031192371442067"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1542789375485833216",
+          "start": 3,
+          "username": "wuxiuw"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/7ZHwqwmVNd",
+          "end": 35,
+          "expanded_url": "https://x.com/wuxiuw/status/1954562621983645984/photo/1",
+          "media_key": "16_1954562470816960512",
+          "start": 12,
+          "url": "https://t.co/7ZHwqwmVNd"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1955031192371442067",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1270
+    },
+    "referenced_tweets": [
+      {
+        "id": "1954562621983645984",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "mentionedUsers",
+    "text": "RT @wuxiuw: https://t.co/7ZHwqwmVNd"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 960,
+        "media_key": "16_1954562470816960512",
+        "preview_image_url": "https://pbs.twimg.com/tweet_video_thumb/GyAANiRa0AAkfpH.jpg",
+        "public_metrics": {},
+        "type": "animated_gif",
+        "variants": [
+          {
+            "bit_rate": 0,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/tweet_video/GyAANiRa0AAkfpH.mp4"
+          }
+        ],
+        "width": 750
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_1954562470816960512"
+          ],
+          "media_source_tweet_id": [
+            "1954562621983645984"
+          ]
+        },
+        "author_id": "1569397683814629379",
+        "conversation_id": "1955031192371442067",
+        "created_at": "2025-08-11T22:18:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-11T23:18:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1955031192371442067"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1542789375485833216",
+              "start": 3,
+              "username": "wuxiuw"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/7ZHwqwmVNd",
+              "end": 35,
+              "expanded_url": "https://x.com/wuxiuw/status/1954562621983645984/photo/1",
+              "media_key": "16_1954562470816960512",
+              "start": 12,
+              "url": "https://t.co/7ZHwqwmVNd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1955031192371442067",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1270
+        },
+        "referenced_tweets": [
+          {
+            "id": "1954562621983645984",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "mentionedUsers",
+        "text": "RT @wuxiuw: https://t.co/7ZHwqwmVNd"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_1954562470816960512"
+          ]
+        },
+        "author_id": "1542789375485833216",
+        "conversation_id": "1954562621983645984",
+        "created_at": "2025-08-10T15:16:57.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-10T16:16:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1954562621983645984"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/7ZHwqwmVNd",
+              "end": 23,
+              "expanded_url": "https://x.com/wuxiuw/status/1954562621983645984/photo/1",
+              "media_key": "16_1954562470816960512",
+              "start": 0,
+              "url": "https://t.co/7ZHwqwmVNd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1954562621983645984",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 687,
+          "impression_count": 90877,
+          "like_count": 7036,
+          "quote_count": 38,
+          "reply_count": 0,
+          "retweet_count": 1270
+        },
+        "reply_settings": "mentionedUsers",
+        "text": "https://t.co/7ZHwqwmVNd"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-12T18:50:19.000Z",
+        "description": "随缘//医学爱好者/les🏳️‍🌈/lgbt友好/中文/EN/Arknights/绘画/混乱日常碎碎念/很吵//喵喵",
+        "id": "1569397683814629379",
+        "location": "世界的尽头",
+        "name": "腐烂培根卷",
+        "pinned_tweet_id": "1937498024907010498",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953366409284861953/HM3Aeou7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 104,
+          "following_count": 652,
+          "like_count": 1785,
+          "listed_count": 0,
+          "media_count": 52,
+          "tweet_count": 2111
+        },
+        "username": "ppppggggjjjj",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-01T08:37:11.000Z",
+        "description": "analoglike",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "wuxiu.myportfolio.com",
+                "end": 23,
+                "expanded_url": "http://wuxiu.myportfolio.com",
+                "start": 0,
+                "url": "https://t.co/iyLr4rQ4Ov"
+              }
+            ]
+          }
+        },
+        "id": "1542789375485833216",
+        "location": "gif 📍 in highlights",
+        "name": "𝙬𝙪𝙭𝙞𝙪",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1877061765005193219/3E3wfidu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9252,
+          "following_count": 103,
+          "like_count": 223,
+          "listed_count": 50,
+          "media_count": 64,
+          "tweet_count": 100
+        },
+        "url": "https://t.co/iyLr4rQ4Ov",
+        "username": "wuxiuw",
+        "verified": false
+      }
+    ]
+  }
+}

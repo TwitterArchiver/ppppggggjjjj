@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1569397683814629379",
+    "conversation_id": "1943002554125947346",
+    "created_at": "2025-07-09T18:03:30.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-09T19:03:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1943008123817725972"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1678630735589281792",
+          "start": 0,
+          "username": "letmebelucky_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1943008123817725972",
+    "in_reply_to_user_id": "1678630735589281792",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1943005668295729374",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@letmebelucky_ 我也TT"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1569397683814629379",
+        "conversation_id": "1943002554125947346",
+        "created_at": "2025-07-09T18:03:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-09T19:03:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1943008123817725972"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1678630735589281792",
+              "start": 0,
+              "username": "letmebelucky_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1943008123817725972",
+        "in_reply_to_user_id": "1678630735589281792",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1943005668295729374",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@letmebelucky_ 我也TT"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1678630735589281792",
+        "conversation_id": "1943002554125947346",
+        "created_at": "2025-07-09T17:53:45.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-09T18:53:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1943005668295729374"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1569397683814629379",
+              "start": 0,
+              "username": "ppppggggjjjj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1943005668295729374",
+        "in_reply_to_user_id": "1569397683814629379",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1943002554125947346",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ppppggggjjjj 讨厌夏天。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-12T18:50:19.000Z",
+        "description": "随缘//医学爱好者/les🏳️‍🌈/lgbt友好/中文/EN/Arknights/绘画/混乱日常碎碎念/很吵//喵喵",
+        "id": "1569397683814629379",
+        "name": "腐烂苹果酱",
+        "pinned_tweet_id": "1937498024907010498",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1620839959388393479/hsMKvVei_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 69,
+          "following_count": 531,
+          "like_count": 949,
+          "listed_count": 0,
+          "media_count": 17,
+          "tweet_count": 1149
+        },
+        "username": "ppppggggjjjj",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-11T05:03:50.000Z",
+        "description": "",
+        "id": "1678630735589281792",
+        "name": "uknowwhatimean",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1942877121568772096/fpWWKwex_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 35,
+          "following_count": 86,
+          "like_count": 1459,
+          "listed_count": 0,
+          "media_count": 23,
+          "tweet_count": 635
+        },
+        "username": "letmebelucky_",
+        "verified": false
+      }
+    ]
+  }
+}

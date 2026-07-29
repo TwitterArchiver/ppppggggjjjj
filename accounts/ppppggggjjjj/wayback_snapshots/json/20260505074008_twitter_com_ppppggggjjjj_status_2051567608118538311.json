@@ -1,0 +1,338 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_2043924156434264066",
+        "3_2043924156924997633"
+      ],
+      "media_source_tweet_id": [
+        "2043924200315072621",
+        "2043924200315072621"
+      ]
+    },
+    "author_id": "1569397683814629379",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2051567608118538311",
+    "created_at": "2026-05-05T07:40:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-05T08:40:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2051567608118538311"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2029908828125548546",
+          "start": 3,
+          "username": "bui_tu46916"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/ExrEspm3v7",
+          "end": 52,
+          "expanded_url": "https://x.com/bui_tu46916/status/2043924200315072621/video/1",
+          "media_key": "7_2043924156434264066",
+          "start": 29,
+          "url": "https://t.co/ExrEspm3v7"
+        },
+        {
+          "display_url": "pic.x.com/ExrEspm3v7",
+          "end": 52,
+          "expanded_url": "https://x.com/bui_tu46916/status/2043924200315072621/video/1",
+          "media_key": "3_2043924156924997633",
+          "start": 29,
+          "url": "https://t.co/ExrEspm3v7"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2051567608118538311",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 15
+    },
+    "referenced_tweets": [
+      {
+        "id": "2043924200315072621",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @bui_tu46916: overdose谋杀案 https://t.co/ExrEspm3v7"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 45026,
+        "height": 720,
+        "media_key": "7_2043924156434264066",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2043924156434264066/pu/img/Km3PwXkT9I-7yZAR.jpg",
+        "public_metrics": {
+          "view_count": 1213
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 432000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2043924156434264066/pu/vid/avc1/320x320/l3C6NIXnmeF88HXy.mp4?tag=12"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2043924156434264066/pu/vid/avc1/540x540/WVrTLWJOa1nVR0sL.mp4?tag=12"
+          },
+          {
+            "bit_rate": 1280000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2043924156434264066/pu/vid/avc1/720x720/TDq1j0KNKuCoqGVe.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2043924156434264066/pu/pl/LPVpulnwfPh_TSwg.m3u8?tag=12&v=cfc"
+          }
+        ],
+        "width": 720
+      },
+      {
+        "height": 599,
+        "media_key": "3_2043924156924997633",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HF16MQlasAEBW6h.jpg",
+        "width": 621
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2043924156434264066",
+            "3_2043924156924997633"
+          ],
+          "media_source_tweet_id": [
+            "2043924200315072621",
+            "2043924200315072621"
+          ]
+        },
+        "author_id": "1569397683814629379",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2051567608118538311",
+        "created_at": "2026-05-05T07:40:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-05T08:40:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2051567608118538311"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2029908828125548546",
+              "start": 3,
+              "username": "bui_tu46916"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ExrEspm3v7",
+              "end": 52,
+              "expanded_url": "https://x.com/bui_tu46916/status/2043924200315072621/video/1",
+              "media_key": "7_2043924156434264066",
+              "start": 29,
+              "url": "https://t.co/ExrEspm3v7"
+            },
+            {
+              "display_url": "pic.x.com/ExrEspm3v7",
+              "end": 52,
+              "expanded_url": "https://x.com/bui_tu46916/status/2043924200315072621/video/1",
+              "media_key": "3_2043924156924997633",
+              "start": 29,
+              "url": "https://t.co/ExrEspm3v7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051567608118538311",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 15
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043924200315072621",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @bui_tu46916: overdose谋杀案 https://t.co/ExrEspm3v7"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2043924156434264066",
+            "3_2043924156924997633"
+          ]
+        },
+        "author_id": "2029908828125548546",
+        "conversation_id": "2043924200315072621",
+        "created_at": "2026-04-14T05:27:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-14T06:27:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043924200315072621"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ExrEspm3v7",
+              "end": 35,
+              "expanded_url": "https://x.com/bui_tu46916/status/2043924200315072621/video/1",
+              "media_key": "7_2043924156434264066",
+              "start": 12,
+              "url": "https://t.co/ExrEspm3v7"
+            },
+            {
+              "display_url": "pic.x.com/ExrEspm3v7",
+              "end": 35,
+              "expanded_url": "https://x.com/bui_tu46916/status/2043924200315072621/video/1",
+              "media_key": "3_2043924156924997633",
+              "start": 12,
+              "url": "https://t.co/ExrEspm3v7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043924200315072621",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 3710,
+          "like_count": 80,
+          "quote_count": 0,
+          "reply_count": 9,
+          "retweet_count": 15
+        },
+        "reply_settings": "everyone",
+        "text": "overdose谋杀案 https://t.co/ExrEspm3v7"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-12T18:50:19.000Z",
+        "description": "随缘//医学爱好者/Arknights/绘画/混乱日常碎碎念无营养内容/可能会很吵？ /les/lgbt友好/中文/EN//喵喵//提问箱↓ ↓ ↓",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ppppppppp38481",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ppppppppp38481",
+                "start": 0,
+                "url": "https://t.co/dw8CaO6ajX"
+              }
+            ]
+          }
+        },
+        "id": "1569397683814629379",
+        "location": "世界的尽头",
+        "name": "腐烂培根卷",
+        "pinned_tweet_id": "2012485424057291255",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953366409284861953/HM3Aeou7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 228,
+          "following_count": 1398,
+          "like_count": 7497,
+          "listed_count": 1,
+          "media_count": 99,
+          "tweet_count": 5681
+        },
+        "url": "https://t.co/dw8CaO6ajX",
+        "username": "ppppggggjjjj",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-06T13:16:07.000Z",
+        "description": "你好/不见证/可能od/观察者",
+        "id": "2029908828125548546",
+        "location": "普瑞巴林行动小组",
+        "name": "EXPcat",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040793488061861888/h0unB2hS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 257,
+          "following_count": 209,
+          "like_count": 214,
+          "listed_count": 0,
+          "media_count": 23,
+          "tweet_count": 661
+        },
+        "username": "bui_tu46916",
+        "verified": false
+      }
+    ]
+  }
+}

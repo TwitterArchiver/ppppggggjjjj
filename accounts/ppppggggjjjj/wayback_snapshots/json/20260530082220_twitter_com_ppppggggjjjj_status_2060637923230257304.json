@@ -1,0 +1,190 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1569397683814629379",
+    "conversation_id": "2060637923230257304",
+    "created_at": "2026-05-30T08:22:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-30T09:22:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060637923230257304"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2026091130522128384",
+          "start": 3,
+          "username": "samaissc"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060637923230257304",
+    "lang": "pt",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 5866
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060169663938535455",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @samaissc: minha vida tá igual um cubo mágico, ajeita um lado e desgraça do outro"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1569397683814629379",
+        "conversation_id": "2060637923230257304",
+        "created_at": "2026-05-30T08:22:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-30T09:22:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060637923230257304"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2026091130522128384",
+              "start": 3,
+              "username": "samaissc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060637923230257304",
+        "lang": "pt",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 5866
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060169663938535455",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @samaissc: minha vida tá igual um cubo mágico, ajeita um lado e desgraça do outro"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2026091130522128384",
+        "conversation_id": "2060169663938535455",
+        "created_at": "2026-05-29T01:21:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-29T02:21:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060169663938535455"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2060169663938535455",
+        "lang": "pt",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 265,
+          "impression_count": 158355,
+          "like_count": 12662,
+          "quote_count": 111,
+          "reply_count": 45,
+          "retweet_count": 5866
+        },
+        "reply_settings": "everyone",
+        "text": "minha vida tá igual um cubo mágico, ajeita um lado e desgraça do outro"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-12T18:50:19.000Z",
+        "description": "随缘//医学爱好者/Arknights/绘画/混乱日常碎碎念无营养内容/可能会很吵？ /les/lgbt友好/中文/EN//喵喵//提问箱↓ ↓ ↓",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ppppppppp38481",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ppppppppp38481",
+                "start": 0,
+                "url": "https://t.co/dw8CaO6ajX"
+              }
+            ]
+          }
+        },
+        "id": "1569397683814629379",
+        "location": "世界的尽头",
+        "name": "腐烂培根卷",
+        "pinned_tweet_id": "2012485424057291255",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953366409284861953/HM3Aeou7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 246,
+          "following_count": 1603,
+          "like_count": 9268,
+          "listed_count": 1,
+          "media_count": 104,
+          "tweet_count": 6688
+        },
+        "url": "https://t.co/dw8CaO6ajX",
+        "username": "ppppggggjjjj",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-24T00:25:54.000Z",
+        "description": "doce dengosa polida",
+        "id": "2026091130522128384",
+        "name": "ruivinha",
+        "pinned_tweet_id": "2053286934487650626",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051660080978817025/PZLt659G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2139,
+          "following_count": 386,
+          "like_count": 803,
+          "listed_count": 1,
+          "media_count": 92,
+          "tweet_count": 1494
+        },
+        "username": "samaissc",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,228 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1569397683814629379",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10045225402",
+          "name": "X"
+        }
+      }
+    ],
+    "conversation_id": "2060393577864135004",
+    "created_at": "2026-05-29T16:11:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-29T17:11:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060393577864135004"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2042655089228128256",
+          "start": 3,
+          "username": "privwendley"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060393577864135004",
+    "lang": "pt",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1802
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060026111543665087",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @privwendley: O twitter é dividido por pessoas depressivas, com ansiedade, com tesao e as que querem se matar"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1569397683814629379",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10045225402",
+              "name": "X"
+            }
+          }
+        ],
+        "conversation_id": "2060393577864135004",
+        "created_at": "2026-05-29T16:11:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-29T17:11:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060393577864135004"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2042655089228128256",
+              "start": 3,
+              "username": "privwendley"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060393577864135004",
+        "lang": "pt",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1802
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060026111543665087",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @privwendley: O twitter é dividido por pessoas depressivas, com ansiedade, com tesao e as que querem se matar"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2042655089228128256",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10045225402",
+              "name": "X"
+            }
+          }
+        ],
+        "conversation_id": "2060026111543665087",
+        "created_at": "2026-05-28T15:51:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T16:51:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060026111543665087"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2060026111543665087",
+        "lang": "pt",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 130,
+          "impression_count": 107003,
+          "like_count": 6144,
+          "quote_count": 376,
+          "reply_count": 155,
+          "retweet_count": 1802
+        },
+        "reply_settings": "everyone",
+        "text": "O twitter é dividido por pessoas depressivas, com ansiedade, com tesao e as que querem se matar"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-12T18:50:19.000Z",
+        "description": "随缘//医学爱好者/Arknights/绘画/混乱日常碎碎念无营养内容/可能会很吵？ /les/lgbt友好/中文/EN//喵喵//提问箱↓ ↓ ↓",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ppppppppp38481",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ppppppppp38481",
+                "start": 0,
+                "url": "https://t.co/dw8CaO6ajX"
+              }
+            ]
+          }
+        },
+        "id": "1569397683814629379",
+        "location": "世界的尽头",
+        "name": "腐烂培根卷",
+        "pinned_tweet_id": "2012485424057291255",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953366409284861953/HM3Aeou7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 246,
+          "following_count": 1598,
+          "like_count": 9018,
+          "listed_count": 1,
+          "media_count": 104,
+          "tweet_count": 6529
+        },
+        "url": "https://t.co/dw8CaO6ajX",
+        "username": "ppppggggjjjj",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-10T17:26:54.000Z",
+        "description": "🚬•☕️•🎱",
+        "id": "2042655089228128256",
+        "name": "ؘ 𝖂",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056057165048156160/9VOrd3VZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1934,
+          "following_count": 573,
+          "like_count": 7681,
+          "listed_count": 0,
+          "media_count": 171,
+          "tweet_count": 460
+        },
+        "username": "privwendley",
+        "verified": false
+      }
+    ]
+  }
+}

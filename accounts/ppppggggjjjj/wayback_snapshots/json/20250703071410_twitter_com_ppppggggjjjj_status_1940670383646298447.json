@@ -1,0 +1,248 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1940531612749266944"
+      ],
+      "media_source_tweet_id": [
+        "1940531615219748881"
+      ]
+    },
+    "author_id": "1569397683814629379",
+    "conversation_id": "1940670383646298447",
+    "created_at": "2025-07-03T07:14:10.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-03T08:14:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1940670383646298447"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "441529957",
+          "start": 3,
+          "username": "ShootaCat"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/gIRJjyb8Rf",
+          "end": 38,
+          "expanded_url": "https://x.com/ShootaCat/status/1940531615219748881/photo/1",
+          "media_key": "3_1940531612749266944",
+          "start": 15,
+          "url": "https://t.co/gIRJjyb8Rf"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1940670383646298447",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 46
+    },
+    "referenced_tweets": [
+      {
+        "id": "1940531615219748881",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ShootaCat: https://t.co/gIRJjyb8Rf"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1019,
+        "media_key": "3_1940531612749266944",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gu4nOG1WAAAmJnC.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1940531612749266944"
+          ],
+          "media_source_tweet_id": [
+            "1940531615219748881"
+          ]
+        },
+        "author_id": "1569397683814629379",
+        "conversation_id": "1940670383646298447",
+        "created_at": "2025-07-03T07:14:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-03T08:14:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1940670383646298447"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "441529957",
+              "start": 3,
+              "username": "ShootaCat"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/gIRJjyb8Rf",
+              "end": 38,
+              "expanded_url": "https://x.com/ShootaCat/status/1940531615219748881/photo/1",
+              "media_key": "3_1940531612749266944",
+              "start": 15,
+              "url": "https://t.co/gIRJjyb8Rf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1940670383646298447",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 46
+        },
+        "referenced_tweets": [
+          {
+            "id": "1940531615219748881",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ShootaCat: https://t.co/gIRJjyb8Rf"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1940531612749266944"
+          ]
+        },
+        "author_id": "441529957",
+        "conversation_id": "1940531615219748881",
+        "created_at": "2025-07-02T22:02:45.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-02T23:02:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1940531615219748881"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/gIRJjyb8Rf",
+              "end": 23,
+              "expanded_url": "https://x.com/ShootaCat/status/1940531615219748881/photo/1",
+              "media_key": "3_1940531612749266944",
+              "start": 0,
+              "url": "https://t.co/gIRJjyb8Rf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1940531615219748881",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 33,
+          "impression_count": 12993,
+          "like_count": 521,
+          "quote_count": 2,
+          "reply_count": 2,
+          "retweet_count": 46
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/gIRJjyb8Rf"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-12T18:50:19.000Z",
+        "description": "随缘//医学爱好者/les🏳️‍🌈/lgbt友好/中文/EN/Arknights/绘画/混乱日常碎碎念/很吵//喵喵",
+        "id": "1569397683814629379",
+        "name": "腐烂苹果酱",
+        "pinned_tweet_id": "1937498024907010498",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1620839959388393479/hsMKvVei_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 33,
+          "following_count": 291,
+          "like_count": 526,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 760
+        },
+        "username": "ppppggggjjjj",
+        "verified": false
+      },
+      {
+        "created_at": "2011-12-20T05:26:00.000Z",
+        "description": "Now I am become Death, the destroyer of worlds.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "bsky.app/profile/shoota…",
+                "end": 23,
+                "expanded_url": "https://bsky.app/profile/shootacat.bsky.social",
+                "start": 0,
+                "url": "https://t.co/4Ch4KCW8pv"
+              }
+            ]
+          }
+        },
+        "id": "441529957",
+        "name": "Shoota",
+        "pinned_tweet_id": "1935971104058724807",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1703576946/crazy-cat_1__normal.gif",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 173751,
+          "following_count": 94,
+          "like_count": 2999,
+          "listed_count": 387,
+          "media_count": 7915,
+          "tweet_count": 8419
+        },
+        "url": "https://t.co/4Ch4KCW8pv",
+        "username": "ShootaCat",
+        "verified": true
+      }
+    ]
+  }
+}

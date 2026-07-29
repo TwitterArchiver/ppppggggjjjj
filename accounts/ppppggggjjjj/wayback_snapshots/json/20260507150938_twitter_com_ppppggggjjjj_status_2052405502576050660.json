@@ -1,0 +1,402 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2052289116231151617"
+      ],
+      "media_source_tweet_id": [
+        "2052319275470524770"
+      ]
+    },
+    "author_id": "1569397683814629379",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "id": "1104125539877412864",
+          "name": "Miku Hatsune"
+        }
+      },
+      {
+        "domain": {
+          "description": "A person or other being in a narrative work of art, like Tom Sawyer or Jon Snow",
+          "id": "122",
+          "name": "Fictional Character"
+        },
+        "entity": {
+          "id": "1104125539877412864",
+          "name": "Miku Hatsune"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1104125539877412864",
+          "name": "Miku Hatsune"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1247236287485997056",
+          "name": "Vocaloid"
+        }
+      }
+    ],
+    "conversation_id": "2052405502576050660",
+    "created_at": "2026-05-07T15:09:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-07T16:09:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2052405502576050660"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2431994953",
+          "start": 3,
+          "username": "ningen_mame"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/JizOBgyblY",
+          "end": 56,
+          "expanded_url": "https://x.com/ningen_mame/status/2052319275470524770/photo/1",
+          "media_key": "3_2052289116231151617",
+          "start": 33,
+          "url": "https://t.co/JizOBgyblY"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052405502576050660",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1163
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052319275470524770",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ningen_mame: 37 メズマライザー 初音ミク https://t.co/JizOBgyblY"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1800,
+        "media_key": "3_2052289116231151617",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHsyE-VbsAErXfZ.jpg",
+        "width": 1017
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2052289116231151617"
+          ],
+          "media_source_tweet_id": [
+            "2052319275470524770"
+          ]
+        },
+        "author_id": "1569397683814629379",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1104125539877412864",
+              "name": "Miku Hatsune"
+            }
+          },
+          {
+            "domain": {
+              "description": "A person or other being in a narrative work of art, like Tom Sawyer or Jon Snow",
+              "id": "122",
+              "name": "Fictional Character"
+            },
+            "entity": {
+              "id": "1104125539877412864",
+              "name": "Miku Hatsune"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1104125539877412864",
+              "name": "Miku Hatsune"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1247236287485997056",
+              "name": "Vocaloid"
+            }
+          }
+        ],
+        "conversation_id": "2052405502576050660",
+        "created_at": "2026-05-07T15:09:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-07T16:09:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052405502576050660"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2431994953",
+              "start": 3,
+              "username": "ningen_mame"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/JizOBgyblY",
+              "end": 56,
+              "expanded_url": "https://x.com/ningen_mame/status/2052319275470524770/photo/1",
+              "media_key": "3_2052289116231151617",
+              "start": 33,
+              "url": "https://t.co/JizOBgyblY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052405502576050660",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1163
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052319275470524770",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ningen_mame: 37 メズマライザー 初音ミク https://t.co/JizOBgyblY"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2052289116231151617"
+          ]
+        },
+        "author_id": "2431994953",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1104125539877412864",
+              "name": "Miku Hatsune"
+            }
+          },
+          {
+            "domain": {
+              "description": "A person or other being in a narrative work of art, like Tom Sawyer or Jon Snow",
+              "id": "122",
+              "name": "Fictional Character"
+            },
+            "entity": {
+              "id": "1104125539877412864",
+              "name": "Miku Hatsune"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1104125539877412864",
+              "name": "Miku Hatsune"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1247236287485997056",
+              "name": "Vocaloid"
+            }
+          }
+        ],
+        "conversation_id": "2052319275470524770",
+        "created_at": "2026-05-07T09:27:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-07T10:27:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2052319275470524770"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/JizOBgyblY",
+              "end": 39,
+              "expanded_url": "https://x.com/ningen_mame/status/2052319275470524770/photo/1",
+              "media_key": "3_2052289116231151617",
+              "start": 16,
+              "url": "https://t.co/JizOBgyblY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052319275470524770",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1074,
+          "impression_count": 95529,
+          "like_count": 14748,
+          "quote_count": 7,
+          "reply_count": 22,
+          "retweet_count": 1163
+        },
+        "reply_settings": "everyone",
+        "text": "37 メズマライザー 初音ミク https://t.co/JizOBgyblY"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-12T18:50:19.000Z",
+        "description": "随缘//医学爱好者/Arknights/绘画/混乱日常碎碎念无营养内容/可能会很吵？ /les/lgbt友好/中文/EN//喵喵//提问箱↓ ↓ ↓",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ppppppppp38481",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ppppppppp38481",
+                "start": 0,
+                "url": "https://t.co/dw8CaO6ajX"
+              }
+            ]
+          }
+        },
+        "id": "1569397683814629379",
+        "location": "世界的尽头",
+        "name": "腐烂培根卷",
+        "pinned_tweet_id": "2012485424057291255",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953366409284861953/HM3Aeou7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 233,
+          "following_count": 1414,
+          "like_count": 7620,
+          "listed_count": 1,
+          "media_count": 100,
+          "tweet_count": 5765
+        },
+        "url": "https://t.co/dw8CaO6ajX",
+        "username": "ppppggggjjjj",
+        "verified": false
+      },
+      {
+        "created_at": "2014-04-07T12:44:26.000Z",
+        "description": "illustrator✎ ご用の方は下記Linktreeの【お問い合わせ】をご確認ください",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/ningen_mame",
+                "end": 23,
+                "expanded_url": "https://linktr.ee/ningen_mame",
+                "start": 0,
+                "url": "https://t.co/8NTbclKrNf"
+              }
+            ]
+          }
+        },
+        "id": "2431994953",
+        "location": "NO AI",
+        "name": "にんげんまめ",
+        "pinned_tweet_id": "1704076390188933437",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1778776619857174528/4uvOZwpe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 252484,
+          "following_count": 992,
+          "like_count": 22143,
+          "listed_count": 2171,
+          "media_count": 613,
+          "tweet_count": 6770
+        },
+        "url": "https://t.co/8NTbclKrNf",
+        "username": "ningen_mame",
+        "verified": true
+      }
+    ]
+  }
+}

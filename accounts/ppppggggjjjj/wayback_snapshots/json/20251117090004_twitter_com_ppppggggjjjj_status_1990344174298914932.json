@@ -1,0 +1,176 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1569397683814629379",
+    "conversation_id": "1990344174298914932",
+    "created_at": "2025-11-17T09:00:04.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-17T10:00:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1990344174298914932"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1549239881469140992",
+          "start": 3,
+          "username": "simplyrotten"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1990344174298914932",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3141
+    },
+    "referenced_tweets": [
+      {
+        "id": "1990048776451662285",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @simplyrotten: a hug would be nice but not waking up would be better"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1569397683814629379",
+        "conversation_id": "1990344174298914932",
+        "created_at": "2025-11-17T09:00:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-17T10:00:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1990344174298914932"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1549239881469140992",
+              "start": 3,
+              "username": "simplyrotten"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1990344174298914932",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3141
+        },
+        "referenced_tweets": [
+          {
+            "id": "1990048776451662285",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @simplyrotten: a hug would be nice but not waking up would be better"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1549239881469140992",
+        "conversation_id": "1990048776451662285",
+        "created_at": "2025-11-16T13:26:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-16T14:26:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1990048776451662285"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1990048776451662285",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 424,
+          "impression_count": 90776,
+          "like_count": 10460,
+          "quote_count": 49,
+          "reply_count": 20,
+          "retweet_count": 3141
+        },
+        "reply_settings": "everyone",
+        "text": "a hug would be nice but not waking up would be better"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-12T18:50:19.000Z",
+        "description": "随缘//医学爱好者/les🏳️‍🌈/lgbt友好/中文/EN/Arknights/绘画/混乱日常碎碎念/很吵//喵喵 【永远拥护培根卷番茄！】",
+        "id": "1569397683814629379",
+        "location": "世界的尽头",
+        "name": "腐烂培根卷",
+        "pinned_tweet_id": "1937498024907010498",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953366409284861953/HM3Aeou7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 134,
+          "following_count": 793,
+          "like_count": 2844,
+          "listed_count": 1,
+          "media_count": 79,
+          "tweet_count": 3735
+        },
+        "username": "ppppggggjjjj",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-19T03:49:28.000Z",
+        "description": "",
+        "id": "1549239881469140992",
+        "name": "karina",
+        "pinned_tweet_id": "1980029683006681138",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1990299255982931968/RQG2h6SA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7781,
+          "following_count": 272,
+          "like_count": 9881,
+          "listed_count": 17,
+          "media_count": 11,
+          "tweet_count": 5279
+        },
+        "username": "simplyrotten",
+        "verified": false
+      }
+    ]
+  }
+}

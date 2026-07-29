@@ -1,0 +1,247 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1970037758015201280"
+      ],
+      "media_source_tweet_id": [
+        "1970037766240223739"
+      ]
+    },
+    "author_id": "1569397683814629379",
+    "conversation_id": "1970433321625886972",
+    "created_at": "2025-09-23T10:21:27.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-23T11:21:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1970433321625886972"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1770009067328802816",
+          "start": 3,
+          "username": "emptybottle_55"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/L7gnQeqrUX",
+          "end": 43,
+          "expanded_url": "https://x.com/emptybottle_55/status/1970037766240223739/photo/1",
+          "media_key": "3_1970037758015201280",
+          "start": 20,
+          "url": "https://t.co/L7gnQeqrUX"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1970433321625886972",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1456
+    },
+    "referenced_tweets": [
+      {
+        "id": "1970037766240223739",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @emptybottle_55: https://t.co/L7gnQeqrUX"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1843,
+        "media_key": "3_1970037758015201280",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G1b65ziaYAABIEX.jpg",
+        "width": 1820
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1970037758015201280"
+          ],
+          "media_source_tweet_id": [
+            "1970037766240223739"
+          ]
+        },
+        "author_id": "1569397683814629379",
+        "conversation_id": "1970433321625886972",
+        "created_at": "2025-09-23T10:21:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-23T11:21:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1970433321625886972"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1770009067328802816",
+              "start": 3,
+              "username": "emptybottle_55"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/L7gnQeqrUX",
+              "end": 43,
+              "expanded_url": "https://x.com/emptybottle_55/status/1970037766240223739/photo/1",
+              "media_key": "3_1970037758015201280",
+              "start": 20,
+              "url": "https://t.co/L7gnQeqrUX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1970433321625886972",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1456
+        },
+        "referenced_tweets": [
+          {
+            "id": "1970037766240223739",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @emptybottle_55: https://t.co/L7gnQeqrUX"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1970037758015201280"
+          ]
+        },
+        "author_id": "1770009067328802816",
+        "conversation_id": "1970037766240223739",
+        "created_at": "2025-09-22T08:09:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-22T09:09:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1970037766240223739"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/L7gnQeqrUX",
+              "end": 23,
+              "expanded_url": "https://x.com/emptybottle_55/status/1970037766240223739/photo/1",
+              "media_key": "3_1970037758015201280",
+              "start": 0,
+              "url": "https://t.co/L7gnQeqrUX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1970037766240223739",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 932,
+          "impression_count": 126890,
+          "like_count": 10559,
+          "quote_count": 12,
+          "reply_count": 6,
+          "retweet_count": 1456
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/L7gnQeqrUX"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-12T18:50:19.000Z",
+        "description": "随缘//医学爱好者/les🏳️‍🌈/lgbt友好/中文/EN/Arknights/绘画/混乱日常碎碎念/很吵//喵喵 【永远拥护培根卷番茄！】",
+        "id": "1569397683814629379",
+        "location": "世界的尽头",
+        "name": "腐烂培根卷",
+        "pinned_tweet_id": "1937498024907010498",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953366409284861953/HM3Aeou7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 111,
+          "following_count": 703,
+          "like_count": 2205,
+          "listed_count": 1,
+          "media_count": 63,
+          "tweet_count": 2896
+        },
+        "username": "ppppggggjjjj",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-19T08:47:34.000Z",
+        "description": "落書きと途中経過 logosが大好きです skeb→ https://t.co/uCQMHnWIqj",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "skeb.jp/@emptybottle_55",
+                "end": 50,
+                "expanded_url": "https://skeb.jp/@emptybottle_55",
+                "start": 27,
+                "url": "https://t.co/uCQMHnWIqj"
+              }
+            ]
+          }
+        },
+        "id": "1770009067328802816",
+        "name": "空き瓶",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1775463515953958912/ILtLXRUL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2384,
+          "following_count": 6,
+          "like_count": 267,
+          "listed_count": 18,
+          "media_count": 98,
+          "tweet_count": 488
+        },
+        "username": "emptybottle_55",
+        "verified": false
+      }
+    ]
+  }
+}

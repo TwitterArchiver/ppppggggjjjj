@@ -1,0 +1,462 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1569397683814629379",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Real world events. ",
+          "id": "29",
+          "name": "Events [Entity Service]"
+        },
+        "entity": {
+          "description": "Page for Global Pride Month for all years",
+          "id": "1275153105659650048",
+          "name": "Pride Month"
+        }
+      },
+      {
+        "domain": {
+          "description": "Real world events. ",
+          "id": "29",
+          "name": "Events [Entity Service]"
+        },
+        "entity": {
+          "id": "1275179649987784704",
+          "name": "International Pride Day"
+        }
+      },
+      {
+        "domain": {
+          "description": "Real world events. ",
+          "id": "29",
+          "name": "Events [Entity Service]"
+        },
+        "entity": {
+          "id": "1465735561230962690",
+          "name": "Pride Month"
+        }
+      },
+      {
+        "domain": {
+          "description": "Real world events. ",
+          "id": "29",
+          "name": "Events [Entity Service]"
+        },
+        "entity": {
+          "id": "1664343480645066763",
+          "name": "Pride Month 2023"
+        }
+      },
+      {
+        "domain": {
+          "description": "Holidays like Christmas or Halloween",
+          "id": "119",
+          "name": "Holiday"
+        },
+        "entity": {
+          "id": "1275179649987784704",
+          "name": "International Pride Day"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1465735561230962690",
+          "name": "Pride Month"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1664343480645066763",
+          "name": "Pride Month 2023"
+        }
+      }
+    ],
+    "conversation_id": "2062900590922064100",
+    "created_at": "2026-06-05T14:13:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-05T15:13:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062900590922064100"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "872950159",
+          "start": 3,
+          "username": "DiegoMTroffe"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062900590922064100",
+    "lang": "es",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3318
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062652587795489129",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @DiegoMTroffe: En el mes del orgullo quisiera hablar de la filosofa lesbiana Marilyn Frye quien planteo hace 40 años en su tesis algo qu…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1569397683814629379",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "Page for Global Pride Month for all years",
+              "id": "1275153105659650048",
+              "name": "Pride Month"
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "id": "1275179649987784704",
+              "name": "International Pride Day"
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "id": "1465735561230962690",
+              "name": "Pride Month"
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "id": "1664343480645066763",
+              "name": "Pride Month 2023"
+            }
+          },
+          {
+            "domain": {
+              "description": "Holidays like Christmas or Halloween",
+              "id": "119",
+              "name": "Holiday"
+            },
+            "entity": {
+              "id": "1275179649987784704",
+              "name": "International Pride Day"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1465735561230962690",
+              "name": "Pride Month"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1664343480645066763",
+              "name": "Pride Month 2023"
+            }
+          }
+        ],
+        "conversation_id": "2062900590922064100",
+        "created_at": "2026-06-05T14:13:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-05T15:13:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062900590922064100"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "872950159",
+              "start": 3,
+              "username": "DiegoMTroffe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062900590922064100",
+        "lang": "es",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3318
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062652587795489129",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @DiegoMTroffe: En el mes del orgullo quisiera hablar de la filosofa lesbiana Marilyn Frye quien planteo hace 40 años en su tesis algo qu…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "872950159",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "Page for Global Pride Month for all years",
+              "id": "1275153105659650048",
+              "name": "Pride Month"
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "id": "1275179649987784704",
+              "name": "International Pride Day"
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "id": "1465735561230962690",
+              "name": "Pride Month"
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "id": "1664343480645066763",
+              "name": "Pride Month 2023"
+            }
+          },
+          {
+            "domain": {
+              "description": "Holidays like Christmas or Halloween",
+              "id": "119",
+              "name": "Holiday"
+            },
+            "entity": {
+              "id": "1275179649987784704",
+              "name": "International Pride Day"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1465735561230962690",
+              "name": "Pride Month"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1664343480645066763",
+              "name": "Pride Month 2023"
+            }
+          }
+        ],
+        "conversation_id": "2062652587795489129",
+        "created_at": "2026-06-04T21:47:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-04T22:47:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062652587795489129"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/BernieMX/statu…",
+              "end": 301,
+              "expanded_url": "https://twitter.com/BernieMX/status/2062025876024246439",
+              "start": 278,
+              "url": "https://t.co/VLIPIT6QRw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062652587795489129",
+        "lang": "es",
+        "note_tweet": {
+          "entities": {},
+          "text": "En el mes del orgullo quisiera hablar de la filosofa lesbiana Marilyn Frye quien planteo hace 40 años en su tesis algo que sigue incomodando: la cultura masculina heterosexual es, en realidad, homoerotica. \n\nTodo o casi todo lo que es propio del amor, la mayoría de los hombres heteros lo reservan exclusivamente para otros hombres (lealtad, admiracion, respeto, la reverencia, la imitación, el deseo de aprender y ser reconocidos por alguien, los vínculos profundos) \n\nLa mayoría de las cosas que hacen los hombres son para impresionar otros hombres: posesiones, trabajo, inclusive las mujeres que las muestran como trofeos.\n\nA las mujeres le piden devoción, servicio y sexo. Lo que ofrecen cómo respeto hacia ellas suele ser paternalismo, y lo que llaman \"honor\" es ponerlas en un pedestal, porque es una forma de control, no de respeto.\n\nEl patrón se nota hasta en los gestos mas cotidianos. Ven deportes porque se supone que les gusta los deportes, pero solo ven deportes practicados por otros hombres, como si lo que les gustara fuera que los practican ellos, más que el deporte en sí.\n\nEscuchan con desdén a una mujer y luego asienten cuando un hombre repite exactamente lo que ella dijo. El contenido no cambió, cambia quien lo emitio. Defienden ideologías machistas, misoginas, racistas y autoritarias muchas veces no por convicción profunda sino porque adoptarlas les compra la pertenencia a un grupo de hombres.\n\nLos hombres aman a otros hombres (en el sentido amplio: los admiran, los respetan, viven para su mirada) y usan a las mujeres como instrumentos de ese vinculo: como trofeos, como conquista, como contraste para definirse como hombres de verdad.\n\nHasta el dios que adoran es hombre. Lo imaginan padre, lo llaman señor, le rezan como al patriarca celestial que crea con la palabra, desde afuera, sin cuerpo y sin entrañas. Pero la creación de la vida en la tierra ocurre dentro del cuerpo de una mujer. Lo mas cercano a dios que existe en la experiencia humana: es una mujer.\n\nEsa es la tragedia silenciosa del amor heterosexual en el patriarcado: las mujeres se enamoran, paren hijos, envejecen al lado de hombres que, en el fondo, las detestan. Duermen abrazadas a quienes, si tuvieran que elegir entre su dignidad y la aprobación de otros hombres, elegirían a los otros hombres sin pensarlo.\n\nA pesar de ser heterosexuales, actúan como si odiaran a las mujeres: las critican, no las escuchan, las engañan, las maltratan. Las matan.\n\n-Resumen sacado del instagram conciencia.inquieta"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4942,
+          "impression_count": 519362,
+          "like_count": 16202,
+          "quote_count": 140,
+          "reply_count": 109,
+          "retweet_count": 3318
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062025876024246439",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "En el mes del orgullo quisiera hablar de la filosofa lesbiana Marilyn Frye quien planteo hace 40 años en su tesis algo que sigue incomodando: la cultura masculina heterosexual es, en realidad, homoerotica. \n\nTodo o casi todo lo que es propio del amor, la mayoría de los hombres https://t.co/VLIPIT6QRw"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-12T18:50:19.000Z",
+        "description": "随缘//医学爱好者/Arknights/绘画/混乱日常碎碎念无营养内容/可能会很吵？ /les/lgbt友好/中文/EN//喵喵//提问箱↓ ↓ ↓",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ppppppppp38481",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ppppppppp38481",
+                "start": 0,
+                "url": "https://t.co/dw8CaO6ajX"
+              }
+            ]
+          }
+        },
+        "id": "1569397683814629379",
+        "location": "世界的尽头",
+        "name": "腐烂培根卷",
+        "pinned_tweet_id": "2012485424057291255",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953366409284861953/HM3Aeou7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 240,
+          "following_count": 1608,
+          "like_count": 9562,
+          "listed_count": 1,
+          "media_count": 104,
+          "tweet_count": 6866
+        },
+        "url": "https://t.co/dw8CaO6ajX",
+        "username": "ppppggggjjjj",
+        "verified": false
+      },
+      {
+        "created_at": "2012-10-11T03:43:07.000Z",
+        "description": "🏳️‍🌈Libra. Estudiante de medicina escritor y pianista. Rosario.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/diegomt93",
+                "end": 23,
+                "expanded_url": "http://www.instagram.com/diegomt93",
+                "start": 0,
+                "url": "https://t.co/bkhsCrmS5u"
+              }
+            ]
+          }
+        },
+        "id": "872950159",
+        "location": "San Nicolás de los Arroyos, Ar",
+        "name": "Diego Troffe🏳️‍🌈",
+        "pinned_tweet_id": "1412233947552137217",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1657520784812720129/dN_vBuMy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17533,
+          "following_count": 8112,
+          "like_count": 65862,
+          "listed_count": 9,
+          "media_count": 3780,
+          "tweet_count": 24354
+        },
+        "url": "https://t.co/bkhsCrmS5u",
+        "username": "DiegoMTroffe",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,249 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1940713382602264576"
+      ],
+      "media_source_tweet_id": [
+        "1940713576425299998"
+      ]
+    },
+    "author_id": "1569397683814629379",
+    "conversation_id": "1940777416768868694",
+    "created_at": "2025-07-03T14:19:28.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-03T15:19:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1940777416768868694"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1859220470794776576",
+          "start": 3,
+          "username": "ice_blue_Rose"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/D9rHijAIIO",
+          "end": 53,
+          "expanded_url": "https://x.com/ice_blue_Rose/status/1940713576425299998/photo/1",
+          "media_key": "3_1940713382602264576",
+          "start": 30,
+          "url": "https://t.co/D9rHijAIIO"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1940777416768868694",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 53
+    },
+    "referenced_tweets": [
+      {
+        "id": "1940713576425299998",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ice_blue_Rose: ツインテールVer. https://t.co/D9rHijAIIO"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4092,
+        "media_key": "3_1940713382602264576",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gu7MigTa0AAv94K.jpg",
+        "width": 2893
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1940713382602264576"
+          ],
+          "media_source_tweet_id": [
+            "1940713576425299998"
+          ]
+        },
+        "author_id": "1569397683814629379",
+        "conversation_id": "1940777416768868694",
+        "created_at": "2025-07-03T14:19:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-03T15:19:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1940777416768868694"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1859220470794776576",
+              "start": 3,
+              "username": "ice_blue_Rose"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/D9rHijAIIO",
+              "end": 53,
+              "expanded_url": "https://x.com/ice_blue_Rose/status/1940713576425299998/photo/1",
+              "media_key": "3_1940713382602264576",
+              "start": 30,
+              "url": "https://t.co/D9rHijAIIO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1940777416768868694",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 53
+        },
+        "referenced_tweets": [
+          {
+            "id": "1940713576425299998",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ice_blue_Rose: ツインテールVer. https://t.co/D9rHijAIIO"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1940713382602264576"
+          ]
+        },
+        "author_id": "1859220470794776576",
+        "conversation_id": "1940713576425299998",
+        "created_at": "2025-07-03T10:05:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-03T11:05:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1940713576425299998"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/D9rHijAIIO",
+              "end": 34,
+              "expanded_url": "https://x.com/ice_blue_Rose/status/1940713576425299998/photo/1",
+              "media_key": "3_1940713382602264576",
+              "start": 11,
+              "url": "https://t.co/D9rHijAIIO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1940713576425299998",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 53,
+          "impression_count": 4516,
+          "like_count": 350,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 53
+        },
+        "reply_settings": "everyone",
+        "text": "ツインテールVer. https://t.co/D9rHijAIIO"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-12T18:50:19.000Z",
+        "description": "随缘//医学爱好者/les🏳️‍🌈/lgbt友好/中文/EN/Arknights/绘画/混乱日常碎碎念/很吵//喵喵",
+        "id": "1569397683814629379",
+        "name": "腐烂苹果酱",
+        "pinned_tweet_id": "1937498024907010498",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1620839959388393479/hsMKvVei_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 33,
+          "following_count": 312,
+          "like_count": 556,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 780
+        },
+        "username": "ppppggggjjjj",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-20T13:01:31.000Z",
+        "description": "気まぐれ絵描き",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/EveRose",
+                "end": 23,
+                "expanded_url": "https://lit.link/EveRose",
+                "start": 0,
+                "url": "https://t.co/e2AquHzntG"
+              }
+            ]
+          }
+        },
+        "id": "1859220470794776576",
+        "location": "保存〇使用△ （一声お願いします）AI学習×",
+        "name": "Eve🥀",
+        "pinned_tweet_id": "1896051540672303360",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1913249381031305216/bL1XSV10_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1719,
+          "following_count": 54,
+          "like_count": 1480,
+          "listed_count": 3,
+          "media_count": 171,
+          "tweet_count": 655
+        },
+        "url": "https://t.co/e2AquHzntG",
+        "username": "ice_blue_Rose",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2052219386707230720"
+      ],
+      "media_source_tweet_id": [
+        "2052219397578895595"
+      ]
+    },
+    "author_id": "1569397683814629379",
+    "conversation_id": "2052347891822567703",
+    "created_at": "2026-05-07T11:20:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-07T12:20:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2052347891822567703"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1641968587102621696",
+          "start": 3,
+          "username": "0voki33Me"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/JVs1S6T9If",
+          "end": 42,
+          "expanded_url": "https://x.com/0voki33Me/status/2052219397578895595/photo/1",
+          "media_key": "3_2052219386707230720",
+          "start": 19,
+          "url": "https://t.co/JVs1S6T9If"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052347891822567703",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052219397578895595",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @0voki33Me: 我自介 https://t.co/JVs1S6T9If"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2052347891822567703].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2052347891822567703",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2052347891822567703"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2052219386707230720",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHryqLnawAA6mud.jpg",
+        "width": 945
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2052219386707230720"
+          ]
+        },
+        "author_id": "1641968587102621696",
+        "conversation_id": "2052219397578895595",
+        "created_at": "2026-05-07T02:50:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-07T03:50:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052219397578895595"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/JVs1S6T9If",
+              "end": 27,
+              "expanded_url": "https://x.com/0voki33Me/status/2052219397578895595/photo/1",
+              "media_key": "3_2052219386707230720",
+              "start": 4,
+              "url": "https://t.co/JVs1S6T9If"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052219397578895595",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 198,
+          "like_count": 11,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "我自介 https://t.co/JVs1S6T9If"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-12T18:50:19.000Z",
+        "description": "随缘//医学爱好者/Arknights/绘画/混乱日常碎碎念无营养内容/可能会很吵？ /les/lgbt友好/中文/EN//喵喵//提问箱↓ ↓ ↓",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ppppppppp38481",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ppppppppp38481",
+                "start": 0,
+                "url": "https://t.co/dw8CaO6ajX"
+              }
+            ]
+          }
+        },
+        "id": "1569397683814629379",
+        "location": "世界的尽头",
+        "name": "腐烂培根卷",
+        "pinned_tweet_id": "2012485424057291255",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953366409284861953/HM3Aeou7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 233,
+          "following_count": 1410,
+          "like_count": 7616,
+          "listed_count": 1,
+          "media_count": 99,
+          "tweet_count": 5758
+        },
+        "url": "https://t.co/dw8CaO6ajX",
+        "username": "ppppggggjjjj",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-01T01:00:11.000Z",
+        "description": "📷药割吐🐈‍⬛\n该账号什么都发不为任何言行负责｜讨厌我请直接b别废话我对待他人同理｜\n只回fo感兴趣的｜备用机@0voki33Me2｜提问箱⬇️",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 66,
+                "start": 55,
+                "username": "0voki33Me2"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/0voki33me",
+                "end": 23,
+                "expanded_url": "https://ngl.link/0voki33me",
+                "start": 0,
+                "url": "https://t.co/Dhfap4dheT"
+              }
+            ]
+          }
+        },
+        "id": "1641968587102621696",
+        "location": "im 静 J!!N6",
+        "name": "4w4y",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025267837263380484/sO1VN491_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 718,
+          "following_count": 1181,
+          "like_count": 6609,
+          "listed_count": 1,
+          "media_count": 318,
+          "tweet_count": 6474
+        },
+        "url": "https://t.co/Dhfap4dheT",
+        "username": "0voki33Me",
+        "verified": false
+      }
+    ]
+  }
+}

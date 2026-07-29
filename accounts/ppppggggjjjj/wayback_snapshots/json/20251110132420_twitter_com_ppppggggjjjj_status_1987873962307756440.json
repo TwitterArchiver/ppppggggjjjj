@@ -1,0 +1,235 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1987501171842396160"
+      ],
+      "media_source_tweet_id": [
+        "1987501176330350897"
+      ]
+    },
+    "author_id": "1569397683814629379",
+    "conversation_id": "1987873962307756440",
+    "created_at": "2025-11-10T13:24:20.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-10T14:24:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1987873962307756440"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1492309312345153542",
+          "start": 3,
+          "username": "astralbaes"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/072pUuza1k",
+          "end": 39,
+          "expanded_url": "https://x.com/astralbaes/status/1987501176330350897/photo/1",
+          "media_key": "3_1987501171842396160",
+          "start": 16,
+          "url": "https://t.co/072pUuza1k"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1987873962307756440",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 7099
+    },
+    "referenced_tweets": [
+      {
+        "id": "1987501176330350897",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @astralbaes: https://t.co/072pUuza1k"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1363,
+        "media_key": "3_1987501171842396160",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5UFyRpWsAA9Gzq.jpg",
+        "width": 1179
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1987501171842396160"
+          ],
+          "media_source_tweet_id": [
+            "1987501176330350897"
+          ]
+        },
+        "author_id": "1569397683814629379",
+        "conversation_id": "1987873962307756440",
+        "created_at": "2025-11-10T13:24:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-10T14:24:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1987873962307756440"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1492309312345153542",
+              "start": 3,
+              "username": "astralbaes"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/072pUuza1k",
+              "end": 39,
+              "expanded_url": "https://x.com/astralbaes/status/1987501176330350897/photo/1",
+              "media_key": "3_1987501171842396160",
+              "start": 16,
+              "url": "https://t.co/072pUuza1k"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1987873962307756440",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 7099
+        },
+        "referenced_tweets": [
+          {
+            "id": "1987501176330350897",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @astralbaes: https://t.co/072pUuza1k"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1987501171842396160"
+          ]
+        },
+        "author_id": "1492309312345153542",
+        "conversation_id": "1987501176330350897",
+        "created_at": "2025-11-09T12:43:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-09T13:43:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1987501176330350897"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/072pUuza1k",
+              "end": 23,
+              "expanded_url": "https://x.com/astralbaes/status/1987501176330350897/photo/1",
+              "media_key": "3_1987501171842396160",
+              "start": 0,
+              "url": "https://t.co/072pUuza1k"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1987501176330350897",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1216,
+          "impression_count": 437332,
+          "like_count": 45289,
+          "quote_count": 202,
+          "reply_count": 51,
+          "retweet_count": 7099
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/072pUuza1k"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-12T18:50:19.000Z",
+        "description": "随缘//医学爱好者/les🏳️‍🌈/lgbt友好/中文/EN/Arknights/绘画/混乱日常碎碎念/很吵//喵喵 【永远拥护培根卷番茄！】",
+        "id": "1569397683814629379",
+        "location": "世界的尽头",
+        "name": "腐烂培根卷",
+        "pinned_tweet_id": "1937498024907010498",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953366409284861953/HM3Aeou7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 129,
+          "following_count": 771,
+          "like_count": 2617,
+          "listed_count": 1,
+          "media_count": 79,
+          "tweet_count": 3622
+        },
+        "username": "ppppggggjjjj",
+        "verified": false
+      },
+      {
+        "created_at": "2022-02-12T01:27:28.000Z",
+        "description": "222 ༻✧",
+        "id": "1492309312345153542",
+        "location": "she/her",
+        "name": "♡",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1631832561797218304/x0BfxNvi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 258539,
+          "following_count": 14941,
+          "like_count": 9968,
+          "listed_count": 571,
+          "media_count": 4870,
+          "tweet_count": 9436
+        },
+        "username": "astralbaes",
+        "verified": true
+      }
+    ]
+  }
+}

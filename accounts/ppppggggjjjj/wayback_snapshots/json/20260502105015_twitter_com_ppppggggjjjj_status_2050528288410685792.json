@@ -1,0 +1,281 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2050256432243621888"
+      ],
+      "media_source_tweet_id": [
+        "2050256435523514780"
+      ]
+    },
+    "author_id": "1569397683814629379",
+    "conversation_id": "2050528288410685792",
+    "created_at": "2026-05-02T10:50:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-02T11:50:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2050528288410685792"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 25,
+          "start": 16,
+          "tag": "5月1日は扇の日"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1974119090106060800",
+          "start": 3,
+          "username": "randomaxuu"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/iznoeLeckA",
+          "end": 49,
+          "expanded_url": "https://x.com/randomaxuu/status/2050256435523514780/photo/1",
+          "media_key": "3_2050256432243621888",
+          "start": 26,
+          "url": "https://t.co/iznoeLeckA"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2050528288410685792",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 325
+    },
+    "referenced_tweets": [
+      {
+        "id": "2050256435523514780",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @randomaxuu: #5月1日は扇の日 https://t.co/iznoeLeckA"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1288,
+        "media_key": "3_2050256432243621888",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHP5XMZXQAA6fiy.jpg",
+        "width": 736
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2050256432243621888"
+          ],
+          "media_source_tweet_id": [
+            "2050256435523514780"
+          ]
+        },
+        "author_id": "1569397683814629379",
+        "conversation_id": "2050528288410685792",
+        "created_at": "2026-05-02T10:50:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-02T11:50:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2050528288410685792"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 25,
+              "start": 16,
+              "tag": "5月1日は扇の日"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1974119090106060800",
+              "start": 3,
+              "username": "randomaxuu"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/iznoeLeckA",
+              "end": 49,
+              "expanded_url": "https://x.com/randomaxuu/status/2050256435523514780/photo/1",
+              "media_key": "3_2050256432243621888",
+              "start": 26,
+              "url": "https://t.co/iznoeLeckA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050528288410685792",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 325
+        },
+        "referenced_tweets": [
+          {
+            "id": "2050256435523514780",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @randomaxuu: #5月1日は扇の日 https://t.co/iznoeLeckA"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2050256432243621888"
+          ]
+        },
+        "author_id": "1974119090106060800",
+        "conversation_id": "2050256435523514780",
+        "created_at": "2026-05-01T16:50:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-01T17:50:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2050256435523514780"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 9,
+              "start": 0,
+              "tag": "5月1日は扇の日"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/iznoeLeckA",
+              "end": 33,
+              "expanded_url": "https://x.com/randomaxuu/status/2050256435523514780/photo/1",
+              "media_key": "3_2050256432243621888",
+              "start": 10,
+              "url": "https://t.co/iznoeLeckA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050256435523514780",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 228,
+          "impression_count": 17537,
+          "like_count": 2174,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 325
+        },
+        "reply_settings": "everyone",
+        "text": "#5月1日は扇の日 https://t.co/iznoeLeckA"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-12T18:50:19.000Z",
+        "description": "随缘//医学爱好者/Arknights/绘画/混乱日常碎碎念无营养内容/可能会很吵？ /les/lgbt友好/中文/EN//喵喵//提问箱↓ ↓ ↓",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ppppppppp38481",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ppppppppp38481",
+                "start": 0,
+                "url": "https://t.co/dw8CaO6ajX"
+              }
+            ]
+          }
+        },
+        "id": "1569397683814629379",
+        "location": "世界的尽头",
+        "name": "腐烂培根卷",
+        "pinned_tweet_id": "2012485424057291255",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953366409284861953/HM3Aeou7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 218,
+          "following_count": 1349,
+          "like_count": 7174,
+          "listed_count": 1,
+          "media_count": 98,
+          "tweet_count": 5480
+        },
+        "url": "https://t.co/dw8CaO6ajX",
+        "username": "ppppggggjjjj",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-03T14:27:43.000Z",
+        "description": "Ne demek kedi değilim? | Eternal @Venteas_Main lover 🫶",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 46,
+                "start": 33,
+                "username": "Venteas_Main"
+              }
+            ]
+          }
+        },
+        "id": "1974119090106060800",
+        "name": "Nico | KONAN 🎗️",
+        "pinned_tweet_id": "2037535975329468908",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045199863000846337/Ghga8orY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 472,
+          "following_count": 544,
+          "like_count": 13223,
+          "listed_count": 0,
+          "media_count": 858,
+          "tweet_count": 7219
+        },
+        "username": "randomaxuu",
+        "verified": false
+      }
+    ]
+  }
+}

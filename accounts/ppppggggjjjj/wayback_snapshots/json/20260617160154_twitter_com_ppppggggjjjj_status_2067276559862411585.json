@@ -1,0 +1,249 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2067230426385514496"
+      ],
+      "media_source_tweet_id": [
+        "2067230456194400677"
+      ]
+    },
+    "author_id": "1569397683814629379",
+    "conversation_id": "2067276559862411585",
+    "created_at": "2026-06-17T16:01:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-17T17:01:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067276559862411585"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1224972556546891784",
+          "start": 3,
+          "username": "tok8505"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Ya34g0b3CM",
+          "end": 47,
+          "expanded_url": "https://x.com/tok8505/status/2067230456194400677/photo/1",
+          "media_key": "3_2067230426385514496",
+          "start": 24,
+          "url": "https://t.co/Ya34g0b3CM"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067276559862411585",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 7
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067230456194400677",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @tok8505: 还有个没加滤镜的版本 https://t.co/Ya34g0b3CM"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1480,
+        "media_key": "3_2067230426385514496",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLBHHsGWgAAN2cg.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2067230426385514496"
+          ],
+          "media_source_tweet_id": [
+            "2067230456194400677"
+          ]
+        },
+        "author_id": "1569397683814629379",
+        "conversation_id": "2067276559862411585",
+        "created_at": "2026-06-17T16:01:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-17T17:01:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067276559862411585"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1224972556546891784",
+              "start": 3,
+              "username": "tok8505"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Ya34g0b3CM",
+              "end": 47,
+              "expanded_url": "https://x.com/tok8505/status/2067230456194400677/photo/1",
+              "media_key": "3_2067230426385514496",
+              "start": 24,
+              "url": "https://t.co/Ya34g0b3CM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067276559862411585",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 7
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067230456194400677",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @tok8505: 还有个没加滤镜的版本 https://t.co/Ya34g0b3CM"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2067230426385514496"
+          ]
+        },
+        "author_id": "1224972556546891784",
+        "conversation_id": "2067230456194400677",
+        "created_at": "2026-06-17T12:58:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-17T13:58:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067230456194400677"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Ya34g0b3CM",
+              "end": 34,
+              "expanded_url": "https://x.com/tok8505/status/2067230456194400677/photo/1",
+              "media_key": "3_2067230426385514496",
+              "start": 11,
+              "url": "https://t.co/Ya34g0b3CM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067230456194400677",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 407,
+          "like_count": 39,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 7
+        },
+        "reply_settings": "everyone",
+        "text": "还有个没加滤镜的版本 https://t.co/Ya34g0b3CM"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-12T18:50:19.000Z",
+        "description": "随缘//医学爱好者/Arknights/绘画/混乱日常碎碎念无营养内容/可能会很吵？ /les/lgbt友好/中文/EN//喵喵//提问箱↓ ↓ ↓",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ppppppppp38481",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ppppppppp38481",
+                "start": 0,
+                "url": "https://t.co/dw8CaO6ajX"
+              }
+            ]
+          }
+        },
+        "id": "1569397683814629379",
+        "location": "世界的尽头",
+        "name": "腐烂培根卷",
+        "pinned_tweet_id": "2012485424057291255",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953366409284861953/HM3Aeou7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 240,
+          "following_count": 1613,
+          "like_count": 9884,
+          "listed_count": 1,
+          "media_count": 104,
+          "tweet_count": 7076
+        },
+        "url": "https://t.co/dw8CaO6ajX",
+        "username": "ppppggggjjjj",
+        "verified": false
+      },
+      {
+        "created_at": "2020-02-05T08:26:35.000Z",
+        "description": "20⬆️ 混沌杂食人 🚫AI🚫 政治相关🚫I❤️琥珀秋葉 日文和英文都不是很好所以会使用翻译器 请不要无授权转载我的作品",
+        "id": "1224972556546891784",
+        "name": "小绘Erica",
+        "pinned_tweet_id": "1946479418211193117",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1938849972453015552/BohNBiUi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2173,
+          "following_count": 346,
+          "like_count": 1791,
+          "listed_count": 5,
+          "media_count": 256,
+          "tweet_count": 461
+        },
+        "username": "tok8505",
+        "verified": false
+      }
+    ]
+  }
+}

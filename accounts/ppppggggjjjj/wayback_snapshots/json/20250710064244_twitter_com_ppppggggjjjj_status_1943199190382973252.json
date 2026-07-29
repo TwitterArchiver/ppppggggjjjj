@@ -1,0 +1,248 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1942972689775202304"
+      ],
+      "media_source_tweet_id": [
+        "1942972714651898219"
+      ]
+    },
+    "author_id": "1569397683814629379",
+    "conversation_id": "1943199190382973252",
+    "created_at": "2025-07-10T06:42:44.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-10T07:42:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1943199190382973252"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1747969972922707968",
+          "start": 3,
+          "username": "motoharuuuu_"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/hdvShGUbwx",
+          "end": 41,
+          "expanded_url": "https://x.com/motoharuuuu_/status/1942972714651898219/photo/1",
+          "media_key": "3_1942972689775202304",
+          "start": 18,
+          "url": "https://t.co/hdvShGUbwx"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1943199190382973252",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 353
+    },
+    "referenced_tweets": [
+      {
+        "id": "1942972714651898219",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @motoharuuuu_: https://t.co/hdvShGUbwx"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1667,
+        "media_key": "3_1942972689775202304",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GvbTXfZWEAAbr7R.jpg",
+        "width": 1239
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1942972689775202304"
+          ],
+          "media_source_tweet_id": [
+            "1942972714651898219"
+          ]
+        },
+        "author_id": "1569397683814629379",
+        "conversation_id": "1943199190382973252",
+        "created_at": "2025-07-10T06:42:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-10T07:42:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1943199190382973252"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1747969972922707968",
+              "start": 3,
+              "username": "motoharuuuu_"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/hdvShGUbwx",
+              "end": 41,
+              "expanded_url": "https://x.com/motoharuuuu_/status/1942972714651898219/photo/1",
+              "media_key": "3_1942972689775202304",
+              "start": 18,
+              "url": "https://t.co/hdvShGUbwx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1943199190382973252",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 353
+        },
+        "referenced_tweets": [
+          {
+            "id": "1942972714651898219",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @motoharuuuu_: https://t.co/hdvShGUbwx"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1942972689775202304"
+          ]
+        },
+        "author_id": "1747969972922707968",
+        "conversation_id": "1942972714651898219",
+        "created_at": "2025-07-09T15:42:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-09T16:42:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1942972714651898219"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/hdvShGUbwx",
+              "end": 23,
+              "expanded_url": "https://x.com/motoharuuuu_/status/1942972714651898219/photo/1",
+              "media_key": "3_1942972689775202304",
+              "start": 0,
+              "url": "https://t.co/hdvShGUbwx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1942972714651898219",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 138,
+          "impression_count": 25625,
+          "like_count": 2016,
+          "quote_count": 13,
+          "reply_count": 0,
+          "retweet_count": 353
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/hdvShGUbwx"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-12T18:50:19.000Z",
+        "description": "随缘//医学爱好者/les🏳️‍🌈/lgbt友好/中文/EN/Arknights/绘画/混乱日常碎碎念/很吵//喵喵",
+        "id": "1569397683814629379",
+        "name": "腐烂苹果酱",
+        "pinned_tweet_id": "1937498024907010498",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1620839959388393479/hsMKvVei_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 68,
+          "following_count": 532,
+          "like_count": 960,
+          "listed_count": 0,
+          "media_count": 17,
+          "tweet_count": 1156
+        },
+        "username": "ppppggggjjjj",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-18T13:11:47.000Z",
+        "description": "♜⃤ 垢/通知off🔕",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "marshmallow-qa.com/61wfgx04ygy3zb…",
+                "end": 23,
+                "expanded_url": "https://marshmallow-qa.com/61wfgx04ygy3zbf?t=0RPBrN&utm_medium=url_text&utm_source=promotion",
+                "start": 0,
+                "url": "https://t.co/9VBFYfySzi"
+              }
+            ]
+          }
+        },
+        "id": "1747969972922707968",
+        "name": "素晴",
+        "pinned_tweet_id": "1804590527943414022",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1803155142990069760/W3SX7UX4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13117,
+          "following_count": 0,
+          "like_count": 920,
+          "listed_count": 87,
+          "media_count": 126,
+          "tweet_count": 126
+        },
+        "url": "https://t.co/9VBFYfySzi",
+        "username": "motoharuuuu_",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2062556776881598465"
+      ],
+      "media_source_tweet_id": [
+        "2062556798444613974"
+      ]
+    },
+    "author_id": "1569397683814629379",
+    "conversation_id": "2062763638075826259",
+    "created_at": "2026-06-05T05:09:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-05T06:09:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062763638075826259"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1228957197477928960",
+          "start": 3,
+          "username": "Fishdusking"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/3s2i0IMbHU",
+          "end": 54,
+          "expanded_url": "https://x.com/Fishdusking/status/2062556798444613974/photo/1",
+          "media_key": "3_2062556776881598465",
+          "start": 31,
+          "url": "https://t.co/3s2i0IMbHU"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062763638075826259",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 40
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062556798444613974",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Fishdusking: 又在画没人懂的东西了….. https://t.co/3s2i0IMbHU"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2062763638075826259].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2062763638075826259",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2062763638075826259"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 778,
+        "media_key": "3_2062556776881598465",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJ-sde8aMAEo1Oy.jpg",
+        "width": 1024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2062556776881598465"
+          ]
+        },
+        "author_id": "1228957197477928960",
+        "conversation_id": "2062556798444613974",
+        "created_at": "2026-06-04T15:27:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-04T16:27:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062556798444613974"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/3s2i0IMbHU",
+              "end": 37,
+              "expanded_url": "https://x.com/Fishdusking/status/2062556798444613974/photo/1",
+              "media_key": "3_2062556776881598465",
+              "start": 14,
+              "url": "https://t.co/3s2i0IMbHU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062556798444613974",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 67,
+          "impression_count": 1984,
+          "like_count": 379,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 40
+        },
+        "reply_settings": "everyone",
+        "text": "又在画没人懂的东西了….. https://t.co/3s2i0IMbHU"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-12T18:50:19.000Z",
+        "description": "随缘//医学爱好者/Arknights/绘画/混乱日常碎碎念无营养内容/可能会很吵？ /les/lgbt友好/中文/EN//喵喵//提问箱↓ ↓ ↓",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ppppppppp38481",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ppppppppp38481",
+                "start": 0,
+                "url": "https://t.co/dw8CaO6ajX"
+              }
+            ]
+          }
+        },
+        "id": "1569397683814629379",
+        "location": "世界的尽头",
+        "name": "腐烂培根卷",
+        "pinned_tweet_id": "2012485424057291255",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953366409284861953/HM3Aeou7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 239,
+          "following_count": 1605,
+          "like_count": 9536,
+          "listed_count": 1,
+          "media_count": 104,
+          "tweet_count": 6847
+        },
+        "url": "https://t.co/dw8CaO6ajX",
+        "username": "ppppggggjjjj",
+        "verified": false
+      },
+      {
+        "created_at": "2020-02-16T08:20:14.000Z",
+        "description": "中文/English OK 日本語を勉強中なので、間違いがあれば指摘してくださいね 😆      ✨Vgen Commissions open：https://t.co/hdHPdy9GHa",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "vgen.co/Fishdusking",
+                "end": 95,
+                "expanded_url": "https://vgen.co/Fishdusking",
+                "start": 72,
+                "url": "https://t.co/hdHPdy9GHa"
+              }
+            ]
+          }
+        },
+        "id": "1228957197477928960",
+        "name": "深海深夜",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1265831489381359621/CpkdWpGI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5419,
+          "following_count": 636,
+          "like_count": 1618,
+          "listed_count": 33,
+          "media_count": 439,
+          "tweet_count": 1594
+        },
+        "username": "Fishdusking",
+        "verified": false
+      }
+    ]
+  }
+}

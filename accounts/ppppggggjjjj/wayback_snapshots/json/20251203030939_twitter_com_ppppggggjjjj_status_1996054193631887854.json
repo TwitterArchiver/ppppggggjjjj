@@ -1,0 +1,250 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1995926629827444736"
+      ],
+      "media_source_tweet_id": [
+        "1995926636525699454"
+      ]
+    },
+    "author_id": "1569397683814629379",
+    "conversation_id": "1996054193631887854",
+    "created_at": "2025-12-03T03:09:39.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-03T04:09:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1996054193631887854"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "778862495351963649",
+          "start": 3,
+          "username": "kurousagi_man"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/kFW8q8GHjO",
+          "end": 42,
+          "expanded_url": "https://x.com/kurousagi_man/status/1995926636525699454/photo/1",
+          "media_key": "3_1995926629827444736",
+          "start": 19,
+          "url": "https://t.co/kFW8q8GHjO"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1996054193631887854",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 188
+    },
+    "referenced_tweets": [
+      {
+        "id": "1995926636525699454",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @kurousagi_man: https://t.co/kFW8q8GHjO"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3200,
+        "media_key": "3_1995926629827444736",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7L0seibgAAgqM5.jpg",
+        "width": 2000
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1995926629827444736"
+          ],
+          "media_source_tweet_id": [
+            "1995926636525699454"
+          ]
+        },
+        "author_id": "1569397683814629379",
+        "conversation_id": "1996054193631887854",
+        "created_at": "2025-12-03T03:09:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-03T04:09:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1996054193631887854"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "778862495351963649",
+              "start": 3,
+              "username": "kurousagi_man"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/kFW8q8GHjO",
+              "end": 42,
+              "expanded_url": "https://x.com/kurousagi_man/status/1995926636525699454/photo/1",
+              "media_key": "3_1995926629827444736",
+              "start": 19,
+              "url": "https://t.co/kFW8q8GHjO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1996054193631887854",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 188
+        },
+        "referenced_tweets": [
+          {
+            "id": "1995926636525699454",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @kurousagi_man: https://t.co/kFW8q8GHjO"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1995926629827444736"
+          ]
+        },
+        "author_id": "778862495351963649",
+        "conversation_id": "1995926636525699454",
+        "created_at": "2025-12-02T18:42:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-02T19:42:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1995926636525699454"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/kFW8q8GHjO",
+              "end": 23,
+              "expanded_url": "https://x.com/kurousagi_man/status/1995926636525699454/photo/1",
+              "media_key": "3_1995926629827444736",
+              "start": 0,
+              "url": "https://t.co/kFW8q8GHjO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1995926636525699454",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 64,
+          "impression_count": 17784,
+          "like_count": 1607,
+          "quote_count": 3,
+          "reply_count": 4,
+          "retweet_count": 188
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/kFW8q8GHjO"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-12T18:50:19.000Z",
+        "description": "随缘//医学爱好者/les🏳️‍🌈/lgbt友好/中文/EN/Arknights/绘画/混乱日常碎碎念/很吵//喵喵 【永远拥护培根卷番茄！】",
+        "id": "1569397683814629379",
+        "location": "世界的尽头",
+        "name": "腐烂培根卷",
+        "pinned_tweet_id": "1993298688010322328",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953366409284861953/HM3Aeou7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 147,
+          "following_count": 877,
+          "like_count": 3174,
+          "listed_count": 1,
+          "media_count": 86,
+          "tweet_count": 3885
+        },
+        "username": "ppppggggjjjj",
+        "verified": false
+      },
+      {
+        "created_at": "2016-09-22T07:44:24.000Z",
+        "description": "遣る瀬無音楽 kurousachandao@gmail.com",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/kurousagiman",
+                "end": 23,
+                "expanded_url": "https://lit.link/kurousagiman",
+                "start": 0,
+                "url": "https://t.co/eAtcJPmdsw"
+              }
+            ]
+          }
+        },
+        "id": "778862495351963649",
+        "location": "イビト山",
+        "name": "黒うさぎ",
+        "pinned_tweet_id": "1982390522007462170",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1874204677069508608/2iyOMEAB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 33142,
+          "following_count": 0,
+          "like_count": 132986,
+          "listed_count": 103,
+          "media_count": 533,
+          "tweet_count": 2847
+        },
+        "url": "https://t.co/eAtcJPmdsw",
+        "username": "kurousagi_man",
+        "verified": true
+      }
+    ]
+  }
+}

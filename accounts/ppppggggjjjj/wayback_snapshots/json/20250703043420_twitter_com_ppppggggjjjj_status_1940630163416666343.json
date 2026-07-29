@@ -1,0 +1,249 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1940568864519045121"
+      ],
+      "media_source_tweet_id": [
+        "1940568876594745388"
+      ]
+    },
+    "author_id": "1569397683814629379",
+    "conversation_id": "1940630163416666343",
+    "created_at": "2025-07-03T04:34:20.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-03T05:34:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1940630163416666343"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "701317942563057665",
+          "start": 3,
+          "username": "daily_simaenaga"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/FmO5mJgbyo",
+          "end": 50,
+          "expanded_url": "https://x.com/daily_simaenaga/status/1940568876594745388/photo/1",
+          "media_key": "3_1940568864519045121",
+          "start": 27,
+          "url": "https://t.co/FmO5mJgbyo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1940630163416666343",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 477
+    },
+    "referenced_tweets": [
+      {
+        "id": "1940568876594745388",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @daily_simaenaga: もふようび https://t.co/FmO5mJgbyo"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1424,
+        "media_key": "3_1940568864519045121",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gu5JGcfXQAEL2q_.jpg",
+        "width": 1281
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1940568864519045121"
+          ],
+          "media_source_tweet_id": [
+            "1940568876594745388"
+          ]
+        },
+        "author_id": "1569397683814629379",
+        "conversation_id": "1940630163416666343",
+        "created_at": "2025-07-03T04:34:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-03T05:34:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1940630163416666343"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "701317942563057665",
+              "start": 3,
+              "username": "daily_simaenaga"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/FmO5mJgbyo",
+              "end": 50,
+              "expanded_url": "https://x.com/daily_simaenaga/status/1940568876594745388/photo/1",
+              "media_key": "3_1940568864519045121",
+              "start": 27,
+              "url": "https://t.co/FmO5mJgbyo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1940630163416666343",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 477
+        },
+        "referenced_tweets": [
+          {
+            "id": "1940568876594745388",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @daily_simaenaga: もふようび https://t.co/FmO5mJgbyo"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1940568864519045121"
+          ]
+        },
+        "author_id": "701317942563057665",
+        "conversation_id": "1940568876594745388",
+        "created_at": "2025-07-03T00:30:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-03T01:30:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1940568876594745388"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/FmO5mJgbyo",
+              "end": 29,
+              "expanded_url": "https://x.com/daily_simaenaga/status/1940568876594745388/photo/1",
+              "media_key": "3_1940568864519045121",
+              "start": 6,
+              "url": "https://t.co/FmO5mJgbyo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1940568876594745388",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 60,
+          "impression_count": 59650,
+          "like_count": 4170,
+          "quote_count": 11,
+          "reply_count": 15,
+          "retweet_count": 477
+        },
+        "reply_settings": "everyone",
+        "text": "もふようび https://t.co/FmO5mJgbyo"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-12T18:50:19.000Z",
+        "description": "随缘//医学爱好者/les🏳️‍🌈/lgbt友好/中文/EN/Arknights/绘画/混乱日常碎碎念/很吵//喵喵",
+        "id": "1569397683814629379",
+        "name": "腐烂苹果酱",
+        "pinned_tweet_id": "1937498024907010498",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1620839959388393479/hsMKvVei_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 33,
+          "following_count": 277,
+          "like_count": 469,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 717
+        },
+        "username": "ppppggggjjjj",
+        "verified": false
+      },
+      {
+        "created_at": "2016-02-21T08:10:02.000Z",
+        "description": "かわいいとり",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "shimaenaga.jp/contact",
+                "end": 23,
+                "expanded_url": "https://shimaenaga.jp/contact",
+                "start": 0,
+                "url": "https://t.co/WvFgVRwgwJ"
+              }
+            ]
+          }
+        },
+        "id": "701317942563057665",
+        "location": "ほっかいどう",
+        "name": "ぼく、シマエナガ。",
+        "pinned_tweet_id": "1877601720282525734",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1112549372229640192/7JCtTV8T_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 746338,
+          "following_count": 1,
+          "like_count": 19870,
+          "listed_count": 2685,
+          "media_count": 21673,
+          "tweet_count": 84061
+        },
+        "url": "https://t.co/WvFgVRwgwJ",
+        "username": "daily_simaenaga",
+        "verified": true
+      }
+    ]
+  }
+}

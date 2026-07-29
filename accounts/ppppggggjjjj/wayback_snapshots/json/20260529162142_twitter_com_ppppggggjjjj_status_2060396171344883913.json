@@ -1,0 +1,263 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2060045993203347456"
+      ],
+      "media_source_tweet_id": [
+        "2060046001914995039"
+      ]
+    },
+    "author_id": "1569397683814629379",
+    "conversation_id": "2060396171344883913",
+    "created_at": "2026-05-29T16:21:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-29T17:21:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060396171344883913"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1842139073722675200",
+          "start": 3,
+          "username": "378slate"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/nW8oeDMSMu",
+          "end": 37,
+          "expanded_url": "https://x.com/378slate/status/2060046001914995039/photo/1",
+          "media_key": "3_2060045993203347456",
+          "start": 14,
+          "url": "https://t.co/nW8oeDMSMu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060396171344883913",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 105
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060046001914995039",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @378slate: https://t.co/nW8oeDMSMu"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1156,
+        "media_key": "3_2060045993203347456",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJbA6o3aMAAjrhd.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2060045993203347456"
+          ],
+          "media_source_tweet_id": [
+            "2060046001914995039"
+          ]
+        },
+        "author_id": "1569397683814629379",
+        "conversation_id": "2060396171344883913",
+        "created_at": "2026-05-29T16:21:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-29T17:21:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060396171344883913"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1842139073722675200",
+              "start": 3,
+              "username": "378slate"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/nW8oeDMSMu",
+              "end": 37,
+              "expanded_url": "https://x.com/378slate/status/2060046001914995039/photo/1",
+              "media_key": "3_2060045993203347456",
+              "start": 14,
+              "url": "https://t.co/nW8oeDMSMu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060396171344883913",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 105
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060046001914995039",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @378slate: https://t.co/nW8oeDMSMu"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2060045993203347456"
+          ]
+        },
+        "author_id": "1842139073722675200",
+        "conversation_id": "2060046001914995039",
+        "created_at": "2026-05-28T17:10:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T18:10:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060046001914995039"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/nW8oeDMSMu",
+              "end": 23,
+              "expanded_url": "https://x.com/378slate/status/2060046001914995039/photo/1",
+              "media_key": "3_2060045993203347456",
+              "start": 0,
+              "url": "https://t.co/nW8oeDMSMu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060046001914995039",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 136,
+          "impression_count": 10761,
+          "like_count": 1150,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 105
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/nW8oeDMSMu"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-12T18:50:19.000Z",
+        "description": "随缘//医学爱好者/Arknights/绘画/混乱日常碎碎念无营养内容/可能会很吵？ /les/lgbt友好/中文/EN//喵喵//提问箱↓ ↓ ↓",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ppppppppp38481",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ppppppppp38481",
+                "start": 0,
+                "url": "https://t.co/dw8CaO6ajX"
+              }
+            ]
+          }
+        },
+        "id": "1569397683814629379",
+        "location": "世界的尽头",
+        "name": "腐烂培根卷",
+        "pinned_tweet_id": "2012485424057291255",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953366409284861953/HM3Aeou7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 246,
+          "following_count": 1599,
+          "like_count": 9060,
+          "listed_count": 1,
+          "media_count": 104,
+          "tweet_count": 6559
+        },
+        "url": "https://t.co/dw8CaO6ajX",
+        "username": "ppppggggjjjj",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-04T09:48:39.000Z",
+        "description": "すべての画像の無断転載・無断使用禁止　Repost is prohibited　連絡はDMにて",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "marshmallow-qa.com/ztlnnsr8ea7kes…",
+                "end": 23,
+                "expanded_url": "https://marshmallow-qa.com/ztlnnsr8ea7kesw?t=BaVGaQ&utm_medium=twitter&utm_source=promotion",
+                "start": 0,
+                "url": "https://t.co/BgpmzGtuxm"
+              }
+            ]
+          }
+        },
+        "id": "1842139073722675200",
+        "name": "_' ⋮ |",
+        "pinned_tweet_id": "1906389198569136514",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1905451069733490688/LLCieVdE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2596,
+          "following_count": 45,
+          "like_count": 2196,
+          "listed_count": 15,
+          "media_count": 114,
+          "tweet_count": 306
+        },
+        "url": "https://t.co/BgpmzGtuxm",
+        "username": "378slate",
+        "verified": false
+      }
+    ]
+  }
+}

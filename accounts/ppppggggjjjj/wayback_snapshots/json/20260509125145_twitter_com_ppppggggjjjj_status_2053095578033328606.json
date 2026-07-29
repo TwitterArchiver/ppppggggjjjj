@@ -1,0 +1,365 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2052962278384029696"
+      ],
+      "media_source_tweet_id": [
+        "2052962280820842512"
+      ]
+    },
+    "author_id": "1569397683814629379",
+    "conversation_id": "2053095578033328606",
+    "created_at": "2026-05-09T12:51:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-09T13:51:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2053095578033328606"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "50683",
+          "start": 3,
+          "username": "dingyi"
+        }
+      ],
+      "urls": [
+        {
+          "description": "Filter and manage your feed on X (Twitter) based on customizable rules.",
+          "display_url": "chromewebstore.google.com/detail/twitter…",
+          "end": 95,
+          "expanded_url": "https://chromewebstore.google.com/detail/twitter-filter/ejhilomfbamkbfehkjbhemkpaghpcglj",
+          "images": [
+            {
+              "height": 128,
+              "url": "https://pbs.twimg.com/news_img/2050757882401226752/KPI3RUGv?format=jpg&name=orig",
+              "width": 128
+            },
+            {
+              "height": 128,
+              "url": "https://pbs.twimg.com/news_img/2050757882401226752/KPI3RUGv?format=jpg&name=150x150",
+              "width": 128
+            }
+          ],
+          "start": 72,
+          "status": 200,
+          "title": "Twitter Filter - Chrome Web Store",
+          "unwound_url": "https://chromewebstore.google.com/detail/twitter-filter/ejhilomfbamkbfehkjbhemkpaghpcglj",
+          "url": "https://t.co/EjzSJj4mP4"
+        },
+        {
+          "display_url": "pic.x.com/cBqbe6Efxz",
+          "end": 119,
+          "expanded_url": "https://x.com/dingyi/status/2052962280820842512/photo/1",
+          "media_key": "3_2052962278384029696",
+          "start": 96,
+          "url": "https://t.co/cBqbe6Efxz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053095578033328606",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 42
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052962280820842512",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @dingyi: 马斯克和那个傻逼产品经理不作为，还是网友厉害。\n\n用这个插件可以把所有机器人回复和 crypto 内容都自动屏蔽了。\n\nhttps://t.co/EjzSJj4mP4 https://t.co/cBqbe6Efxz"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1732,
+        "media_key": "3_2052962278384029696",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HH2WUKxbUAABnaA.jpg",
+        "width": 1222
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2052962278384029696"
+          ],
+          "media_source_tweet_id": [
+            "2052962280820842512"
+          ]
+        },
+        "author_id": "1569397683814629379",
+        "conversation_id": "2053095578033328606",
+        "created_at": "2026-05-09T12:51:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-09T13:51:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053095578033328606"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "50683",
+              "start": 3,
+              "username": "dingyi"
+            }
+          ],
+          "urls": [
+            {
+              "description": "Filter and manage your feed on X (Twitter) based on customizable rules.",
+              "display_url": "chromewebstore.google.com/detail/twitter…",
+              "end": 95,
+              "expanded_url": "https://chromewebstore.google.com/detail/twitter-filter/ejhilomfbamkbfehkjbhemkpaghpcglj",
+              "images": [
+                {
+                  "height": 128,
+                  "url": "https://pbs.twimg.com/news_img/2050757882401226752/KPI3RUGv?format=jpg&name=orig",
+                  "width": 128
+                },
+                {
+                  "height": 128,
+                  "url": "https://pbs.twimg.com/news_img/2050757882401226752/KPI3RUGv?format=jpg&name=150x150",
+                  "width": 128
+                }
+              ],
+              "start": 72,
+              "status": 200,
+              "title": "Twitter Filter - Chrome Web Store",
+              "unwound_url": "https://chromewebstore.google.com/detail/twitter-filter/ejhilomfbamkbfehkjbhemkpaghpcglj",
+              "url": "https://t.co/EjzSJj4mP4"
+            },
+            {
+              "display_url": "pic.x.com/cBqbe6Efxz",
+              "end": 119,
+              "expanded_url": "https://x.com/dingyi/status/2052962280820842512/photo/1",
+              "media_key": "3_2052962278384029696",
+              "start": 96,
+              "url": "https://t.co/cBqbe6Efxz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053095578033328606",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 42
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052962280820842512",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @dingyi: 马斯克和那个傻逼产品经理不作为，还是网友厉害。\n\n用这个插件可以把所有机器人回复和 crypto 内容都自动屏蔽了。\n\nhttps://t.co/EjzSJj4mP4 https://t.co/cBqbe6Efxz"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2052962278384029696"
+          ]
+        },
+        "author_id": "50683",
+        "conversation_id": "2052962280820842512",
+        "created_at": "2026-05-09T04:02:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-09T05:02:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2052962280820842512"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "Filter and manage your feed on X (Twitter) based on customizable rules.",
+              "display_url": "chromewebstore.google.com/detail/twitter…",
+              "end": 83,
+              "expanded_url": "https://chromewebstore.google.com/detail/twitter-filter/ejhilomfbamkbfehkjbhemkpaghpcglj",
+              "images": [
+                {
+                  "height": 128,
+                  "url": "https://pbs.twimg.com/news_img/2050757882401226752/KPI3RUGv?format=jpg&name=orig",
+                  "width": 128
+                },
+                {
+                  "height": 128,
+                  "url": "https://pbs.twimg.com/news_img/2050757882401226752/KPI3RUGv?format=jpg&name=150x150",
+                  "width": 128
+                }
+              ],
+              "start": 60,
+              "status": 200,
+              "title": "Twitter Filter - Chrome Web Store",
+              "unwound_url": "https://chromewebstore.google.com/detail/twitter-filter/ejhilomfbamkbfehkjbhemkpaghpcglj",
+              "url": "https://t.co/EjzSJj4mP4"
+            },
+            {
+              "display_url": "pic.x.com/cBqbe6Efxz",
+              "end": 107,
+              "expanded_url": "https://x.com/dingyi/status/2052962280820842512/photo/1",
+              "media_key": "3_2052962278384029696",
+              "start": 84,
+              "url": "https://t.co/cBqbe6Efxz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052962280820842512",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 317,
+          "impression_count": 31267,
+          "like_count": 279,
+          "quote_count": 8,
+          "reply_count": 33,
+          "retweet_count": 42
+        },
+        "reply_settings": "everyone",
+        "text": "马斯克和那个傻逼产品经理不作为，还是网友厉害。\n\n用这个插件可以把所有机器人回复和 crypto 内容都自动屏蔽了。\n\nhttps://t.co/EjzSJj4mP4 https://t.co/cBqbe6Efxz"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-12T18:50:19.000Z",
+        "description": "随缘//医学爱好者/Arknights/绘画/混乱日常碎碎念无营养内容/可能会很吵？ /les/lgbt友好/中文/EN//喵喵//提问箱↓ ↓ ↓",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ppppppppp38481",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ppppppppp38481",
+                "start": 0,
+                "url": "https://t.co/dw8CaO6ajX"
+              }
+            ]
+          }
+        },
+        "id": "1569397683814629379",
+        "location": "世界的尽头",
+        "name": "腐烂培根卷",
+        "pinned_tweet_id": "2012485424057291255",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953366409284861953/HM3Aeou7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 233,
+          "following_count": 1421,
+          "like_count": 7769,
+          "listed_count": 1,
+          "media_count": 100,
+          "tweet_count": 5873
+        },
+        "url": "https://t.co/dw8CaO6ajX",
+        "username": "ppppggggjjjj",
+        "verified": false
+      },
+      {
+        "created_at": "2006-12-08T15:10:12.000Z",
+        "description": "promote your product  ‣ dingyi@me.com\n\n‣ https://t.co/q1JG1yCzdb\n‣ https://t.co/uHtq1Z3Kus\n‣ https://t.co/6rJeVpe1pD\n‣ https://t.co/cP6NQ3keo5",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "quaily.com/dingyi",
+                "end": 64,
+                "expanded_url": "http://quaily.com/dingyi",
+                "start": 41,
+                "url": "https://t.co/q1JG1yCzdb"
+              },
+              {
+                "display_url": "news.dex.group",
+                "end": 90,
+                "expanded_url": "http://news.dex.group",
+                "start": 67,
+                "url": "https://t.co/uHtq1Z3Kus"
+              },
+              {
+                "display_url": "saaspick.dev",
+                "end": 116,
+                "expanded_url": "http://saaspick.dev",
+                "start": 93,
+                "url": "https://t.co/6rJeVpe1pD"
+              },
+              {
+                "display_url": "topfeed.xyz",
+                "end": 142,
+                "expanded_url": "http://topfeed.xyz",
+                "start": 119,
+                "url": "https://t.co/cP6NQ3keo5"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ding.one",
+                "end": 23,
+                "expanded_url": "http://ding.one",
+                "start": 0,
+                "url": "https://t.co/cf71jdxlkm"
+              }
+            ]
+          }
+        },
+        "id": "50683",
+        "location": "Remote",
+        "name": "Ding",
+        "pinned_tweet_id": "2051331731303911829",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2000755831135191040/s6Pf_wjc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 151693,
+          "following_count": 5009,
+          "like_count": 2581,
+          "listed_count": 744,
+          "media_count": 2728,
+          "tweet_count": 61004
+        },
+        "url": "https://t.co/cf71jdxlkm",
+        "username": "dingyi",
+        "verified": true
+      }
+    ]
+  }
+}

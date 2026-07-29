@@ -1,0 +1,249 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1962787313303400448"
+      ],
+      "media_source_tweet_id": [
+        "1962787315350225311"
+      ]
+    },
+    "author_id": "1569397683814629379",
+    "conversation_id": "1962868356379509144",
+    "created_at": "2025-09-02T13:20:59.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-02T14:20:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1962868356379509144"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1648144386772070400",
+          "start": 3,
+          "username": "NoContextArkn"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/rU2p59YrJQ",
+          "end": 42,
+          "expanded_url": "https://x.com/NoContextArkn/status/1962787315350225311/photo/1",
+          "media_key": "3_1962787313303400448",
+          "start": 19,
+          "url": "https://t.co/rU2p59YrJQ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1962868356379509144",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 200
+    },
+    "referenced_tweets": [
+      {
+        "id": "1962787315350225311",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @NoContextArkn: https://t.co/rU2p59YrJQ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1786,
+        "media_key": "3_1962787313303400448",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gz04qYMXsAAQqM-.jpg",
+        "width": 945
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1962787313303400448"
+          ],
+          "media_source_tweet_id": [
+            "1962787315350225311"
+          ]
+        },
+        "author_id": "1569397683814629379",
+        "conversation_id": "1962868356379509144",
+        "created_at": "2025-09-02T13:20:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-02T14:20:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1962868356379509144"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1648144386772070400",
+              "start": 3,
+              "username": "NoContextArkn"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/rU2p59YrJQ",
+              "end": 42,
+              "expanded_url": "https://x.com/NoContextArkn/status/1962787315350225311/photo/1",
+              "media_key": "3_1962787313303400448",
+              "start": 19,
+              "url": "https://t.co/rU2p59YrJQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1962868356379509144",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 200
+        },
+        "referenced_tweets": [
+          {
+            "id": "1962787315350225311",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @NoContextArkn: https://t.co/rU2p59YrJQ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1962787313303400448"
+          ]
+        },
+        "author_id": "1648144386772070400",
+        "conversation_id": "1962787315350225311",
+        "created_at": "2025-09-02T07:58:57.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-02T08:58:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1962787315350225311"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/rU2p59YrJQ",
+              "end": 23,
+              "expanded_url": "https://x.com/NoContextArkn/status/1962787315350225311/photo/1",
+              "media_key": "3_1962787313303400448",
+              "start": 0,
+              "url": "https://t.co/rU2p59YrJQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1962787315350225311",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 101,
+          "impression_count": 38085,
+          "like_count": 1444,
+          "quote_count": 26,
+          "reply_count": 13,
+          "retweet_count": 200
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/rU2p59YrJQ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-12T18:50:19.000Z",
+        "description": "随缘//医学爱好者/les🏳️‍🌈/lgbt友好/中文/EN/Arknights/绘画/混乱日常碎碎念/很吵//喵喵 【永远拥护培根卷番茄！】",
+        "id": "1569397683814629379",
+        "location": "世界的尽头",
+        "name": "腐烂培根卷",
+        "pinned_tweet_id": "1937498024907010498",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953366409284861953/HM3Aeou7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 100,
+          "following_count": 666,
+          "like_count": 1907,
+          "listed_count": 1,
+          "media_count": 56,
+          "tweet_count": 2387
+        },
+        "username": "ppppggggjjjj",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-18T02:00:28.000Z",
+        "description": "Arknights Memes,why so serious.❤️",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "wisadel.com",
+                "end": 23,
+                "expanded_url": "http://wisadel.com",
+                "start": 0,
+                "url": "https://t.co/s0GAqoY71h"
+              }
+            ]
+          }
+        },
+        "id": "1648144386772070400",
+        "location": "Rhodes Coalition",
+        "name": "No Context Arknights",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1959913485539930112/1ONY0mSh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 45816,
+          "following_count": 610,
+          "like_count": 75460,
+          "listed_count": 63,
+          "media_count": 2405,
+          "tweet_count": 2600
+        },
+        "url": "https://t.co/s0GAqoY71h",
+        "username": "NoContextArkn",
+        "verified": false
+      }
+    ]
+  }
+}

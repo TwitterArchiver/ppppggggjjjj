@@ -1,0 +1,354 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1943967942687043584"
+      ],
+      "media_source_tweet_id": [
+        "1943967951163412895"
+      ]
+    },
+    "author_id": "1569397683814629379",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A video game like Overwatch",
+          "id": "71",
+          "name": "Video Game"
+        },
+        "entity": {
+          "id": "1370105546607534081",
+          "name": "Project Sekai"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1370105546607534081",
+          "name": "Project Sekai"
+        }
+      }
+    ],
+    "conversation_id": "1943998838345478322",
+    "created_at": "2025-07-12T11:40:15.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-12T12:40:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1943998838345478322"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 12,
+          "normalized_text": "瑞希",
+          "probability": 0.7995,
+          "start": 11,
+          "type": "Person"
+        }
+      ],
+      "hashtags": [
+        {
+          "end": 22,
+          "start": 14,
+          "tag": "prsk_FA"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1663527073741422592",
+          "start": 3,
+          "username": "ozk9c"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/JhJ5uFPKEe",
+          "end": 46,
+          "expanded_url": "https://x.com/ozk9c/status/1943967951163412895/photo/1",
+          "media_key": "3_1943967942687043584",
+          "start": 23,
+          "url": "https://t.co/JhJ5uFPKEe"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1943998838345478322",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 141
+    },
+    "referenced_tweets": [
+      {
+        "id": "1943967951163412895",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ozk9c: 瑞希　#prsk_FA https://t.co/JhJ5uFPKEe"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1943967942687043584",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gvpci1absAA3Tl7.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1943967942687043584"
+          ],
+          "media_source_tweet_id": [
+            "1943967951163412895"
+          ]
+        },
+        "author_id": "1569397683814629379",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1370105546607534081",
+              "name": "Project Sekai"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1370105546607534081",
+              "name": "Project Sekai"
+            }
+          }
+        ],
+        "conversation_id": "1943998838345478322",
+        "created_at": "2025-07-12T11:40:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-12T12:40:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1943998838345478322"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 12,
+              "normalized_text": "瑞希",
+              "probability": 0.7995,
+              "start": 11,
+              "type": "Person"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 22,
+              "start": 14,
+              "tag": "prsk_FA"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1663527073741422592",
+              "start": 3,
+              "username": "ozk9c"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/JhJ5uFPKEe",
+              "end": 46,
+              "expanded_url": "https://x.com/ozk9c/status/1943967951163412895/photo/1",
+              "media_key": "3_1943967942687043584",
+              "start": 23,
+              "url": "https://t.co/JhJ5uFPKEe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1943998838345478322",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 141
+        },
+        "referenced_tweets": [
+          {
+            "id": "1943967951163412895",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ozk9c: 瑞希　#prsk_FA https://t.co/JhJ5uFPKEe"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1943967942687043584"
+          ]
+        },
+        "author_id": "1663527073741422592",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1370105546607534081",
+              "name": "Project Sekai"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1370105546607534081",
+              "name": "Project Sekai"
+            }
+          }
+        ],
+        "conversation_id": "1943967951163412895",
+        "created_at": "2025-07-12T09:37:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-12T10:37:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1943967951163412895"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 1,
+              "normalized_text": "瑞希",
+              "probability": 0.8329,
+              "start": 0,
+              "type": "Person"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 11,
+              "start": 3,
+              "tag": "prsk_FA"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/JhJ5uFPKEe",
+              "end": 35,
+              "expanded_url": "https://x.com/ozk9c/status/1943967951163412895/photo/1",
+              "media_key": "3_1943967942687043584",
+              "start": 12,
+              "url": "https://t.co/JhJ5uFPKEe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1943967951163412895",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 35,
+          "impression_count": 6312,
+          "like_count": 859,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 141
+        },
+        "reply_settings": "everyone",
+        "text": "瑞希　#prsk_FA https://t.co/JhJ5uFPKEe"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-12T18:50:19.000Z",
+        "description": "随缘//医学爱好者/les🏳️‍🌈/lgbt友好/中文/EN/Arknights/绘画/混乱日常碎碎念/很吵//喵喵",
+        "id": "1569397683814629379",
+        "name": "腐烂苹果酱",
+        "pinned_tweet_id": "1937498024907010498",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1620839959388393479/hsMKvVei_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 75,
+          "following_count": 565,
+          "like_count": 1109,
+          "listed_count": 0,
+          "media_count": 21,
+          "tweet_count": 1311
+        },
+        "username": "ppppggggjjjj",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-30T12:46:08.000Z",
+        "description": "二次創作(prsk、HSR、gnsn多め)、一次創作／AI学習、転載、使用❌",
+        "id": "1663527073741422592",
+        "name": "JINU",
+        "pinned_tweet_id": "1940745028135276730",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1940713623795466241/oHwFX_RD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 723,
+          "following_count": 82,
+          "like_count": 526,
+          "listed_count": 2,
+          "media_count": 22,
+          "tweet_count": 26
+        },
+        "username": "ozk9c",
+        "verified": false
+      }
+    ]
+  }
+}

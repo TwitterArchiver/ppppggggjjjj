@@ -1,0 +1,180 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2000589518567604225"
+      ],
+      "media_source_tweet_id": [
+        "2000589527954436522"
+      ]
+    },
+    "author_id": "1569397683814629379",
+    "conversation_id": "2000848524041474135",
+    "created_at": "2025-12-16T08:40:36.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-16T09:40:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2000848524041474135"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1976638515808256001",
+          "start": 3,
+          "username": "dreame_em"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/jobj2guQwX",
+          "end": 44,
+          "expanded_url": "https://x.com/dreame_em/status/2000589527954436522/photo/1",
+          "media_key": "3_2000589518567604225",
+          "start": 21,
+          "url": "https://t.co/jobj2guQwX"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2000848524041474135",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3267
+    },
+    "referenced_tweets": [
+      {
+        "id": "2000589527954436522",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @dreame_em: Study https://t.co/jobj2guQwX"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2000848524041474135].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2000848524041474135",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2000848524041474135"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 501,
+        "media_key": "3_2000589518567604225",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G8OFkUuXgAEl8kE.jpg",
+        "width": 618
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2000589518567604225"
+          ]
+        },
+        "author_id": "1976638515808256001",
+        "conversation_id": "2000589527954436522",
+        "created_at": "2025-12-15T15:31:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-15T16:31:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2000589527954436522"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/jobj2guQwX",
+              "end": 29,
+              "expanded_url": "https://x.com/dreame_em/status/2000589527954436522/photo/1",
+              "media_key": "3_2000589518567604225",
+              "start": 6,
+              "url": "https://t.co/jobj2guQwX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2000589527954436522",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1717,
+          "impression_count": 1209211,
+          "like_count": 35537,
+          "quote_count": 129,
+          "reply_count": 30,
+          "retweet_count": 3267
+        },
+        "reply_settings": "everyone",
+        "text": "Study https://t.co/jobj2guQwX"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-12T18:50:19.000Z",
+        "description": "随缘//医学爱好者/les🏳️‍🌈/lgbt友好/中文/EN/Arknights/绘画/混乱日常碎碎念/很吵//喵喵 【永远拥护培根卷番茄！】",
+        "id": "1569397683814629379",
+        "location": "世界的尽头",
+        "name": "腐烂培根卷",
+        "pinned_tweet_id": "1993298688010322328",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953366409284861953/HM3Aeou7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 157,
+          "following_count": 971,
+          "like_count": 3539,
+          "listed_count": 1,
+          "media_count": 88,
+          "tweet_count": 4070
+        },
+        "username": "ppppggggjjjj",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-10T13:18:50.000Z",
+        "description": "شاغرُ الحال .. شاغلُ البال",
+        "id": "1976638515808256001",
+        "name": "dreaM",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1976638637958656000/PC5848lf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 820,
+          "following_count": 218,
+          "like_count": 11071,
+          "listed_count": 2,
+          "media_count": 699,
+          "tweet_count": 2012
+        },
+        "username": "dreame_em",
+        "verified": false
+      }
+    ]
+  }
+}

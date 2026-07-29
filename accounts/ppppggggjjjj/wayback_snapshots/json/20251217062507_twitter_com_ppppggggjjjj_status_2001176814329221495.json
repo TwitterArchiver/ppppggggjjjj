@@ -1,0 +1,282 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1983420927158431747"
+      ],
+      "media_source_tweet_id": [
+        "2000891156578910638"
+      ]
+    },
+    "author_id": "1569397683814629379",
+    "conversation_id": "2001176814329221495",
+    "created_at": "2025-12-17T06:25:07.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-17T07:25:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2001176814329221495"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 16,
+          "normalized_text": "サグメ様",
+          "probability": 0.641,
+          "start": 13,
+          "type": "Person"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1277293094086402049",
+          "start": 3,
+          "username": "otonunu"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/q0ZTk2RS38",
+          "end": 41,
+          "expanded_url": "https://x.com/otonunu/status/2000891156578910638/photo/1",
+          "media_key": "3_1983420927158431747",
+          "start": 18,
+          "url": "https://t.co/q0ZTk2RS38"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2001176814329221495",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 239
+    },
+    "referenced_tweets": [
+      {
+        "id": "2000891156578910638",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @otonunu: サグメ様 https://t.co/q0ZTk2RS38"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2029,
+        "media_key": "3_1983420927158431747",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4aG0xtasAMqUFO.png",
+        "width": 1402
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1983420927158431747"
+          ],
+          "media_source_tweet_id": [
+            "2000891156578910638"
+          ]
+        },
+        "author_id": "1569397683814629379",
+        "conversation_id": "2001176814329221495",
+        "created_at": "2025-12-17T06:25:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-17T07:25:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2001176814329221495"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 16,
+              "normalized_text": "サグメ様",
+              "probability": 0.641,
+              "start": 13,
+              "type": "Person"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1277293094086402049",
+              "start": 3,
+              "username": "otonunu"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/q0ZTk2RS38",
+              "end": 41,
+              "expanded_url": "https://x.com/otonunu/status/2000891156578910638/photo/1",
+              "media_key": "3_1983420927158431747",
+              "start": 18,
+              "url": "https://t.co/q0ZTk2RS38"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2001176814329221495",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 239
+        },
+        "referenced_tweets": [
+          {
+            "id": "2000891156578910638",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @otonunu: サグメ様 https://t.co/q0ZTk2RS38"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1983420927158431747"
+          ]
+        },
+        "author_id": "1277293094086402049",
+        "conversation_id": "2000891156578910638",
+        "created_at": "2025-12-16T11:30:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-16T12:30:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2000891156578910638"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 3,
+              "normalized_text": "サグメ様",
+              "probability": 0.6992,
+              "start": 0,
+              "type": "Person"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/q0ZTk2RS38",
+              "end": 28,
+              "expanded_url": "https://x.com/otonunu/status/2000891156578910638/photo/1",
+              "media_key": "3_1983420927158431747",
+              "start": 5,
+              "url": "https://t.co/q0ZTk2RS38"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2000891156578910638",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 281,
+          "impression_count": 33591,
+          "like_count": 3556,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 239
+        },
+        "reply_settings": "everyone",
+        "text": "サグメ様 https://t.co/q0ZTk2RS38"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-12T18:50:19.000Z",
+        "description": "随缘//医学爱好者/les🏳️‍🌈/lgbt友好/中文/EN/Arknights/绘画/混乱日常碎碎念/很吵//喵喵 【永远拥护培根卷番茄！】",
+        "id": "1569397683814629379",
+        "location": "世界的尽头",
+        "name": "腐烂培根卷",
+        "pinned_tweet_id": "1993298688010322328",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953366409284861953/HM3Aeou7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 154,
+          "following_count": 971,
+          "like_count": 3618,
+          "listed_count": 1,
+          "media_count": 88,
+          "tweet_count": 4109
+        },
+        "username": "ppppggggjjjj",
+        "verified": false
+      },
+      {
+        "created_at": "2020-06-28T17:29:54.000Z",
+        "description": "絵をアップロードするアカウントだよ！\n本アカ @oton46\n本アカの方が更新は早いよ\nSkeb：https://t.co/uqjPdvV1FY",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 30,
+                "start": 23,
+                "username": "oton46"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "skeb.jp/@oton46",
+                "end": 72,
+                "expanded_url": "http://skeb.jp/@oton46",
+                "start": 49,
+                "url": "https://t.co/uqjPdvV1FY"
+              }
+            ]
+          }
+        },
+        "id": "1277293094086402049",
+        "location": "つの",
+        "name": "オトヌ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1982931699119046656/L-qTvOLN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3882,
+          "following_count": 615,
+          "like_count": 245,
+          "listed_count": 64,
+          "media_count": 340,
+          "tweet_count": 902
+        },
+        "username": "otonunu",
+        "verified": false
+      }
+    ]
+  }
+}

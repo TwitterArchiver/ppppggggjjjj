@@ -1,0 +1,250 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2000585749876678657"
+      ],
+      "media_source_tweet_id": [
+        "2000585757321273820"
+      ]
+    },
+    "author_id": "1569397683814629379",
+    "conversation_id": "2000838856006914175",
+    "created_at": "2025-12-16T08:02:11.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-16T09:02:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2000838856006914175"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1957090167237619712",
+          "start": 3,
+          "username": "mobudeshi"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/XaU4ZtngbY",
+          "end": 41,
+          "expanded_url": "https://x.com/mobudeshi/status/2000585757321273820/photo/1",
+          "media_key": "3_2000585749876678657",
+          "start": 18,
+          "url": "https://t.co/XaU4ZtngbY"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2000838856006914175",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 111
+    },
+    "referenced_tweets": [
+      {
+        "id": "2000585757321273820",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @mobudeshi: 後消 https://t.co/XaU4ZtngbY"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 857,
+        "media_key": "3_2000585749876678657",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G8OCI9QboAEaeVp.jpg",
+        "width": 729
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2000585749876678657"
+          ],
+          "media_source_tweet_id": [
+            "2000585757321273820"
+          ]
+        },
+        "author_id": "1569397683814629379",
+        "conversation_id": "2000838856006914175",
+        "created_at": "2025-12-16T08:02:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-16T09:02:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2000838856006914175"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1957090167237619712",
+              "start": 3,
+              "username": "mobudeshi"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/XaU4ZtngbY",
+              "end": 41,
+              "expanded_url": "https://x.com/mobudeshi/status/2000585757321273820/photo/1",
+              "media_key": "3_2000585749876678657",
+              "start": 18,
+              "url": "https://t.co/XaU4ZtngbY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2000838856006914175",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 111
+        },
+        "referenced_tweets": [
+          {
+            "id": "2000585757321273820",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @mobudeshi: 後消 https://t.co/XaU4ZtngbY"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2000585749876678657"
+          ]
+        },
+        "author_id": "1957090167237619712",
+        "conversation_id": "2000585757321273820",
+        "created_at": "2025-12-15T15:16:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-15T16:16:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2000585757321273820"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/XaU4ZtngbY",
+              "end": 26,
+              "expanded_url": "https://x.com/mobudeshi/status/2000585757321273820/photo/1",
+              "media_key": "3_2000585749876678657",
+              "start": 3,
+              "url": "https://t.co/XaU4ZtngbY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2000585757321273820",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 452,
+          "impression_count": 33608,
+          "like_count": 3305,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 111
+        },
+        "reply_settings": "everyone",
+        "text": "後消 https://t.co/XaU4ZtngbY"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-12T18:50:19.000Z",
+        "description": "随缘//医学爱好者/les🏳️‍🌈/lgbt友好/中文/EN/Arknights/绘画/混乱日常碎碎念/很吵//喵喵 【永远拥护培根卷番茄！】",
+        "id": "1569397683814629379",
+        "location": "世界的尽头",
+        "name": "腐烂培根卷",
+        "pinned_tweet_id": "1993298688010322328",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953366409284861953/HM3Aeou7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 157,
+          "following_count": 966,
+          "like_count": 3502,
+          "listed_count": 1,
+          "media_count": 88,
+          "tweet_count": 4053
+        },
+        "username": "ppppggggjjjj",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-17T14:40:40.000Z",
+        "description": "成人済 雑多に女の子を描きたい",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "wavebox.me/wave/1i723niv0…",
+                "end": 23,
+                "expanded_url": "https://wavebox.me/wave/1i723niv0qxh4zkg/",
+                "start": 0,
+                "url": "https://t.co/wxDagUcu7f"
+              }
+            ]
+          }
+        },
+        "id": "1957090167237619712",
+        "location": "⚠Do not use/re-upload",
+        "name": "じい",
+        "pinned_tweet_id": "1998703350896882048",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1963678254218502144/q0YeLd-q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5953,
+          "following_count": 15,
+          "like_count": 633,
+          "listed_count": 24,
+          "media_count": 29,
+          "tweet_count": 182
+        },
+        "url": "https://t.co/wxDagUcu7f",
+        "username": "mobudeshi",
+        "verified": false
+      }
+    ]
+  }
+}

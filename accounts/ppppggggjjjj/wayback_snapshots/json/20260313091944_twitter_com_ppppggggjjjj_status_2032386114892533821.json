@@ -1,0 +1,373 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1569397683814629379",
+    "conversation_id": "2032386114892533821",
+    "created_at": "2026-03-13T09:19:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-13T10:19:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2032386114892533821"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/kfc_es/status/…",
+          "end": 25,
+          "expanded_url": "https://twitter.com/kfc_es/status/2031422667018949015",
+          "start": 2,
+          "url": "https://t.co/2iZHuS48fP"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2032386114892533821",
+    "lang": "qst",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2031422667018949015",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "？ https://t.co/2iZHuS48fP"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 13066,
+        "height": 1080,
+        "media_key": "13_2031421358635110401",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2031421358635110401/img/EjBJ9R6XWGJu8fvJ.jpg",
+        "public_metrics": {
+          "view_count": 5972767
+        },
+        "type": "video",
+        "variants": [
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2031421358635110401/pl/kKlY8oYENQLf4Aa2.m3u8"
+          },
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2031421358635110401/vid/avc1/360x270/tzA5mUBRg8_MVXyX.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2031421358635110401/vid/avc1/480x360/rEUaG-GluxoX7QAc.mp4"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2031421358635110401/vid/avc1/1440x1080/Tu1VQ-tbDi5mSyoo.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2031421358635110401/vid/avc1/960x720/DVXNp7fuSVGAfoPh.mp4"
+          }
+        ],
+        "width": 1440
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1569397683814629379",
+        "conversation_id": "2032386114892533821",
+        "created_at": "2026-03-13T09:19:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-13T10:19:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2032386114892533821"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/kfc_es/status/…",
+              "end": 25,
+              "expanded_url": "https://twitter.com/kfc_es/status/2031422667018949015",
+              "start": 2,
+              "url": "https://t.co/2iZHuS48fP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2032386114892533821",
+        "lang": "qst",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2031422667018949015",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "？ https://t.co/2iZHuS48fP"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2031421358635110401"
+          ]
+        },
+        "author_id": "3233838112",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974596161376261",
+              "name": "Dining"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597017083904",
+              "name": "QSR - Dining"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026414829",
+              "name": "KFC"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Food",
+              "id": "825047692124442624",
+              "name": "Food"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026414829",
+              "name": "KFC"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Fast food",
+              "id": "847865239886417922",
+              "name": "Fast food Restaurants"
+            }
+          },
+          {
+            "domain": {
+              "description": "Topics about food, like Donuts or Brunch",
+              "id": "152",
+              "name": "Food"
+            },
+            "entity": {
+              "description": "Fast food",
+              "id": "847865239886417922",
+              "name": "Fast food Restaurants"
+            }
+          }
+        ],
+        "conversation_id": "2031422667018949015",
+        "created_at": "2026-03-10T17:31:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-10T18:31:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2031422667018949015"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 36,
+              "normalized_text": "oni chan",
+              "probability": 0.7634,
+              "start": 29,
+              "type": "Other"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/0L6okJ5S3w",
+              "end": 61,
+              "expanded_url": "https://x.com/KFC_ES/status/2031422667018949015/video/1",
+              "media_key": "13_2031421358635110401",
+              "start": 38,
+              "url": "https://t.co/0L6okJ5S3w"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2031422667018949015",
+        "lang": "es",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 39263,
+          "impression_count": 22836915,
+          "like_count": 228100,
+          "quote_count": 7550,
+          "reply_count": 936,
+          "retweet_count": 49354
+        },
+        "reply_settings": "everyone",
+        "text": "el mecha mecha se siente muy oni chan https://t.co/0L6okJ5S3w"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-12T18:50:19.000Z",
+        "description": "随缘//医学爱好者/les🏳️‍🌈/lgbt友好/中文/EN/Arknights/绘画/混乱日常碎碎念/很吵//喵喵//提问箱↓ ↓ ↓",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ppppppppp38481",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ppppppppp38481",
+                "start": 0,
+                "url": "https://t.co/dw8CaO6ajX"
+              }
+            ]
+          }
+        },
+        "id": "1569397683814629379",
+        "location": "世界的尽头",
+        "name": "腐烂培根卷",
+        "pinned_tweet_id": "2012485424057291255",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953366409284861953/HM3Aeou7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 190,
+          "following_count": 1149,
+          "like_count": 5353,
+          "listed_count": 1,
+          "media_count": 96,
+          "tweet_count": 4692
+        },
+        "url": "https://t.co/dw8CaO6ajX",
+        "username": "ppppggggjjjj",
+        "verified": false
+      },
+      {
+        "created_at": "2015-05-04T16:49:23.000Z",
+        "description": "Kentucky Fried Chicken. El #PolloPollo 🍗 🍗 se hace en Kentucky.",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 38,
+                "start": 27,
+                "tag": "PolloPollo"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kfc.es",
+                "end": 23,
+                "expanded_url": "http://kfc.es",
+                "start": 0,
+                "url": "https://t.co/E4UZXk0Zo8"
+              }
+            ]
+          }
+        },
+        "id": "3233838112",
+        "location": "España",
+        "name": "KFC",
+        "pinned_tweet_id": "1995909243254317262",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1686729439630016512/lzqes6B8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1175307,
+          "following_count": 529,
+          "like_count": 23930,
+          "listed_count": 759,
+          "media_count": 7275,
+          "tweet_count": 20114
+        },
+        "url": "https://t.co/E4UZXk0Zo8",
+        "username": "KFC_ES",
+        "verified": true
+      }
+    ]
+  }
+}

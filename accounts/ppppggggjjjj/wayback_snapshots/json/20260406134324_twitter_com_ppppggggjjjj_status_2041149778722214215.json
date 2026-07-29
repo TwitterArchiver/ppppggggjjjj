@@ -1,0 +1,293 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2040266813020508160"
+      ],
+      "media_source_tweet_id": [
+        "2040266939696857152"
+      ]
+    },
+    "author_id": "1569397683814629379",
+    "conversation_id": "2041149778722214215",
+    "created_at": "2026-04-06T13:43:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-06T14:43:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2041149778722214215"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 23,
+          "start": 13,
+          "tag": "AveMujica"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1361879881626312705",
+          "start": 3,
+          "username": "_Meiems"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/uVpp3NuHlC",
+          "end": 47,
+          "expanded_url": "https://x.com/_Meiems/status/2040266939696857152/video/1",
+          "media_key": "13_2040266813020508160",
+          "start": 24,
+          "url": "https://t.co/uVpp3NuHlC"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2041149778722214215",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 5947
+    },
+    "referenced_tweets": [
+      {
+        "id": "2040266939696857152",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @_Meiems: #AveMujica https://t.co/uVpp3NuHlC"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 35880,
+        "height": 1920,
+        "media_key": "13_2040266813020508160",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2040266813020508160/img/K3DpIj-ok9XA9F-K.jpg",
+        "public_metrics": {
+          "view_count": 169363
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2040266813020508160/vid/avc1/320x568/J5SOGT6RVhdfq1jY.mp4?tag=14"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2040266813020508160/vid/avc1/480x852/6i-wop96jxq6DyNb.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2040266813020508160/vid/avc1/720x1280/bjXpH_1jddOpAZhy.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2040266813020508160/pl/Ja1XvQcFisXb9jgu.m3u8?tag=14&v=dc0"
+          }
+        ],
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2040266813020508160"
+          ],
+          "media_source_tweet_id": [
+            "2040266939696857152"
+          ]
+        },
+        "author_id": "1569397683814629379",
+        "conversation_id": "2041149778722214215",
+        "created_at": "2026-04-06T13:43:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-06T14:43:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041149778722214215"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 23,
+              "start": 13,
+              "tag": "AveMujica"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1361879881626312705",
+              "start": 3,
+              "username": "_Meiems"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/uVpp3NuHlC",
+              "end": 47,
+              "expanded_url": "https://x.com/_Meiems/status/2040266939696857152/video/1",
+              "media_key": "13_2040266813020508160",
+              "start": 24,
+              "url": "https://t.co/uVpp3NuHlC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041149778722214215",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 5947
+        },
+        "referenced_tweets": [
+          {
+            "id": "2040266939696857152",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @_Meiems: #AveMujica https://t.co/uVpp3NuHlC"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2040266813020508160"
+          ]
+        },
+        "author_id": "1361879881626312705",
+        "conversation_id": "2040266939696857152",
+        "created_at": "2026-04-04T03:15:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-04T04:15:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2040266939696857152"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 10,
+              "start": 0,
+              "tag": "AveMujica"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/uVpp3NuHlC",
+              "end": 34,
+              "expanded_url": "https://x.com/_Meiems/status/2040266939696857152/video/1",
+              "media_key": "13_2040266813020508160",
+              "start": 11,
+              "url": "https://t.co/uVpp3NuHlC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040266939696857152",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6155,
+          "impression_count": 586996,
+          "like_count": 28872,
+          "quote_count": 175,
+          "reply_count": 33,
+          "retweet_count": 5947
+        },
+        "reply_settings": "everyone",
+        "text": "#AveMujica https://t.co/uVpp3NuHlC"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-12T18:50:19.000Z",
+        "description": "随缘//医学/Arknights/绘画/混乱日常碎碎念无营养内容/可能会很吵？ /les/lgbt友好/中文/EN//喵喵//提问箱↓ ↓ ↓",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ppppppppp38481",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ppppppppp38481",
+                "start": 0,
+                "url": "https://t.co/dw8CaO6ajX"
+              }
+            ]
+          }
+        },
+        "id": "1569397683814629379",
+        "location": "世界的尽头",
+        "name": "腐烂培根卷",
+        "pinned_tweet_id": "2012485424057291255",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953366409284861953/HM3Aeou7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 186,
+          "following_count": 1207,
+          "like_count": 5947,
+          "listed_count": 1,
+          "media_count": 98,
+          "tweet_count": 4900
+        },
+        "url": "https://t.co/dw8CaO6ajX",
+        "username": "ppppggggjjjj",
+        "verified": false
+      },
+      {
+        "created_at": "2021-02-17T03:27:32.000Z",
+        "description": "死鱼眼 日照不足 随时去世",
+        "id": "1361879881626312705",
+        "name": "MEEEEEi",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1861370591124824065/l97n2ntG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3508,
+          "following_count": 528,
+          "like_count": 8108,
+          "listed_count": 16,
+          "media_count": 148,
+          "tweet_count": 338
+        },
+        "username": "_Meiems",
+        "verified": false
+      }
+    ]
+  }
+}

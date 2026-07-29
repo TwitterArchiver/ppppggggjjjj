@@ -1,0 +1,273 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1926324799728492545"
+      ],
+      "media_source_tweet_id": [
+        "1926324808037327247"
+      ]
+    },
+    "author_id": "1569397683814629379",
+    "conversation_id": "2047194668732227836",
+    "created_at": "2026-04-23T06:03:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-23T07:03:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2047194668732227836"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "896991228104818688",
+          "start": 3,
+          "username": "Ayster_"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/rRFqDn4NsX",
+          "end": 38,
+          "expanded_url": "https://x.com/Ayster_/status/1926324808037327247/photo/1",
+          "media_key": "3_1926324799728492545",
+          "start": 15,
+          "url": "https://t.co/rRFqDn4NsX"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047194668732227836",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 35
+    },
+    "referenced_tweets": [
+      {
+        "id": "1926324808037327247",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Ayster_: 🍎 https://t.co/rRFqDn4NsX"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1926324799728492545",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GruuMwHXoAE2FB6.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1926324799728492545"
+          ],
+          "media_source_tweet_id": [
+            "1926324808037327247"
+          ]
+        },
+        "author_id": "1569397683814629379",
+        "conversation_id": "2047194668732227836",
+        "created_at": "2026-04-23T06:03:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-23T07:03:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047194668732227836"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "896991228104818688",
+              "start": 3,
+              "username": "Ayster_"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/rRFqDn4NsX",
+              "end": 38,
+              "expanded_url": "https://x.com/Ayster_/status/1926324808037327247/photo/1",
+              "media_key": "3_1926324799728492545",
+              "start": 15,
+              "url": "https://t.co/rRFqDn4NsX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047194668732227836",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 35
+        },
+        "referenced_tweets": [
+          {
+            "id": "1926324808037327247",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Ayster_: 🍎 https://t.co/rRFqDn4NsX"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1926324799728492545"
+          ]
+        },
+        "author_id": "896991228104818688",
+        "conversation_id": "1926324808037327247",
+        "created_at": "2025-05-24T17:09:58.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-24T18:09:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1926324808037327247"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/rRFqDn4NsX",
+              "end": 25,
+              "expanded_url": "https://x.com/Ayster_/status/1926324808037327247/photo/1",
+              "media_key": "3_1926324799728492545",
+              "start": 2,
+              "url": "https://t.co/rRFqDn4NsX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1926324808037327247",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 29,
+          "impression_count": 14700,
+          "like_count": 212,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 35
+        },
+        "reply_settings": "everyone",
+        "text": "🍎 https://t.co/rRFqDn4NsX"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-12T18:50:19.000Z",
+        "description": "随缘//医学爱好者/Arknights/绘画/混乱日常碎碎念无营养内容/可能会很吵？ /les/lgbt友好/中文/EN//喵喵//提问箱↓ ↓ ↓",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ppppppppp38481",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ppppppppp38481",
+                "start": 0,
+                "url": "https://t.co/dw8CaO6ajX"
+              }
+            ]
+          }
+        },
+        "id": "1569397683814629379",
+        "location": "世界的尽头",
+        "name": "腐烂培根卷",
+        "pinned_tweet_id": "2012485424057291255",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953366409284861953/HM3Aeou7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 214,
+          "following_count": 1316,
+          "like_count": 6929,
+          "listed_count": 1,
+          "media_count": 100,
+          "tweet_count": 5328
+        },
+        "url": "https://t.co/dw8CaO6ajX",
+        "username": "ppppggggjjjj",
+        "verified": false
+      },
+      {
+        "created_at": "2017-08-14T07:05:48.000Z",
+        "description": "Ayster（アスター）と申します/ 恋人ちゃん🩶@graymoonlx /マンガ見習い中/AI学習・無断転載🚫/雑多/たまに二次創作/ご連絡📧ayster.work@gmail.com",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 36,
+                "start": 25,
+                "username": "graymoonlx"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/ayster",
+                "end": 23,
+                "expanded_url": "https://lit.link/ayster",
+                "start": 0,
+                "url": "https://t.co/6Xls4Qai6p"
+              }
+            ]
+          }
+        },
+        "id": "896991228104818688",
+        "location": "愛と希望のいる世界",
+        "name": "𝔸𝕪𝕤𝕥𝕖𝕣",
+        "pinned_tweet_id": "2034570643522703521",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2019966995262009344/GnmML9Y3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2726,
+          "following_count": 172,
+          "like_count": 2531,
+          "listed_count": 31,
+          "media_count": 259,
+          "tweet_count": 613
+        },
+        "url": "https://t.co/6Xls4Qai6p",
+        "username": "Ayster_",
+        "verified": false
+      }
+    ]
+  }
+}

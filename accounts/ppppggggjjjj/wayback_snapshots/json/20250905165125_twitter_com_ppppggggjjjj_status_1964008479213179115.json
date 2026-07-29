@@ -1,0 +1,246 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1963927547760291840"
+      ],
+      "media_source_tweet_id": [
+        "1963927554093703296"
+      ]
+    },
+    "author_id": "1569397683814629379",
+    "conversation_id": "1964008479213179115",
+    "created_at": "2025-09-05T16:51:25.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-05T17:51:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1964008479213179115"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1961714832748756992",
+          "start": 3,
+          "username": "nakigara__zzz"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/3LdL68RThX",
+          "end": 42,
+          "expanded_url": "https://x.com/nakigara__zzz/status/1963927554093703296/photo/1",
+          "media_key": "3_1963927547760291840",
+          "start": 19,
+          "url": "https://t.co/3LdL68RThX"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1964008479213179115",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 23
+    },
+    "referenced_tweets": [
+      {
+        "id": "1963927554093703296",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @nakigara__zzz: https://t.co/3LdL68RThX"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1587,
+        "media_key": "3_1963927547760291840",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G0FFswjbMAAq-vQ.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1963927547760291840"
+          ],
+          "media_source_tweet_id": [
+            "1963927554093703296"
+          ]
+        },
+        "author_id": "1569397683814629379",
+        "conversation_id": "1964008479213179115",
+        "created_at": "2025-09-05T16:51:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-05T17:51:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1964008479213179115"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1961714832748756992",
+              "start": 3,
+              "username": "nakigara__zzz"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/3LdL68RThX",
+              "end": 42,
+              "expanded_url": "https://x.com/nakigara__zzz/status/1963927554093703296/photo/1",
+              "media_key": "3_1963927547760291840",
+              "start": 19,
+              "url": "https://t.co/3LdL68RThX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1964008479213179115",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 23
+        },
+        "referenced_tweets": [
+          {
+            "id": "1963927554093703296",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @nakigara__zzz: https://t.co/3LdL68RThX"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1963927547760291840"
+          ]
+        },
+        "author_id": "1961714832748756992",
+        "conversation_id": "1963927554093703296",
+        "created_at": "2025-09-05T11:29:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-05T12:29:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1963927554093703296"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/3LdL68RThX",
+              "end": 23,
+              "expanded_url": "https://x.com/nakigara__zzz/status/1963927554093703296/photo/1",
+              "media_key": "3_1963927547760291840",
+              "start": 0,
+              "url": "https://t.co/3LdL68RThX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1963927554093703296",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 32,
+          "impression_count": 3959,
+          "like_count": 274,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 23
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/3LdL68RThX"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-12T18:50:19.000Z",
+        "description": "随缘//医学爱好者/les🏳️‍🌈/lgbt友好/中文/EN/Arknights/绘画/混乱日常碎碎念/很吵//喵喵 【永远拥护培根卷番茄！】",
+        "id": "1569397683814629379",
+        "location": "世界的尽头",
+        "name": "腐烂培根卷",
+        "pinned_tweet_id": "1937498024907010498",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953366409284861953/HM3Aeou7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 99,
+          "following_count": 666,
+          "like_count": 1936,
+          "listed_count": 1,
+          "media_count": 57,
+          "tweet_count": 2434
+        },
+        "username": "ppppggggjjjj",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-30T08:57:31.000Z",
+        "description": "#亡骸学級",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 5,
+                "start": 0,
+                "tag": "亡骸学級"
+              }
+            ]
+          }
+        },
+        "id": "1961714832748756992",
+        "name": "なきがら",
+        "pinned_tweet_id": "1961728479856357381",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1961723835599982593/RuJoYBZ8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 274,
+          "following_count": 109,
+          "like_count": 250,
+          "listed_count": 4,
+          "media_count": 4,
+          "tweet_count": 7
+        },
+        "username": "nakigara__zzz",
+        "verified": false
+      }
+    ]
+  }
+}

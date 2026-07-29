@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1569397683814629379",
+    "conversation_id": "1990454161914146894",
+    "created_at": "2025-11-18T09:57:43.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-18T10:57:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1990721068357603676"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1930932064465121280",
+          "start": 0,
+          "username": "awlkkk190421"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1990721068357603676",
+    "in_reply_to_user_id": "1930932064465121280",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1990454161914146894",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@awlkkk190421 日本人不来唱歌我就不活了。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1569397683814629379",
+        "conversation_id": "1990454161914146894",
+        "created_at": "2025-11-18T09:57:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-18T10:57:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1990721068357603676"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1930932064465121280",
+              "start": 0,
+              "username": "awlkkk190421"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1990721068357603676",
+        "in_reply_to_user_id": "1930932064465121280",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1990454161914146894",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@awlkkk190421 日本人不来唱歌我就不活了。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1930932064465121280",
+        "conversation_id": "1990454161914146894",
+        "created_at": "2025-11-17T16:17:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-17T17:17:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1990454161914146894"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1990454161914146894",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 4331,
+          "like_count": 125,
+          "quote_count": 6,
+          "reply_count": 9,
+          "retweet_count": 13
+        },
+        "reply_settings": "everyone",
+        "text": "早市蒜苗你别搞了。日本人不来唱歌我就不活了。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-12T18:50:19.000Z",
+        "description": "随缘//医学爱好者/les🏳️‍🌈/lgbt友好/中文/EN/Arknights/绘画/混乱日常碎碎念/很吵//喵喵 【永远拥护培根卷番茄！】",
+        "id": "1569397683814629379",
+        "location": "世界的尽头",
+        "name": "腐烂培根卷",
+        "pinned_tweet_id": "1937498024907010498",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953366409284861953/HM3Aeou7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 136,
+          "following_count": 798,
+          "like_count": 2899,
+          "listed_count": 1,
+          "media_count": 81,
+          "tweet_count": 3759
+        },
+        "username": "ppppggggjjjj",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-06T10:17:45.000Z",
+        "description": "有时候行为举止不受大脑控制.. 想跟大家做朋友🥹",
+        "id": "1930932064465121280",
+        "name": "299！",
+        "pinned_tweet_id": "1981036119182757935",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1957799315851866116/gzCkDiIp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 169,
+          "following_count": 434,
+          "like_count": 4303,
+          "listed_count": 1,
+          "media_count": 263,
+          "tweet_count": 1913
+        },
+        "username": "awlkkk190421",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,342 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2043319492458188800",
+        "7_2043319558258536449"
+      ],
+      "media_source_tweet_id": [
+        "2043319612788580718",
+        "2043319612788580718"
+      ]
+    },
+    "author_id": "1569397683814629379",
+    "conversation_id": "2043377279120835011",
+    "created_at": "2026-04-12T17:14:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-12T18:14:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2043377279120835011"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "830417964348289024",
+          "start": 3,
+          "username": "mizuichi_les"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/GmiJsOU7UW",
+          "end": 74,
+          "expanded_url": "https://x.com/mizuichi_les/status/2043319612788580718/video/1",
+          "media_key": "3_2043319492458188800",
+          "start": 51,
+          "url": "https://t.co/GmiJsOU7UW"
+        },
+        {
+          "display_url": "pic.x.com/GmiJsOU7UW",
+          "end": 74,
+          "expanded_url": "https://x.com/mizuichi_les/status/2043319612788580718/video/1",
+          "media_key": "7_2043319558258536449",
+          "start": 51,
+          "url": "https://t.co/GmiJsOU7UW"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2043377279120835011",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 56
+    },
+    "referenced_tweets": [
+      {
+        "id": "2043319612788580718",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @mizuichi_les: 我忘記放推特了\n4/11的無料\n有記得開縮時看自己的過程好酷✌🏿 https://t.co/GmiJsOU7UW"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1819,
+        "media_key": "3_2043319492458188800",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFtUQJ6aEAAdDW5.jpg",
+        "width": 1311
+      },
+      {
+        "duration_ms": 30000,
+        "height": 1000,
+        "media_key": "7_2043319558258536449",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2043319558258536449/pu/img/Py-EoU1o1SDoyTi3.jpg",
+        "public_metrics": {
+          "view_count": 1273
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2043319558258536449/pu/vid/avc1/320x444/uzZp2Q7uq2uQ7WyM.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2043319558258536449/pu/vid/avc1/480x666/nIvB723EGzX9g1V4.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2043319558258536449/pu/vid/avc1/720x1000/d7od3RN--ZnrCAN7.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2043319558258536449/pu/pl/2y9JELwhKl6D01Nf.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2043319492458188800",
+            "7_2043319558258536449"
+          ],
+          "media_source_tweet_id": [
+            "2043319612788580718",
+            "2043319612788580718"
+          ]
+        },
+        "author_id": "1569397683814629379",
+        "conversation_id": "2043377279120835011",
+        "created_at": "2026-04-12T17:14:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-12T18:14:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043377279120835011"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "830417964348289024",
+              "start": 3,
+              "username": "mizuichi_les"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/GmiJsOU7UW",
+              "end": 74,
+              "expanded_url": "https://x.com/mizuichi_les/status/2043319612788580718/video/1",
+              "media_key": "3_2043319492458188800",
+              "start": 51,
+              "url": "https://t.co/GmiJsOU7UW"
+            },
+            {
+              "display_url": "pic.x.com/GmiJsOU7UW",
+              "end": 74,
+              "expanded_url": "https://x.com/mizuichi_les/status/2043319612788580718/video/1",
+              "media_key": "7_2043319558258536449",
+              "start": 51,
+              "url": "https://t.co/GmiJsOU7UW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043377279120835011",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 56
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043319612788580718",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @mizuichi_les: 我忘記放推特了\n4/11的無料\n有記得開縮時看自己的過程好酷✌🏿 https://t.co/GmiJsOU7UW"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2043319492458188800",
+            "7_2043319558258536449"
+          ]
+        },
+        "author_id": "830417964348289024",
+        "conversation_id": "2043319612788580718",
+        "created_at": "2026-04-12T13:25:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-12T14:25:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043319612788580718"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/GmiJsOU7UW",
+              "end": 56,
+              "expanded_url": "https://x.com/mizuichi_les/status/2043319612788580718/video/1",
+              "media_key": "3_2043319492458188800",
+              "start": 33,
+              "url": "https://t.co/GmiJsOU7UW"
+            },
+            {
+              "display_url": "pic.x.com/GmiJsOU7UW",
+              "end": 56,
+              "expanded_url": "https://x.com/mizuichi_les/status/2043319612788580718/video/1",
+              "media_key": "7_2043319558258536449",
+              "start": 33,
+              "url": "https://t.co/GmiJsOU7UW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043319612788580718",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 29,
+          "impression_count": 4166,
+          "like_count": 297,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 56
+        },
+        "reply_settings": "everyone",
+        "text": "我忘記放推特了\n4/11的無料\n有記得開縮時看自己的過程好酷✌🏿 https://t.co/GmiJsOU7UW"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-12T18:50:19.000Z",
+        "description": "随缘//医学/Arknights/绘画/混乱日常碎碎念无营养内容/可能会很吵？ /les/lgbt友好/中文/EN//喵喵//提问箱↓ ↓ ↓",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ppppppppp38481",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ppppppppp38481",
+                "start": 0,
+                "url": "https://t.co/dw8CaO6ajX"
+              }
+            ]
+          }
+        },
+        "id": "1569397683814629379",
+        "location": "世界的尽头",
+        "name": "腐烂培根卷",
+        "pinned_tweet_id": "2012485424057291255",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953366409284861953/HM3Aeou7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 197,
+          "following_count": 1251,
+          "like_count": 6316,
+          "listed_count": 1,
+          "media_count": 98,
+          "tweet_count": 5051
+        },
+        "url": "https://t.co/dw8CaO6ajX",
+        "username": "ppppggggjjjj",
+        "verified": false
+      },
+      {
+        "created_at": "2017-02-11T14:07:25.000Z",
+        "description": "🇹🇼/醬魯很雜/近期🩵💛🩵/祥初關係性關係/無斷轉載禁止/🔞/\n🐺:@mizuichi_kemono\nMarshmallow：https://t.co/uF0NXa1uVV",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 50,
+                "start": 34,
+                "username": "mizuichi_kemono"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "reurl.cc/mYmQOM",
+                "end": 86,
+                "expanded_url": "https://reurl.cc/mYmQOM",
+                "start": 63,
+                "url": "https://t.co/uF0NXa1uVV"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/zh-tw/mizuichi…",
+                "end": 23,
+                "expanded_url": "https://lit.link/zh-tw/mizuichi_pipi",
+                "start": 0,
+                "url": "https://t.co/EmYU8LR7N2"
+              }
+            ]
+          }
+        },
+        "id": "830417964348289024",
+        "location": "銅製監獄",
+        "name": "頭敲破🔨【台北豬魔】",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1997782578481524736/cJ3CFnsF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3461,
+          "following_count": 1149,
+          "like_count": 20855,
+          "listed_count": 23,
+          "media_count": 101,
+          "tweet_count": 6125
+        },
+        "url": "https://t.co/EmYU8LR7N2",
+        "username": "mizuichi_les",
+        "verified": false
+      }
+    ]
+  }
+}

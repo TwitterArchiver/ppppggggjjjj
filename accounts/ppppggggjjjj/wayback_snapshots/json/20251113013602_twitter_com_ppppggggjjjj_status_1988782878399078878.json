@@ -1,0 +1,235 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1988491136139489280"
+      ],
+      "media_source_tweet_id": [
+        "1988491143567519977"
+      ]
+    },
+    "author_id": "1569397683814629379",
+    "conversation_id": "1988782878399078878",
+    "created_at": "2025-11-13T01:36:02.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-13T02:36:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1988782878399078878"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1578886311141777408",
+          "start": 3,
+          "username": "niyonkyu"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/OJvpwh7fAm",
+          "end": 37,
+          "expanded_url": "https://x.com/niyonkyu/status/1988491143567519977/photo/1",
+          "media_key": "3_1988491136139489280",
+          "start": 14,
+          "url": "https://t.co/OJvpwh7fAm"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1988782878399078878",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 67
+    },
+    "referenced_tweets": [
+      {
+        "id": "1988491143567519977",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @niyonkyu: https://t.co/OJvpwh7fAm"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 538,
+        "media_key": "3_1988491136139489280",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5iKJyCbcAA-F0-.jpg",
+        "width": 1228
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1988491136139489280"
+          ],
+          "media_source_tweet_id": [
+            "1988491143567519977"
+          ]
+        },
+        "author_id": "1569397683814629379",
+        "conversation_id": "1988782878399078878",
+        "created_at": "2025-11-13T01:36:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-13T02:36:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1988782878399078878"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1578886311141777408",
+              "start": 3,
+              "username": "niyonkyu"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/OJvpwh7fAm",
+              "end": 37,
+              "expanded_url": "https://x.com/niyonkyu/status/1988491143567519977/photo/1",
+              "media_key": "3_1988491136139489280",
+              "start": 14,
+              "url": "https://t.co/OJvpwh7fAm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1988782878399078878",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 67
+        },
+        "referenced_tweets": [
+          {
+            "id": "1988491143567519977",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @niyonkyu: https://t.co/OJvpwh7fAm"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1988491136139489280"
+          ]
+        },
+        "author_id": "1578886311141777408",
+        "conversation_id": "1988491143567519977",
+        "created_at": "2025-11-12T06:16:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-12T07:16:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1988491143567519977"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/OJvpwh7fAm",
+              "end": 23,
+              "expanded_url": "https://x.com/niyonkyu/status/1988491143567519977/photo/1",
+              "media_key": "3_1988491136139489280",
+              "start": 0,
+              "url": "https://t.co/OJvpwh7fAm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1988491143567519977",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 62,
+          "impression_count": 86865,
+          "like_count": 1758,
+          "quote_count": 1,
+          "reply_count": 23,
+          "retweet_count": 67
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/OJvpwh7fAm"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-12T18:50:19.000Z",
+        "description": "随缘//医学爱好者/les🏳️‍🌈/lgbt友好/中文/EN/Arknights/绘画/混乱日常碎碎念/很吵//喵喵 【永远拥护培根卷番茄！】",
+        "id": "1569397683814629379",
+        "location": "世界的尽头",
+        "name": "腐烂培根卷",
+        "pinned_tweet_id": "1937498024907010498",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953366409284861953/HM3Aeou7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 131,
+          "following_count": 777,
+          "like_count": 2699,
+          "listed_count": 1,
+          "media_count": 79,
+          "tweet_count": 3666
+        },
+        "username": "ppppggggjjjj",
+        "verified": false
+      },
+      {
+        "created_at": "2022-10-08T23:13:34.000Z",
+        "description": "🚪12t右 /会在铁轨上看见单脚阿伯吗 /報 互fo请私信 /反驳型人格",
+        "id": "1578886311141777408",
+        "location": "きさらぎ駅",
+        "name": "鲭鱼🐟",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1774361627334410240/Hft50uFu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1763,
+          "following_count": 1252,
+          "like_count": 80857,
+          "listed_count": 4,
+          "media_count": 1433,
+          "tweet_count": 17835
+        },
+        "username": "niyonkyu",
+        "verified": false
+      }
+    ]
+  }
+}

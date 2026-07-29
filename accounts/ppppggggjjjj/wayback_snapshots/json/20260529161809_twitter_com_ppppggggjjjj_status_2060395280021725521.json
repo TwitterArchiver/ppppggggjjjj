@@ -1,0 +1,285 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2060247504336343040"
+      ],
+      "media_source_tweet_id": [
+        "2060247513727435112"
+      ]
+    },
+    "author_id": "1569397683814629379",
+    "conversation_id": "2060395280021725521",
+    "created_at": "2026-05-29T16:18:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-29T17:18:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060395280021725521"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1611246341728120835",
+          "start": 3,
+          "username": "Aureliax17QwQ"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/ec00lmSpqQ",
+          "end": 44,
+          "expanded_url": "https://x.com/Aureliax17QwQ/status/2060247513727435112/photo/1",
+          "media_key": "3_2060247504336343040",
+          "start": 21,
+          "url": "https://t.co/ec00lmSpqQ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060395280021725521",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 42
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060247513727435112",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Aureliax17QwQ: 😭 https://t.co/ec00lmSpqQ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 865,
+        "media_key": "3_2060247504336343040",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJd4MIVaUAA68rn.jpg",
+        "width": 879
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2060247504336343040"
+          ],
+          "media_source_tweet_id": [
+            "2060247513727435112"
+          ]
+        },
+        "author_id": "1569397683814629379",
+        "conversation_id": "2060395280021725521",
+        "created_at": "2026-05-29T16:18:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-29T17:18:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060395280021725521"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1611246341728120835",
+              "start": 3,
+              "username": "Aureliax17QwQ"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ec00lmSpqQ",
+              "end": 44,
+              "expanded_url": "https://x.com/Aureliax17QwQ/status/2060247513727435112/photo/1",
+              "media_key": "3_2060247504336343040",
+              "start": 21,
+              "url": "https://t.co/ec00lmSpqQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060395280021725521",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 42
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060247513727435112",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Aureliax17QwQ: 😭 https://t.co/ec00lmSpqQ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2060247504336343040"
+          ]
+        },
+        "author_id": "1611246341728120835",
+        "conversation_id": "2060247513727435112",
+        "created_at": "2026-05-29T06:30:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-29T07:30:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060247513727435112"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ec00lmSpqQ",
+              "end": 25,
+              "expanded_url": "https://x.com/Aureliax17QwQ/status/2060247513727435112/photo/1",
+              "media_key": "3_2060247504336343040",
+              "start": 2,
+              "url": "https://t.co/ec00lmSpqQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060247513727435112",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 14,
+          "impression_count": 6808,
+          "like_count": 605,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 42
+        },
+        "reply_settings": "everyone",
+        "text": "😭 https://t.co/ec00lmSpqQ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-12T18:50:19.000Z",
+        "description": "随缘//医学爱好者/Arknights/绘画/混乱日常碎碎念无营养内容/可能会很吵？ /les/lgbt友好/中文/EN//喵喵//提问箱↓ ↓ ↓",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ppppppppp38481",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ppppppppp38481",
+                "start": 0,
+                "url": "https://t.co/dw8CaO6ajX"
+              }
+            ]
+          }
+        },
+        "id": "1569397683814629379",
+        "location": "世界的尽头",
+        "name": "腐烂培根卷",
+        "pinned_tweet_id": "2012485424057291255",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953366409284861953/HM3Aeou7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 246,
+          "following_count": 1598,
+          "like_count": 9050,
+          "listed_count": 1,
+          "media_count": 104,
+          "tweet_count": 6552
+        },
+        "url": "https://t.co/dw8CaO6ajX",
+        "username": "ppppggggjjjj",
+        "verified": false
+      },
+      {
+        "created_at": "2023-01-06T06:20:59.000Z",
+        "description": "免费但失败的心理委员，欢迎聊天当树洞｜mtf｜06｜重抑｜INFP｜💊｜想倾诉或聊天可以找我说话｜聊天：https://t.co/kQa2nQ8PrH｜最爱的小孩@dnshu135734｜小号是@18nuun",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 93,
+                "start": 81,
+                "username": "dnshu135734"
+              },
+              {
+                "end": 104,
+                "start": 97,
+                "username": "18nuun"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/dnshuiarueliax…",
+                "end": 75,
+                "expanded_url": "http://t.me/dnshuiarueliax17",
+                "start": 52,
+                "url": "https://t.co/kQa2nQ8PrH"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/dnshu135734Aur…",
+                "end": 23,
+                "expanded_url": "http://t.me/dnshu135734Aureliax17",
+                "start": 0,
+                "url": "https://t.co/C02ir12u7z"
+              }
+            ]
+          }
+        },
+        "id": "1611246341728120835",
+        "name": "海月水母x17🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051429251736563712/4Jdu00ok_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3158,
+          "following_count": 611,
+          "like_count": 6644,
+          "listed_count": 6,
+          "media_count": 469,
+          "tweet_count": 2274
+        },
+        "url": "https://t.co/C02ir12u7z",
+        "username": "Aureliax17QwQ",
+        "verified": true
+      }
+    ]
+  }
+}

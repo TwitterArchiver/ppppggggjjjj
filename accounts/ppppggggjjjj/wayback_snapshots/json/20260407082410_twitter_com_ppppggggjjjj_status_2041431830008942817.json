@@ -1,0 +1,249 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2041247544521699328"
+      ],
+      "media_source_tweet_id": [
+        "2041247580399829414"
+      ]
+    },
+    "author_id": "1569397683814629379",
+    "conversation_id": "2041431830008942817",
+    "created_at": "2026-04-07T08:24:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-07T09:24:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2041431830008942817"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1891581661567123456",
+          "start": 3,
+          "username": "gamiakiike"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/HEOIfX0W2w",
+          "end": 42,
+          "expanded_url": "https://x.com/gamiakiike/status/2041247580399829414/photo/1",
+          "media_key": "3_2041247544521699328",
+          "start": 19,
+          "url": "https://t.co/HEOIfX0W2w"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2041431830008942817",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 186
+    },
+    "referenced_tweets": [
+      {
+        "id": "2041247580399829414",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @gamiakiike: 👑ユ https://t.co/HEOIfX0W2w"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3431,
+        "media_key": "3_2041247544521699328",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFP306XasAAI0Nl.jpg",
+        "width": 3961
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2041247544521699328"
+          ],
+          "media_source_tweet_id": [
+            "2041247580399829414"
+          ]
+        },
+        "author_id": "1569397683814629379",
+        "conversation_id": "2041431830008942817",
+        "created_at": "2026-04-07T08:24:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-07T09:24:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041431830008942817"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1891581661567123456",
+              "start": 3,
+              "username": "gamiakiike"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/HEOIfX0W2w",
+              "end": 42,
+              "expanded_url": "https://x.com/gamiakiike/status/2041247580399829414/photo/1",
+              "media_key": "3_2041247544521699328",
+              "start": 19,
+              "url": "https://t.co/HEOIfX0W2w"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041431830008942817",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 186
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041247580399829414",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @gamiakiike: 👑ユ https://t.co/HEOIfX0W2w"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2041247544521699328"
+          ]
+        },
+        "author_id": "1891581661567123456",
+        "conversation_id": "2041247580399829414",
+        "created_at": "2026-04-06T20:12:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-06T21:12:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2041247580399829414"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/HEOIfX0W2w",
+              "end": 26,
+              "expanded_url": "https://x.com/gamiakiike/status/2041247580399829414/photo/1",
+              "media_key": "3_2041247544521699328",
+              "start": 3,
+              "url": "https://t.co/HEOIfX0W2w"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041247580399829414",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 197,
+          "impression_count": 14346,
+          "like_count": 1894,
+          "quote_count": 2,
+          "reply_count": 0,
+          "retweet_count": 186
+        },
+        "reply_settings": "everyone",
+        "text": "👑ユ https://t.co/HEOIfX0W2w"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-12T18:50:19.000Z",
+        "description": "随缘//医学/Arknights/绘画/混乱日常碎碎念无营养内容/可能会很吵？ /les/lgbt友好/中文/EN//喵喵//提问箱↓ ↓ ↓",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ppppppppp38481",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ppppppppp38481",
+                "start": 0,
+                "url": "https://t.co/dw8CaO6ajX"
+              }
+            ]
+          }
+        },
+        "id": "1569397683814629379",
+        "location": "世界的尽头",
+        "name": "腐烂培根卷",
+        "pinned_tweet_id": "2012485424057291255",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953366409284861953/HM3Aeou7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 187,
+          "following_count": 1214,
+          "like_count": 6024,
+          "listed_count": 1,
+          "media_count": 98,
+          "tweet_count": 4933
+        },
+        "url": "https://t.co/dw8CaO6ajX",
+        "username": "ppppggggjjjj",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-17T20:13:14.000Z",
+        "description": "想要开心地画画，也希望现在看见这句话的你也能感到开心🥰❤️簡単な日本語ok→翻訳機を使う！",
+        "id": "1891581661567123456",
+        "name": "上秋池",
+        "pinned_tweet_id": "2015853104290500712",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1971308923589214208/rVSZFxys_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 453,
+          "following_count": 29,
+          "like_count": 524,
+          "listed_count": 2,
+          "media_count": 143,
+          "tweet_count": 234
+        },
+        "username": "gamiakiike",
+        "verified": false
+      }
+    ]
+  }
+}

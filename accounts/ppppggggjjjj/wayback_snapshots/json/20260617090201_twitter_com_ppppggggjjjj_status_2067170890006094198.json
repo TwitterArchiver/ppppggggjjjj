@@ -1,0 +1,349 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2066803458607595520",
+        "3_2066803475338735616"
+      ],
+      "media_source_tweet_id": [
+        "2066838194369552734",
+        "2066838194369552734"
+      ]
+    },
+    "author_id": "1569397683814629379",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2067170890006094198",
+    "created_at": "2026-06-17T09:02:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-17T10:02:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067170890006094198"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1367074960179564547",
+          "start": 3,
+          "username": "aoiwa_88"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/OyQrh9DBRx",
+          "end": 57,
+          "expanded_url": "https://x.com/aoiwa_88/status/2066838194369552734/photo/1",
+          "media_key": "3_2066803458607595520",
+          "start": 34,
+          "url": "https://t.co/OyQrh9DBRx"
+        },
+        {
+          "display_url": "pic.x.com/OyQrh9DBRx",
+          "end": 57,
+          "expanded_url": "https://x.com/aoiwa_88/status/2066838194369552734/photo/1",
+          "media_key": "3_2066803475338735616",
+          "start": 34,
+          "url": "https://t.co/OyQrh9DBRx"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067170890006094198",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 40271
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066838194369552734",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @aoiwa_88: ご飯が羊の体毛になる食器を作りました。 https://t.co/OyQrh9DBRx"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 800,
+        "media_key": "3_2066803458607595520",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HK7Cy5LawAA3ZRd.jpg",
+        "width": 800
+      },
+      {
+        "height": 800,
+        "media_key": "3_2066803475338735616",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HK7Cz3gbsAAOYAD.jpg",
+        "width": 800
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2066803458607595520",
+            "3_2066803475338735616"
+          ],
+          "media_source_tweet_id": [
+            "2066838194369552734",
+            "2066838194369552734"
+          ]
+        },
+        "author_id": "1569397683814629379",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2067170890006094198",
+        "created_at": "2026-06-17T09:02:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-17T10:02:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067170890006094198"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1367074960179564547",
+              "start": 3,
+              "username": "aoiwa_88"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/OyQrh9DBRx",
+              "end": 57,
+              "expanded_url": "https://x.com/aoiwa_88/status/2066838194369552734/photo/1",
+              "media_key": "3_2066803458607595520",
+              "start": 34,
+              "url": "https://t.co/OyQrh9DBRx"
+            },
+            {
+              "display_url": "pic.x.com/OyQrh9DBRx",
+              "end": 57,
+              "expanded_url": "https://x.com/aoiwa_88/status/2066838194369552734/photo/1",
+              "media_key": "3_2066803475338735616",
+              "start": 34,
+              "url": "https://t.co/OyQrh9DBRx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067170890006094198",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 40280
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066838194369552734",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @aoiwa_88: ご飯が羊の体毛になる食器を作りました。 https://t.co/OyQrh9DBRx"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2066803458607595520",
+            "3_2066803475338735616"
+          ]
+        },
+        "author_id": "1367074960179564547",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2066838194369552734",
+        "created_at": "2026-06-16T11:00:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-16T12:00:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066838194369552734"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/OyQrh9DBRx",
+              "end": 43,
+              "expanded_url": "https://x.com/aoiwa_88/status/2066838194369552734/photo/1",
+              "media_key": "3_2066803458607595520",
+              "start": 20,
+              "url": "https://t.co/OyQrh9DBRx"
+            },
+            {
+              "display_url": "pic.x.com/OyQrh9DBRx",
+              "end": 43,
+              "expanded_url": "https://x.com/aoiwa_88/status/2066838194369552734/photo/1",
+              "media_key": "3_2066803475338735616",
+              "start": 20,
+              "url": "https://t.co/OyQrh9DBRx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066838194369552734",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 19043,
+          "impression_count": 9323516,
+          "like_count": 345894,
+          "quote_count": 2642,
+          "reply_count": 1187,
+          "retweet_count": 40280
+        },
+        "reply_settings": "everyone",
+        "text": "ご飯が羊の体毛になる食器を作りました。 https://t.co/OyQrh9DBRx"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-12T18:50:19.000Z",
+        "description": "随缘//医学爱好者/Arknights/绘画/混乱日常碎碎念无营养内容/可能会很吵？ /les/lgbt友好/中文/EN//喵喵//提问箱↓ ↓ ↓",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ppppppppp38481",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ppppppppp38481",
+                "start": 0,
+                "url": "https://t.co/dw8CaO6ajX"
+              }
+            ]
+          }
+        },
+        "id": "1569397683814629379",
+        "location": "世界的尽头",
+        "name": "腐烂培根卷",
+        "pinned_tweet_id": "2012485424057291255",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953366409284861953/HM3Aeou7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 241,
+          "following_count": 1615,
+          "like_count": 9849,
+          "listed_count": 1,
+          "media_count": 104,
+          "tweet_count": 7060
+        },
+        "url": "https://t.co/dw8CaO6ajX",
+        "username": "ppppggggjjjj",
+        "verified": false
+      },
+      {
+        "created_at": "2021-03-03T11:31:03.000Z",
+        "description": "八羽(はっぱ)です。見てください。オンラインショップ「健やかな生活」→https://t.co/jwmiioT6Hj　オモコロ→https://t.co/nrMBYCnarX",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "aoiwa.stores.jp",
+                "end": 58,
+                "expanded_url": "https://aoiwa.stores.jp/",
+                "start": 35,
+                "url": "https://t.co/jwmiioT6Hj"
+              },
+              {
+                "display_url": "omocoro.jp/writer/happa/",
+                "end": 87,
+                "expanded_url": "https://omocoro.jp/writer/happa/",
+                "start": 64,
+                "url": "https://t.co/nrMBYCnarX"
+              }
+            ]
+          }
+        },
+        "id": "1367074960179564547",
+        "location": "京都",
+        "name": "八羽",
+        "pinned_tweet_id": "2061042505135923554",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1909502046526701568/qU0lEGuO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18508,
+          "following_count": 137,
+          "like_count": 2098,
+          "listed_count": 98,
+          "media_count": 225,
+          "tweet_count": 451
+        },
+        "username": "aoiwa_88",
+        "verified": true
+      }
+    ]
+  }
+}

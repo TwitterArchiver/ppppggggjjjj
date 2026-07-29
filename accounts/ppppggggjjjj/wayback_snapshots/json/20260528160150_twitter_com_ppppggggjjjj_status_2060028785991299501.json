@@ -1,0 +1,356 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1569397683814629379",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1196446161223028736",
+          "name": "Social media"
+        }
+      },
+      {
+        "domain": {
+          "description": "for individual and types of technology, e.g., food technology, 3D printing",
+          "id": "165",
+          "name": "Technology"
+        },
+        "entity": {
+          "id": "1196446161223028736",
+          "name": "Social media"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10045225402",
+          "name": "X"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "10045225402",
+          "name": "X"
+        }
+      }
+    ],
+    "conversation_id": "2060028785991299501",
+    "created_at": "2026-05-28T16:01:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-28T17:01:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060028785991299501"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "124488903",
+          "start": 3,
+          "username": "tunacan1825"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060028785991299501",
+    "lang": "ko",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 4324
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059849157066813673",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @tunacan1825: 트위터인간들 처음에 자동번역 업데이트때 다 혼란해하더니 이제 그냥 자국어로 다른나라 사람들이랑 키배뜨는 글로벌야차맨으로 진화함"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1569397683814629379",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1196446161223028736",
+              "name": "Social media"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "id": "1196446161223028736",
+              "name": "Social media"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10045225402",
+              "name": "X"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10045225402",
+              "name": "X"
+            }
+          }
+        ],
+        "conversation_id": "2060028785991299501",
+        "created_at": "2026-05-28T16:01:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T17:01:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060028785991299501"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "124488903",
+              "start": 3,
+              "username": "tunacan1825"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060028785991299501",
+        "lang": "ko",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 4324
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059849157066813673",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @tunacan1825: 트위터인간들 처음에 자동번역 업데이트때 다 혼란해하더니 이제 그냥 자국어로 다른나라 사람들이랑 키배뜨는 글로벌야차맨으로 진화함"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "124488903",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1196446161223028736",
+              "name": "Social media"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "id": "1196446161223028736",
+              "name": "Social media"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10045225402",
+              "name": "X"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10045225402",
+              "name": "X"
+            }
+          }
+        ],
+        "conversation_id": "2059849157066813673",
+        "created_at": "2026-05-28T04:08:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T05:08:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059849157066813673"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2059849157066813673",
+        "lang": "ko",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 372,
+          "impression_count": 366829,
+          "like_count": 9681,
+          "quote_count": 180,
+          "reply_count": 137,
+          "retweet_count": 4324
+        },
+        "reply_settings": "everyone",
+        "text": "트위터인간들 처음에 자동번역 업데이트때 다 혼란해하더니 이제 그냥 자국어로 다른나라 사람들이랑 키배뜨는 글로벌야차맨으로 진화함"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-12T18:50:19.000Z",
+        "description": "随缘//医学爱好者/Arknights/绘画/混乱日常碎碎念无营养内容/可能会很吵？ /les/lgbt友好/中文/EN//喵喵//提问箱↓ ↓ ↓",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ppppppppp38481",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ppppppppp38481",
+                "start": 0,
+                "url": "https://t.co/dw8CaO6ajX"
+              }
+            ]
+          }
+        },
+        "id": "1569397683814629379",
+        "location": "世界的尽头",
+        "name": "腐烂培根卷",
+        "pinned_tweet_id": "2012485424057291255",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953366409284861953/HM3Aeou7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 246,
+          "following_count": 1596,
+          "like_count": 8925,
+          "listed_count": 1,
+          "media_count": 104,
+          "tweet_count": 6483
+        },
+        "url": "https://t.co/dw8CaO6ajX",
+        "username": "ppppggggjjjj",
+        "verified": false
+      },
+      {
+        "created_at": "2010-03-19T15:19:21.000Z",
+        "description": "춤을 춰줘 지금 이 순간 내 작은 몸짓들이 어색하지 않게 / Punk band @band_idiots G.V / Podcast @bandjpopgatcha / YON TOWN / BKW",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 56,
+                "start": 44,
+                "username": "band_idiots"
+              },
+              {
+                "end": 86,
+                "start": 71,
+                "username": "bandjpopgatcha"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pushoong.com/ask/6360558478",
+                "end": 23,
+                "expanded_url": "https://pushoong.com/ask/6360558478",
+                "start": 0,
+                "url": "https://t.co/IXHljrx5X3"
+              }
+            ]
+          }
+        },
+        "id": "124488903",
+        "name": "주나주나☃️",
+        "pinned_tweet_id": "2006699365696749839",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1974876671779246081/Qk0E58cJ_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1886,
+          "following_count": 892,
+          "like_count": 16968,
+          "listed_count": 21,
+          "media_count": 15108,
+          "tweet_count": 127902
+        },
+        "url": "https://t.co/IXHljrx5X3",
+        "username": "tunacan1825",
+        "verified": false
+      }
+    ]
+  }
+}

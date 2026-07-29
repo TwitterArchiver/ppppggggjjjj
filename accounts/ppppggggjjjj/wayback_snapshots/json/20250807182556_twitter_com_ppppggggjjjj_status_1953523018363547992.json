@@ -1,0 +1,587 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1953180486559567872"
+      ],
+      "media_source_tweet_id": [
+        "1953180506251772117"
+      ]
+    },
+    "author_id": "1569397683814629379",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A video game like Overwatch",
+          "id": "71",
+          "name": "Video Game"
+        },
+        "entity": {
+          "id": "1233113060732092416",
+          "name": "Arknights"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Gaming",
+          "id": "847527650667094017",
+          "name": "Gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1070028159964262400",
+          "name": "Video games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1233113060732092416",
+          "name": "Arknights"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1491897789013393420",
+          "name": "Strategy games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1491900085583577097",
+          "name": "Idol games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1491900373098921986",
+          "name": "Gacha games"
+        }
+      }
+    ],
+    "conversation_id": "1953523018363547992",
+    "created_at": "2025-08-07T18:25:56.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-07T19:25:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1953523018363547992"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 20,
+          "normalized_text": "Mudrock",
+          "probability": 0.5729,
+          "start": 14,
+          "type": "Other"
+        }
+      ],
+      "hashtags": [
+        {
+          "end": 29,
+          "start": 22,
+          "tag": "アークナイツ"
+        },
+        {
+          "end": 36,
+          "start": 30,
+          "tag": "マドロック"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1512423335824871434",
+          "start": 3,
+          "username": "Coring_x"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Fjn3MqHCsS",
+          "end": 60,
+          "expanded_url": "https://x.com/Coring_x/status/1953180506251772117/photo/1",
+          "media_key": "3_1953180486559567872",
+          "start": 37,
+          "url": "https://t.co/Fjn3MqHCsS"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1953523018363547992",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 277
+    },
+    "referenced_tweets": [
+      {
+        "id": "1953180506251772117",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Coring_x: Mudrock\n#アークナイツ #マドロック https://t.co/Fjn3MqHCsS"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1520,
+        "media_key": "3_1953180486559567872",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GxsXTdubkAADhrm.jpg",
+        "width": 1040
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1953180486559567872"
+          ],
+          "media_source_tweet_id": [
+            "1953180506251772117"
+          ]
+        },
+        "author_id": "1569397683814629379",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1233113060732092416",
+              "name": "Arknights"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1233113060732092416",
+              "name": "Arknights"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491897789013393420",
+              "name": "Strategy games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491900085583577097",
+              "name": "Idol games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491900373098921986",
+              "name": "Gacha games"
+            }
+          }
+        ],
+        "conversation_id": "1953523018363547992",
+        "created_at": "2025-08-07T18:25:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-07T19:25:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1953523018363547992"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 20,
+              "normalized_text": "Mudrock",
+              "probability": 0.5729,
+              "start": 14,
+              "type": "Other"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 29,
+              "start": 22,
+              "tag": "アークナイツ"
+            },
+            {
+              "end": 36,
+              "start": 30,
+              "tag": "マドロック"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1512423335824871434",
+              "start": 3,
+              "username": "Coring_x"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Fjn3MqHCsS",
+              "end": 60,
+              "expanded_url": "https://x.com/Coring_x/status/1953180506251772117/photo/1",
+              "media_key": "3_1953180486559567872",
+              "start": 37,
+              "url": "https://t.co/Fjn3MqHCsS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1953523018363547992",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 277
+        },
+        "referenced_tweets": [
+          {
+            "id": "1953180506251772117",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Coring_x: Mudrock\n#アークナイツ #マドロック https://t.co/Fjn3MqHCsS"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1953180486559567872"
+          ]
+        },
+        "author_id": "1512423335824871434",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1233113060732092416",
+              "name": "Arknights"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1233113060732092416",
+              "name": "Arknights"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491897789013393420",
+              "name": "Strategy games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491900085583577097",
+              "name": "Idol games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491900373098921986",
+              "name": "Gacha games"
+            }
+          }
+        ],
+        "conversation_id": "1953180506251772117",
+        "created_at": "2025-08-06T19:44:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-06T20:44:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1953180506251772117"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 6,
+              "normalized_text": "Mudrock",
+              "probability": 0.7612,
+              "start": 0,
+              "type": "Other"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 15,
+              "start": 8,
+              "tag": "アークナイツ"
+            },
+            {
+              "end": 22,
+              "start": 16,
+              "tag": "マドロック"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Fjn3MqHCsS",
+              "end": 46,
+              "expanded_url": "https://x.com/Coring_x/status/1953180506251772117/photo/1",
+              "media_key": "3_1953180486559567872",
+              "start": 23,
+              "url": "https://t.co/Fjn3MqHCsS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1953180506251772117",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 408,
+          "impression_count": 43027,
+          "like_count": 3289,
+          "quote_count": 1,
+          "reply_count": 4,
+          "retweet_count": 277
+        },
+        "reply_settings": "everyone",
+        "text": "Mudrock\n#アークナイツ #マドロック https://t.co/Fjn3MqHCsS"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-12T18:50:19.000Z",
+        "description": "随缘//医学爱好者/les🏳️‍🌈/lgbt友好/中文/EN/Arknights/绘画/混乱日常碎碎念/很吵//喵喵",
+        "id": "1569397683814629379",
+        "location": "世界的尽头",
+        "name": "腐烂培根卷",
+        "pinned_tweet_id": "1937498024907010498",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953366409284861953/HM3Aeou7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 103,
+          "following_count": 637,
+          "like_count": 1755,
+          "listed_count": 0,
+          "media_count": 51,
+          "tweet_count": 2069
+        },
+        "username": "ppppggggjjjj",
+        "verified": false
+      },
+      {
+        "created_at": "2022-04-08T13:33:28.000Z",
+        "description": "All illustrations I post use an AI generator. + @\nBlue Archive, Arknights and Many Subculture characters.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/20587367",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/20587367",
+                "start": 0,
+                "url": "https://t.co/vQKlZegYMi"
+              }
+            ]
+          }
+        },
+        "id": "1512423335824871434",
+        "name": "Coring",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1947705592698843136/UAQx4y6g_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 28423,
+          "following_count": 820,
+          "like_count": 4485,
+          "listed_count": 142,
+          "media_count": 1117,
+          "tweet_count": 1248
+        },
+        "url": "https://t.co/vQKlZegYMi",
+        "username": "Coring_x",
+        "verified": true
+      }
+    ]
+  }
+}

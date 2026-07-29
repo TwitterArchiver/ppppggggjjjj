@@ -1,0 +1,246 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1987514417781858304"
+      ],
+      "media_source_tweet_id": [
+        "1987514425386136031"
+      ]
+    },
+    "author_id": "1569397683814629379",
+    "conversation_id": "1987903007351275597",
+    "created_at": "2025-11-10T15:19:45.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-10T16:19:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1987903007351275597"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1507396901594820608",
+          "start": 3,
+          "username": "hgds0"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Fef509pqbY",
+          "end": 34,
+          "expanded_url": "https://x.com/hgds0/status/1987514425386136031/photo/1",
+          "media_key": "3_1987514417781858304",
+          "start": 11,
+          "url": "https://t.co/Fef509pqbY"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1987903007351275597",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 39
+    },
+    "referenced_tweets": [
+      {
+        "id": "1987514425386136031",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @hgds0: https://t.co/Fef509pqbY"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1003,
+        "media_key": "3_1987514417781858304",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5UR1Sna4AAhv_f.jpg",
+        "width": 1264
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1987514417781858304"
+          ],
+          "media_source_tweet_id": [
+            "1987514425386136031"
+          ]
+        },
+        "author_id": "1569397683814629379",
+        "conversation_id": "1987903007351275597",
+        "created_at": "2025-11-10T15:19:45.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-10T16:19:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1987903007351275597"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1507396901594820608",
+              "start": 3,
+              "username": "hgds0"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Fef509pqbY",
+              "end": 34,
+              "expanded_url": "https://x.com/hgds0/status/1987514425386136031/photo/1",
+              "media_key": "3_1987514417781858304",
+              "start": 11,
+              "url": "https://t.co/Fef509pqbY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1987903007351275597",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 39
+        },
+        "referenced_tweets": [
+          {
+            "id": "1987514425386136031",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @hgds0: https://t.co/Fef509pqbY"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1987514417781858304"
+          ]
+        },
+        "author_id": "1507396901594820608",
+        "conversation_id": "1987514425386136031",
+        "created_at": "2025-11-09T13:35:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-09T14:35:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1987514425386136031"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Fef509pqbY",
+              "end": 23,
+              "expanded_url": "https://x.com/hgds0/status/1987514425386136031/photo/1",
+              "media_key": "3_1987514417781858304",
+              "start": 0,
+              "url": "https://t.co/Fef509pqbY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1987514425386136031",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 19,
+          "impression_count": 45649,
+          "like_count": 590,
+          "quote_count": 10,
+          "reply_count": 5,
+          "retweet_count": 39
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/Fef509pqbY"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-12T18:50:19.000Z",
+        "description": "随缘//医学爱好者/les🏳️‍🌈/lgbt友好/中文/EN/Arknights/绘画/混乱日常碎碎念/很吵//喵喵 【永远拥护培根卷番茄！】",
+        "id": "1569397683814629379",
+        "location": "世界的尽头",
+        "name": "腐烂培根卷",
+        "pinned_tweet_id": "1937498024907010498",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953366409284861953/HM3Aeou7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 129,
+          "following_count": 772,
+          "like_count": 2634,
+          "listed_count": 1,
+          "media_count": 79,
+          "tweet_count": 3634
+        },
+        "username": "ppppggggjjjj",
+        "verified": false
+      },
+      {
+        "created_at": "2022-03-25T16:40:26.000Z",
+        "description": "港归小姐姐:@Maymaydouble",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 6,
+                "username": "Maymaydouble"
+              }
+            ]
+          }
+        },
+        "id": "1507396901594820608",
+        "name": "恋",
+        "pinned_tweet_id": "1987557574078796094",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1853640703144046592/OC2mQ87G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 93790,
+          "following_count": 2748,
+          "like_count": 43262,
+          "listed_count": 126,
+          "media_count": 3014,
+          "tweet_count": 7328
+        },
+        "username": "hgds0",
+        "verified": true
+      }
+    ]
+  }
+}

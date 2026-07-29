@@ -1,0 +1,249 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2043308753861378049"
+      ],
+      "media_source_tweet_id": [
+        "2043309489378771070"
+      ]
+    },
+    "author_id": "1569397683814629379",
+    "conversation_id": "2043375764851294288",
+    "created_at": "2026-04-12T17:08:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-12T18:08:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2043375764851294288"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1076728957041438721",
+          "start": 3,
+          "username": "FgoZaffe"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/8q8IZEtMeR",
+          "end": 40,
+          "expanded_url": "https://x.com/FgoZaffe/status/2043309489378771070/photo/1",
+          "media_key": "3_2043308753861378049",
+          "start": 17,
+          "url": "https://t.co/8q8IZEtMeR"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2043375764851294288",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 42
+    },
+    "referenced_tweets": [
+      {
+        "id": "2043309489378771070",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @FgoZaffe: ジー https://t.co/8q8IZEtMeR"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 886,
+        "media_key": "3_2043308753861378049",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFtKfFhagAE1HqU.jpg",
+        "width": 1481
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2043308753861378049"
+          ],
+          "media_source_tweet_id": [
+            "2043309489378771070"
+          ]
+        },
+        "author_id": "1569397683814629379",
+        "conversation_id": "2043375764851294288",
+        "created_at": "2026-04-12T17:08:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-12T18:08:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043375764851294288"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1076728957041438721",
+              "start": 3,
+              "username": "FgoZaffe"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/8q8IZEtMeR",
+              "end": 40,
+              "expanded_url": "https://x.com/FgoZaffe/status/2043309489378771070/photo/1",
+              "media_key": "3_2043308753861378049",
+              "start": 17,
+              "url": "https://t.co/8q8IZEtMeR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043375764851294288",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 42
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043309489378771070",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @FgoZaffe: ジー https://t.co/8q8IZEtMeR"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2043308753861378049"
+          ]
+        },
+        "author_id": "1076728957041438721",
+        "conversation_id": "2043309489378771070",
+        "created_at": "2026-04-12T12:45:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-12T13:45:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2043309489378771070"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/8q8IZEtMeR",
+              "end": 26,
+              "expanded_url": "https://x.com/FgoZaffe/status/2043309489378771070/photo/1",
+              "media_key": "3_2043308753861378049",
+              "start": 3,
+              "url": "https://t.co/8q8IZEtMeR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043309489378771070",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 31,
+          "impression_count": 2949,
+          "like_count": 268,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 42
+        },
+        "reply_settings": "everyone",
+        "text": "ジー https://t.co/8q8IZEtMeR"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-12T18:50:19.000Z",
+        "description": "随缘//医学/Arknights/绘画/混乱日常碎碎念无营养内容/可能会很吵？ /les/lgbt友好/中文/EN//喵喵//提问箱↓ ↓ ↓",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ppppppppp38481",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ppppppppp38481",
+                "start": 0,
+                "url": "https://t.co/dw8CaO6ajX"
+              }
+            ]
+          }
+        },
+        "id": "1569397683814629379",
+        "location": "世界的尽头",
+        "name": "腐烂培根卷",
+        "pinned_tweet_id": "2012485424057291255",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953366409284861953/HM3Aeou7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 197,
+          "following_count": 1246,
+          "like_count": 6304,
+          "listed_count": 1,
+          "media_count": 98,
+          "tweet_count": 5043
+        },
+        "url": "https://t.co/dw8CaO6ajX",
+        "username": "ppppggggjjjj",
+        "verified": false
+      },
+      {
+        "created_at": "2018-12-23T06:39:22.000Z",
+        "description": "",
+        "id": "1076728957041438721",
+        "name": "机动感应文森特",
+        "pinned_tweet_id": "1859617029604638882",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2030884810462531584/Sys47xhJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 526,
+          "following_count": 81,
+          "like_count": 299,
+          "listed_count": 0,
+          "media_count": 33,
+          "tweet_count": 144
+        },
+        "username": "FgoZaffe",
+        "verified": false
+      }
+    ]
+  }
+}

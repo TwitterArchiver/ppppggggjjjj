@@ -1,0 +1,411 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2056888429204619264"
+      ],
+      "media_source_tweet_id": [
+        "2056888431746421095"
+      ]
+    },
+    "author_id": "1569397683814629379",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+          "id": "67",
+          "name": "Interests and Hobbies"
+        },
+        "entity": {
+          "description": "Drawing and sketching",
+          "id": "847869251595542528",
+          "name": "Drawing & illustration"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Drawing and sketching",
+          "id": "847869251595542528",
+          "name": "Drawing & illustration"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Visual Arts",
+          "id": "1046577790353428480",
+          "name": "Visual arts"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1265660441822281728",
+          "name": "Art"
+        }
+      }
+    ],
+    "conversation_id": "2056949160373579818",
+    "created_at": "2026-05-20T04:04:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-20T05:04:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2056949160373579818"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1482627972394029060",
+          "start": 3,
+          "username": "tkks___"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/yqmS4IF4yN",
+          "end": 56,
+          "expanded_url": "https://x.com/tkks___/status/2056888431746421095/photo/1",
+          "media_key": "3_2056888429204619264",
+          "start": 33,
+          "url": "https://t.co/yqmS4IF4yN"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056949160373579818",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 54
+    },
+    "referenced_tweets": [
+      {
+        "id": "2056888431746421095",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @tkks___: 学校で描いた落書きエクシア‼️‼️‼️ https://t.co/yqmS4IF4yN"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2056888429204619264",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIuJIOVaQAAlkiN.jpg",
+        "width": 2018
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2056888429204619264"
+          ],
+          "media_source_tweet_id": [
+            "2056888431746421095"
+          ]
+        },
+        "author_id": "1569397683814629379",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Drawing and sketching",
+              "id": "847869251595542528",
+              "name": "Drawing & illustration"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Drawing and sketching",
+              "id": "847869251595542528",
+              "name": "Drawing & illustration"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Visual Arts",
+              "id": "1046577790353428480",
+              "name": "Visual arts"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1265660441822281728",
+              "name": "Art"
+            }
+          }
+        ],
+        "conversation_id": "2056949160373579818",
+        "created_at": "2026-05-20T04:04:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-20T05:04:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056949160373579818"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1482627972394029060",
+              "start": 3,
+              "username": "tkks___"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/yqmS4IF4yN",
+              "end": 56,
+              "expanded_url": "https://x.com/tkks___/status/2056888431746421095/photo/1",
+              "media_key": "3_2056888429204619264",
+              "start": 33,
+              "url": "https://t.co/yqmS4IF4yN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056949160373579818",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 54
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056888431746421095",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @tkks___: 学校で描いた落書きエクシア‼️‼️‼️ https://t.co/yqmS4IF4yN"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2056888429204619264"
+          ]
+        },
+        "author_id": "1482627972394029060",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Drawing and sketching",
+              "id": "847869251595542528",
+              "name": "Drawing & illustration"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Drawing and sketching",
+              "id": "847869251595542528",
+              "name": "Drawing & illustration"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Visual Arts",
+              "id": "1046577790353428480",
+              "name": "Visual arts"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1265660441822281728",
+              "name": "Art"
+            }
+          }
+        ],
+        "conversation_id": "2056888431746421095",
+        "created_at": "2026-05-20T00:03:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-20T01:03:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2056888431746421095"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/yqmS4IF4yN",
+              "end": 43,
+              "expanded_url": "https://x.com/tkks___/status/2056888431746421095/photo/1",
+              "media_key": "3_2056888429204619264",
+              "start": 20,
+              "url": "https://t.co/yqmS4IF4yN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056888431746421095",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 34,
+          "impression_count": 3118,
+          "like_count": 422,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 54
+        },
+        "reply_settings": "everyone",
+        "text": "学校で描いた落書きエクシア‼️‼️‼️ https://t.co/yqmS4IF4yN"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-12T18:50:19.000Z",
+        "description": "随缘//医学爱好者/Arknights/绘画/混乱日常碎碎念无营养内容/可能会很吵？ /les/lgbt友好/中文/EN//喵喵//提问箱↓ ↓ ↓",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ppppppppp38481",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ppppppppp38481",
+                "start": 0,
+                "url": "https://t.co/dw8CaO6ajX"
+              }
+            ]
+          }
+        },
+        "id": "1569397683814629379",
+        "location": "世界的尽头",
+        "name": "腐烂培根卷",
+        "pinned_tweet_id": "2012485424057291255",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953366409284861953/HM3Aeou7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 245,
+          "following_count": 1526,
+          "like_count": 8291,
+          "listed_count": 1,
+          "media_count": 100,
+          "tweet_count": 6193
+        },
+        "url": "https://t.co/dw8CaO6ajX",
+        "username": "ppppggggjjjj",
+        "verified": false
+      },
+      {
+        "created_at": "2022-01-16T08:17:44.000Z",
+        "description": "18↑/ツイフィ必読/大人びてるガキ/😈🍎・😈🐦‍🔥・🐺🐺",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "twpf.jp/tkks___",
+                "end": 23,
+                "expanded_url": "https://twpf.jp/tkks___",
+                "start": 0,
+                "url": "https://t.co/rbBMW89lcF"
+              }
+            ]
+          }
+        },
+        "id": "1482627972394029060",
+        "location": "アイコンは後輩から",
+        "name": "鴨跖草",
+        "pinned_tweet_id": "2041425482311471542",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1954066067233648640/dlGkw9MU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 796,
+          "following_count": 165,
+          "like_count": 8779,
+          "listed_count": 9,
+          "media_count": 1741,
+          "tweet_count": 10624
+        },
+        "url": "https://t.co/rbBMW89lcF",
+        "username": "tkks___",
+        "verified": false
+      }
+    ]
+  }
+}

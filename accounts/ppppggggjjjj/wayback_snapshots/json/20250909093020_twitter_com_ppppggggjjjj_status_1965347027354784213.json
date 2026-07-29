@@ -1,0 +1,176 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1569397683814629379",
+    "conversation_id": "1965347027354784213",
+    "created_at": "2025-09-09T09:30:20.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-09T10:30:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1965347027354784213"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1592820644919533569",
+          "start": 3,
+          "username": "huajimeirenr"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1965347027354784213",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1965344620252201472",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @huajimeirenr: 很多时候都在思考对与错 睡不着的时候数人生的错误 往后的日子只求不做让自己后悔的事 祝人生永远傻乐"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1569397683814629379",
+        "conversation_id": "1965347027354784213",
+        "created_at": "2025-09-09T09:30:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-09T10:30:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1965347027354784213"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1592820644919533569",
+              "start": 3,
+              "username": "huajimeirenr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1965347027354784213",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1965344620252201472",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @huajimeirenr: 很多时候都在思考对与错 睡不着的时候数人生的错误 往后的日子只求不做让自己后悔的事 祝人生永远傻乐"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1592820644919533569",
+        "conversation_id": "1965344620252201472",
+        "created_at": "2025-09-09T09:20:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-09T10:20:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1965344620252201472"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1965344620252201472",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "很多时候都在思考对与错 睡不着的时候数人生的错误 往后的日子只求不做让自己后悔的事 祝人生永远傻乐"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-12T18:50:19.000Z",
+        "description": "随缘//医学爱好者/les🏳️‍🌈/lgbt友好/中文/EN/Arknights/绘画/混乱日常碎碎念/很吵//喵喵 【永远拥护培根卷番茄！】",
+        "id": "1569397683814629379",
+        "location": "世界的尽头",
+        "name": "腐烂培根卷",
+        "pinned_tweet_id": "1937498024907010498",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953366409284861953/HM3Aeou7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 102,
+          "following_count": 681,
+          "like_count": 1997,
+          "listed_count": 1,
+          "media_count": 59,
+          "tweet_count": 2551
+        },
+        "username": "ppppggggjjjj",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-16T10:03:44.000Z",
+        "description": "好好学习天天向上",
+        "id": "1592820644919533569",
+        "name": "下辈子不学医了",
+        "pinned_tweet_id": "1963206853426606125",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1937139857052127232/kBgfsnnd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 201,
+          "following_count": 35,
+          "like_count": 1474,
+          "listed_count": 1,
+          "media_count": 169,
+          "tweet_count": 469
+        },
+        "username": "huajimeirenr",
+        "verified": false
+      }
+    ]
+  }
+}

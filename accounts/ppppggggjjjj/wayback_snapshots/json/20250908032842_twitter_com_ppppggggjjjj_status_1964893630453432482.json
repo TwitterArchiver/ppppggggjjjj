@@ -1,0 +1,399 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1569397683814629379",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "General Fashion",
+          "id": "844604232737087488",
+          "name": "General Fashion"
+        }
+      },
+      {
+        "domain": {
+          "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+          "id": "67",
+          "name": "Interests and Hobbies"
+        },
+        "entity": {
+          "description": "Outerwear",
+          "id": "846722850627080192",
+          "name": "Outerwear"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Outerwear",
+          "id": "846722850627080192",
+          "name": "Outerwear"
+        }
+      },
+      {
+        "domain": {
+          "description": "A product taxonomy for labeling categories of products. ",
+          "id": "173",
+          "name": "Product Taxonomy"
+        },
+        "entity": {
+          "description": "Outerwear",
+          "id": "846722850627080192",
+          "name": "Outerwear"
+        }
+      }
+    ],
+    "conversation_id": "1964893630453432482",
+    "created_at": "2025-09-08T03:28:42.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-08T04:28:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1964893630453432482"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/akaney_staff/s…",
+          "end": 40,
+          "expanded_url": "https://twitter.com/akaney_staff/status/1964599524342845787",
+          "start": 17,
+          "url": "https://t.co/qPxdNpW0J6"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1964893630453432482",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1964599524342845787",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "好想买但是感觉没有穿的机会太热了 https://t.co/qPxdNpW0J6"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1066,
+        "media_key": "3_1964557392043266049",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G0OCihWbUAEV4h-.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1569397683814629379",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "General Fashion",
+              "id": "844604232737087488",
+              "name": "General Fashion"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Outerwear",
+              "id": "846722850627080192",
+              "name": "Outerwear"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Outerwear",
+              "id": "846722850627080192",
+              "name": "Outerwear"
+            }
+          },
+          {
+            "domain": {
+              "description": "A product taxonomy for labeling categories of products. ",
+              "id": "173",
+              "name": "Product Taxonomy"
+            },
+            "entity": {
+              "description": "Outerwear",
+              "id": "846722850627080192",
+              "name": "Outerwear"
+            }
+          }
+        ],
+        "conversation_id": "1964893630453432482",
+        "created_at": "2025-09-08T03:28:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-08T04:28:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1964893630453432482"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/akaney_staff/s…",
+              "end": 40,
+              "expanded_url": "https://twitter.com/akaney_staff/status/1964599524342845787",
+              "start": 17,
+              "url": "https://t.co/qPxdNpW0J6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1964893630453432482",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1964599524342845787",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "好想买但是感觉没有穿的机会太热了 https://t.co/qPxdNpW0J6"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1964557392043266049"
+          ]
+        },
+        "author_id": "1855483526843645952",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "General Fashion",
+              "id": "844604232737087488",
+              "name": "General Fashion"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Outerwear",
+              "id": "846722850627080192",
+              "name": "Outerwear"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Outerwear",
+              "id": "846722850627080192",
+              "name": "Outerwear"
+            }
+          },
+          {
+            "domain": {
+              "description": "A product taxonomy for labeling categories of products. ",
+              "id": "173",
+              "name": "Product Taxonomy"
+            },
+            "entity": {
+              "description": "Outerwear",
+              "id": "846722850627080192",
+              "name": "Outerwear"
+            }
+          }
+        ],
+        "conversation_id": "1964599524342845787",
+        "created_at": "2025-09-07T08:00:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-07T09:00:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1964599524342845787"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "【受注生産限定】 発送予定時期：9月下旬〜10月上旬 サイズ：FREE 身丈(cm)　76 身巾(cm)　78 肩巾(cm)　74 袖巾(cm)　53",
+              "display_url": "fanicon.net/web/shops/6046…",
+              "end": 65,
+              "expanded_url": "https://fanicon.net/web/shops/6046/items/19510",
+              "images": [
+                {
+                  "height": 842,
+                  "url": "https://pbs.twimg.com/news_img/1964599566860505092/MhGWa2-K?format=jpg&name=orig",
+                  "width": 842
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/1964599566860505092/MhGWa2-K?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 42,
+              "status": 200,
+              "title": "ビッグシルエットプルオーバーパーカー",
+              "unwound_url": "https://fanicon.net/web/shops/6046/items/19510",
+              "url": "https://t.co/QX4jZrZ3dd"
+            },
+            {
+              "display_url": "pic.x.com/mWxnT1596Z",
+              "end": 89,
+              "expanded_url": "https://x.com/AkaneY_STAFF/status/1964599524342845787/photo/1",
+              "media_key": "3_1964557392043266049",
+              "start": 66,
+              "url": "https://t.co/mWxnT1596Z"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1964599524342845787",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 10,
+          "impression_count": 33818,
+          "like_count": 437,
+          "quote_count": 5,
+          "reply_count": 2,
+          "retweet_count": 49
+        },
+        "reply_settings": "everyone",
+        "text": "【締切までまもなく⚠️】\n\n本日23:59でパーカーの受注受付が終了となります❗️\nhttps://t.co/QX4jZrZ3dd https://t.co/mWxnT1596Z"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-12T18:50:19.000Z",
+        "description": "随缘//医学爱好者/les🏳️‍🌈/lgbt友好/中文/EN/Arknights/绘画/混乱日常碎碎念/很吵//喵喵 【永远拥护培根卷番茄！】",
+        "id": "1569397683814629379",
+        "location": "世界的尽头",
+        "name": "腐烂培根卷",
+        "pinned_tweet_id": "1937498024907010498",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953366409284861953/HM3Aeou7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 102,
+          "following_count": 680,
+          "like_count": 1965,
+          "listed_count": 1,
+          "media_count": 59,
+          "tweet_count": 2497
+        },
+        "username": "ppppggggjjjj",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-10T05:32:55.000Z",
+        "description": "米澤茜(@AkaneY_banu )のスタッフアカウントです✨  \n#米澤茜 #AkaneYonezawa \nファンレター・プレゼントは \n〒107-0062東京都港区南青山3-3-3リビエラ南青山A402 米澤茜宛\nお仕事の依頼はakaney.staff@gmail.comまで❗️",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 38,
+                "start": 34,
+                "tag": "米澤茜"
+              },
+              {
+                "end": 53,
+                "start": 39,
+                "tag": "AkaneYonezawa"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 16,
+                "start": 4,
+                "username": "AkaneY_banu"
+              }
+            ]
+          }
+        },
+        "id": "1855483526843645952",
+        "name": "米澤茜 STAFF",
+        "pinned_tweet_id": "1961353141817151793",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1855898502620184576/zXBGz5_P_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3972,
+          "following_count": 5,
+          "like_count": 8,
+          "listed_count": 25,
+          "media_count": 35,
+          "tweet_count": 199
+        },
+        "username": "AkaneY_STAFF",
+        "verified": false
+      }
+    ]
+  }
+}

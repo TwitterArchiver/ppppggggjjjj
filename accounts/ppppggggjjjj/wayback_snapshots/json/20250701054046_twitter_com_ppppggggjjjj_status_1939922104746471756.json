@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1939922091710578688"
+      ]
+    },
+    "author_id": "1569397683814629379",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1939922104746471756",
+    "created_at": "2025-07-01T05:40:46.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-01T06:40:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1939922104746471756"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/GSictIhGT8",
+          "end": 27,
+          "expanded_url": "https://x.com/ppppggggjjjj/status/1939922104746471756/photo/1",
+          "media_key": "3_1939922091710578688",
+          "start": 4,
+          "url": "https://t.co/GSictIhGT8"
+        },
+        {
+          "display_url": "x.com/ppppggggjjjj/s…",
+          "end": 51,
+          "expanded_url": "https://twitter.com/ppppggggjjjj/status/1939919555146707123",
+          "start": 28,
+          "url": "https://t.co/M1AmutqLRc"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1939922104746471756",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1939919555146707123",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "接上集 https://t.co/GSictIhGT8 https://t.co/M1AmutqLRc"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1184,
+        "media_key": "3_1939922091710578688",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Guv83UBXgAAp0Ad.jpg",
+        "width": 1320
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1939922091710578688"
+          ]
+        },
+        "author_id": "1569397683814629379",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1939922104746471756",
+        "created_at": "2025-07-01T05:40:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-01T06:40:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1939922104746471756"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/GSictIhGT8",
+              "end": 27,
+              "expanded_url": "https://x.com/ppppggggjjjj/status/1939922104746471756/photo/1",
+              "media_key": "3_1939922091710578688",
+              "start": 4,
+              "url": "https://t.co/GSictIhGT8"
+            },
+            {
+              "display_url": "x.com/ppppggggjjjj/s…",
+              "end": 51,
+              "expanded_url": "https://twitter.com/ppppggggjjjj/status/1939919555146707123",
+              "start": 28,
+              "url": "https://t.co/M1AmutqLRc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1939922104746471756",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1939919555146707123",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "接上集 https://t.co/GSictIhGT8 https://t.co/M1AmutqLRc"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1569397683814629379",
+        "conversation_id": "1939919555146707123",
+        "created_at": "2025-07-01T05:30:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-01T06:30:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1939919555146707123"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1939919555146707123",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我活着干啥"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-12T18:50:19.000Z",
+        "description": "随缘//医学爱好者/les🏳️‍🌈/lgbt友好/中文/EN/Arknights/绘画/混乱日常碎碎念/很吵//喵喵",
+        "id": "1569397683814629379",
+        "name": "腐烂苹果酱",
+        "pinned_tweet_id": "1937498024907010498",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1620839959388393479/hsMKvVei_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 24,
+          "following_count": 240,
+          "like_count": 368,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 585
+        },
+        "username": "ppppggggjjjj",
+        "verified": false
+      }
+    ]
+  }
+}

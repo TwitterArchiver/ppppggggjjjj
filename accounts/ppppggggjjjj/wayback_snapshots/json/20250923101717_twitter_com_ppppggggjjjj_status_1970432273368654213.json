@@ -1,0 +1,439 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1569397683814629379",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A genre for books, like Fiction",
+          "id": "85",
+          "name": "Book Genre"
+        },
+        "entity": {
+          "description": "Comics",
+          "id": "847521144173350912",
+          "name": "Comics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "839544274442051584",
+          "name": "Entertainment"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Comics",
+          "id": "847521144173350912",
+          "name": "Comics"
+        }
+      }
+    ],
+    "conversation_id": "1970432273368654213",
+    "created_at": "2025-09-23T10:17:17.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-23T11:17:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1970432273368654213"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 39,
+          "normalized_text": "ケルシー先生",
+          "probability": 0.775,
+          "start": 34,
+          "type": "Person"
+        },
+        {
+          "end": 58,
+          "normalized_text": "モンちゃん",
+          "probability": 0.7087,
+          "start": 54,
+          "type": "Person"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 18,
+          "id": "958523406114160640",
+          "start": 3,
+          "username": "HUUGA_SARASINA"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1970432273368654213",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 264
+    },
+    "referenced_tweets": [
+      {
+        "id": "1969908955876147608",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @HUUGA_SARASINA: 普通の漫画とかゲームならさ、ケルシー先生が残したMon3trの繭からモンちゃんが現れて、それで危機的状況をなんとかする。\n　\nって展開にしそうなもんだけど、\n普通に後日、なんか目覚めました。\n　\nってするの、ほんま珍しいよね。\n　\nモンち…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1080,
+        "media_key": "3_1969908949937004544",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G1aFwMDboAAy7KT.jpg",
+        "width": 1332
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1569397683814629379",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A genre for books, like Fiction",
+              "id": "85",
+              "name": "Book Genre"
+            },
+            "entity": {
+              "description": "Comics",
+              "id": "847521144173350912",
+              "name": "Comics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839544274442051584",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Comics",
+              "id": "847521144173350912",
+              "name": "Comics"
+            }
+          }
+        ],
+        "conversation_id": "1970432273368654213",
+        "created_at": "2025-09-23T10:17:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-23T11:17:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1970432273368654213"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 39,
+              "normalized_text": "ケルシー先生",
+              "probability": 0.775,
+              "start": 34,
+              "type": "Person"
+            },
+            {
+              "end": 58,
+              "normalized_text": "モンちゃん",
+              "probability": 0.7087,
+              "start": 54,
+              "type": "Person"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 18,
+              "id": "958523406114160640",
+              "start": 3,
+              "username": "HUUGA_SARASINA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1970432273368654213",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 264
+        },
+        "referenced_tweets": [
+          {
+            "id": "1969908955876147608",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @HUUGA_SARASINA: 普通の漫画とかゲームならさ、ケルシー先生が残したMon3trの繭からモンちゃんが現れて、それで危機的状況をなんとかする。\n　\nって展開にしそうなもんだけど、\n普通に後日、なんか目覚めました。\n　\nってするの、ほんま珍しいよね。\n　\nモンち…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1969908949937004544"
+          ]
+        },
+        "author_id": "958523406114160640",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A genre for books, like Fiction",
+              "id": "85",
+              "name": "Book Genre"
+            },
+            "entity": {
+              "description": "Comics",
+              "id": "847521144173350912",
+              "name": "Comics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839544274442051584",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Comics",
+              "id": "847521144173350912",
+              "name": "Comics"
+            }
+          }
+        ],
+        "conversation_id": "1969908955876147608",
+        "created_at": "2025-09-21T23:37:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-22T00:37:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1969908955876147608"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 19,
+              "normalized_text": "ケルシー先生",
+              "probability": 0.7539,
+              "start": 14,
+              "type": "Person"
+            },
+            {
+              "end": 38,
+              "normalized_text": "モンちゃん",
+              "probability": 0.6996,
+              "start": 34,
+              "type": "Person"
+            },
+            {
+              "end": 120,
+              "normalized_text": "モンちゃん",
+              "probability": 0.8016,
+              "start": 116,
+              "type": "Person"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/phszyYzdk7",
+              "end": 170,
+              "expanded_url": "https://x.com/HUUGA_SARASINA/status/1969908955876147608/photo/1",
+              "media_key": "3_1969908949937004544",
+              "start": 147,
+              "url": "https://t.co/phszyYzdk7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1969908955876147608",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 440,
+          "impression_count": 82171,
+          "like_count": 3648,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 264
+        },
+        "reply_settings": "everyone",
+        "text": "普通の漫画とかゲームならさ、ケルシー先生が残したMon3trの繭からモンちゃんが現れて、それで危機的状況をなんとかする。\n　\nって展開にしそうなもんだけど、\n普通に後日、なんか目覚めました。\n　\nってするの、ほんま珍しいよね。\n　\nモンちゃんの活躍で切り抜けられたぜ！\nと、やりがちな所をさ。 https://t.co/phszyYzdk7"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-12T18:50:19.000Z",
+        "description": "随缘//医学爱好者/les🏳️‍🌈/lgbt友好/中文/EN/Arknights/绘画/混乱日常碎碎念/很吵//喵喵 【永远拥护培根卷番茄！】",
+        "id": "1569397683814629379",
+        "location": "世界的尽头",
+        "name": "腐烂培根卷",
+        "pinned_tweet_id": "1937498024907010498",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953366409284861953/HM3Aeou7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 111,
+          "following_count": 703,
+          "like_count": 2204,
+          "listed_count": 1,
+          "media_count": 63,
+          "tweet_count": 2894
+        },
+        "username": "ppppggggjjjj",
+        "verified": false
+      },
+      {
+        "created_at": "2018-01-31T02:12:43.000Z",
+        "description": "アークナイツ(明日方舟)がメイン。ロサ ドクター 。　    ブルーアーカイブ ホシノ。ＦＧＯ　    \nバンドリ！ 紗夜。カプ 紗夜つぐ。  \n好きな武将  古田織部。 好きな偉人 平清盛  昭和天皇。(コーヒー好き) 。",
+        "id": "958523406114160640",
+        "name": "更科風雅@(アダ名は ふが君)",
+        "pinned_tweet_id": "1343595464474562560",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1119864946114699264/9jjoETtq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3353,
+          "following_count": 5273,
+          "like_count": 750060,
+          "listed_count": 29,
+          "media_count": 5857,
+          "tweet_count": 137076
+        },
+        "username": "HUUGA_SARASINA",
+        "verified": false
+      }
+    ]
+  }
+}

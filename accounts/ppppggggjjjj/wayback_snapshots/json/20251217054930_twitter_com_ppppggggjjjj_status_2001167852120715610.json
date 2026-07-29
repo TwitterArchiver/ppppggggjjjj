@@ -1,0 +1,249 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2000970416769372161"
+      ],
+      "media_source_tweet_id": [
+        "2000970421139857789"
+      ]
+    },
+    "author_id": "1569397683814629379",
+    "conversation_id": "2001167852120715610",
+    "created_at": "2025-12-17T05:49:30.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-17T06:49:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2001167852120715610"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1743284812654493696",
+          "start": 3,
+          "username": "kokusou_0123"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/g1igwITXUK",
+          "end": 41,
+          "expanded_url": "https://x.com/kokusou_0123/status/2000970421139857789/photo/1",
+          "media_key": "3_2000970416769372161",
+          "start": 18,
+          "url": "https://t.co/g1igwITXUK"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2001167852120715610",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 354
+    },
+    "referenced_tweets": [
+      {
+        "id": "2000970421139857789",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @kokusou_0123: https://t.co/g1igwITXUK"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2000970416769372161",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G8Tf_hGakAEZzY7.jpg",
+        "width": 1448
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2000970416769372161"
+          ],
+          "media_source_tweet_id": [
+            "2000970421139857789"
+          ]
+        },
+        "author_id": "1569397683814629379",
+        "conversation_id": "2001167852120715610",
+        "created_at": "2025-12-17T05:49:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-17T06:49:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2001167852120715610"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1743284812654493696",
+              "start": 3,
+              "username": "kokusou_0123"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/g1igwITXUK",
+              "end": 41,
+              "expanded_url": "https://x.com/kokusou_0123/status/2000970421139857789/photo/1",
+              "media_key": "3_2000970416769372161",
+              "start": 18,
+              "url": "https://t.co/g1igwITXUK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2001167852120715610",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 354
+        },
+        "referenced_tweets": [
+          {
+            "id": "2000970421139857789",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @kokusou_0123: https://t.co/g1igwITXUK"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2000970416769372161"
+          ]
+        },
+        "author_id": "1743284812654493696",
+        "conversation_id": "2000970421139857789",
+        "created_at": "2025-12-16T16:44:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-16T17:44:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2000970421139857789"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/g1igwITXUK",
+              "end": 23,
+              "expanded_url": "https://x.com/kokusou_0123/status/2000970421139857789/photo/1",
+              "media_key": "3_2000970416769372161",
+              "start": 0,
+              "url": "https://t.co/g1igwITXUK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2000970421139857789",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 166,
+          "impression_count": 20766,
+          "like_count": 1776,
+          "quote_count": 4,
+          "reply_count": 1,
+          "retweet_count": 354
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/g1igwITXUK"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-12T18:50:19.000Z",
+        "description": "随缘//医学爱好者/les🏳️‍🌈/lgbt友好/中文/EN/Arknights/绘画/混乱日常碎碎念/很吵//喵喵 【永远拥护培根卷番茄！】",
+        "id": "1569397683814629379",
+        "location": "世界的尽头",
+        "name": "腐烂培根卷",
+        "pinned_tweet_id": "1993298688010322328",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953366409284861953/HM3Aeou7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 154,
+          "following_count": 970,
+          "like_count": 3597,
+          "listed_count": 1,
+          "media_count": 88,
+          "tweet_count": 4100
+        },
+        "username": "ppppggggjjjj",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-05T14:54:42.000Z",
+        "description": "ボカロ(広義)とミクさん大好き ソシャゲ 自我",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "wavebox.me/wave/99gjlh9g9…",
+                "end": 23,
+                "expanded_url": "https://wavebox.me/wave/99gjlh9g9aj576lx/",
+                "start": 0,
+                "url": "https://t.co/mKP4xFmtCw"
+              }
+            ]
+          }
+        },
+        "id": "1743284812654493696",
+        "name": "穀倉",
+        "pinned_tweet_id": "1987901479416652241",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1845490054174838784/oDbCsWY6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 614,
+          "following_count": 112,
+          "like_count": 6350,
+          "listed_count": 8,
+          "media_count": 266,
+          "tweet_count": 2639
+        },
+        "url": "https://t.co/mKP4xFmtCw",
+        "username": "kokusou_0123",
+        "verified": false
+      }
+    ]
+  }
+}

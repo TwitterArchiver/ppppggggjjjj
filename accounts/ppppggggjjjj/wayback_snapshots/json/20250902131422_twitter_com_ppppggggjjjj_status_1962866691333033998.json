@@ -1,0 +1,235 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1962690514668720128"
+      ],
+      "media_source_tweet_id": [
+        "1962690522373624268"
+      ]
+    },
+    "author_id": "1569397683814629379",
+    "conversation_id": "1962866691333033998",
+    "created_at": "2025-09-02T13:14:22.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-02T14:14:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1962866691333033998"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1507396901594820608",
+          "start": 3,
+          "username": "hgds0"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/GlECGnzHe0",
+          "end": 34,
+          "expanded_url": "https://x.com/hgds0/status/1962690522373624268/photo/1",
+          "media_key": "3_1962690514668720128",
+          "start": 11,
+          "url": "https://t.co/GlECGnzHe0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1962866691333033998",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 221
+    },
+    "referenced_tweets": [
+      {
+        "id": "1962690522373624268",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @hgds0: https://t.co/GlECGnzHe0"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1651,
+        "media_key": "3_1962690514668720128",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gzzgn9LbkAAJKSr.jpg",
+        "width": 1260
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1962690514668720128"
+          ],
+          "media_source_tweet_id": [
+            "1962690522373624268"
+          ]
+        },
+        "author_id": "1569397683814629379",
+        "conversation_id": "1962866691333033998",
+        "created_at": "2025-09-02T13:14:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-02T14:14:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1962866691333033998"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1507396901594820608",
+              "start": 3,
+              "username": "hgds0"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/GlECGnzHe0",
+              "end": 34,
+              "expanded_url": "https://x.com/hgds0/status/1962690522373624268/photo/1",
+              "media_key": "3_1962690514668720128",
+              "start": 11,
+              "url": "https://t.co/GlECGnzHe0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1962866691333033998",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 221
+        },
+        "referenced_tweets": [
+          {
+            "id": "1962690522373624268",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @hgds0: https://t.co/GlECGnzHe0"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1962690514668720128"
+          ]
+        },
+        "author_id": "1507396901594820608",
+        "conversation_id": "1962690522373624268",
+        "created_at": "2025-09-02T01:34:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-02T02:34:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1962690522373624268"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/GlECGnzHe0",
+              "end": 23,
+              "expanded_url": "https://x.com/hgds0/status/1962690522373624268/photo/1",
+              "media_key": "3_1962690514668720128",
+              "start": 0,
+              "url": "https://t.co/GlECGnzHe0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1962690522373624268",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 87,
+          "impression_count": 86501,
+          "like_count": 2107,
+          "quote_count": 28,
+          "reply_count": 13,
+          "retweet_count": 221
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/GlECGnzHe0"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-12T18:50:19.000Z",
+        "description": "随缘//医学爱好者/les🏳️‍🌈/lgbt友好/中文/EN/Arknights/绘画/混乱日常碎碎念/很吵//喵喵 【永远拥护培根卷番茄！】",
+        "id": "1569397683814629379",
+        "location": "世界的尽头",
+        "name": "腐烂培根卷",
+        "pinned_tweet_id": "1937498024907010498",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953366409284861953/HM3Aeou7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 100,
+          "following_count": 665,
+          "like_count": 1905,
+          "listed_count": 1,
+          "media_count": 56,
+          "tweet_count": 2385
+        },
+        "username": "ppppggggjjjj",
+        "verified": false
+      },
+      {
+        "created_at": "2022-03-25T16:40:26.000Z",
+        "description": "推广自辩 /感谢你的关注 /接受投稿 过稿即回复 /作品观点不代表本人观点 仅供娱乐/部分作品搬运 侵删",
+        "id": "1507396901594820608",
+        "name": "恋",
+        "pinned_tweet_id": "1954814858396119441",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1853640703144046592/OC2mQ87G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 88492,
+          "following_count": 2835,
+          "like_count": 43298,
+          "listed_count": 112,
+          "media_count": 2715,
+          "tweet_count": 7020
+        },
+        "username": "hgds0",
+        "verified": true
+      }
+    ]
+  }
+}

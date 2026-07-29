@@ -1,0 +1,301 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1569397683814629379",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1441472383211114515",
+          "name": "Stuffed toys"
+        }
+      }
+    ],
+    "conversation_id": "1965427000975523950",
+    "created_at": "2025-09-09T14:48:07.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-09T15:48:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1965427000975523950"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/yamanobejin/st…",
+          "end": 26,
+          "expanded_url": "https://twitter.com/yamanobejin/status/1965377257176010977",
+          "start": 3,
+          "url": "https://t.co/w69XWTouLy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1965427000975523950",
+    "lang": "art",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1965377257176010977",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "🕯️ https://t.co/w69XWTouLy"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1965377236170940416",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G0ZsLuuboAA8lNQ.jpg",
+        "width": 1536
+      },
+      {
+        "height": 768,
+        "media_key": "3_1965377236145684480",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G0ZsLuoaQAAlZmI.jpg",
+        "width": 1024
+      },
+      {
+        "height": 1589,
+        "media_key": "3_1965377236116344832",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G0ZsLuhakAAbKcl.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1569397683814629379",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1441472383211114515",
+              "name": "Stuffed toys"
+            }
+          }
+        ],
+        "conversation_id": "1965427000975523950",
+        "created_at": "2025-09-09T14:48:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-09T15:48:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1965427000975523950"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/yamanobejin/st…",
+              "end": 26,
+              "expanded_url": "https://twitter.com/yamanobejin/status/1965377257176010977",
+              "start": 3,
+              "url": "https://t.co/w69XWTouLy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1965427000975523950",
+        "lang": "art",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1965377257176010977",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "🕯️ https://t.co/w69XWTouLy"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1965377236170940416",
+            "3_1965377236145684480",
+            "3_1965377236116344832"
+          ]
+        },
+        "author_id": "137646275",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1441472383211114515",
+              "name": "Stuffed toys"
+            }
+          }
+        ],
+        "conversation_id": "1965377257176010977",
+        "created_at": "2025-09-09T11:30:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-09T12:30:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1965377257176010977"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 4,
+              "normalized_text": "あずきさん",
+              "probability": 0.8002,
+              "start": 0,
+              "type": "Person"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/k8AaHQOMNd",
+              "end": 128,
+              "expanded_url": "https://x.com/yamanobejin/status/1965377257176010977/photo/1",
+              "media_key": "3_1965377236170940416",
+              "start": 105,
+              "url": "https://t.co/k8AaHQOMNd"
+            },
+            {
+              "display_url": "pic.x.com/k8AaHQOMNd",
+              "end": 128,
+              "expanded_url": "https://x.com/yamanobejin/status/1965377257176010977/photo/1",
+              "media_key": "3_1965377236145684480",
+              "start": 105,
+              "url": "https://t.co/k8AaHQOMNd"
+            },
+            {
+              "display_url": "pic.x.com/k8AaHQOMNd",
+              "end": 128,
+              "expanded_url": "https://x.com/yamanobejin/status/1965377257176010977/photo/1",
+              "media_key": "3_1965377236116344832",
+              "start": 105,
+              "url": "https://t.co/k8AaHQOMNd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1965377257176010977",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {},
+          "text": "あずきさんをお空にお見送りました。\n生前可愛がってくださったフォロワーとファンの皆様、本当にありがとうございました。\n私もついて行ってあげたかったのですがいい方法がないので分身のぬいぐるみをお供に付けました。\n\n実は8月ごろから抗がん剤治療をがんばっていたのですが、悪性リンパ腫の進行があまりにも早く肺にも水が溜まっており私の力が及ばすこんなにも早く逝ってしまいました。\n皆さんにはご報告が遅れましたことお詫び申し上げます。\n\n私が漫画家になれたのも、たくさんの素敵な作品のイラストを描かせていただけたのも、中国にサイン会に行けたのも、たくさんの人と繋がりが持てたのも、全部あずきさんのおかげで、今の私があるのはあずきさんが12年前の雨の日、私の元に来てくれたおかげです。本当に感謝してもしきれません。\nでもその全てのことよりもうあずきさんのふわふわの頬を吸うことができないの何よりもつらいです。\n\nとりとめのない文章になってしまってすみません。今まで本当にありがとうございました。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1037,
+          "impression_count": 1444215,
+          "like_count": 28735,
+          "quote_count": 1136,
+          "reply_count": 1180,
+          "retweet_count": 5300
+        },
+        "reply_settings": "everyone",
+        "text": "あずきさんをお空にお見送りました。\n生前可愛がってくださったフォロワーとファンの皆様、本当にありがとうございました。\n私もついて行ってあげたかったのですがいい方法がないので分身のぬいぐるみをお供に付けました。 https://t.co/k8AaHQOMNd"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-12T18:50:19.000Z",
+        "description": "随缘//医学爱好者/les🏳️‍🌈/lgbt友好/中文/EN/Arknights/绘画/混乱日常碎碎念/很吵//喵喵 【永远拥护培根卷番茄！】",
+        "id": "1569397683814629379",
+        "location": "世界的尽头",
+        "name": "腐烂培根卷",
+        "pinned_tweet_id": "1937498024907010498",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953366409284861953/HM3Aeou7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 102,
+          "following_count": 682,
+          "like_count": 2007,
+          "listed_count": 1,
+          "media_count": 59,
+          "tweet_count": 2565
+        },
+        "username": "ppppggggjjjj",
+        "verified": false
+      },
+      {
+        "created_at": "2010-04-27T09:54:37.000Z",
+        "description": "のべ子です。漫画家兼イラストレーター。銀河一かわいいシャム系女子あずきさんの写真やエッセイを投稿します。猫とポケモンとカワイイものが好き。二次創作もします。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/nobeko",
+                "end": 23,
+                "expanded_url": "https://lit.link/nobeko",
+                "start": 0,
+                "url": "https://t.co/fktURCfP2e"
+              }
+            ]
+          }
+        },
+        "id": "137646275",
+        "location": "🇯🇵大阪",
+        "name": "のべ子とシャム猫あずきさん",
+        "pinned_tweet_id": "1920113429404385387",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1434388884519936000/bFfmVMk4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 118920,
+          "following_count": 801,
+          "like_count": 156813,
+          "listed_count": 1580,
+          "media_count": 21311,
+          "tweet_count": 95885
+        },
+        "url": "https://t.co/fktURCfP2e",
+        "username": "yamanobejin",
+        "verified": true
+      }
+    ]
+  }
+}

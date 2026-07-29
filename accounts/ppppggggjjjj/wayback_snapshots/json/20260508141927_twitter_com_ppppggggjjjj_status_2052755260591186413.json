@@ -1,0 +1,523 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2052668177180684288"
+      ],
+      "media_source_tweet_id": [
+        "2052668184101277766"
+      ]
+    },
+    "author_id": "1569397683814629379",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+          "id": "130",
+          "name": "Multimedia Franchise"
+        },
+        "entity": {
+          "id": "1341520686771175424",
+          "name": "Uma Musume"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1341520686771175424",
+          "name": "Uma Musume"
+        }
+      },
+      {
+        "domain": {
+          "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+          "id": "67",
+          "name": "Interests and Hobbies"
+        },
+        "entity": {
+          "description": "Drawing and sketching",
+          "id": "847869251595542528",
+          "name": "Drawing & illustration"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Drawing and sketching",
+          "id": "847869251595542528",
+          "name": "Drawing & illustration"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Visual Arts",
+          "id": "1046577790353428480",
+          "name": "Visual arts"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1265660441822281728",
+          "name": "Art"
+        }
+      }
+    ],
+    "conversation_id": "2052755260591186413",
+    "created_at": "2026-05-08T14:19:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-08T15:19:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2052755260591186413"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 41,
+          "start": 27,
+          "tag": "manhattancafe"
+        },
+        {
+          "end": 46,
+          "start": 42,
+          "tag": "ウマ娘"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 14,
+          "id": "869900513822728192",
+          "start": 3,
+          "username": "manjo_9257"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/LC5a5yMOY1",
+          "end": 70,
+          "expanded_url": "https://x.com/manjo_9257/status/2052668184101277766/photo/1",
+          "media_key": "3_2052668177180684288",
+          "start": 47,
+          "url": "https://t.co/LC5a5yMOY1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052755260591186413",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 859
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052668184101277766",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @manjo_9257: カフェ rkgk 💽\n#manhattancafe #ウマ娘 https://t.co/LC5a5yMOY1"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2052668177180684288",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHyK1OaacAAa_Wb.jpg",
+        "width": 724
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2052668177180684288"
+          ],
+          "media_source_tweet_id": [
+            "2052668184101277766"
+          ]
+        },
+        "author_id": "1569397683814629379",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "id": "1341520686771175424",
+              "name": "Uma Musume"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1341520686771175424",
+              "name": "Uma Musume"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Drawing and sketching",
+              "id": "847869251595542528",
+              "name": "Drawing & illustration"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Drawing and sketching",
+              "id": "847869251595542528",
+              "name": "Drawing & illustration"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Visual Arts",
+              "id": "1046577790353428480",
+              "name": "Visual arts"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1265660441822281728",
+              "name": "Art"
+            }
+          }
+        ],
+        "conversation_id": "2052755260591186413",
+        "created_at": "2026-05-08T14:19:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-08T15:19:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052755260591186413"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 41,
+              "start": 27,
+              "tag": "manhattancafe"
+            },
+            {
+              "end": 46,
+              "start": 42,
+              "tag": "ウマ娘"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 14,
+              "id": "869900513822728192",
+              "start": 3,
+              "username": "manjo_9257"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/LC5a5yMOY1",
+              "end": 70,
+              "expanded_url": "https://x.com/manjo_9257/status/2052668184101277766/photo/1",
+              "media_key": "3_2052668177180684288",
+              "start": 47,
+              "url": "https://t.co/LC5a5yMOY1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052755260591186413",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 859
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052668184101277766",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @manjo_9257: カフェ rkgk 💽\n#manhattancafe #ウマ娘 https://t.co/LC5a5yMOY1"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2052668177180684288"
+          ]
+        },
+        "author_id": "869900513822728192",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "id": "1341520686771175424",
+              "name": "Uma Musume"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1341520686771175424",
+              "name": "Uma Musume"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Drawing and sketching",
+              "id": "847869251595542528",
+              "name": "Drawing & illustration"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Drawing and sketching",
+              "id": "847869251595542528",
+              "name": "Drawing & illustration"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Visual Arts",
+              "id": "1046577790353428480",
+              "name": "Visual arts"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1265660441822281728",
+              "name": "Art"
+            }
+          }
+        ],
+        "conversation_id": "2052668184101277766",
+        "created_at": "2026-05-08T08:33:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-08T09:33:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2052668184101277766"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 25,
+              "start": 11,
+              "tag": "manhattancafe"
+            },
+            {
+              "end": 30,
+              "start": 26,
+              "tag": "ウマ娘"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/LC5a5yMOY1",
+              "end": 54,
+              "expanded_url": "https://x.com/manjo_9257/status/2052668184101277766/photo/1",
+              "media_key": "3_2052668177180684288",
+              "start": 31,
+              "url": "https://t.co/LC5a5yMOY1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052668184101277766",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 626,
+          "impression_count": 38037,
+          "like_count": 4507,
+          "quote_count": 27,
+          "reply_count": 12,
+          "retweet_count": 859
+        },
+        "reply_settings": "everyone",
+        "text": "カフェ rkgk 💽\n#manhattancafe #ウマ娘 https://t.co/LC5a5yMOY1"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-12T18:50:19.000Z",
+        "description": "随缘//医学爱好者/Arknights/绘画/混乱日常碎碎念无营养内容/可能会很吵？ /les/lgbt友好/中文/EN//喵喵//提问箱↓ ↓ ↓",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ppppppppp38481",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ppppppppp38481",
+                "start": 0,
+                "url": "https://t.co/dw8CaO6ajX"
+              }
+            ]
+          }
+        },
+        "id": "1569397683814629379",
+        "location": "世界的尽头",
+        "name": "腐烂培根卷",
+        "pinned_tweet_id": "2012485424057291255",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953366409284861953/HM3Aeou7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 234,
+          "following_count": 1414,
+          "like_count": 7665,
+          "listed_count": 1,
+          "media_count": 100,
+          "tweet_count": 5787
+        },
+        "url": "https://t.co/dw8CaO6ajX",
+        "username": "ppppggggjjjj",
+        "verified": false
+      },
+      {
+        "created_at": "2017-05-31T12:56:59.000Z",
+        "description": "Drawing stuff/ still learning.\n\nPixiv Request: https://t.co/Os9Ys4ROkX",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/request/plans/…",
+                "end": 70,
+                "expanded_url": "https://www.pixiv.net/request/plans/124591",
+                "start": 47,
+                "url": "https://t.co/Os9Ys4ROkX"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/en/users/34772…",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/en/users/34772476",
+                "start": 0,
+                "url": "https://t.co/pBpmlxEyna"
+              }
+            ]
+          }
+        },
+        "id": "869900513822728192",
+        "name": "_Manjo_(ワリト)",
+        "pinned_tweet_id": "1944750843032649751",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1643474762826665985/GCekOCfh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 23982,
+          "following_count": 506,
+          "like_count": 10769,
+          "listed_count": 79,
+          "media_count": 387,
+          "tweet_count": 419
+        },
+        "url": "https://t.co/pBpmlxEyna",
+        "username": "manjo_9257",
+        "verified": false
+      }
+    ]
+  }
+}

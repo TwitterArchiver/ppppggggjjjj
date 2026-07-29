@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2052633646478336000",
+        "3_2052633646675451904"
+      ],
+      "media_source_tweet_id": [
+        "2052633679659470973",
+        "2052633679659470973"
+      ]
+    },
+    "author_id": "1569397683814629379",
+    "conversation_id": "2052709375375196193",
+    "created_at": "2026-05-08T11:17:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-08T12:17:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2052709375375196193"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2050656465111990272",
+          "start": 3,
+          "username": "Zero51dc"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Ph5i2NLeHa",
+          "end": 48,
+          "expanded_url": "https://x.com/Zero51dc/status/2052633679659470973/photo/1",
+          "media_key": "3_2052633646478336000",
+          "start": 25,
+          "url": "https://t.co/Ph5i2NLeHa"
+        },
+        {
+          "display_url": "pic.x.com/Ph5i2NLeHa",
+          "end": 48,
+          "expanded_url": "https://x.com/Zero51dc/status/2052633679659470973/photo/1",
+          "media_key": "3_2052633646675451904",
+          "start": 25,
+          "url": "https://t.co/Ph5i2NLeHa"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052709375375196193",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 40
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052633679659470973",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Zero51dc: 初潮被坏妈妈吃掉了… https://t.co/Ph5i2NLeHa"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2052709375375196193].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2052709375375196193",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2052709375375196193"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2006,
+        "media_key": "3_2052633646478336000",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHxrbRhbIAAe9Zs.jpg",
+        "width": 1590
+      },
+      {
+        "height": 1965,
+        "media_key": "3_2052633646675451904",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHxrbSQa4AAzRpG.jpg",
+        "width": 1638
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2052633646478336000",
+            "3_2052633646675451904"
+          ]
+        },
+        "author_id": "2050656465111990272",
+        "conversation_id": "2052633679659470973",
+        "created_at": "2026-05-08T06:16:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-08T07:16:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2052633679659470973"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Ph5i2NLeHa",
+              "end": 34,
+              "expanded_url": "https://x.com/Zero51dc/status/2052633679659470973/photo/1",
+              "media_key": "3_2052633646478336000",
+              "start": 11,
+              "url": "https://t.co/Ph5i2NLeHa"
+            },
+            {
+              "display_url": "pic.x.com/Ph5i2NLeHa",
+              "end": 34,
+              "expanded_url": "https://x.com/Zero51dc/status/2052633679659470973/photo/1",
+              "media_key": "3_2052633646675451904",
+              "start": 11,
+              "url": "https://t.co/Ph5i2NLeHa"
+            },
+            {
+              "display_url": "x.com/zero51dc/statu…",
+              "end": 58,
+              "expanded_url": "https://twitter.com/zero51dc/status/2051782623186616720",
+              "start": 35,
+              "url": "https://t.co/yBjzQBBvu7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052633679659470973",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 44,
+          "impression_count": 2495,
+          "like_count": 234,
+          "quote_count": 0,
+          "reply_count": 11,
+          "retweet_count": 40
+        },
+        "referenced_tweets": [
+          {
+            "id": "2051782623186616720",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "初潮被坏妈妈吃掉了… https://t.co/Ph5i2NLeHa https://t.co/yBjzQBBvu7"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-12T18:50:19.000Z",
+        "description": "随缘//医学爱好者/Arknights/绘画/混乱日常碎碎念无营养内容/可能会很吵？ /les/lgbt友好/中文/EN//喵喵//提问箱↓ ↓ ↓",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ppppppppp38481",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ppppppppp38481",
+                "start": 0,
+                "url": "https://t.co/dw8CaO6ajX"
+              }
+            ]
+          }
+        },
+        "id": "1569397683814629379",
+        "location": "世界的尽头",
+        "name": "腐烂培根卷",
+        "pinned_tweet_id": "2012485424057291255",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953366409284861953/HM3Aeou7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 234,
+          "following_count": 1415,
+          "like_count": 7656,
+          "listed_count": 1,
+          "media_count": 100,
+          "tweet_count": 5784
+        },
+        "url": "https://t.co/dw8CaO6ajX",
+        "username": "ppppggggjjjj",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-02T19:22:06.000Z",
+        "description": "all睦向🥒｜会发送大量碎碎念",
+        "id": "2050656465111990272",
+        "name": "夢寐",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050660161837223936/ZqLL-0en_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1232,
+          "following_count": 14,
+          "like_count": 18,
+          "listed_count": 3,
+          "media_count": 4,
+          "tweet_count": 36
+        },
+        "username": "Zero51dc",
+        "verified": false
+      }
+    ]
+  }
+}

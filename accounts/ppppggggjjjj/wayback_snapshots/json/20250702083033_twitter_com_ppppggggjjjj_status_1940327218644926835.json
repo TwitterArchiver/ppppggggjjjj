@@ -1,0 +1,249 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1940255513242939393"
+      ],
+      "media_source_tweet_id": [
+        "1940255517563302217"
+      ]
+    },
+    "author_id": "1569397683814629379",
+    "conversation_id": "1940327218644926835",
+    "created_at": "2025-07-02T08:30:33.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-02T09:30:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1940327218644926835"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1601496535375949824",
+          "start": 3,
+          "username": "yzhlzi3"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/MXCEaK8bJd",
+          "end": 36,
+          "expanded_url": "https://x.com/yzhlzi3/status/1940255517563302217/photo/1",
+          "media_key": "3_1940255513242939393",
+          "start": 13,
+          "url": "https://t.co/MXCEaK8bJd"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1940327218644926835",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 5
+    },
+    "referenced_tweets": [
+      {
+        "id": "1940255517563302217",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @yzhlzi3: https://t.co/MXCEaK8bJd"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1280,
+        "media_key": "3_1940255513242939393",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gu0sHABWsAEL2wx.jpg",
+        "width": 960
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1940255513242939393"
+          ],
+          "media_source_tweet_id": [
+            "1940255517563302217"
+          ]
+        },
+        "author_id": "1569397683814629379",
+        "conversation_id": "1940327218644926835",
+        "created_at": "2025-07-02T08:30:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-02T09:30:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1940327218644926835"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1601496535375949824",
+              "start": 3,
+              "username": "yzhlzi3"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/MXCEaK8bJd",
+              "end": 36,
+              "expanded_url": "https://x.com/yzhlzi3/status/1940255517563302217/photo/1",
+              "media_key": "3_1940255513242939393",
+              "start": 13,
+              "url": "https://t.co/MXCEaK8bJd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1940327218644926835",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 5
+        },
+        "referenced_tweets": [
+          {
+            "id": "1940255517563302217",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @yzhlzi3: https://t.co/MXCEaK8bJd"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1940255513242939393"
+          ]
+        },
+        "author_id": "1601496535375949824",
+        "conversation_id": "1940255517563302217",
+        "created_at": "2025-07-02T03:45:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-02T04:45:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1940255517563302217"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/MXCEaK8bJd",
+              "end": 23,
+              "expanded_url": "https://x.com/yzhlzi3/status/1940255517563302217/photo/1",
+              "media_key": "3_1940255513242939393",
+              "start": 0,
+              "url": "https://t.co/MXCEaK8bJd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1940255517563302217",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 2000,
+          "like_count": 81,
+          "quote_count": 0,
+          "reply_count": 11,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/MXCEaK8bJd"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-12T18:50:19.000Z",
+        "description": "随缘//医学爱好者/les🏳️‍🌈/lgbt友好/中文/EN/Arknights/绘画/混乱日常碎碎念/很吵//喵喵",
+        "id": "1569397683814629379",
+        "name": "腐烂苹果酱",
+        "pinned_tweet_id": "1937498024907010498",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1620839959388393479/hsMKvVei_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 31,
+          "following_count": 255,
+          "like_count": 411,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 630
+        },
+        "username": "ppppggggjjjj",
+        "verified": false
+      },
+      {
+        "created_at": "2022-12-10T08:38:33.000Z",
+        "description": "这个世界已经没救了，但是，是你的话就可以改变命运！无法回避的毁灭与叹息，把他们全部颠覆就好啦。你也具备这样的力量！所以与我签订契约    成为魔法少女吧！☆梗图G7人，时常鬼上身。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "b23.tv/ep63470",
+                "end": 23,
+                "expanded_url": "https://b23.tv/ep63470",
+                "start": 0,
+                "url": "https://t.co/eT65Fp4Uh5"
+              }
+            ]
+          }
+        },
+        "id": "1601496535375949824",
+        "location": "云梦泽",
+        "name": "一只̶狸̶子̶🍜",
+        "pinned_tweet_id": "1758014861924319355",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907292253963624448/kRhiIHLg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3291,
+          "following_count": 862,
+          "like_count": 46735,
+          "listed_count": 19,
+          "media_count": 3008,
+          "tweet_count": 13574
+        },
+        "url": "https://t.co/eT65Fp4Uh5",
+        "username": "yzhlzi3",
+        "verified": false
+      }
+    ]
+  }
+}

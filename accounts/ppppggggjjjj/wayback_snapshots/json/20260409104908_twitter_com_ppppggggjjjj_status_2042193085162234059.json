@@ -1,0 +1,250 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2042128821202079744"
+      ],
+      "media_source_tweet_id": [
+        "2042129087699755232"
+      ]
+    },
+    "author_id": "1569397683814629379",
+    "conversation_id": "2042193085162234059",
+    "created_at": "2026-04-09T10:49:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-09T11:49:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2042193085162234059"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1968546658603470848",
+          "start": 3,
+          "username": "miomujica"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/V59zGqyICr",
+          "end": 38,
+          "expanded_url": "https://x.com/miomujica/status/2042129087699755232/photo/1",
+          "media_key": "3_2042128821202079744",
+          "start": 15,
+          "url": "https://t.co/V59zGqyICr"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042193085162234059",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 48
+    },
+    "referenced_tweets": [
+      {
+        "id": "2042129087699755232",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @miomujica: https://t.co/V59zGqyICr"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 967,
+        "media_key": "3_2042128821202079744",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFcZV91WUAAlJYq.jpg",
+        "width": 1383
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2042128821202079744"
+          ],
+          "media_source_tweet_id": [
+            "2042129087699755232"
+          ]
+        },
+        "author_id": "1569397683814629379",
+        "conversation_id": "2042193085162234059",
+        "created_at": "2026-04-09T10:49:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-09T11:49:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042193085162234059"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1968546658603470848",
+              "start": 3,
+              "username": "miomujica"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/V59zGqyICr",
+              "end": 38,
+              "expanded_url": "https://x.com/miomujica/status/2042129087699755232/photo/1",
+              "media_key": "3_2042128821202079744",
+              "start": 15,
+              "url": "https://t.co/V59zGqyICr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042193085162234059",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 48
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042129087699755232",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @miomujica: https://t.co/V59zGqyICr"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2042128821202079744"
+          ]
+        },
+        "author_id": "1968546658603470848",
+        "conversation_id": "2042129087699755232",
+        "created_at": "2026-04-09T06:34:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-09T07:34:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2042129087699755232"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/V59zGqyICr",
+              "end": 23,
+              "expanded_url": "https://x.com/miomujica/status/2042129087699755232/photo/1",
+              "media_key": "3_2042128821202079744",
+              "start": 0,
+              "url": "https://t.co/V59zGqyICr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042129087699755232",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 29,
+          "impression_count": 2548,
+          "like_count": 334,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 48
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/V59zGqyICr"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-12T18:50:19.000Z",
+        "description": "随缘//医学/Arknights/绘画/混乱日常碎碎念无营养内容/可能会很吵？ /les/lgbt友好/中文/EN//喵喵//提问箱↓ ↓ ↓",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ppppppppp38481",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ppppppppp38481",
+                "start": 0,
+                "url": "https://t.co/dw8CaO6ajX"
+              }
+            ]
+          }
+        },
+        "id": "1569397683814629379",
+        "location": "世界的尽头",
+        "name": "腐烂培根卷",
+        "pinned_tweet_id": "2012485424057291255",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953366409284861953/HM3Aeou7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 196,
+          "following_count": 1233,
+          "like_count": 6170,
+          "listed_count": 1,
+          "media_count": 98,
+          "tweet_count": 5005
+        },
+        "url": "https://t.co/dw8CaO6ajX",
+        "username": "ppppggggjjjj",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-18T05:24:45.000Z",
+        "description": "🚫🚫NO AI🚫🚫 ave mujica/yuri FA 🔞! uisk/skui/umamusume",
+        "id": "1968546658603470848",
+        "location": "ADULT CONTENT. NO MINORS",
+        "name": "mio",
+        "pinned_tweet_id": "1976614001023844703",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968546887025246208/06AoavPX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4374,
+          "following_count": 19,
+          "like_count": 1137,
+          "listed_count": 20,
+          "media_count": 52,
+          "tweet_count": 320
+        },
+        "username": "miomujica",
+        "verified": false
+      }
+    ]
+  }
+}

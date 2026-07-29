@@ -1,0 +1,181 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2006100565776850944"
+      ],
+      "media_source_tweet_id": [
+        "2006100571078431106"
+      ]
+    },
+    "author_id": "1569397683814629379",
+    "conversation_id": "2006285616284369403",
+    "created_at": "2025-12-31T08:45:40.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-31T09:45:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2006285616284369403"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "4843508938",
+          "start": 3,
+          "username": "holyMoha"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/kNs9inRcEE",
+          "end": 37,
+          "expanded_url": "https://x.com/holyMoha/status/2006100571078431106/photo/1",
+          "media_key": "3_2006100565776850944",
+          "start": 14,
+          "url": "https://t.co/kNs9inRcEE"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2006285616284369403",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 854
+    },
+    "referenced_tweets": [
+      {
+        "id": "2006100571078431106",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @holyMoha: https://t.co/kNs9inRcEE"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2006285616284369403].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2006285616284369403",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2006285616284369403"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 675,
+        "media_key": "3_2006100565776850944",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G9cZ1fbW4AA6WjI.jpg",
+        "width": 540
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2006100565776850944"
+          ]
+        },
+        "author_id": "4843508938",
+        "conversation_id": "2006100571078431106",
+        "created_at": "2025-12-30T20:30:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-30T21:30:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2006100571078431106"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/kNs9inRcEE",
+              "end": 23,
+              "expanded_url": "https://x.com/holyMoha/status/2006100571078431106/photo/1",
+              "media_key": "3_2006100565776850944",
+              "start": 0,
+              "url": "https://t.co/kNs9inRcEE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2006100571078431106",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 554,
+          "impression_count": 1221203,
+          "like_count": 15095,
+          "quote_count": 21,
+          "reply_count": 41,
+          "retweet_count": 854
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/kNs9inRcEE"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-12T18:50:19.000Z",
+        "description": "随缘//医学爱好者/les🏳️‍🌈/lgbt友好/中文/EN/Arknights/绘画/混乱日常碎碎念/很吵//喵喵 【永远拥护培根卷番茄！】",
+        "id": "1569397683814629379",
+        "location": "世界的尽头",
+        "name": "腐烂培根卷",
+        "pinned_tweet_id": "1993298688010322328",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953366409284861953/HM3Aeou7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 174,
+          "following_count": 1015,
+          "like_count": 3932,
+          "listed_count": 1,
+          "media_count": 91,
+          "tweet_count": 4220
+        },
+        "username": "ppppggggjjjj",
+        "verified": false
+      },
+      {
+        "created_at": "2016-01-24T21:51:28.000Z",
+        "description": "خسرت اكبر احلامي وهانت تواليها",
+        "id": "4843508938",
+        "name": "َ",
+        "pinned_tweet_id": "1981041922647957764",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1976675254790393856/g-Yr4NER_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6633,
+          "following_count": 625,
+          "like_count": 14298,
+          "listed_count": 3,
+          "media_count": 9761,
+          "tweet_count": 84481
+        },
+        "username": "holyMoha",
+        "verified": false
+      }
+    ]
+  }
+}

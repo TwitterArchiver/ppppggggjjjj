@@ -1,0 +1,236 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1993544235220713477"
+      ],
+      "media_source_tweet_id": [
+        "1993544238190186665"
+      ]
+    },
+    "author_id": "1569397683814629379",
+    "conversation_id": "1993683776212488557",
+    "created_at": "2025-11-26T14:10:27.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-26T15:10:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1993683776212488557"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "785965953490182146",
+          "start": 3,
+          "username": "Bunnies"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/jOaVWnXsxE",
+          "end": 36,
+          "expanded_url": "https://x.com/Bunnies/status/1993544238190186665/photo/1",
+          "media_key": "3_1993544235220713477",
+          "start": 13,
+          "url": "https://t.co/jOaVWnXsxE"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1993683776212488557",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 392
+    },
+    "referenced_tweets": [
+      {
+        "id": "1993544238190186665",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Bunnies: https://t.co/jOaVWnXsxE"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 245,
+        "media_key": "3_1993544235220713477",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6p963BbwAU_nJg.jpg",
+        "width": 734
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1993544235220713477"
+          ],
+          "media_source_tweet_id": [
+            "1993544238190186665"
+          ]
+        },
+        "author_id": "1569397683814629379",
+        "conversation_id": "1993683776212488557",
+        "created_at": "2025-11-26T14:10:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-26T15:10:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1993683776212488557"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "785965953490182146",
+              "start": 3,
+              "username": "Bunnies"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/jOaVWnXsxE",
+              "end": 36,
+              "expanded_url": "https://x.com/Bunnies/status/1993544238190186665/photo/1",
+              "media_key": "3_1993544235220713477",
+              "start": 13,
+              "url": "https://t.co/jOaVWnXsxE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1993683776212488557",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 392
+        },
+        "referenced_tweets": [
+          {
+            "id": "1993544238190186665",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Bunnies: https://t.co/jOaVWnXsxE"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1993544235220713477"
+          ]
+        },
+        "author_id": "785965953490182146",
+        "conversation_id": "1993544238190186665",
+        "created_at": "2025-11-26T04:55:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-26T05:55:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1993544238190186665"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/jOaVWnXsxE",
+              "end": 23,
+              "expanded_url": "https://x.com/Bunnies/status/1993544238190186665/photo/1",
+              "media_key": "3_1993544235220713477",
+              "start": 0,
+              "url": "https://t.co/jOaVWnXsxE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1993544238190186665",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 147,
+          "impression_count": 24039,
+          "like_count": 1803,
+          "quote_count": 32,
+          "reply_count": 3,
+          "retweet_count": 392
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/jOaVWnXsxE"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-12T18:50:19.000Z",
+        "description": "随缘//医学爱好者/les🏳️‍🌈/lgbt友好/中文/EN/Arknights/绘画/混乱日常碎碎念/很吵//喵喵 【永远拥护培根卷番茄！】",
+        "id": "1569397683814629379",
+        "location": "世界的尽头",
+        "name": "腐烂培根卷",
+        "pinned_tweet_id": "1993298688010322328",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953366409284861953/HM3Aeou7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 143,
+          "following_count": 830,
+          "like_count": 3043,
+          "listed_count": 1,
+          "media_count": 85,
+          "tweet_count": 3835
+        },
+        "username": "ppppggggjjjj",
+        "verified": false
+      },
+      {
+        "created_at": "2016-10-11T22:11:00.000Z",
+        "description": "A bunny a day will keep the doctor away. DM YOUR BUNNY!",
+        "id": "785965953490182146",
+        "location": "Burrow",
+        "name": "Bunnies",
+        "pinned_tweet_id": "1847677551604281411",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1190553059010793473/bY5QStG6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 100177,
+          "following_count": 134,
+          "like_count": 17042,
+          "listed_count": 271,
+          "media_count": 9343,
+          "tweet_count": 10535
+        },
+        "username": "Bunnies",
+        "verified": true
+      }
+    ]
+  }
+}

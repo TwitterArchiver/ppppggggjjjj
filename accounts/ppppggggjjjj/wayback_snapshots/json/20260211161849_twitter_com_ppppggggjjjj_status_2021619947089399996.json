@@ -1,0 +1,269 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2021445024584695809"
+      ],
+      "media_source_tweet_id": [
+        "2021445044767687076"
+      ]
+    },
+    "author_id": "1569397683814629379",
+    "conversation_id": "2021619947089399996",
+    "created_at": "2026-02-11T16:18:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-11T17:18:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2021619947089399996"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1484450078370635777",
+          "start": 3,
+          "username": "Kuru_skullu"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/fvfOXCESGg",
+          "end": 40,
+          "expanded_url": "https://x.com/Kuru_skullu/status/2021445044767687076/photo/1",
+          "media_key": "3_2021445024584695809",
+          "start": 17,
+          "url": "https://t.co/fvfOXCESGg"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2021619947089399996",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 113
+    },
+    "referenced_tweets": [
+      {
+        "id": "2021445044767687076",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Kuru_skullu: https://t.co/fvfOXCESGg"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 547,
+        "media_key": "3_2021445024584695809",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HA2dii9aAAEZdAB.jpg",
+        "width": 1010
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2021445024584695809"
+          ],
+          "media_source_tweet_id": [
+            "2021445044767687076"
+          ]
+        },
+        "author_id": "1569397683814629379",
+        "conversation_id": "2021619947089399996",
+        "created_at": "2026-02-11T16:18:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-11T17:18:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2021619947089399996"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1484450078370635777",
+              "start": 3,
+              "username": "Kuru_skullu"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/fvfOXCESGg",
+              "end": 40,
+              "expanded_url": "https://x.com/Kuru_skullu/status/2021445044767687076/photo/1",
+              "media_key": "3_2021445024584695809",
+              "start": 17,
+              "url": "https://t.co/fvfOXCESGg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2021619947089399996",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 113
+        },
+        "referenced_tweets": [
+          {
+            "id": "2021445044767687076",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Kuru_skullu: https://t.co/fvfOXCESGg"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2021445024584695809"
+          ]
+        },
+        "author_id": "1484450078370635777",
+        "conversation_id": "2021445044767687076",
+        "created_at": "2026-02-11T04:43:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-11T05:43:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2021445044767687076"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/fvfOXCESGg",
+              "end": 23,
+              "expanded_url": "https://x.com/Kuru_skullu/status/2021445044767687076/photo/1",
+              "media_key": "3_2021445024584695809",
+              "start": 0,
+              "url": "https://t.co/fvfOXCESGg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2021445044767687076",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 265,
+          "impression_count": 21937,
+          "like_count": 2101,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 113
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/fvfOXCESGg"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-12T18:50:19.000Z",
+        "description": "随缘//医学爱好者/les🏳️‍🌈/lgbt友好/中文/EN/Arknights/绘画/混乱日常碎碎念/很吵//喵喵 【永远拥护培根卷番茄！】提问箱↓ ↓ ↓",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ppppppppp38481",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ppppppppp38481",
+                "start": 0,
+                "url": "https://t.co/dw8CaO5Cup"
+              }
+            ]
+          }
+        },
+        "id": "1569397683814629379",
+        "location": "世界的尽头",
+        "name": "腐烂培根卷",
+        "pinned_tweet_id": "2012485424057291255",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953366409284861953/HM3Aeou7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 189,
+          "following_count": 1116,
+          "like_count": 4818,
+          "listed_count": 1,
+          "media_count": 93,
+          "tweet_count": 4590
+        },
+        "url": "https://t.co/dw8CaO5Cup",
+        "username": "ppppggggjjjj",
+        "verified": false
+      },
+      {
+        "created_at": "2022-01-21T08:57:48.000Z",
+        "description": "百合/イケメン女子が好き！無端転載/無断使用/自作発言やAIサイトでの使用等は許可してません 一般向→@SkullU_UU 🔞FANBOX→https://t.co/Usq8NoiUcP",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 61,
+                "start": 51,
+                "username": "SkullU_UU"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "skullu.fanbox.cc/posts/11190305",
+                "end": 93,
+                "expanded_url": "https://skullu.fanbox.cc/posts/11190305",
+                "start": 70,
+                "url": "https://t.co/Usq8NoiUcP"
+              }
+            ]
+          }
+        },
+        "id": "1484450078370635777",
+        "name": "Kuru .⋆·ฺ.∗̥⁺˚",
+        "pinned_tweet_id": "2006587365163487236",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004403952725692416/RmRQuqdk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18410,
+          "following_count": 373,
+          "like_count": 11426,
+          "listed_count": 46,
+          "media_count": 64,
+          "tweet_count": 4771
+        },
+        "username": "Kuru_skullu",
+        "verified": false
+      }
+    ]
+  }
+}

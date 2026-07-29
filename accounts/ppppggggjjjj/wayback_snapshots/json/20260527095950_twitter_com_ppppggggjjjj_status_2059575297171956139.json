@@ -1,0 +1,282 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2059286426068590592"
+      ],
+      "media_source_tweet_id": [
+        "2059286431336710412"
+      ]
+    },
+    "author_id": "1569397683814629379",
+    "conversation_id": "2059575297171956139",
+    "created_at": "2026-05-27T09:59:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-27T10:59:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059575297171956139"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "995958769602379776",
+          "start": 3,
+          "username": "amou_0220"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/tLutkGwwlL",
+          "end": 38,
+          "expanded_url": "https://x.com/amou_0220/status/2059286431336710412/photo/1",
+          "media_key": "3_2059286426068590592",
+          "start": 15,
+          "url": "https://t.co/tLutkGwwlL"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059575297171956139",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 62
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059286431336710412",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @amou_0220: https://t.co/tLutkGwwlL"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1890,
+        "media_key": "3_2059286426068590592",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJQOGAyaIAAEsMI.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2059286426068590592"
+          ],
+          "media_source_tweet_id": [
+            "2059286431336710412"
+          ]
+        },
+        "author_id": "1569397683814629379",
+        "conversation_id": "2059575297171956139",
+        "created_at": "2026-05-27T09:59:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T10:59:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059575297171956139"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "995958769602379776",
+              "start": 3,
+              "username": "amou_0220"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/tLutkGwwlL",
+              "end": 38,
+              "expanded_url": "https://x.com/amou_0220/status/2059286431336710412/photo/1",
+              "media_key": "3_2059286426068590592",
+              "start": 15,
+              "url": "https://t.co/tLutkGwwlL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059575297171956139",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 62
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059286431336710412",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @amou_0220: https://t.co/tLutkGwwlL"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2059286426068590592"
+          ]
+        },
+        "author_id": "995958769602379776",
+        "conversation_id": "2059286431336710412",
+        "created_at": "2026-05-26T14:51:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-26T15:51:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059286431336710412"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/tLutkGwwlL",
+              "end": 23,
+              "expanded_url": "https://x.com/amou_0220/status/2059286431336710412/photo/1",
+              "media_key": "3_2059286426068590592",
+              "start": 0,
+              "url": "https://t.co/tLutkGwwlL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059286431336710412",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 68,
+          "impression_count": 7396,
+          "like_count": 900,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 62
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/tLutkGwwlL"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-12T18:50:19.000Z",
+        "description": "随缘//医学爱好者/Arknights/绘画/混乱日常碎碎念无营养内容/可能会很吵？ /les/lgbt友好/中文/EN//喵喵//提问箱↓ ↓ ↓",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ppppppppp38481",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ppppppppp38481",
+                "start": 0,
+                "url": "https://t.co/dw8CaO6ajX"
+              }
+            ]
+          }
+        },
+        "id": "1569397683814629379",
+        "location": "世界的尽头",
+        "name": "腐烂培根卷",
+        "pinned_tweet_id": "2012485424057291255",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953366409284861953/HM3Aeou7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 246,
+          "following_count": 1589,
+          "like_count": 8830,
+          "listed_count": 1,
+          "media_count": 104,
+          "tweet_count": 6443
+        },
+        "url": "https://t.co/dw8CaO6ajX",
+        "username": "ppppggggjjjj",
+        "verified": false
+      },
+      {
+        "created_at": "2018-05-14T09:27:29.000Z",
+        "description": "Illustrator⟡.·依頼、展示のお誘いなどはDMやメールへamou7772@gmail.com ■skeb▶︎https://t.co/O1bHMg2qXV HP▶︎ https://t.co/caOoMWmPXM",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "skeb.jp/@amou_0220",
+                "end": 82,
+                "expanded_url": "https://skeb.jp/@amou_0220",
+                "start": 59,
+                "url": "https://t.co/O1bHMg2qXV"
+              },
+              {
+                "display_url": "amou777.wixsite.com/my-site-7",
+                "end": 111,
+                "expanded_url": "https://amou777.wixsite.com/my-site-7",
+                "start": 88,
+                "url": "https://t.co/caOoMWmPXM"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/amou777",
+                "end": 23,
+                "expanded_url": "https://lit.link/amou777",
+                "start": 0,
+                "url": "https://t.co/gne2hzQfC8"
+              }
+            ]
+          }
+        },
+        "id": "995958769602379776",
+        "location": "ご依頼受付中！",
+        "name": "天羽 しいら🕊コミティア【C-30】",
+        "pinned_tweet_id": "2045853522504364464",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1981346808711245824/GWaqHSrS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9638,
+          "following_count": 460,
+          "like_count": 32305,
+          "listed_count": 154,
+          "media_count": 1559,
+          "tweet_count": 16463
+        },
+        "url": "https://t.co/gne2hzQfC8",
+        "username": "amou_0220",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,250 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1947495913536241664"
+      ],
+      "media_source_tweet_id": [
+        "1947495923548098746"
+      ]
+    },
+    "author_id": "1569397683814629379",
+    "conversation_id": "1947985200249774088",
+    "created_at": "2025-07-23T11:40:38.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-23T12:40:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1947985200249774088"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1602663153623388161",
+          "start": 3,
+          "username": "knd_8964"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/QZCjBPtL5T",
+          "end": 37,
+          "expanded_url": "https://x.com/knd_8964/status/1947495923548098746/photo/1",
+          "media_key": "3_1947495913536241664",
+          "start": 14,
+          "url": "https://t.co/QZCjBPtL5T"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1947985200249774088",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 17
+    },
+    "referenced_tweets": [
+      {
+        "id": "1947495923548098746",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @knd_8964: https://t.co/QZCjBPtL5T"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 240,
+        "media_key": "3_1947495913536241664",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GwblNw_aQAAxRDb.jpg",
+        "width": 1033
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1947495913536241664"
+          ],
+          "media_source_tweet_id": [
+            "1947495923548098746"
+          ]
+        },
+        "author_id": "1569397683814629379",
+        "conversation_id": "1947985200249774088",
+        "created_at": "2025-07-23T11:40:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-23T12:40:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1947985200249774088"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1602663153623388161",
+              "start": 3,
+              "username": "knd_8964"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/QZCjBPtL5T",
+              "end": 37,
+              "expanded_url": "https://x.com/knd_8964/status/1947495923548098746/photo/1",
+              "media_key": "3_1947495913536241664",
+              "start": 14,
+              "url": "https://t.co/QZCjBPtL5T"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1947985200249774088",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 17
+        },
+        "referenced_tweets": [
+          {
+            "id": "1947495923548098746",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @knd_8964: https://t.co/QZCjBPtL5T"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1947495913536241664"
+          ]
+        },
+        "author_id": "1602663153623388161",
+        "conversation_id": "1947495923548098746",
+        "created_at": "2025-07-22T03:16:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-22T04:16:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1947495923548098746"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/QZCjBPtL5T",
+              "end": 23,
+              "expanded_url": "https://x.com/knd_8964/status/1947495923548098746/photo/1",
+              "media_key": "3_1947495913536241664",
+              "start": 0,
+              "url": "https://t.co/QZCjBPtL5T"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1947495923548098746",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 13,
+          "impression_count": 31225,
+          "like_count": 435,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 17
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/QZCjBPtL5T"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-12T18:50:19.000Z",
+        "description": "随缘//医学爱好者/les🏳️‍🌈/lgbt友好/中文/EN/Arknights/绘画/混乱日常碎碎念/很吵//喵喵",
+        "id": "1569397683814629379",
+        "location": "世界的尽头",
+        "name": "腐烂苹果酱",
+        "pinned_tweet_id": "1937498024907010498",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1620839959388393479/hsMKvVei_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 95,
+          "following_count": 619,
+          "like_count": 1579,
+          "listed_count": 0,
+          "media_count": 45,
+          "tweet_count": 1844
+        },
+        "username": "ppppggggjjjj",
+        "verified": false
+      },
+      {
+        "created_at": "2022-12-13T13:54:21.000Z",
+        "description": "周而复始，即为历史",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "bsky.app/profile/kanade…",
+                "end": 23,
+                "expanded_url": "https://bsky.app/profile/kanade-8964.bsky.social",
+                "start": 0,
+                "url": "https://t.co/Czvo6RndGT"
+              }
+            ]
+          }
+        },
+        "id": "1602663153623388161",
+        "location": "导流槽雅座",
+        "name": "超级泡面高手小气走",
+        "pinned_tweet_id": "1741502377004576895",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907138834435096576/jxo8AWHo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3574,
+          "following_count": 4336,
+          "like_count": 79963,
+          "listed_count": 11,
+          "media_count": 3941,
+          "tweet_count": 11182
+        },
+        "url": "https://t.co/Czvo6RndGT",
+        "username": "knd_8964",
+        "verified": false
+      }
+    ]
+  }
+}

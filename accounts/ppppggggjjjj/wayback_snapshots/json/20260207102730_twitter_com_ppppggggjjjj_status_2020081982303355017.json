@@ -1,0 +1,744 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2019140065704964102",
+        "3_2019140065700843520"
+      ],
+      "media_source_tweet_id": [
+        "2019140078480830731",
+        "2019140078480830731"
+      ]
+    },
+    "author_id": "1569397683814629379",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "id": "1445358176312782848",
+          "name": "Aespa"
+        }
+      },
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "id": "1445361378210902020",
+          "name": "Giselle"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A musician in the world, like Adele or Bob Dylan",
+          "id": "54",
+          "name": "Musician"
+        },
+        "entity": {
+          "id": "1445358176312782848",
+          "name": "Aespa"
+        }
+      },
+      {
+        "domain": {
+          "description": "A musician in the world, like Adele or Bob Dylan",
+          "id": "54",
+          "name": "Musician"
+        },
+        "entity": {
+          "id": "1445361378210902020",
+          "name": "Giselle"
+        }
+      },
+      {
+        "domain": {
+          "description": "A category for a musical style, like Pop, Rock, or Rap",
+          "id": "55",
+          "name": "Music Genre"
+        },
+        "entity": {
+          "description": "K-Hip-Hop",
+          "id": "1014161314971709441",
+          "name": "K-hip hop"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Music and radio",
+          "id": "847524658970636288",
+          "name": "Music"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "K-Hip-Hop",
+          "id": "1014161314971709441",
+          "name": "K-hip hop"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1445358176312782848",
+          "name": "Aespa"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1445361378210902020",
+          "name": "Giselle"
+        }
+      }
+    ],
+    "conversation_id": "2020081982303355017",
+    "created_at": "2026-02-07T10:27:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-07T11:27:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2020081982303355017"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 45,
+          "start": 39,
+          "tag": "aespa"
+        },
+        {
+          "end": 51,
+          "start": 46,
+          "tag": "æspa"
+        },
+        {
+          "end": 56,
+          "start": 52,
+          "tag": "에스파"
+        },
+        {
+          "end": 66,
+          "start": 58,
+          "tag": "GISELLE"
+        },
+        {
+          "end": 70,
+          "start": 67,
+          "tag": "지젤"
+        },
+        {
+          "end": 75,
+          "start": 71,
+          "tag": "ジゼル"
+        },
+        {
+          "end": 81,
+          "start": 76,
+          "tag": "内永绘里"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1908581612461449217",
+          "start": 3,
+          "username": "WUwu070716"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/NhylBcU98k",
+          "end": 105,
+          "expanded_url": "https://x.com/WUwu070716/status/2019140078480830731/photo/1",
+          "media_key": "3_2019140065704964102",
+          "start": 82,
+          "url": "https://t.co/NhylBcU98k"
+        },
+        {
+          "display_url": "pic.x.com/NhylBcU98k",
+          "end": 105,
+          "expanded_url": "https://x.com/WUwu070716/status/2019140078480830731/photo/1",
+          "media_key": "3_2019140065700843520",
+          "start": 82,
+          "url": "https://t.co/NhylBcU98k"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2020081982303355017",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1110
+    },
+    "referenced_tweets": [
+      {
+        "id": "2019140078480830731",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @WUwu070716: giselle cest\n\n紧紧的，黏腻的\n\n#aespa #æspa #에스파 \n#GISELLE #지젤 #ジゼル #内永绘里 https://t.co/NhylBcU98k"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2019140065704964102",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HAVtMSAacAYKEcF.jpg",
+        "width": 1448
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2019140065700843520",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HAVtMR_bkAAsTsd.jpg",
+        "width": 1448
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2019140065704964102",
+            "3_2019140065700843520"
+          ],
+          "media_source_tweet_id": [
+            "2019140078480830731",
+            "2019140078480830731"
+          ]
+        },
+        "author_id": "1569397683814629379",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1445358176312782848",
+              "name": "Aespa"
+            }
+          },
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1445361378210902020",
+              "name": "Giselle"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A musician in the world, like Adele or Bob Dylan",
+              "id": "54",
+              "name": "Musician"
+            },
+            "entity": {
+              "id": "1445358176312782848",
+              "name": "Aespa"
+            }
+          },
+          {
+            "domain": {
+              "description": "A musician in the world, like Adele or Bob Dylan",
+              "id": "54",
+              "name": "Musician"
+            },
+            "entity": {
+              "id": "1445361378210902020",
+              "name": "Giselle"
+            }
+          },
+          {
+            "domain": {
+              "description": "A category for a musical style, like Pop, Rock, or Rap",
+              "id": "55",
+              "name": "Music Genre"
+            },
+            "entity": {
+              "description": "K-Hip-Hop",
+              "id": "1014161314971709441",
+              "name": "K-hip hop"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Music and radio",
+              "id": "847524658970636288",
+              "name": "Music"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "K-Hip-Hop",
+              "id": "1014161314971709441",
+              "name": "K-hip hop"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1445358176312782848",
+              "name": "Aespa"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1445361378210902020",
+              "name": "Giselle"
+            }
+          }
+        ],
+        "conversation_id": "2020081982303355017",
+        "created_at": "2026-02-07T10:27:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-07T11:27:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2020081982303355017"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 45,
+              "start": 39,
+              "tag": "aespa"
+            },
+            {
+              "end": 51,
+              "start": 46,
+              "tag": "æspa"
+            },
+            {
+              "end": 56,
+              "start": 52,
+              "tag": "에스파"
+            },
+            {
+              "end": 66,
+              "start": 58,
+              "tag": "GISELLE"
+            },
+            {
+              "end": 70,
+              "start": 67,
+              "tag": "지젤"
+            },
+            {
+              "end": 75,
+              "start": 71,
+              "tag": "ジゼル"
+            },
+            {
+              "end": 81,
+              "start": 76,
+              "tag": "内永绘里"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1908581612461449217",
+              "start": 3,
+              "username": "WUwu070716"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/NhylBcU98k",
+              "end": 105,
+              "expanded_url": "https://x.com/WUwu070716/status/2019140078480830731/photo/1",
+              "media_key": "3_2019140065704964102",
+              "start": 82,
+              "url": "https://t.co/NhylBcU98k"
+            },
+            {
+              "display_url": "pic.x.com/NhylBcU98k",
+              "end": 105,
+              "expanded_url": "https://x.com/WUwu070716/status/2019140078480830731/photo/1",
+              "media_key": "3_2019140065700843520",
+              "start": 82,
+              "url": "https://t.co/NhylBcU98k"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2020081982303355017",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1110
+        },
+        "referenced_tweets": [
+          {
+            "id": "2019140078480830731",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @WUwu070716: giselle cest\n\n紧紧的，黏腻的\n\n#aespa #æspa #에스파 \n#GISELLE #지젤 #ジゼル #内永绘里 https://t.co/NhylBcU98k"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2019140065704964102",
+            "3_2019140065700843520"
+          ]
+        },
+        "author_id": "1908581612461449217",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1445358176312782848",
+              "name": "Aespa"
+            }
+          },
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1445361378210902020",
+              "name": "Giselle"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A musician in the world, like Adele or Bob Dylan",
+              "id": "54",
+              "name": "Musician"
+            },
+            "entity": {
+              "id": "1445358176312782848",
+              "name": "Aespa"
+            }
+          },
+          {
+            "domain": {
+              "description": "A musician in the world, like Adele or Bob Dylan",
+              "id": "54",
+              "name": "Musician"
+            },
+            "entity": {
+              "id": "1445361378210902020",
+              "name": "Giselle"
+            }
+          },
+          {
+            "domain": {
+              "description": "A category for a musical style, like Pop, Rock, or Rap",
+              "id": "55",
+              "name": "Music Genre"
+            },
+            "entity": {
+              "description": "K-Hip-Hop",
+              "id": "1014161314971709441",
+              "name": "K-hip hop"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Music and radio",
+              "id": "847524658970636288",
+              "name": "Music"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "K-Hip-Hop",
+              "id": "1014161314971709441",
+              "name": "K-hip hop"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1445358176312782848",
+              "name": "Aespa"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1445361378210902020",
+              "name": "Giselle"
+            }
+          }
+        ],
+        "conversation_id": "2019140078480830731",
+        "created_at": "2026-02-04T20:04:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-04T21:04:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2019140078480830731"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 29,
+              "start": 23,
+              "tag": "aespa"
+            },
+            {
+              "end": 35,
+              "start": 30,
+              "tag": "æspa"
+            },
+            {
+              "end": 40,
+              "start": 36,
+              "tag": "에스파"
+            },
+            {
+              "end": 50,
+              "start": 42,
+              "tag": "GISELLE"
+            },
+            {
+              "end": 54,
+              "start": 51,
+              "tag": "지젤"
+            },
+            {
+              "end": 59,
+              "start": 55,
+              "tag": "ジゼル"
+            },
+            {
+              "end": 65,
+              "start": 60,
+              "tag": "内永绘里"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/NhylBcU98k",
+              "end": 89,
+              "expanded_url": "https://x.com/WUwu070716/status/2019140078480830731/photo/1",
+              "media_key": "3_2019140065704964102",
+              "start": 66,
+              "url": "https://t.co/NhylBcU98k"
+            },
+            {
+              "display_url": "pic.x.com/NhylBcU98k",
+              "end": 89,
+              "expanded_url": "https://x.com/WUwu070716/status/2019140078480830731/photo/1",
+              "media_key": "3_2019140065700843520",
+              "start": 66,
+              "url": "https://t.co/NhylBcU98k"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2019140078480830731",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2093,
+          "impression_count": 188560,
+          "like_count": 14649,
+          "quote_count": 126,
+          "reply_count": 13,
+          "retweet_count": 1110
+        },
+        "reply_settings": "everyone",
+        "text": "giselle cest\n\n紧紧的，黏腻的\n\n#aespa #æspa #에스파 \n#GISELLE #지젤 #ジゼル #内永绘里 https://t.co/NhylBcU98k"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-12T18:50:19.000Z",
+        "description": "随缘//医学爱好者/les🏳️‍🌈/lgbt友好/中文/EN/Arknights/绘画/混乱日常碎碎念/很吵//喵喵 【永远拥护培根卷番茄！】提问箱↓ ↓ ↓",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ppppppppp38481",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ppppppppp38481",
+                "start": 0,
+                "url": "https://t.co/dw8CaO5Cup"
+              }
+            ]
+          }
+        },
+        "id": "1569397683814629379",
+        "location": "世界的尽头",
+        "name": "腐烂培根卷",
+        "pinned_tweet_id": "2012485424057291255",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953366409284861953/HM3Aeou7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 191,
+          "following_count": 1098,
+          "like_count": 4675,
+          "listed_count": 1,
+          "media_count": 93,
+          "tweet_count": 4526
+        },
+        "url": "https://t.co/dw8CaO5Cup",
+        "username": "ppppggggjjjj",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-05T18:04:59.000Z",
+        "description": "🔞｜百合爱好者｜水仙爱好者｜画画的 感谢喜欢",
+        "id": "1908581612461449217",
+        "name": "无物",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2019456178074648576/samMywxN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1178,
+          "following_count": 63,
+          "like_count": 1853,
+          "listed_count": 1,
+          "media_count": 57,
+          "tweet_count": 195
+        },
+        "username": "WUwu070716",
+        "verified": false
+      }
+    ]
+  }
+}

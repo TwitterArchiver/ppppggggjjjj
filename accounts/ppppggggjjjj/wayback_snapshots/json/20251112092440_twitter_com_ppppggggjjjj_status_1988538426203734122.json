@@ -1,0 +1,235 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1988186187727790080"
+      ],
+      "media_source_tweet_id": [
+        "1988186229045957103"
+      ]
+    },
+    "author_id": "1569397683814629379",
+    "conversation_id": "1988538426203734122",
+    "created_at": "2025-11-12T09:24:40.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-12T10:24:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1988538426203734122"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1221104979009650688",
+          "start": 3,
+          "username": "deatiose"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/ZSeneodIPV",
+          "end": 44,
+          "expanded_url": "https://x.com/deatiose/status/1988186229045957103/photo/1",
+          "media_key": "3_1988186187727790080",
+          "start": 21,
+          "url": "https://t.co/ZSeneodIPV"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1988538426203734122",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1115
+    },
+    "referenced_tweets": [
+      {
+        "id": "1988186229045957103",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @deatiose: 给二路的封面 https://t.co/ZSeneodIPV"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_1988186187727790080",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5d0zcraYAAkdYP.jpg",
+        "width": 2886
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1988186187727790080"
+          ],
+          "media_source_tweet_id": [
+            "1988186229045957103"
+          ]
+        },
+        "author_id": "1569397683814629379",
+        "conversation_id": "1988538426203734122",
+        "created_at": "2025-11-12T09:24:40.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-12T10:24:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1988538426203734122"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1221104979009650688",
+              "start": 3,
+              "username": "deatiose"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ZSeneodIPV",
+              "end": 44,
+              "expanded_url": "https://x.com/deatiose/status/1988186229045957103/photo/1",
+              "media_key": "3_1988186187727790080",
+              "start": 21,
+              "url": "https://t.co/ZSeneodIPV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1988538426203734122",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1115
+        },
+        "referenced_tweets": [
+          {
+            "id": "1988186229045957103",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @deatiose: 给二路的封面 https://t.co/ZSeneodIPV"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1988186187727790080"
+          ]
+        },
+        "author_id": "1221104979009650688",
+        "conversation_id": "1988186229045957103",
+        "created_at": "2025-11-11T10:05:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-11T11:05:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1988186229045957103"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ZSeneodIPV",
+              "end": 30,
+              "expanded_url": "https://x.com/deatiose/status/1988186229045957103/photo/1",
+              "media_key": "3_1988186187727790080",
+              "start": 7,
+              "url": "https://t.co/ZSeneodIPV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1988186229045957103",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 624,
+          "impression_count": 60152,
+          "like_count": 6159,
+          "quote_count": 19,
+          "reply_count": 6,
+          "retweet_count": 1115
+        },
+        "reply_settings": "everyone",
+        "text": "给二路的封面 https://t.co/ZSeneodIPV"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-12T18:50:19.000Z",
+        "description": "随缘//医学爱好者/les🏳️‍🌈/lgbt友好/中文/EN/Arknights/绘画/混乱日常碎碎念/很吵//喵喵 【永远拥护培根卷番茄！】",
+        "id": "1569397683814629379",
+        "location": "世界的尽头",
+        "name": "腐烂培根卷",
+        "pinned_tweet_id": "1937498024907010498",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953366409284861953/HM3Aeou7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 131,
+          "following_count": 775,
+          "like_count": 2664,
+          "listed_count": 1,
+          "media_count": 79,
+          "tweet_count": 3648
+        },
+        "username": "ppppggggjjjj",
+        "verified": false
+      },
+      {
+        "created_at": "2020-01-25T16:18:16.000Z",
+        "description": "DEA\n中国人/日本語OK/EN OK\n商务：2294835239@qq.com",
+        "id": "1221104979009650688",
+        "name": "Deatiose",
+        "pinned_tweet_id": "1509876083512029184",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1868907853366648832/ARtcHjFr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 50243,
+          "following_count": 503,
+          "like_count": 7143,
+          "listed_count": 319,
+          "media_count": 196,
+          "tweet_count": 837
+        },
+        "username": "deatiose",
+        "verified": true
+      }
+    ]
+  }
+}

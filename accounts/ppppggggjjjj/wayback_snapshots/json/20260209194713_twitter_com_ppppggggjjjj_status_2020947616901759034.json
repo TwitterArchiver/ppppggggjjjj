@@ -1,0 +1,293 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2020490309126549504"
+      ],
+      "media_source_tweet_id": [
+        "2020490403515117842"
+      ]
+    },
+    "author_id": "1569397683814629379",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2020947616901759034",
+    "created_at": "2026-02-09T19:47:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-09T20:47:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2020947616901759034"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1678322860455239691",
+          "start": 3,
+          "username": "nmc_end"
+        }
+      ],
+      "urls": [
+        {
+          "description": "本家様﹣ https://www.youtube.com/watch?v=lExjJa-ELJMɪʟʟᴜꜱᴛʀᴀᴛɪᴏɴ / ᴍᴏᴠɪᴇ brutal_vap 様　https://x.com/brutal_vapᴍɪxD_MIX 様 https://x.com/D_MIXingᴠᴏᴄᴀʟnmc htt...",
+          "display_url": "youtu.be/f4v_4jRqITs",
+          "end": 111,
+          "expanded_url": "http://youtu.be/f4v_4jRqITs",
+          "images": [
+            {
+              "height": 720,
+              "url": "https://pbs.twimg.com/news_img/2020486930484301824/7c9iE-Pw?format=jpg&name=orig",
+              "width": 1280
+            },
+            {
+              "height": 150,
+              "url": "https://pbs.twimg.com/news_img/2020486930484301824/7c9iE-Pw?format=jpg&name=150x150",
+              "width": 150
+            }
+          ],
+          "start": 88,
+          "status": 200,
+          "title": "ジェーンは凍っていた / nmc （cover）",
+          "unwound_url": "https://www.youtube.com/watch?v=f4v_4jRqITs&feature=youtu.be",
+          "url": "https://t.co/85Eiz1ehUj"
+        },
+        {
+          "display_url": "pic.x.com/S5240zaKl6",
+          "end": 135,
+          "expanded_url": "https://x.com/nmc_end/status/2020490403515117842/video/1",
+          "media_key": "13_2020490309126549504",
+          "start": 112,
+          "url": "https://t.co/S5240zaKl6"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2020947616901759034",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 331
+    },
+    "referenced_tweets": [
+      {
+        "id": "2020490403515117842",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @nmc_end: ＊………＊＊＊………＊＊＊……＊＊＊……＊\n\n　　　ジェーンは凍っていた cover\n\n＊………＊＊＊………＊＊＊……＊＊＊……＊\n\nYouTube｜https://t.co/85Eiz1ehUj https://t.co/S5240zaKl6"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2020947616901759034].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2020947616901759034",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2020947616901759034"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 41983,
+        "height": 720,
+        "media_key": "13_2020490309126549504",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2020490309126549504/img/m13XRiBYsIEpaxIu.jpg",
+        "public_metrics": {
+          "view_count": 10176
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2020490309126549504/vid/avc1/480x270/y66RIWrUmZTSDXuZ.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2020490309126549504/vid/avc1/640x360/QhbW48FG2GWPKypH.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2020490309126549504/vid/avc1/1280x720/KZmrfWX-a-DxNLQW.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2020490309126549504/pl/3fB3dsYiph6Z4dac.m3u8?v=eee"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2020490309126549504"
+          ]
+        },
+        "author_id": "1678322860455239691",
+        "conversation_id": "2020490403515117842",
+        "created_at": "2026-02-08T13:30:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-08T14:30:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2020490403515117842"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "本家様﹣ https://www.youtube.com/watch?v=lExjJa-ELJMɪʟʟᴜꜱᴛʀᴀᴛɪᴏɴ / ᴍᴏᴠɪᴇ brutal_vap 様　https://x.com/brutal_vapᴍɪxD_MIX 様 https://x.com/D_MIXingᴠᴏᴄᴀʟnmc htt...",
+              "display_url": "youtu.be/f4v_4jRqITs",
+              "end": 98,
+              "expanded_url": "http://youtu.be/f4v_4jRqITs",
+              "images": [
+                {
+                  "height": 720,
+                  "url": "https://pbs.twimg.com/news_img/2020486930484301824/7c9iE-Pw?format=jpg&name=orig",
+                  "width": 1280
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2020486930484301824/7c9iE-Pw?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 75,
+              "status": 200,
+              "title": "ジェーンは凍っていた / nmc （cover）",
+              "unwound_url": "https://www.youtube.com/watch?v=f4v_4jRqITs&feature=youtu.be",
+              "url": "https://t.co/85Eiz1ehUj"
+            },
+            {
+              "display_url": "pic.x.com/S5240zaKl6",
+              "end": 122,
+              "expanded_url": "https://x.com/nmc_end/status/2020490403515117842/video/1",
+              "media_key": "13_2020490309126549504",
+              "start": 99,
+              "url": "https://t.co/S5240zaKl6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2020490403515117842",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 937,
+          "impression_count": 68099,
+          "like_count": 2650,
+          "quote_count": 9,
+          "reply_count": 2,
+          "retweet_count": 331
+        },
+        "reply_settings": "everyone",
+        "text": "＊………＊＊＊………＊＊＊……＊＊＊……＊\n\n　　　ジェーンは凍っていた cover\n\n＊………＊＊＊………＊＊＊……＊＊＊……＊\n\nYouTube｜https://t.co/85Eiz1ehUj https://t.co/S5240zaKl6"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-12T18:50:19.000Z",
+        "description": "随缘//医学爱好者/les🏳️‍🌈/lgbt友好/中文/EN/Arknights/绘画/混乱日常碎碎念/很吵//喵喵 【永远拥护培根卷番茄！】提问箱↓ ↓ ↓",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ppppppppp38481",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ppppppppp38481",
+                "start": 0,
+                "url": "https://t.co/dw8CaO5Cup"
+              }
+            ]
+          }
+        },
+        "id": "1569397683814629379",
+        "location": "世界的尽头",
+        "name": "腐烂培根卷",
+        "pinned_tweet_id": "2012485424057291255",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953366409284861953/HM3Aeou7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 190,
+          "following_count": 1117,
+          "like_count": 4792,
+          "listed_count": 1,
+          "media_count": 93,
+          "tweet_count": 4576
+        },
+        "url": "https://t.co/dw8CaO5Cup",
+        "username": "ppppggggjjjj",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-10T08:38:53.000Z",
+        "description": "",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@nmnmc",
+                "end": 23,
+                "expanded_url": "https://www.youtube.com/@nmnmc",
+                "start": 0,
+                "url": "https://t.co/v5tEozUylC"
+              }
+            ]
+          }
+        },
+        "id": "1678322860455239691",
+        "name": "nmc",
+        "pinned_tweet_id": "2015379898161156465",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1883187356460883968/hziQ5HUE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 427,
+          "following_count": 26,
+          "like_count": 223,
+          "listed_count": 0,
+          "media_count": 80,
+          "tweet_count": 249
+        },
+        "url": "https://t.co/v5tEozUylC",
+        "username": "nmc_end",
+        "verified": false
+      }
+    ]
+  }
+}

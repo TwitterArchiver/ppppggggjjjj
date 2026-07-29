@@ -1,0 +1,248 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2047193236993916928"
+      ],
+      "media_source_tweet_id": [
+        "2047193244220706850"
+      ]
+    },
+    "author_id": "1569397683814629379",
+    "conversation_id": "2047258501412794632",
+    "created_at": "2026-04-23T10:17:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-23T11:17:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2047258501412794632"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2043222121632137216",
+          "start": 3,
+          "username": "a____011__"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/jBd34un4yl",
+          "end": 43,
+          "expanded_url": "https://x.com/a____011__/status/2047193244220706850/photo/1",
+          "media_key": "3_2047193236993916928",
+          "start": 20,
+          "url": "https://t.co/jBd34un4yl"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047258501412794632",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 28
+    },
+    "referenced_tweets": [
+      {
+        "id": "2047193244220706850",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @a____011__: 過去絵 https://t.co/jBd34un4yl"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1173,
+        "media_key": "3_2047193236993916928",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGkXZw2awAACwhJ.jpg",
+        "width": 1169
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2047193236993916928"
+          ],
+          "media_source_tweet_id": [
+            "2047193244220706850"
+          ]
+        },
+        "author_id": "1569397683814629379",
+        "conversation_id": "2047258501412794632",
+        "created_at": "2026-04-23T10:17:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-23T11:17:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047258501412794632"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2043222121632137216",
+              "start": 3,
+              "username": "a____011__"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/jBd34un4yl",
+              "end": 43,
+              "expanded_url": "https://x.com/a____011__/status/2047193244220706850/photo/1",
+              "media_key": "3_2047193236993916928",
+              "start": 20,
+              "url": "https://t.co/jBd34un4yl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047258501412794632",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 28
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047193244220706850",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @a____011__: 過去絵 https://t.co/jBd34un4yl"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2047193236993916928"
+          ]
+        },
+        "author_id": "2043222121632137216",
+        "conversation_id": "2047193244220706850",
+        "created_at": "2026-04-23T05:57:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-23T06:57:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2047193244220706850"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/jBd34un4yl",
+              "end": 27,
+              "expanded_url": "https://x.com/a____011__/status/2047193244220706850/photo/1",
+              "media_key": "3_2047193236993916928",
+              "start": 4,
+              "url": "https://t.co/jBd34un4yl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047193244220706850",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 14,
+          "impression_count": 1150,
+          "like_count": 239,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 28
+        },
+        "reply_settings": "everyone",
+        "text": "過去絵 https://t.co/jBd34un4yl"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-12T18:50:19.000Z",
+        "description": "随缘//医学爱好者/Arknights/绘画/混乱日常碎碎念无营养内容/可能会很吵？ /les/lgbt友好/中文/EN//喵喵//提问箱↓ ↓ ↓",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ppppppppp38481",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ppppppppp38481",
+                "start": 0,
+                "url": "https://t.co/dw8CaO6ajX"
+              }
+            ]
+          }
+        },
+        "id": "1569397683814629379",
+        "location": "世界的尽头",
+        "name": "腐烂培根卷",
+        "pinned_tweet_id": "2012485424057291255",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953366409284861953/HM3Aeou7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 212,
+          "following_count": 1314,
+          "like_count": 6949,
+          "listed_count": 1,
+          "media_count": 98,
+          "tweet_count": 5338
+        },
+        "url": "https://t.co/dw8CaO6ajX",
+        "username": "ppppggggjjjj",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-12T06:58:58.000Z",
+        "description": "",
+        "id": "2043222121632137216",
+        "name": "A",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043222395943784448/ZdaWHYju_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 98,
+          "following_count": 20,
+          "like_count": 8,
+          "listed_count": 0,
+          "media_count": 15,
+          "tweet_count": 15
+        },
+        "username": "a____011__",
+        "verified": false
+      }
+    ]
+  }
+}

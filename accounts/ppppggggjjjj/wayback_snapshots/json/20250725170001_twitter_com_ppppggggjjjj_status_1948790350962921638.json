@@ -1,0 +1,249 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1948660308912078852"
+      ],
+      "media_source_tweet_id": [
+        "1948660342034497590"
+      ]
+    },
+    "author_id": "1569397683814629379",
+    "conversation_id": "1948790350962921638",
+    "created_at": "2025-07-25T17:00:01.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-25T18:00:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1948790350962921638"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1828334168583086081",
+          "start": 3,
+          "username": "bobrice_"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/m8lu8TUelb",
+          "end": 39,
+          "expanded_url": "https://x.com/bobrice_/status/1948660342034497590/photo/1",
+          "media_key": "3_1948660308912078852",
+          "start": 16,
+          "url": "https://t.co/m8lu8TUelb"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1948790350962921638",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 169
+    },
+    "referenced_tweets": [
+      {
+        "id": "1948660342034497590",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @bobrice_: 濁 https://t.co/m8lu8TUelb"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 778,
+        "media_key": "3_1948660308912078852",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GwsIOfybgAQejiX.png",
+        "width": 813
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1948660308912078852"
+          ],
+          "media_source_tweet_id": [
+            "1948660342034497590"
+          ]
+        },
+        "author_id": "1569397683814629379",
+        "conversation_id": "1948790350962921638",
+        "created_at": "2025-07-25T17:00:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-25T18:00:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1948790350962921638"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1828334168583086081",
+              "start": 3,
+              "username": "bobrice_"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/m8lu8TUelb",
+              "end": 39,
+              "expanded_url": "https://x.com/bobrice_/status/1948660342034497590/photo/1",
+              "media_key": "3_1948660308912078852",
+              "start": 16,
+              "url": "https://t.co/m8lu8TUelb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1948790350962921638",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 169
+        },
+        "referenced_tweets": [
+          {
+            "id": "1948660342034497590",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @bobrice_: 濁 https://t.co/m8lu8TUelb"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1948660308912078852"
+          ]
+        },
+        "author_id": "1828334168583086081",
+        "conversation_id": "1948660342034497590",
+        "created_at": "2025-07-25T08:23:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-25T09:23:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1948660342034497590"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/m8lu8TUelb",
+              "end": 25,
+              "expanded_url": "https://x.com/bobrice_/status/1948660342034497590/photo/1",
+              "media_key": "3_1948660308912078852",
+              "start": 2,
+              "url": "https://t.co/m8lu8TUelb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1948660342034497590",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 93,
+          "impression_count": 20950,
+          "like_count": 1532,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 169
+        },
+        "reply_settings": "everyone",
+        "text": "濁 https://t.co/m8lu8TUelb"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-12T18:50:19.000Z",
+        "description": "随缘//医学爱好者/les🏳️‍🌈/lgbt友好/中文/EN/Arknights/绘画/混乱日常碎碎念/很吵//喵喵",
+        "id": "1569397683814629379",
+        "location": "世界的尽头",
+        "name": "腐烂苹果酱",
+        "pinned_tweet_id": "1937498024907010498",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1620839959388393479/hsMKvVei_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 97,
+          "following_count": 621,
+          "like_count": 1610,
+          "listed_count": 0,
+          "media_count": 47,
+          "tweet_count": 1877
+        },
+        "username": "ppppggggjjjj",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-27T07:32:01.000Z",
+        "description": "わたるべと申します\n強い自我を含む好き放題アカウントです！逃げて",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "profcard.info/u/36kfvLWIo2hS…",
+                "end": 23,
+                "expanded_url": "https://profcard.info/u/36kfvLWIo2hSQZT85kzBtm5QCX52",
+                "start": 0,
+                "url": "https://t.co/koZLKW79K3"
+              }
+            ]
+          }
+        },
+        "id": "1828334168583086081",
+        "name": "ドバトチャンピオン渡邉",
+        "pinned_tweet_id": "1942805968250614214",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1925274946600935424/lHBuzUjO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 194,
+          "following_count": 37,
+          "like_count": 1451,
+          "listed_count": 0,
+          "media_count": 63,
+          "tweet_count": 431
+        },
+        "url": "https://t.co/koZLKW79K3",
+        "username": "bobrice_",
+        "verified": false
+      }
+    ]
+  }
+}

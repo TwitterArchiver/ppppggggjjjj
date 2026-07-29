@@ -1,0 +1,366 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2052084007391694857"
+      ],
+      "media_source_tweet_id": [
+        "2052084085246382356"
+      ]
+    },
+    "author_id": "1569397683814629379",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+          "id": "130",
+          "name": "Multimedia Franchise"
+        },
+        "entity": {
+          "id": "1448422092655845378",
+          "name": "Tsukihime"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1448422092655845378",
+          "name": "Tsukihime"
+        }
+      }
+    ],
+    "conversation_id": "2052994232936456231",
+    "created_at": "2026-05-09T06:09:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-09T07:09:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2052994232936456231"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 23,
+          "start": 13,
+          "tag": "Tsukihime"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1224972556546891784",
+          "start": 3,
+          "username": "tok8505"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/U2GBMQN0yv",
+          "end": 47,
+          "expanded_url": "https://x.com/tok8505/status/2052084085246382356/video/1",
+          "media_key": "13_2052084007391694857",
+          "start": 24,
+          "url": "https://t.co/U2GBMQN0yv"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052994232936456231",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 52
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052084085246382356",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @tok8505: #Tsukihime https://t.co/U2GBMQN0yv"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 9833,
+        "height": 1280,
+        "media_key": "13_2052084007391694857",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2052084007391694857/img/2ECqoswq5OdhhJhf.jpg",
+        "public_metrics": {
+          "view_count": 900
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2052084007391694857/vid/avc1/320x572/O1DIwgEGLdgnvriq.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2052084007391694857/vid/avc1/480x858/oTSkrY6Y3o4lN1X6.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2052084007391694857/vid/avc1/716x1280/ztnYm8Tba5ipeoZP.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2052084007391694857/pl/JoUGw-WCgq6zLlR6.m3u8"
+          }
+        ],
+        "width": 716
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2052084007391694857"
+          ],
+          "media_source_tweet_id": [
+            "2052084085246382356"
+          ]
+        },
+        "author_id": "1569397683814629379",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "id": "1448422092655845378",
+              "name": "Tsukihime"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1448422092655845378",
+              "name": "Tsukihime"
+            }
+          }
+        ],
+        "conversation_id": "2052994232936456231",
+        "created_at": "2026-05-09T06:09:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-09T07:09:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052994232936456231"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 23,
+              "start": 13,
+              "tag": "Tsukihime"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1224972556546891784",
+              "start": 3,
+              "username": "tok8505"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/U2GBMQN0yv",
+              "end": 47,
+              "expanded_url": "https://x.com/tok8505/status/2052084085246382356/video/1",
+              "media_key": "13_2052084007391694857",
+              "start": 24,
+              "url": "https://t.co/U2GBMQN0yv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052994232936456231",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 52
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052084085246382356",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @tok8505: #Tsukihime https://t.co/U2GBMQN0yv"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2052084007391694857"
+          ]
+        },
+        "author_id": "1224972556546891784",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "id": "1448422092655845378",
+              "name": "Tsukihime"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1448422092655845378",
+              "name": "Tsukihime"
+            }
+          }
+        ],
+        "conversation_id": "2052084085246382356",
+        "created_at": "2026-05-06T17:52:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-06T18:52:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2052084085246382356"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 10,
+              "start": 0,
+              "tag": "Tsukihime"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/U2GBMQN0yv",
+              "end": 34,
+              "expanded_url": "https://x.com/tok8505/status/2052084085246382356/video/1",
+              "media_key": "13_2052084007391694857",
+              "start": 11,
+              "url": "https://t.co/U2GBMQN0yv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052084085246382356",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 39,
+          "impression_count": 3727,
+          "like_count": 233,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 52
+        },
+        "reply_settings": "everyone",
+        "text": "#Tsukihime https://t.co/U2GBMQN0yv"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-12T18:50:19.000Z",
+        "description": "随缘//医学爱好者/Arknights/绘画/混乱日常碎碎念无营养内容/可能会很吵？ /les/lgbt友好/中文/EN//喵喵//提问箱↓ ↓ ↓",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ppppppppp38481",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ppppppppp38481",
+                "start": 0,
+                "url": "https://t.co/dw8CaO6ajX"
+              }
+            ]
+          }
+        },
+        "id": "1569397683814629379",
+        "location": "世界的尽头",
+        "name": "腐烂培根卷",
+        "pinned_tweet_id": "2012485424057291255",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953366409284861953/HM3Aeou7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 233,
+          "following_count": 1416,
+          "like_count": 7719,
+          "listed_count": 1,
+          "media_count": 100,
+          "tweet_count": 5830
+        },
+        "url": "https://t.co/dw8CaO6ajX",
+        "username": "ppppggggjjjj",
+        "verified": false
+      },
+      {
+        "created_at": "2020-02-05T08:26:35.000Z",
+        "description": "20⬆️ 混沌杂食人 🚫AI🚫 政治相关🚫I❤️琥珀秋葉 日文和英文都不是很好所以会使用翻译器 请不要无授权转载我的作品",
+        "id": "1224972556546891784",
+        "name": "小绘Erica",
+        "pinned_tweet_id": "1946479418211193117",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1938849972453015552/BohNBiUi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2068,
+          "following_count": 343,
+          "like_count": 1734,
+          "listed_count": 5,
+          "media_count": 225,
+          "tweet_count": 423
+        },
+        "username": "tok8505",
+        "verified": false
+      }
+    ]
+  }
+}

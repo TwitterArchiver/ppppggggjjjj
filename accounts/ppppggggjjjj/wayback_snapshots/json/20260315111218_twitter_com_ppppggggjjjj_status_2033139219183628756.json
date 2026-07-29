@@ -1,0 +1,290 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2032796480696889344"
+      ],
+      "media_source_tweet_id": [
+        "2032796485927251974"
+      ]
+    },
+    "author_id": "1569397683814629379",
+    "conversation_id": "2033139219183628756",
+    "created_at": "2026-03-15T11:12:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-15T12:12:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2033139219183628756"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 21,
+          "normalized_text": "🥒睦ボックス",
+          "probability": 0.1915,
+          "start": 15,
+          "type": "Person"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1465471990094249984",
+          "start": 3,
+          "username": "rurushugi"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/TU6MbnkceP",
+          "end": 45,
+          "expanded_url": "https://x.com/rurushugi/status/2032796485927251974/photo/1",
+          "media_key": "3_2032796480696889344",
+          "start": 22,
+          "url": "https://t.co/TU6MbnkceP"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2033139219183628756",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1906
+    },
+    "referenced_tweets": [
+      {
+        "id": "2032796485927251974",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @rurushugi: 🥒睦ボックス https://t.co/TU6MbnkceP"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2032796480696889344",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDXxoQSaMAADoAV.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2032796480696889344"
+          ],
+          "media_source_tweet_id": [
+            "2032796485927251974"
+          ]
+        },
+        "author_id": "1569397683814629379",
+        "conversation_id": "2033139219183628756",
+        "created_at": "2026-03-15T11:12:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-15T12:12:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2033139219183628756"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 21,
+              "normalized_text": "🥒睦ボックス",
+              "probability": 0.1915,
+              "start": 15,
+              "type": "Person"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1465471990094249984",
+              "start": 3,
+              "username": "rurushugi"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/TU6MbnkceP",
+              "end": 45,
+              "expanded_url": "https://x.com/rurushugi/status/2032796485927251974/photo/1",
+              "media_key": "3_2032796480696889344",
+              "start": 22,
+              "url": "https://t.co/TU6MbnkceP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2033139219183628756",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1906
+        },
+        "referenced_tweets": [
+          {
+            "id": "2032796485927251974",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @rurushugi: 🥒睦ボックス https://t.co/TU6MbnkceP"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2032796480696889344"
+          ]
+        },
+        "author_id": "1465471990094249984",
+        "conversation_id": "2032796485927251974",
+        "created_at": "2026-03-14T12:30:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-14T13:30:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2032796485927251974"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 6,
+              "normalized_text": "🥒睦ボックス",
+              "probability": 0.1676,
+              "start": 0,
+              "type": "Person"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/TU6MbnkceP",
+              "end": 30,
+              "expanded_url": "https://x.com/rurushugi/status/2032796485927251974/photo/1",
+              "media_key": "3_2032796480696889344",
+              "start": 7,
+              "url": "https://t.co/TU6MbnkceP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2032796485927251974",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1042,
+          "impression_count": 114544,
+          "like_count": 11426,
+          "quote_count": 17,
+          "reply_count": 8,
+          "retweet_count": 1906
+        },
+        "reply_settings": "everyone",
+        "text": "🥒睦ボックス https://t.co/TU6MbnkceP"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-12T18:50:19.000Z",
+        "description": "随缘//医学爱好者/les🏳️‍🌈/lgbt友好/中文/EN/Arknights/绘画/混乱日常碎碎念/很吵//喵喵//提问箱↓ ↓ ↓",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ppppppppp38481",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ppppppppp38481",
+                "start": 0,
+                "url": "https://t.co/dw8CaO6ajX"
+              }
+            ]
+          }
+        },
+        "id": "1569397683814629379",
+        "location": "世界的尽头",
+        "name": "腐烂培根卷",
+        "pinned_tweet_id": "2012485424057291255",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953366409284861953/HM3Aeou7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 192,
+          "following_count": 1166,
+          "like_count": 5395,
+          "listed_count": 1,
+          "media_count": 97,
+          "tweet_count": 4711
+        },
+        "url": "https://t.co/dw8CaO6ajX",
+        "username": "ppppggggjjjj",
+        "verified": false
+      },
+      {
+        "created_at": "2021-11-30T00:05:41.000Z",
+        "description": "偶に、趣味で絵を描いたりします。(無断転載、自作発言、AIやめてね)倉庫(pixiv) AveMujicaが好きです。AIで出力するタイプの人は関わってこないでね～",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/78766942",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/78766942",
+                "start": 0,
+                "url": "https://t.co/wbFVFzKgcZ"
+              }
+            ]
+          }
+        },
+        "id": "1465471990094249984",
+        "name": "ﾙﾙｼｭ木さん",
+        "pinned_tweet_id": "1669659494216011776",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907019578506657792/aipGf8TF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 31358,
+          "following_count": 84,
+          "like_count": 15461,
+          "listed_count": 212,
+          "media_count": 768,
+          "tweet_count": 7122
+        },
+        "url": "https://t.co/wbFVFzKgcZ",
+        "username": "rurushugi",
+        "verified": false
+      }
+    ]
+  }
+}

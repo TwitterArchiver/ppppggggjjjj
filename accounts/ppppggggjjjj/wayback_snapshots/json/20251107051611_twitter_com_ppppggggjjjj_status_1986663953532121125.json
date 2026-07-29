@@ -1,0 +1,516 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1986350256997728257"
+      ],
+      "media_source_tweet_id": [
+        "1986350418784625026"
+      ]
+    },
+    "author_id": "1569397683814629379",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A video game like Overwatch",
+          "id": "71",
+          "name": "Video Game"
+        },
+        "entity": {
+          "id": "1233113060732092416",
+          "name": "Arknights"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Gaming",
+          "id": "847527650667094017",
+          "name": "Gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1070028159964262400",
+          "name": "Video games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1233113060732092416",
+          "name": "Arknights"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1491897789013393420",
+          "name": "Strategy games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1491900085583577097",
+          "name": "Idol games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1491900373098921986",
+          "name": "Gacha games"
+        }
+      }
+    ],
+    "conversation_id": "1986663953532121125",
+    "created_at": "2025-11-07T05:16:11.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-07T06:16:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1986663953532121125"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 20,
+          "start": 13,
+          "tag": "アークナイツ"
+        },
+        {
+          "end": 31,
+          "start": 21,
+          "tag": "Arknights"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 11,
+          "id": "951015500057862144",
+          "start": 3,
+          "username": "zeriko7"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/dLzMrTd94S",
+          "end": 64,
+          "expanded_url": "https://x.com/zeriko7/status/1986350418784625026/photo/1",
+          "media_key": "3_1986350256997728257",
+          "start": 41,
+          "url": "https://t.co/dLzMrTd94S"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1986663953532121125",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 308
+    },
+    "referenced_tweets": [
+      {
+        "id": "1986350418784625026",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @zeriko7: #アークナイツ #Arknights \n试试发局部图💙 https://t.co/dLzMrTd94S"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1226,
+        "media_key": "3_1986350256997728257",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5DvCNvbAAECeRh.jpg",
+        "width": 1000
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1986350256997728257"
+          ],
+          "media_source_tweet_id": [
+            "1986350418784625026"
+          ]
+        },
+        "author_id": "1569397683814629379",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1233113060732092416",
+              "name": "Arknights"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1233113060732092416",
+              "name": "Arknights"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491897789013393420",
+              "name": "Strategy games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491900085583577097",
+              "name": "Idol games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491900373098921986",
+              "name": "Gacha games"
+            }
+          }
+        ],
+        "conversation_id": "1986663953532121125",
+        "created_at": "2025-11-07T05:16:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-07T06:16:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1986663953532121125"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 20,
+              "start": 13,
+              "tag": "アークナイツ"
+            },
+            {
+              "end": 31,
+              "start": 21,
+              "tag": "Arknights"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 11,
+              "id": "951015500057862144",
+              "start": 3,
+              "username": "zeriko7"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/dLzMrTd94S",
+              "end": 64,
+              "expanded_url": "https://x.com/zeriko7/status/1986350418784625026/photo/1",
+              "media_key": "3_1986350256997728257",
+              "start": 41,
+              "url": "https://t.co/dLzMrTd94S"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1986663953532121125",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 308
+        },
+        "referenced_tweets": [
+          {
+            "id": "1986350418784625026",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @zeriko7: #アークナイツ #Arknights \n试试发局部图💙 https://t.co/dLzMrTd94S"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1986350256997728257"
+          ]
+        },
+        "author_id": "951015500057862144",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1233113060732092416",
+              "name": "Arknights"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491897789013393420",
+              "name": "Strategy games"
+            }
+          }
+        ],
+        "conversation_id": "1986350418784625026",
+        "created_at": "2025-11-06T08:30:19.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-06T09:30:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1986350418784625026"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 7,
+              "start": 0,
+              "tag": "アークナイツ"
+            },
+            {
+              "end": 18,
+              "start": 8,
+              "tag": "Arknights"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/dLzMrTd94S",
+              "end": 51,
+              "expanded_url": "https://x.com/zeriko7/status/1986350418784625026/photo/1",
+              "media_key": "3_1986350256997728257",
+              "start": 28,
+              "url": "https://t.co/dLzMrTd94S"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1986350418784625026",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 193,
+          "impression_count": 25814,
+          "like_count": 2804,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 308
+        },
+        "reply_settings": "everyone",
+        "text": "#アークナイツ #Arknights \n试试发局部图💙 https://t.co/dLzMrTd94S"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-12T18:50:19.000Z",
+        "description": "随缘//医学爱好者/les🏳️‍🌈/lgbt友好/中文/EN/Arknights/绘画/混乱日常碎碎念/很吵//喵喵 【永远拥护培根卷番茄！】",
+        "id": "1569397683814629379",
+        "location": "世界的尽头",
+        "name": "腐烂培根卷",
+        "pinned_tweet_id": "1937498024907010498",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953366409284861953/HM3Aeou7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 123,
+          "following_count": 755,
+          "like_count": 2495,
+          "listed_count": 1,
+          "media_count": 79,
+          "tweet_count": 3530
+        },
+        "username": "ppppggggjjjj",
+        "verified": false
+      },
+      {
+        "created_at": "2018-01-10T08:58:58.000Z",
+        "description": "weibo/rednote：十松果 丨bilibili：十松果是什么果。唯一账号，联系不上请微博联系 🚫無断転載、AI学習禁止",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "weibo.com/u/1778140897",
+                "end": 23,
+                "expanded_url": "https://weibo.com/u/1778140897",
+                "start": 0,
+                "url": "https://t.co/PY5gBPXnQl"
+              }
+            ]
+          }
+        },
+        "id": "951015500057862144",
+        "name": "十松果",
+        "pinned_tweet_id": "1975106456589684898",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1966860718097186816/4VYUs8Jr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8495,
+          "following_count": 740,
+          "like_count": 639,
+          "listed_count": 81,
+          "media_count": 191,
+          "tweet_count": 291
+        },
+        "url": "https://t.co/PY5gBPXnQl",
+        "username": "zeriko7",
+        "verified": false
+      }
+    ]
+  }
+}

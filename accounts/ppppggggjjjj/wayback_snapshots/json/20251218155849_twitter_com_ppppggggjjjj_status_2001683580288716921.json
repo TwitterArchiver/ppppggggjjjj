@@ -1,0 +1,190 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1569397683814629379",
+    "conversation_id": "2001683580288716921",
+    "created_at": "2025-12-18T15:58:49.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-18T16:58:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2001683580288716921"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1712526594311434241",
+          "start": 3,
+          "username": "SnowyRika"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2001683580288716921",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 187
+    },
+    "referenced_tweets": [
+      {
+        "id": "2001364299906977921",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @SnowyRika: Life sucks"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1569397683814629379",
+        "conversation_id": "2001683580288716921",
+        "created_at": "2025-12-18T15:58:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-18T16:58:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2001683580288716921"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1712526594311434241",
+              "start": 3,
+              "username": "SnowyRika"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2001683580288716921",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 187
+        },
+        "referenced_tweets": [
+          {
+            "id": "2001364299906977921",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @SnowyRika: Life sucks"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1712526594311434241",
+        "conversation_id": "2001364299906977921",
+        "created_at": "2025-12-17T18:50:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-17T19:50:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2001364299906977921"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2001364299906977921",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 25,
+          "impression_count": 7802,
+          "like_count": 512,
+          "quote_count": 3,
+          "reply_count": 22,
+          "retweet_count": 187
+        },
+        "reply_settings": "everyone",
+        "text": "Life sucks"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-12T18:50:19.000Z",
+        "description": "随缘//医学爱好者/les🏳️‍🌈/lgbt友好/中文/EN/Arknights/绘画/混乱日常碎碎念/很吵//喵喵 【永远拥护培根卷番茄！】",
+        "id": "1569397683814629379",
+        "location": "世界的尽头",
+        "name": "腐烂培根卷",
+        "pinned_tweet_id": "1993298688010322328",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953366409284861953/HM3Aeou7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 155,
+          "following_count": 984,
+          "like_count": 3734,
+          "listed_count": 1,
+          "media_count": 88,
+          "tweet_count": 4147
+        },
+        "username": "ppppggggjjjj",
+        "verified": false
+      },
+      {
+        "created_at": "2023-10-12T17:52:19.000Z",
+        "description": "Nipah~",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "RikaFurude.com",
+                "end": 23,
+                "expanded_url": "https://RikaFurude.com",
+                "start": 0,
+                "url": "https://t.co/Z9qP57rzTB"
+              }
+            ]
+          }
+        },
+        "id": "1712526594311434241",
+        "location": "Hinamizawa",
+        "name": "Rika Furude",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984678285884706816/RdfcINQM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1837,
+          "following_count": 2608,
+          "like_count": 106390,
+          "listed_count": 3,
+          "media_count": 1919,
+          "tweet_count": 25675
+        },
+        "url": "https://t.co/Z9qP57rzTB",
+        "username": "SnowyRika",
+        "verified": false
+      }
+    ]
+  }
+}

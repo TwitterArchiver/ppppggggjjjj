@@ -1,0 +1,182 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1988507407534927872"
+      ],
+      "media_source_tweet_id": [
+        "1988507415273505235"
+      ]
+    },
+    "author_id": "1569397683814629379",
+    "conversation_id": "1988854149144817737",
+    "created_at": "2025-11-13T06:19:14.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-13T07:19:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1988854149144817737"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1893209290921672704",
+          "start": 3,
+          "username": "guagua_me"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/mlcqIzMxPc",
+          "end": 38,
+          "expanded_url": "https://x.com/guagua_me/status/1988507415273505235/photo/1",
+          "media_key": "3_1988507407534927872",
+          "start": 15,
+          "url": "https://t.co/mlcqIzMxPc"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1988854149144817737",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1795
+    },
+    "referenced_tweets": [
+      {
+        "id": "1988507415273505235",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @guagua_me: https://t.co/mlcqIzMxPc"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1988854149144817737].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1988854149144817737",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1988854149144817737"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1162,
+        "media_key": "3_1988507407534927872",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5iY85taMAAoZp3.jpg",
+        "width": 1179
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1988507407534927872"
+          ]
+        },
+        "author_id": "1893209290921672704",
+        "conversation_id": "1988507415273505235",
+        "created_at": "2025-11-12T07:21:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-12T08:21:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1988507415273505235"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/mlcqIzMxPc",
+              "end": 23,
+              "expanded_url": "https://x.com/guagua_me/status/1988507415273505235/photo/1",
+              "media_key": "3_1988507407534927872",
+              "start": 0,
+              "url": "https://t.co/mlcqIzMxPc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1988507415273505235",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 1036,
+          "impression_count": 125870,
+          "like_count": 14761,
+          "quote_count": 76,
+          "reply_count": 116,
+          "retweet_count": 1795
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/mlcqIzMxPc"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-12T18:50:19.000Z",
+        "description": "随缘//医学爱好者/les🏳️‍🌈/lgbt友好/中文/EN/Arknights/绘画/混乱日常碎碎念/很吵//喵喵 【永远拥护培根卷番茄！】",
+        "id": "1569397683814629379",
+        "location": "世界的尽头",
+        "name": "腐烂培根卷",
+        "pinned_tweet_id": "1937498024907010498",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953366409284861953/HM3Aeou7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 131,
+          "following_count": 777,
+          "like_count": 2709,
+          "listed_count": 1,
+          "media_count": 79,
+          "tweet_count": 3672
+        },
+        "username": "ppppggggjjjj",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-22T08:01:01.000Z",
+        "description": "私信除門檻外拉黑 偷圖死全家",
+        "id": "1893209290921672704",
+        "location": "288純陪聊",
+        "name": "瓜",
+        "pinned_tweet_id": "1970127324197888091",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1922933433099223040/rOaUlFix_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 20855,
+          "following_count": 21,
+          "like_count": 624,
+          "listed_count": 62,
+          "media_count": 42,
+          "tweet_count": 79
+        },
+        "username": "guagua_me",
+        "verified": false
+      }
+    ]
+  }
+}

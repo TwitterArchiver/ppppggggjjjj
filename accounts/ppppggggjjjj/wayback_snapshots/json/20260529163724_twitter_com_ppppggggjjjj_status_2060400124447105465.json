@@ -1,0 +1,249 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2060359356043108352"
+      ],
+      "media_source_tweet_id": [
+        "2060359363873898833"
+      ]
+    },
+    "author_id": "1569397683814629379",
+    "conversation_id": "2060400124447105465",
+    "created_at": "2026-05-29T16:37:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-29T17:37:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060400124447105465"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1724772988313276416",
+          "start": 3,
+          "username": "726_mugi"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Fbw4lB6XmT",
+          "end": 37,
+          "expanded_url": "https://x.com/726_mugi/status/2060359363873898833/photo/1",
+          "media_key": "3_2060359356043108352",
+          "start": 14,
+          "url": "https://t.co/Fbw4lB6XmT"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060400124447105465",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 47
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060359363873898833",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @726_mugi: https://t.co/Fbw4lB6XmT"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1421,
+        "media_key": "3_2060359356043108352",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJfd6waaIAABDSC.jpg",
+        "width": 1009
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2060359356043108352"
+          ],
+          "media_source_tweet_id": [
+            "2060359363873898833"
+          ]
+        },
+        "author_id": "1569397683814629379",
+        "conversation_id": "2060400124447105465",
+        "created_at": "2026-05-29T16:37:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-29T17:37:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060400124447105465"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1724772988313276416",
+              "start": 3,
+              "username": "726_mugi"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Fbw4lB6XmT",
+              "end": 37,
+              "expanded_url": "https://x.com/726_mugi/status/2060359363873898833/photo/1",
+              "media_key": "3_2060359356043108352",
+              "start": 14,
+              "url": "https://t.co/Fbw4lB6XmT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060400124447105465",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 47
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060359363873898833",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @726_mugi: https://t.co/Fbw4lB6XmT"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2060359356043108352"
+          ]
+        },
+        "author_id": "1724772988313276416",
+        "conversation_id": "2060359363873898833",
+        "created_at": "2026-05-29T13:55:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-29T14:55:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060359363873898833"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Fbw4lB6XmT",
+              "end": 23,
+              "expanded_url": "https://x.com/726_mugi/status/2060359363873898833/photo/1",
+              "media_key": "3_2060359356043108352",
+              "start": 0,
+              "url": "https://t.co/Fbw4lB6XmT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060359363873898833",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 28,
+          "impression_count": 2929,
+          "like_count": 391,
+          "quote_count": 2,
+          "reply_count": 0,
+          "retweet_count": 47
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/Fbw4lB6XmT"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-12T18:50:19.000Z",
+        "description": "随缘//医学爱好者/Arknights/绘画/混乱日常碎碎念无营养内容/可能会很吵？ /les/lgbt友好/中文/EN//喵喵//提问箱↓ ↓ ↓",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ppppppppp38481",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ppppppppp38481",
+                "start": 0,
+                "url": "https://t.co/dw8CaO6ajX"
+              }
+            ]
+          }
+        },
+        "id": "1569397683814629379",
+        "location": "世界的尽头",
+        "name": "腐烂培根卷",
+        "pinned_tweet_id": "2012485424057291255",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953366409284861953/HM3Aeou7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 246,
+          "following_count": 1599,
+          "like_count": 9089,
+          "listed_count": 1,
+          "media_count": 104,
+          "tweet_count": 6579
+        },
+        "url": "https://t.co/dw8CaO6ajX",
+        "username": "ppppggggjjjj",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-15T12:55:26.000Z",
+        "description": "",
+        "id": "1724772988313276416",
+        "name": "むぎそば",
+        "pinned_tweet_id": "2038214408355328248",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1928137743001079811/K_sFdyCU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5522,
+          "following_count": 62,
+          "like_count": 8845,
+          "listed_count": 22,
+          "media_count": 455,
+          "tweet_count": 2623
+        },
+        "username": "726_mugi",
+        "verified": false
+      }
+    ]
+  }
+}

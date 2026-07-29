@@ -1,0 +1,587 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1951648214647730176"
+      ],
+      "media_source_tweet_id": [
+        "1951648221199323363"
+      ]
+    },
+    "author_id": "1569397683814629379",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A video game like Overwatch",
+          "id": "71",
+          "name": "Video Game"
+        },
+        "entity": {
+          "id": "1233113060732092416",
+          "name": "Arknights"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Gaming",
+          "id": "847527650667094017",
+          "name": "Gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1070028159964262400",
+          "name": "Video games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1233113060732092416",
+          "name": "Arknights"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1491897789013393420",
+          "name": "Strategy games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1491900085583577097",
+          "name": "Idol games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1491900373098921986",
+          "name": "Gacha games"
+        }
+      }
+    ],
+    "conversation_id": "1952311512078618861",
+    "created_at": "2025-08-04T10:11:51.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-04T11:11:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1952311512078618861"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 24,
+          "start": 17,
+          "tag": "アークナイツ"
+        },
+        {
+          "end": 30,
+          "start": 25,
+          "tag": "明日方舟"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 12,
+          "id": "331643934",
+          "start": 3,
+          "username": "mazirori"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/88f4zCZRrU",
+          "end": 54,
+          "expanded_url": "https://x.com/mazirori/status/1951648221199323363/photo/1",
+          "media_key": "3_1951648214647730176",
+          "start": 31,
+          "url": "https://t.co/88f4zCZRrU"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1952311512078618861",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 799
+    },
+    "referenced_tweets": [
+      {
+        "id": "1951648221199323363",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @mazirori: 🍓♡\n#アークナイツ #明日方舟 https://t.co/88f4zCZRrU"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1951648214647730176",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GxWltgCacAAj6M-.jpg",
+        "width": 1448
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1951648214647730176"
+          ],
+          "media_source_tweet_id": [
+            "1951648221199323363"
+          ]
+        },
+        "author_id": "1569397683814629379",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1233113060732092416",
+              "name": "Arknights"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1233113060732092416",
+              "name": "Arknights"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491897789013393420",
+              "name": "Strategy games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491900085583577097",
+              "name": "Idol games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491900373098921986",
+              "name": "Gacha games"
+            }
+          }
+        ],
+        "conversation_id": "1952311512078618861",
+        "created_at": "2025-08-04T10:11:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-04T11:11:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1952311512078618861"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 24,
+              "start": 17,
+              "tag": "アークナイツ"
+            },
+            {
+              "end": 30,
+              "start": 25,
+              "tag": "明日方舟"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 12,
+              "id": "331643934",
+              "start": 3,
+              "username": "mazirori"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/88f4zCZRrU",
+              "end": 54,
+              "expanded_url": "https://x.com/mazirori/status/1951648221199323363/photo/1",
+              "media_key": "3_1951648214647730176",
+              "start": 31,
+              "url": "https://t.co/88f4zCZRrU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1952311512078618861",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 799
+        },
+        "referenced_tweets": [
+          {
+            "id": "1951648221199323363",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @mazirori: 🍓♡\n#アークナイツ #明日方舟 https://t.co/88f4zCZRrU"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1951648214647730176"
+          ]
+        },
+        "author_id": "331643934",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1233113060732092416",
+              "name": "Arknights"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1233113060732092416",
+              "name": "Arknights"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491897789013393420",
+              "name": "Strategy games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491900085583577097",
+              "name": "Idol games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491900373098921986",
+              "name": "Gacha games"
+            }
+          }
+        ],
+        "conversation_id": "1951648221199323363",
+        "created_at": "2025-08-02T14:16:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-02T14:21:06.000Z",
+          "edits_remaining": 1,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1951634365219520678",
+          "1951635015185645649",
+          "1951639657298743790",
+          "1951639920176775623",
+          "1951648221199323363"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 10,
+              "start": 3,
+              "tag": "アークナイツ"
+            },
+            {
+              "end": 16,
+              "start": 11,
+              "tag": "明日方舟"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/88f4zCZRrU",
+              "end": 40,
+              "expanded_url": "https://x.com/mazirori/status/1951648221199323363/photo/1",
+              "media_key": "3_1951648214647730176",
+              "start": 17,
+              "url": "https://t.co/88f4zCZRrU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1951648221199323363",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1007,
+          "impression_count": 126287,
+          "like_count": 7849,
+          "quote_count": 2,
+          "reply_count": 6,
+          "retweet_count": 799
+        },
+        "reply_settings": "everyone",
+        "text": "🍓♡\n#アークナイツ #明日方舟 https://t.co/88f4zCZRrU"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-12T18:50:19.000Z",
+        "description": "随缘//医学爱好者/les🏳️‍🌈/lgbt友好/中文/EN/Arknights/绘画/混乱日常碎碎念/很吵//喵喵",
+        "id": "1569397683814629379",
+        "location": "世界的尽头",
+        "name": "腐烂苹果酱",
+        "pinned_tweet_id": "1937498024907010498",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1620839959388393479/hsMKvVei_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 99,
+          "following_count": 634,
+          "like_count": 1711,
+          "listed_count": 0,
+          "media_count": 49,
+          "tweet_count": 1991
+        },
+        "username": "ppppggggjjjj",
+        "verified": false
+      },
+      {
+        "created_at": "2011-07-08T14:04:52.000Z",
+        "description": "AI学習禁止：Animator✧Illustrator✧character design：ばらかもん/リーマンズクラブ/UU!/ワールドダイスター/マクロスΔ/22/7 ❁⃘*.ﾟ総作監：推しの子/夜クラ/ etc ✧🤍✨⇒#Arknights 🐰ママ⇒@CyanSarutobi✨@noirno_",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 122,
+                "start": 112,
+                "tag": "Arknights"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 140,
+                "start": 127,
+                "username": "CyanSarutobi"
+              },
+              {
+                "end": 149,
+                "start": 141,
+                "username": "noirno_"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "mazirori.jp",
+                "end": 23,
+                "expanded_url": "http://mazirori.jp/",
+                "start": 0,
+                "url": "https://t.co/wrBaDcO0Md"
+              }
+            ]
+          }
+        },
+        "id": "331643934",
+        "location": "お仕事のご相談、サイトのメールにて✉️‎✨",
+        "name": "まじろ(Maziro)🥞C106(土)マ-13a",
+        "pinned_tweet_id": "1930930944153948628",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1929380426302513152/0TGpYLh6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 30007,
+          "following_count": 1226,
+          "like_count": 9549,
+          "listed_count": 408,
+          "media_count": 347,
+          "tweet_count": 6178
+        },
+        "url": "https://t.co/wrBaDcO0Md",
+        "username": "mazirori",
+        "verified": true
+      }
+    ]
+  }
+}

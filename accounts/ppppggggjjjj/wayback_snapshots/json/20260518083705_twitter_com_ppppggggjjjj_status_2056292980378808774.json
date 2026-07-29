@@ -1,0 +1,261 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2056045011678957568"
+      ],
+      "media_source_tweet_id": [
+        "2056045016879858053"
+      ]
+    },
+    "author_id": "1569397683814629379",
+    "conversation_id": "2056292980378808774",
+    "created_at": "2026-05-18T08:37:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-18T09:37:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2056292980378808774"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1915448291267153920",
+          "start": 3,
+          "username": "uoxxin"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/XGD0gJTUxg",
+          "end": 35,
+          "expanded_url": "https://x.com/uoxxin/status/2056045016879858053/photo/1",
+          "media_key": "3_2056045011678957568",
+          "start": 12,
+          "url": "https://t.co/XGD0gJTUxg"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056292980378808774",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 763
+    },
+    "referenced_tweets": [
+      {
+        "id": "2056045016879858053",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @uoxxin: https://t.co/XGD0gJTUxg"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 660,
+        "media_key": "3_2056045011678957568",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIiKC3NWkAA6LQU.jpg",
+        "width": 828
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2056045011678957568"
+          ],
+          "media_source_tweet_id": [
+            "2056045016879858053"
+          ]
+        },
+        "author_id": "1569397683814629379",
+        "conversation_id": "2056292980378808774",
+        "created_at": "2026-05-18T08:37:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-18T09:37:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056292980378808774"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1915448291267153920",
+              "start": 3,
+              "username": "uoxxin"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/XGD0gJTUxg",
+              "end": 35,
+              "expanded_url": "https://x.com/uoxxin/status/2056045016879858053/photo/1",
+              "media_key": "3_2056045011678957568",
+              "start": 12,
+              "url": "https://t.co/XGD0gJTUxg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056292980378808774",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 763
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056045016879858053",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @uoxxin: https://t.co/XGD0gJTUxg"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2056045011678957568"
+          ]
+        },
+        "author_id": "1915448291267153920",
+        "conversation_id": "2056045016879858053",
+        "created_at": "2026-05-17T16:11:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-17T17:11:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2056045016879858053"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/XGD0gJTUxg",
+              "end": 23,
+              "expanded_url": "https://x.com/uoxxin/status/2056045016879858053/photo/1",
+              "media_key": "3_2056045011678957568",
+              "start": 0,
+              "url": "https://t.co/XGD0gJTUxg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056045016879858053",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 274,
+          "impression_count": 31292,
+          "like_count": 2874,
+          "quote_count": 14,
+          "reply_count": 0,
+          "retweet_count": 763
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/XGD0gJTUxg"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-12T18:50:19.000Z",
+        "description": "随缘//医学爱好者/Arknights/绘画/混乱日常碎碎念无营养内容/可能会很吵？ /les/lgbt友好/中文/EN//喵喵//提问箱↓ ↓ ↓",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ppppppppp38481",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ppppppppp38481",
+                "start": 0,
+                "url": "https://t.co/dw8CaO6ajX"
+              }
+            ]
+          }
+        },
+        "id": "1569397683814629379",
+        "location": "世界的尽头",
+        "name": "腐烂培根卷",
+        "pinned_tweet_id": "2012485424057291255",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953366409284861953/HM3Aeou7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 230,
+          "following_count": 1490,
+          "like_count": 8057,
+          "listed_count": 1,
+          "media_count": 100,
+          "tweet_count": 6073
+        },
+        "url": "https://t.co/dw8CaO6ajX",
+        "username": "ppppggggjjjj",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-24T16:50:42.000Z",
+        "description": "@meomuraa ♡\n( no art is made by me )",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 9,
+                "start": 0,
+                "username": "meomuraa"
+              }
+            ]
+          }
+        },
+        "id": "1915448291267153920",
+        "location": "bnou ⦮ ⦯",
+        "name": "⃟",
+        "pinned_tweet_id": "2019173015045513537",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053822486047793152/CaH4dbT4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5263,
+          "following_count": 322,
+          "like_count": 16332,
+          "listed_count": 2,
+          "media_count": 219,
+          "tweet_count": 424
+        },
+        "username": "uoxxin",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,245 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2005900180206542851"
+      ],
+      "media_source_tweet_id": [
+        "2005900186040819958"
+      ]
+    },
+    "author_id": "1569397683814629379",
+    "conversation_id": "2006283385799598137",
+    "created_at": "2025-12-31T08:36:48.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-31T09:36:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2006283385799598137"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1961436927384850435",
+          "start": 3,
+          "username": "hamchigi"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/cqgRSOCRIv",
+          "end": 37,
+          "expanded_url": "https://x.com/hamchigi/status/2005900186040819958/photo/1",
+          "media_key": "3_2005900180206542851",
+          "start": 14,
+          "url": "https://t.co/cqgRSOCRIv"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2006283385799598137",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1996
+    },
+    "referenced_tweets": [
+      {
+        "id": "2005900186040819958",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @hamchigi: https://t.co/cqgRSOCRIv"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2005900180206542851",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G9ZjlhAaYAMp3En.jpg",
+        "width": 1322
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2005900180206542851"
+          ],
+          "media_source_tweet_id": [
+            "2005900186040819958"
+          ]
+        },
+        "author_id": "1569397683814629379",
+        "conversation_id": "2006283385799598137",
+        "created_at": "2025-12-31T08:36:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-31T09:36:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2006283385799598137"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1961436927384850435",
+              "start": 3,
+              "username": "hamchigi"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/cqgRSOCRIv",
+              "end": 37,
+              "expanded_url": "https://x.com/hamchigi/status/2005900186040819958/photo/1",
+              "media_key": "3_2005900180206542851",
+              "start": 14,
+              "url": "https://t.co/cqgRSOCRIv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2006283385799598137",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1996
+        },
+        "referenced_tweets": [
+          {
+            "id": "2005900186040819958",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @hamchigi: https://t.co/cqgRSOCRIv"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2005900180206542851"
+          ]
+        },
+        "author_id": "1961436927384850435",
+        "conversation_id": "2005900186040819958",
+        "created_at": "2025-12-30T07:14:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-30T08:14:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2005900186040819958"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/cqgRSOCRIv",
+              "end": 23,
+              "expanded_url": "https://x.com/hamchigi/status/2005900186040819958/photo/1",
+              "media_key": "3_2005900180206542851",
+              "start": 0,
+              "url": "https://t.co/cqgRSOCRIv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2005900186040819958",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1440,
+          "impression_count": 196865,
+          "like_count": 17413,
+          "quote_count": 46,
+          "reply_count": 5,
+          "retweet_count": 1996
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/cqgRSOCRIv"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-12T18:50:19.000Z",
+        "description": "随缘//医学爱好者/les🏳️‍🌈/lgbt友好/中文/EN/Arknights/绘画/混乱日常碎碎念/很吵//喵喵 【永远拥护培根卷番茄！】",
+        "id": "1569397683814629379",
+        "location": "世界的尽头",
+        "name": "腐烂培根卷",
+        "pinned_tweet_id": "1993298688010322328",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953366409284861953/HM3Aeou7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 174,
+          "following_count": 1015,
+          "like_count": 3929,
+          "listed_count": 1,
+          "media_count": 91,
+          "tweet_count": 4217
+        },
+        "username": "ppppggggjjjj",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-29T14:33:05.000Z",
+        "description": "☃️ @nyzziz • nnuqvv@gmail.com",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 10,
+                "start": 3,
+                "username": "nyzziz"
+              }
+            ]
+          }
+        },
+        "id": "1961436927384850435",
+        "name": "hamchigi",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995788855912660995/7wAars6o_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3017,
+          "following_count": 31,
+          "like_count": 1682,
+          "listed_count": 15,
+          "media_count": 10,
+          "tweet_count": 56
+        },
+        "username": "hamchigi",
+        "verified": false
+      }
+    ]
+  }
+}

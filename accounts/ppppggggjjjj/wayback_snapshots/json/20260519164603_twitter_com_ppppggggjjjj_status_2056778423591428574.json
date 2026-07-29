@@ -1,0 +1,264 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2056760546096185344"
+      ],
+      "media_source_tweet_id": [
+        "2056760602899722590"
+      ]
+    },
+    "author_id": "1569397683814629379",
+    "conversation_id": "2056778423591428574",
+    "created_at": "2026-05-19T16:46:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-19T17:46:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2056778423591428574"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1819660400453165056",
+          "start": 3,
+          "username": "310lxlx"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/5OdM36RXOx",
+          "end": 40,
+          "expanded_url": "https://x.com/310lxlx/status/2056760602899722590/photo/1",
+          "media_key": "3_2056760546096185344",
+          "start": 17,
+          "url": "https://t.co/5OdM36RXOx"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056778423591428574",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 52
+    },
+    "referenced_tweets": [
+      {
+        "id": "2056760602899722590",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @310lxlx: ヒアダ https://t.co/5OdM36RXOx"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2755,
+        "media_key": "3_2056760546096185344",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIsU0coaAAAyTi_.jpg",
+        "width": 4096
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2056760546096185344"
+          ],
+          "media_source_tweet_id": [
+            "2056760602899722590"
+          ]
+        },
+        "author_id": "1569397683814629379",
+        "conversation_id": "2056778423591428574",
+        "created_at": "2026-05-19T16:46:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-19T17:46:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056778423591428574"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1819660400453165056",
+              "start": 3,
+              "username": "310lxlx"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/5OdM36RXOx",
+              "end": 40,
+              "expanded_url": "https://x.com/310lxlx/status/2056760602899722590/photo/1",
+              "media_key": "3_2056760546096185344",
+              "start": 17,
+              "url": "https://t.co/5OdM36RXOx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056778423591428574",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 52
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056760602899722590",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @310lxlx: ヒアダ https://t.co/5OdM36RXOx"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2056760546096185344"
+          ]
+        },
+        "author_id": "1819660400453165056",
+        "conversation_id": "2056760602899722590",
+        "created_at": "2026-05-19T15:35:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-19T16:35:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2056760602899722590"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/5OdM36RXOx",
+              "end": 27,
+              "expanded_url": "https://x.com/310lxlx/status/2056760602899722590/photo/1",
+              "media_key": "3_2056760546096185344",
+              "start": 4,
+              "url": "https://t.co/5OdM36RXOx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056760602899722590",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 22,
+          "impression_count": 4190,
+          "like_count": 376,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 52
+        },
+        "reply_settings": "everyone",
+        "text": "ヒアダ https://t.co/5OdM36RXOx"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-12T18:50:19.000Z",
+        "description": "随缘//医学爱好者/Arknights/绘画/混乱日常碎碎念无营养内容/可能会很吵？ /les/lgbt友好/中文/EN//喵喵//提问箱↓ ↓ ↓",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ppppppppp38481",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ppppppppp38481",
+                "start": 0,
+                "url": "https://t.co/dw8CaO6ajX"
+              }
+            ]
+          }
+        },
+        "id": "1569397683814629379",
+        "location": "世界的尽头",
+        "name": "腐烂培根卷",
+        "pinned_tweet_id": "2012485424057291255",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953366409284861953/HM3Aeou7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 240,
+          "following_count": 1523,
+          "like_count": 8266,
+          "listed_count": 1,
+          "media_count": 100,
+          "tweet_count": 6184
+        },
+        "url": "https://t.co/dw8CaO6ajX",
+        "username": "ppppggggjjjj",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-03T09:04:00.000Z",
+        "description": "横這い",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "profcard.info/u/zH2TFUFGhVas…",
+                "end": 23,
+                "expanded_url": "https://profcard.info/u/zH2TFUFGhVasFSker5lnI1bGg343",
+                "start": 0,
+                "url": "https://t.co/iTrGX2JeYs"
+              }
+            ]
+          }
+        },
+        "id": "1819660400453165056",
+        "location": "アイコン→ @iwashipatapata",
+        "name": "絶品@オペサス【ス-28】",
+        "pinned_tweet_id": "1886217485781021136",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043700160170221569/yStZNhv__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9897,
+          "following_count": 37,
+          "like_count": 14881,
+          "listed_count": 58,
+          "media_count": 1007,
+          "tweet_count": 18378
+        },
+        "url": "https://t.co/iTrGX2JeYs",
+        "username": "310lxlx",
+        "verified": false
+      }
+    ]
+  }
+}

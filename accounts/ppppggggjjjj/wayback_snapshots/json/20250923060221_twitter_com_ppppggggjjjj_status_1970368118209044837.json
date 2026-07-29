@@ -1,0 +1,626 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1970351661685354496"
+      ],
+      "media_source_tweet_id": [
+        "1970351880325959850"
+      ]
+    },
+    "author_id": "1569397683814629379",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A video game like Overwatch",
+          "id": "71",
+          "name": "Video Game"
+        },
+        "entity": {
+          "id": "1233113060732092416",
+          "name": "Arknights"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Gaming",
+          "id": "847527650667094017",
+          "name": "Gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1070028159964262400",
+          "name": "Video games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1233113060732092416",
+          "name": "Arknights"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1491897789013393420",
+          "name": "Strategy games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1491900085583577097",
+          "name": "Idol games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1491900373098921986",
+          "name": "Gacha games"
+        }
+      },
+      {
+        "domain": {
+          "description": "States, provinces, or prefectures, like California or Fukushima Prefecture",
+          "id": "159",
+          "name": "States"
+        },
+        "entity": {
+          "description": "Texas",
+          "id": "855432197297192961",
+          "name": "Texas"
+        }
+      }
+    ],
+    "conversation_id": "1970368118209044837",
+    "created_at": "2025-09-23T06:02:21.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-23T07:02:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1970368118209044837"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 24,
+          "normalized_text": "Texas",
+          "probability": 0.8109,
+          "start": 20,
+          "type": "Place"
+        }
+      ],
+      "hashtags": [
+        {
+          "end": 33,
+          "start": 26,
+          "tag": "アークナイツ"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 11,
+          "id": "834417124533678080",
+          "start": 3,
+          "username": "znanimo"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/igFGzWuDLN",
+          "end": 57,
+          "expanded_url": "https://x.com/znanimo/status/1970351880325959850/photo/1",
+          "media_key": "3_1970351661685354496",
+          "start": 34,
+          "url": "https://t.co/igFGzWuDLN"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1970368118209044837",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 68
+    },
+    "referenced_tweets": [
+      {
+        "id": "1970351880325959850",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @znanimo: Little Texas\n#アークナイツ https://t.co/igFGzWuDLN"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1771,
+        "media_key": "3_1970351661685354496",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G1gYZZ1bMAAvyo8.jpg",
+        "width": 1254
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1970351661685354496"
+          ],
+          "media_source_tweet_id": [
+            "1970351880325959850"
+          ]
+        },
+        "author_id": "1569397683814629379",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1233113060732092416",
+              "name": "Arknights"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1233113060732092416",
+              "name": "Arknights"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491897789013393420",
+              "name": "Strategy games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491900085583577097",
+              "name": "Idol games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491900373098921986",
+              "name": "Gacha games"
+            }
+          },
+          {
+            "domain": {
+              "description": "States, provinces, or prefectures, like California or Fukushima Prefecture",
+              "id": "159",
+              "name": "States"
+            },
+            "entity": {
+              "description": "Texas",
+              "id": "855432197297192961",
+              "name": "Texas"
+            }
+          }
+        ],
+        "conversation_id": "1970368118209044837",
+        "created_at": "2025-09-23T06:02:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-23T07:02:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1970368118209044837"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 24,
+              "normalized_text": "Texas",
+              "probability": 0.8109,
+              "start": 20,
+              "type": "Place"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 33,
+              "start": 26,
+              "tag": "アークナイツ"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 11,
+              "id": "834417124533678080",
+              "start": 3,
+              "username": "znanimo"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/igFGzWuDLN",
+              "end": 57,
+              "expanded_url": "https://x.com/znanimo/status/1970351880325959850/photo/1",
+              "media_key": "3_1970351661685354496",
+              "start": 34,
+              "url": "https://t.co/igFGzWuDLN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1970368118209044837",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 68
+        },
+        "referenced_tweets": [
+          {
+            "id": "1970351880325959850",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @znanimo: Little Texas\n#アークナイツ https://t.co/igFGzWuDLN"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1970351661685354496"
+          ]
+        },
+        "author_id": "834417124533678080",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1233113060732092416",
+              "name": "Arknights"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1233113060732092416",
+              "name": "Arknights"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491897789013393420",
+              "name": "Strategy games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491900085583577097",
+              "name": "Idol games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491900373098921986",
+              "name": "Gacha games"
+            }
+          },
+          {
+            "domain": {
+              "description": "States, provinces, or prefectures, like California or Fukushima Prefecture",
+              "id": "159",
+              "name": "States"
+            },
+            "entity": {
+              "description": "Texas",
+              "id": "855432197297192961",
+              "name": "Texas"
+            }
+          }
+        ],
+        "conversation_id": "1970351880325959850",
+        "created_at": "2025-09-23T04:57:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-23T05:57:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1970351880325959850"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 11,
+              "normalized_text": "Texas",
+              "probability": 0.7635,
+              "start": 7,
+              "type": "Place"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 20,
+              "start": 13,
+              "tag": "アークナイツ"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/igFGzWuDLN",
+              "end": 44,
+              "expanded_url": "https://x.com/znanimo/status/1970351880325959850/photo/1",
+              "media_key": "3_1970351661685354496",
+              "start": 21,
+              "url": "https://t.co/igFGzWuDLN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1970351880325959850",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 32,
+          "impression_count": 3010,
+          "like_count": 320,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 68
+        },
+        "reply_settings": "everyone",
+        "text": "Little Texas\n#アークナイツ https://t.co/igFGzWuDLN"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-12T18:50:19.000Z",
+        "description": "随缘//医学爱好者/les🏳️‍🌈/lgbt友好/中文/EN/Arknights/绘画/混乱日常碎碎念/很吵//喵喵 【永远拥护培根卷番茄！】",
+        "id": "1569397683814629379",
+        "location": "世界的尽头",
+        "name": "腐烂培根卷",
+        "pinned_tweet_id": "1937498024907010498",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953366409284861953/HM3Aeou7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 112,
+          "following_count": 703,
+          "like_count": 2203,
+          "listed_count": 1,
+          "media_count": 63,
+          "tweet_count": 2893
+        },
+        "username": "ppppggggjjjj",
+        "verified": false
+      },
+      {
+        "created_at": "2017-02-22T14:58:40.000Z",
+        "description": "┊(灬´ ˘ `灬) ☔️⊹ ࣪ ˖\n┊https://t.co/kBS3UStuOe\n┊https://t.co/KbYqbnkGaa",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "vgen.co/znanimo",
+                "end": 43,
+                "expanded_url": "https://vgen.co/znanimo",
+                "start": 20,
+                "url": "https://t.co/kBS3UStuOe"
+              },
+              {
+                "display_url": "twitch.tv/znanimo",
+                "end": 68,
+                "expanded_url": "https://www.twitch.tv/znanimo",
+                "start": 45,
+                "url": "https://t.co/KbYqbnkGaa"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "znanimo.carrd.co",
+                "end": 23,
+                "expanded_url": "https://znanimo.carrd.co/",
+                "start": 0,
+                "url": "https://t.co/LjQYOf1hi5"
+              }
+            ]
+          }
+        },
+        "id": "834417124533678080",
+        "name": "0",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970348886331138055/jYLcdDwm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 23792,
+          "following_count": 1287,
+          "like_count": 16079,
+          "listed_count": 161,
+          "media_count": 1880,
+          "tweet_count": 33854
+        },
+        "url": "https://t.co/LjQYOf1hi5",
+        "username": "znanimo",
+        "verified": false
+      }
+    ]
+  }
+}

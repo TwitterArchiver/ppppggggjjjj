@@ -1,0 +1,250 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2067006898163879936"
+      ],
+      "media_source_tweet_id": [
+        "2067006904367272108"
+      ]
+    },
+    "author_id": "1569397683814629379",
+    "conversation_id": "2067288071406546969",
+    "created_at": "2026-06-17T16:47:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-17T17:47:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067288071406546969"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1526313994734256130",
+          "start": 3,
+          "username": "tiintnt"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/CbQzFlgxCu",
+          "end": 58,
+          "expanded_url": "https://x.com/tiintnt/status/2067006904367272108/photo/1",
+          "media_key": "3_2067006898163879936",
+          "start": 35,
+          "url": "https://t.co/CbQzFlgxCu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067288071406546969",
+    "lang": "es",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1200
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067006904367272108",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @tiintnt: yo cuando twiteo algo https://t.co/CbQzFlgxCu"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 470,
+        "media_key": "3_2067006898163879936",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HK970olXEAA2P68.jpg",
+        "width": 654
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2067006898163879936"
+          ],
+          "media_source_tweet_id": [
+            "2067006904367272108"
+          ]
+        },
+        "author_id": "1569397683814629379",
+        "conversation_id": "2067288071406546969",
+        "created_at": "2026-06-17T16:47:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-17T17:47:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067288071406546969"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1526313994734256130",
+              "start": 3,
+              "username": "tiintnt"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/CbQzFlgxCu",
+              "end": 58,
+              "expanded_url": "https://x.com/tiintnt/status/2067006904367272108/photo/1",
+              "media_key": "3_2067006898163879936",
+              "start": 35,
+              "url": "https://t.co/CbQzFlgxCu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067288071406546969",
+        "lang": "es",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1200
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067006904367272108",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @tiintnt: yo cuando twiteo algo https://t.co/CbQzFlgxCu"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2067006898163879936"
+          ]
+        },
+        "author_id": "1526313994734256130",
+        "conversation_id": "2067006904367272108",
+        "created_at": "2026-06-16T22:10:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-16T23:10:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067006904367272108"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/CbQzFlgxCu",
+              "end": 45,
+              "expanded_url": "https://x.com/tiintnt/status/2067006904367272108/photo/1",
+              "media_key": "3_2067006898163879936",
+              "start": 22,
+              "url": "https://t.co/CbQzFlgxCu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067006904367272108",
+        "lang": "es",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 99,
+          "impression_count": 57032,
+          "like_count": 6244,
+          "quote_count": 31,
+          "reply_count": 17,
+          "retweet_count": 1200
+        },
+        "reply_settings": "everyone",
+        "text": "yo cuando twiteo algo https://t.co/CbQzFlgxCu"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-12T18:50:19.000Z",
+        "description": "随缘//医学爱好者/Arknights/绘画/混乱日常碎碎念无营养内容/可能会很吵？ /les/lgbt友好/中文/EN//喵喵//提问箱↓ ↓ ↓",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ppppppppp38481",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ppppppppp38481",
+                "start": 0,
+                "url": "https://t.co/dw8CaO6ajX"
+              }
+            ]
+          }
+        },
+        "id": "1569397683814629379",
+        "location": "世界的尽头",
+        "name": "腐烂培根卷",
+        "pinned_tweet_id": "2012485424057291255",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953366409284861953/HM3Aeou7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 239,
+          "following_count": 1614,
+          "like_count": 9906,
+          "listed_count": 1,
+          "media_count": 104,
+          "tweet_count": 7089
+        },
+        "url": "https://t.co/dw8CaO6ajX",
+        "username": "ppppggggjjjj",
+        "verified": false
+      },
+      {
+        "created_at": "2022-05-16T21:31:26.000Z",
+        "description": "",
+        "id": "1526313994734256130",
+        "location": "19y",
+        "name": "🍙",
+        "pinned_tweet_id": "2063400821589524671",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064504937241792512/vGrhO7Jv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 239,
+          "following_count": 318,
+          "like_count": 5687,
+          "listed_count": 1,
+          "media_count": 34,
+          "tweet_count": 512
+        },
+        "username": "tiintnt",
+        "verified": false
+      }
+    ]
+  }
+}

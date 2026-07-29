@@ -1,0 +1,264 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2059250995222425600"
+      ],
+      "media_source_tweet_id": [
+        "2059251051644256752"
+      ]
+    },
+    "author_id": "1569397683814629379",
+    "conversation_id": "2059489906851033268",
+    "created_at": "2026-05-27T04:20:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-27T05:20:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059489906851033268"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "947898556177825792",
+          "start": 3,
+          "username": "MandarinG0"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Mb3n3B9oI1",
+          "end": 39,
+          "expanded_url": "https://x.com/MandarinG0/status/2059251051644256752/photo/1",
+          "media_key": "3_2059250995222425600",
+          "start": 16,
+          "url": "https://t.co/Mb3n3B9oI1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059489906851033268",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1605
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059251051644256752",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @MandarinG0: https://t.co/Mb3n3B9oI1"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2303,
+        "media_key": "3_2059250995222425600",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJPt3qmaMAAVCKI.jpg",
+        "width": 4096
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2059250995222425600"
+          ],
+          "media_source_tweet_id": [
+            "2059251051644256752"
+          ]
+        },
+        "author_id": "1569397683814629379",
+        "conversation_id": "2059489906851033268",
+        "created_at": "2026-05-27T04:20:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T05:20:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059489906851033268"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "947898556177825792",
+              "start": 3,
+              "username": "MandarinG0"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Mb3n3B9oI1",
+              "end": 39,
+              "expanded_url": "https://x.com/MandarinG0/status/2059251051644256752/photo/1",
+              "media_key": "3_2059250995222425600",
+              "start": 16,
+              "url": "https://t.co/Mb3n3B9oI1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059489906851033268",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1605
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059251051644256752",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @MandarinG0: https://t.co/Mb3n3B9oI1"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2059250995222425600"
+          ]
+        },
+        "author_id": "947898556177825792",
+        "conversation_id": "2059251051644256752",
+        "created_at": "2026-05-26T12:31:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-26T13:31:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059251051644256752"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Mb3n3B9oI1",
+              "end": 23,
+              "expanded_url": "https://x.com/MandarinG0/status/2059251051644256752/photo/1",
+              "media_key": "3_2059250995222425600",
+              "start": 0,
+              "url": "https://t.co/Mb3n3B9oI1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059251051644256752",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1561,
+          "impression_count": 115698,
+          "like_count": 11751,
+          "quote_count": 18,
+          "reply_count": 4,
+          "retweet_count": 1605
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/Mb3n3B9oI1"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-12T18:50:19.000Z",
+        "description": "随缘//医学爱好者/Arknights/绘画/混乱日常碎碎念无营养内容/可能会很吵？ /les/lgbt友好/中文/EN//喵喵//提问箱↓ ↓ ↓",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ppppppppp38481",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ppppppppp38481",
+                "start": 0,
+                "url": "https://t.co/dw8CaO6ajX"
+              }
+            ]
+          }
+        },
+        "id": "1569397683814629379",
+        "location": "世界的尽头",
+        "name": "腐烂培根卷",
+        "pinned_tweet_id": "2012485424057291255",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953366409284861953/HM3Aeou7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 246,
+          "following_count": 1582,
+          "like_count": 8757,
+          "listed_count": 1,
+          "media_count": 104,
+          "tweet_count": 6407
+        },
+        "url": "https://t.co/dw8CaO6ajX",
+        "username": "ppppggggjjjj",
+        "verified": false
+      },
+      {
+        "created_at": "2018-01-01T18:33:21.000Z",
+        "description": "■ Illustrator | ✉️ Contact: dldial0713@naver.com \n🐈‍⬛2026年 お仕事募集中",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/MandarinG0",
+                "end": 23,
+                "expanded_url": "https://linktr.ee/MandarinG0",
+                "start": 0,
+                "url": "https://t.co/qMIiZEec5M"
+              }
+            ]
+          }
+        },
+        "id": "947898556177825792",
+        "location": "🇰🇷",
+        "name": "Mikan",
+        "pinned_tweet_id": "2058261686088618223",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054193981874200576/QxefTN29_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 36569,
+          "following_count": 480,
+          "like_count": 2171,
+          "listed_count": 268,
+          "media_count": 72,
+          "tweet_count": 1282
+        },
+        "url": "https://t.co/qMIiZEec5M",
+        "username": "MandarinG0",
+        "verified": true
+      }
+    ]
+  }
+}

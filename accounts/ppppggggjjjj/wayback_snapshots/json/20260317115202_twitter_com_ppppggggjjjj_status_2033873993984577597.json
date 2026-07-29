@@ -1,0 +1,261 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2033472272229695488"
+      ],
+      "media_source_tweet_id": [
+        "2033472283088695509"
+      ]
+    },
+    "author_id": "1569397683814629379",
+    "conversation_id": "2033873993984577597",
+    "created_at": "2026-03-17T11:52:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-17T12:52:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2033873993984577597"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1164900345241202688",
+          "start": 3,
+          "username": "nugtski"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/PxXCtweUqq",
+          "end": 36,
+          "expanded_url": "https://x.com/nugtski/status/2033472283088695509/photo/1",
+          "media_key": "3_2033472272229695488",
+          "start": 13,
+          "url": "https://t.co/PxXCtweUqq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2033873993984577597",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 353
+    },
+    "referenced_tweets": [
+      {
+        "id": "2033472283088695509",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @nugtski: https://t.co/PxXCtweUqq"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1920,
+        "media_key": "3_2033472272229695488",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDhYQf7bgAAs0dk.jpg",
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2033472272229695488"
+          ],
+          "media_source_tweet_id": [
+            "2033472283088695509"
+          ]
+        },
+        "author_id": "1569397683814629379",
+        "conversation_id": "2033873993984577597",
+        "created_at": "2026-03-17T11:52:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-17T12:52:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2033873993984577597"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1164900345241202688",
+              "start": 3,
+              "username": "nugtski"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/PxXCtweUqq",
+              "end": 36,
+              "expanded_url": "https://x.com/nugtski/status/2033472283088695509/photo/1",
+              "media_key": "3_2033472272229695488",
+              "start": 13,
+              "url": "https://t.co/PxXCtweUqq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2033873993984577597",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 353
+        },
+        "referenced_tweets": [
+          {
+            "id": "2033472283088695509",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @nugtski: https://t.co/PxXCtweUqq"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2033472272229695488"
+          ]
+        },
+        "author_id": "1164900345241202688",
+        "conversation_id": "2033472283088695509",
+        "created_at": "2026-03-16T09:15:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-16T10:15:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2033472283088695509"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/PxXCtweUqq",
+              "end": 23,
+              "expanded_url": "https://x.com/nugtski/status/2033472283088695509/photo/1",
+              "media_key": "3_2033472272229695488",
+              "start": 0,
+              "url": "https://t.co/PxXCtweUqq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2033472283088695509",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 116,
+          "impression_count": 19900,
+          "like_count": 1824,
+          "quote_count": 5,
+          "reply_count": 2,
+          "retweet_count": 353
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/PxXCtweUqq"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-12T18:50:19.000Z",
+        "description": "随缘//医学爱好者/les🏳️‍🌈/lgbt友好/中文/EN/Arknights/绘画/混乱日常碎碎念/很吵//喵喵//提问箱↓ ↓ ↓",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ppppppppp38481",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ppppppppp38481",
+                "start": 0,
+                "url": "https://t.co/dw8CaO6ajX"
+              }
+            ]
+          }
+        },
+        "id": "1569397683814629379",
+        "location": "世界的尽头",
+        "name": "腐烂培根卷",
+        "pinned_tweet_id": "2012485424057291255",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953366409284861953/HM3Aeou7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 194,
+          "following_count": 1199,
+          "like_count": 5543,
+          "listed_count": 1,
+          "media_count": 97,
+          "tweet_count": 4776
+        },
+        "url": "https://t.co/dw8CaO6ajX",
+        "username": "ppppggggjjjj",
+        "verified": false
+      },
+      {
+        "created_at": "2019-08-23T14:01:18.000Z",
+        "description": "—Lunar❍⁰⁷⁰⁹ || 𑣲@FirmanAcker",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 28,
+                "start": 16,
+                "username": "FirmanAcker"
+              }
+            ]
+          }
+        },
+        "id": "1164900345241202688",
+        "location": "htsk//uiht//stnn",
+        "name": "nug",
+        "pinned_tweet_id": "1944792699280011601",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1978003773286195202/mjjaILxf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4231,
+          "following_count": 93,
+          "like_count": 7953,
+          "listed_count": 15,
+          "media_count": 57,
+          "tweet_count": 6644
+        },
+        "username": "nugtski",
+        "verified": false
+      }
+    ]
+  }
+}

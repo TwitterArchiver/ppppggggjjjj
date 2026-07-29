@@ -1,0 +1,450 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2056291799568625664",
+        "3_2056291799568723968"
+      ],
+      "media_source_tweet_id": [
+        "2056291806778712497",
+        "2056291806778712497"
+      ]
+    },
+    "author_id": "1569397683814629379",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to household durables and non-durables, home remodeling, interior design, furniture",
+          "id": "1557696986668707842",
+          "name": "Household Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1228032306784305152",
+          "name": "Interior design"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1265660441822281728",
+          "name": "Art"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1278016095144665089",
+          "name": "At home"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1278093262406815744",
+          "name": "Fields of study"
+        }
+      }
+    ],
+    "conversation_id": "2056658792608317771",
+    "created_at": "2026-05-19T08:50:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-19T09:50:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2056658792608317771"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1426509736422383616",
+          "start": 3,
+          "username": "yiqifacai"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/CE7V7Gr7ZJ",
+          "end": 131,
+          "expanded_url": "https://x.com/yiqifacai/status/2056291806778712497/photo/1",
+          "media_key": "3_2056291799568625664",
+          "start": 108,
+          "url": "https://t.co/CE7V7Gr7ZJ"
+        },
+        {
+          "display_url": "pic.x.com/CE7V7Gr7ZJ",
+          "end": 131,
+          "expanded_url": "https://x.com/yiqifacai/status/2056291806778712497/photo/1",
+          "media_key": "3_2056291799568723968",
+          "start": 108,
+          "url": "https://t.co/CE7V7Gr7ZJ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056658792608317771",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 18
+    },
+    "referenced_tweets": [
+      {
+        "id": "2056291806778712497",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @yiqifacai: 在半开放的停车场一角，偶遇一位🇩🇪德国流浪汉的家，家具都是捡来的，要么跳蚤市场收的，在欧洲大街小巷桥洞地铁也见过不少拾荒者的家，这应该是一个艺术家进入斩杀线，在努力试图维持自己的生活。 https://t.co/CE7V7Gr7ZJ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1920,
+        "media_key": "3_2056291799568625664",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIlqfzvWMAAIJD1.jpg",
+        "width": 1440
+      },
+      {
+        "height": 1920,
+        "media_key": "3_2056291799568723968",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIlqfzvXsAA2axo.jpg",
+        "width": 1440
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2056291799568625664",
+            "3_2056291799568723968"
+          ],
+          "media_source_tweet_id": [
+            "2056291806778712497",
+            "2056291806778712497"
+          ]
+        },
+        "author_id": "1569397683814629379",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to household durables and non-durables, home remodeling, interior design, furniture",
+              "id": "1557696986668707842",
+              "name": "Household Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1228032306784305152",
+              "name": "Interior design"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1265660441822281728",
+              "name": "Art"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1278016095144665089",
+              "name": "At home"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1278093262406815744",
+              "name": "Fields of study"
+            }
+          }
+        ],
+        "conversation_id": "2056658792608317771",
+        "created_at": "2026-05-19T08:50:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-19T09:50:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056658792608317771"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1426509736422383616",
+              "start": 3,
+              "username": "yiqifacai"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/CE7V7Gr7ZJ",
+              "end": 131,
+              "expanded_url": "https://x.com/yiqifacai/status/2056291806778712497/photo/1",
+              "media_key": "3_2056291799568625664",
+              "start": 108,
+              "url": "https://t.co/CE7V7Gr7ZJ"
+            },
+            {
+              "display_url": "pic.x.com/CE7V7Gr7ZJ",
+              "end": 131,
+              "expanded_url": "https://x.com/yiqifacai/status/2056291806778712497/photo/1",
+              "media_key": "3_2056291799568723968",
+              "start": 108,
+              "url": "https://t.co/CE7V7Gr7ZJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056658792608317771",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 18
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056291806778712497",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @yiqifacai: 在半开放的停车场一角，偶遇一位🇩🇪德国流浪汉的家，家具都是捡来的，要么跳蚤市场收的，在欧洲大街小巷桥洞地铁也见过不少拾荒者的家，这应该是一个艺术家进入斩杀线，在努力试图维持自己的生活。 https://t.co/CE7V7Gr7ZJ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2056291799568625664",
+            "3_2056291799568723968"
+          ]
+        },
+        "author_id": "1426509736422383616",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to household durables and non-durables, home remodeling, interior design, furniture",
+              "id": "1557696986668707842",
+              "name": "Household Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1228032306784305152",
+              "name": "Interior design"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1278016095144665089",
+              "name": "At home"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1278093262406815744",
+              "name": "Fields of study"
+            }
+          }
+        ],
+        "conversation_id": "2056291806778712497",
+        "created_at": "2026-05-18T08:32:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-18T09:32:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2056291806778712497"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/CE7V7Gr7ZJ",
+              "end": 116,
+              "expanded_url": "https://x.com/yiqifacai/status/2056291806778712497/photo/1",
+              "media_key": "3_2056291799568625664",
+              "start": 93,
+              "url": "https://t.co/CE7V7Gr7ZJ"
+            },
+            {
+              "display_url": "pic.x.com/CE7V7Gr7ZJ",
+              "end": 116,
+              "expanded_url": "https://x.com/yiqifacai/status/2056291806778712497/photo/1",
+              "media_key": "3_2056291799568723968",
+              "start": 93,
+              "url": "https://t.co/CE7V7Gr7ZJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056291806778712497",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 40,
+          "impression_count": 45030,
+          "like_count": 309,
+          "quote_count": 3,
+          "reply_count": 39,
+          "retweet_count": 18
+        },
+        "reply_settings": "everyone",
+        "text": "在半开放的停车场一角，偶遇一位🇩🇪德国流浪汉的家，家具都是捡来的，要么跳蚤市场收的，在欧洲大街小巷桥洞地铁也见过不少拾荒者的家，这应该是一个艺术家进入斩杀线，在努力试图维持自己的生活。 https://t.co/CE7V7Gr7ZJ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-12T18:50:19.000Z",
+        "description": "随缘//医学爱好者/Arknights/绘画/混乱日常碎碎念无营养内容/可能会很吵？ /les/lgbt友好/中文/EN//喵喵//提问箱↓ ↓ ↓",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ppppppppp38481",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ppppppppp38481",
+                "start": 0,
+                "url": "https://t.co/dw8CaO6ajX"
+              }
+            ]
+          }
+        },
+        "id": "1569397683814629379",
+        "location": "世界的尽头",
+        "name": "腐烂培根卷",
+        "pinned_tweet_id": "2012485424057291255",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953366409284861953/HM3Aeou7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 237,
+          "following_count": 1512,
+          "like_count": 8191,
+          "listed_count": 1,
+          "media_count": 100,
+          "tweet_count": 6145
+        },
+        "url": "https://t.co/dw8CaO6ajX",
+        "username": "ppppggggjjjj",
+        "verified": false
+      },
+      {
+        "created_at": "2021-08-14T11:44:01.000Z",
+        "description": "Zoe姐｜旅居欧洲 ｜专注AI领域投研与写作\n发财街社区-BeyondCapital 彼岸资本 \n$5订阅使用自用投研资料库：付费研报/调研纪要/产业数据 指南见置顶文章",
+        "id": "1426509736422383616",
+        "location": "Germany",
+        "name": "一起发财",
+        "pinned_tweet_id": "2053216610207604885",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1806713276929380352/PkBh-Mns_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 85844,
+          "following_count": 986,
+          "like_count": 956,
+          "listed_count": 1419,
+          "media_count": 2216,
+          "tweet_count": 9974
+        },
+        "username": "yiqifacai",
+        "verified": true
+      }
+    ]
+  }
+}

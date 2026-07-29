@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2059560824306610177"
+      ],
+      "media_source_tweet_id": [
+        "2059560826361749564"
+      ]
+    },
+    "author_id": "1569397683814629379",
+    "conversation_id": "2059685099952631921",
+    "created_at": "2026-05-27T17:16:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-27T18:16:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059685099952631921"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1512261155850719234",
+          "start": 3,
+          "username": "Dormicumproject"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/0b9oAY7UFp",
+          "end": 51,
+          "expanded_url": "https://x.com/Dormicumproject/status/2059560826361749564/photo/1",
+          "media_key": "3_2059560824306610177",
+          "start": 28,
+          "url": "https://t.co/0b9oAY7UFp"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059685099952631921",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 337
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059560826361749564",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Dormicumproject: 武装女子敗北 https://t.co/0b9oAY7UFp"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2059685099952631921].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2059685099952631921",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2059685099952631921"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1158,
+        "media_key": "3_2059560824306610177",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJUHqF4bMAECNtR.jpg",
+        "width": 798
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2059560824306610177"
+          ]
+        },
+        "author_id": "1512261155850719234",
+        "conversation_id": "2059560826361749564",
+        "created_at": "2026-05-27T09:02:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T10:02:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059560826361749564"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/0b9oAY7UFp",
+              "end": 30,
+              "expanded_url": "https://x.com/Dormicumproject/status/2059560826361749564/photo/1",
+              "media_key": "3_2059560824306610177",
+              "start": 7,
+              "url": "https://t.co/0b9oAY7UFp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059560826361749564",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1049,
+          "impression_count": 45687,
+          "like_count": 5842,
+          "quote_count": 2,
+          "reply_count": 6,
+          "retweet_count": 337
+        },
+        "reply_settings": "everyone",
+        "text": "武装女子敗北 https://t.co/0b9oAY7UFp"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-12T18:50:19.000Z",
+        "description": "随缘//医学爱好者/Arknights/绘画/混乱日常碎碎念无营养内容/可能会很吵？ /les/lgbt友好/中文/EN//喵喵//提问箱↓ ↓ ↓",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ppppppppp38481",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ppppppppp38481",
+                "start": 0,
+                "url": "https://t.co/dw8CaO6ajX"
+              }
+            ]
+          }
+        },
+        "id": "1569397683814629379",
+        "location": "世界的尽头",
+        "name": "腐烂培根卷",
+        "pinned_tweet_id": "2012485424057291255",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953366409284861953/HM3Aeou7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 246,
+          "following_count": 1594,
+          "like_count": 8885,
+          "listed_count": 1,
+          "media_count": 104,
+          "tweet_count": 6465
+        },
+        "url": "https://t.co/dw8CaO6ajX",
+        "username": "ppppggggjjjj",
+        "verified": false
+      },
+      {
+        "created_at": "2022-04-08T02:48:58.000Z",
+        "description": "心中デートしよ\n\n漫画はここから読めますhttps://t.co/SB66qxPOdk",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "lit.link/dormicum",
+                "end": 43,
+                "expanded_url": "https://lit.link/dormicum",
+                "start": 20,
+                "url": "https://t.co/SB66qxPOdk"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/dormicum2os",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/dormicum2os",
+                "start": 0,
+                "url": "https://t.co/CtEGqQLjTn"
+              }
+            ]
+          }
+        },
+        "id": "1512261155850719234",
+        "name": "ドルミカム（Dormicum）",
+        "pinned_tweet_id": "2051168562988151084",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1761010277162864640/PGZHn1CA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 164651,
+          "following_count": 0,
+          "like_count": 3746,
+          "listed_count": 660,
+          "media_count": 1168,
+          "tweet_count": 2381
+        },
+        "url": "https://t.co/CtEGqQLjTn",
+        "username": "Dormicumproject",
+        "verified": true
+      }
+    ]
+  }
+}

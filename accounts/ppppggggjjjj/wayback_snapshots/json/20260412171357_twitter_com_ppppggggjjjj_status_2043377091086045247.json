@@ -1,0 +1,420 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2043267737460559872"
+      ],
+      "media_source_tweet_id": [
+        "2043267851671482652"
+      ]
+    },
+    "author_id": "1569397683814629379",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A genre for books, like Fiction",
+          "id": "85",
+          "name": "Book Genre"
+        },
+        "entity": {
+          "description": "Comics",
+          "id": "847521144173350912",
+          "name": "Comics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "839544274442051584",
+          "name": "Entertainment"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Comics",
+          "id": "847521144173350912",
+          "name": "Comics"
+        }
+      }
+    ],
+    "conversation_id": "2043377091086045247",
+    "created_at": "2026-04-12T17:13:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-12T18:13:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2043377091086045247"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "989076397091180544",
+          "start": 3,
+          "username": "Prgdmk"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/hhbcPkePC3",
+          "end": 71,
+          "expanded_url": "https://x.com/Prgdmk/status/2043267851671482652/photo/1",
+          "media_key": "3_2043267737460559872",
+          "start": 48,
+          "url": "https://t.co/hhbcPkePC3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2043377091086045247",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 44
+    },
+    "referenced_tweets": [
+      {
+        "id": "2043267851671482652",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Prgdmk: 後でちゃんと描きたいけどここ本当に原作も漫画も大好きで嬉しかった･･･ https://t.co/hhbcPkePC3"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1848,
+        "media_key": "3_2043267737460559872",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFslLnhaUAAdvvv.png",
+        "width": 1350
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2043267737460559872"
+          ],
+          "media_source_tweet_id": [
+            "2043267851671482652"
+          ]
+        },
+        "author_id": "1569397683814629379",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A genre for books, like Fiction",
+              "id": "85",
+              "name": "Book Genre"
+            },
+            "entity": {
+              "description": "Comics",
+              "id": "847521144173350912",
+              "name": "Comics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839544274442051584",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Comics",
+              "id": "847521144173350912",
+              "name": "Comics"
+            }
+          }
+        ],
+        "conversation_id": "2043377091086045247",
+        "created_at": "2026-04-12T17:13:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-12T18:13:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043377091086045247"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "989076397091180544",
+              "start": 3,
+              "username": "Prgdmk"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/hhbcPkePC3",
+              "end": 71,
+              "expanded_url": "https://x.com/Prgdmk/status/2043267851671482652/photo/1",
+              "media_key": "3_2043267737460559872",
+              "start": 48,
+              "url": "https://t.co/hhbcPkePC3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043377091086045247",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 44
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043267851671482652",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Prgdmk: 後でちゃんと描きたいけどここ本当に原作も漫画も大好きで嬉しかった･･･ https://t.co/hhbcPkePC3"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2043267737460559872"
+          ]
+        },
+        "author_id": "989076397091180544",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A genre for books, like Fiction",
+              "id": "85",
+              "name": "Book Genre"
+            },
+            "entity": {
+              "description": "Comics",
+              "id": "847521144173350912",
+              "name": "Comics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839544274442051584",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Comics",
+              "id": "847521144173350912",
+              "name": "Comics"
+            }
+          }
+        ],
+        "conversation_id": "2043267851671482652",
+        "created_at": "2026-04-12T09:59:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-12T10:59:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2043267851671482652"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/hhbcPkePC3",
+              "end": 59,
+              "expanded_url": "https://x.com/Prgdmk/status/2043267851671482652/photo/1",
+              "media_key": "3_2043267737460559872",
+              "start": 36,
+              "url": "https://t.co/hhbcPkePC3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043267851671482652",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 28,
+          "impression_count": 2798,
+          "like_count": 306,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 44
+        },
+        "reply_settings": "everyone",
+        "text": "後でちゃんと描きたいけどここ本当に原作も漫画も大好きで嬉しかった･･･ https://t.co/hhbcPkePC3"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-12T18:50:19.000Z",
+        "description": "随缘//医学/Arknights/绘画/混乱日常碎碎念无营养内容/可能会很吵？ /les/lgbt友好/中文/EN//喵喵//提问箱↓ ↓ ↓",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ppppppppp38481",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ppppppppp38481",
+                "start": 0,
+                "url": "https://t.co/dw8CaO6ajX"
+              }
+            ]
+          }
+        },
+        "id": "1569397683814629379",
+        "location": "世界的尽头",
+        "name": "腐烂培根卷",
+        "pinned_tweet_id": "2012485424057291255",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953366409284861953/HM3Aeou7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 197,
+          "following_count": 1250,
+          "like_count": 6313,
+          "listed_count": 1,
+          "media_count": 98,
+          "tweet_count": 5049
+        },
+        "url": "https://t.co/dw8CaO6ajX",
+        "username": "ppppggggjjjj",
+        "verified": false
+      },
+      {
+        "created_at": "2018-04-25T09:39:24.000Z",
+        "description": "成人済 🦴公由清治はいいぞ\n※主になく頃に(07th)/出戻りギャグ日(主に細道)/etc 絵と呟き ｿｳﾁｬﾝｱｿﾎﾞ 日和垢 @PrgdmkGB",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 74,
+                "start": 65,
+                "username": "PrgdmkGB"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "marshmallow-qa.com/poyotomy?utm_m…",
+                "end": 23,
+                "expanded_url": "https://marshmallow-qa.com/poyotomy?utm_medium=url_text&utm_source=promotion",
+                "start": 0,
+                "url": "https://t.co/lXczrIvtS3"
+              }
+            ]
+          }
+        },
+        "id": "989076397091180544",
+        "location": "マシュマロ",
+        "name": "🅟🥫🌭🦴🪓👹",
+        "pinned_tweet_id": "1614831490902396930",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021242115251208192/7pRv1zUQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5091,
+          "following_count": 178,
+          "like_count": 44467,
+          "listed_count": 38,
+          "media_count": 7140,
+          "tweet_count": 134941
+        },
+        "url": "https://t.co/lXczrIvtS3",
+        "username": "Prgdmk",
+        "verified": false
+      }
+    ]
+  }
+}

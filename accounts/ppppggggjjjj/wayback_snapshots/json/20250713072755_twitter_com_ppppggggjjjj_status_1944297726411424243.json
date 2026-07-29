@@ -1,0 +1,136 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1569397683814629379",
+    "conversation_id": "1944297726411424243",
+    "created_at": "2025-07-13T07:27:55.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-13T08:27:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1944297726411424243"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/ftmiaox/status…",
+          "end": 170,
+          "expanded_url": "https://twitter.com/ftmiaox/status/1944294958883910059",
+          "start": 147,
+          "url": "https://t.co/sBUbpDUUPP"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1944297726411424243",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1944294958883910059",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "OMG\n想到一次不好的经历 在澳洲的一个类似民宿的独栋小屋的客厅沙发上躺着睡 盯着天花板上没打开的风扇 左耳边有越来越近的嗡嗡嗡的声音 平静普通的夜晚\n不对啊 风扇没打开 声音哪来的\n猛然转头 一只大蛾子和我距离可能不到两厘米 近距离对视 那一刻 全世界都静止了\n第一次如此清晰地看到蛾子正面 https://t.co/sBUbpDUUPP"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with referenced_tweets.id: [1944294958883910059].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1944294958883910059",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1944294958883910059"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1569397683814629379",
+        "conversation_id": "1944297726411424243",
+        "created_at": "2025-07-13T07:27:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-13T08:27:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1944297726411424243"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/ftmiaox/status…",
+              "end": 170,
+              "expanded_url": "https://twitter.com/ftmiaox/status/1944294958883910059",
+              "start": 147,
+              "url": "https://t.co/sBUbpDUUPP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1944297726411424243",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1944294958883910059",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "OMG\n想到一次不好的经历 在澳洲的一个类似民宿的独栋小屋的客厅沙发上躺着睡 盯着天花板上没打开的风扇 左耳边有越来越近的嗡嗡嗡的声音 平静普通的夜晚\n不对啊 风扇没打开 声音哪来的\n猛然转头 一只大蛾子和我距离可能不到两厘米 近距离对视 那一刻 全世界都静止了\n第一次如此清晰地看到蛾子正面 https://t.co/sBUbpDUUPP"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-12T18:50:19.000Z",
+        "description": "随缘//医学爱好者/les🏳️‍🌈/lgbt友好/中文/EN/Arknights/绘画/混乱日常碎碎念/很吵//喵喵",
+        "id": "1569397683814629379",
+        "name": "腐烂苹果酱",
+        "pinned_tweet_id": "1937498024907010498",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1620839959388393479/hsMKvVei_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 75,
+          "following_count": 571,
+          "like_count": 1166,
+          "listed_count": 0,
+          "media_count": 23,
+          "tweet_count": 1351
+        },
+        "username": "ppppggggjjjj",
+        "verified": false
+      }
+    ]
+  }
+}

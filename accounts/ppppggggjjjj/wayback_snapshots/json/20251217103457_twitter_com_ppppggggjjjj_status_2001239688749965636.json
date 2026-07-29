@@ -1,0 +1,182 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2000979295917768706"
+      ],
+      "media_source_tweet_id": [
+        "2000979305522978876"
+      ]
+    },
+    "author_id": "1569397683814629379",
+    "conversation_id": "2001239688749965636",
+    "created_at": "2025-12-17T10:34:57.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-17T11:34:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2001239688749965636"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1728710100133478400",
+          "start": 3,
+          "username": "_7sro"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/iighiiSTTF",
+          "end": 42,
+          "expanded_url": "https://x.com/_7sro/status/2000979305522978876/photo/1",
+          "media_key": "3_2000979295917768706",
+          "start": 19,
+          "url": "https://t.co/iighiiSTTF"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2001239688749965636",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 257
+    },
+    "referenced_tweets": [
+      {
+        "id": "2000979305522978876",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @_7sro: my love https://t.co/iighiiSTTF"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2001239688749965636].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2001239688749965636",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2001239688749965636"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 960,
+        "media_key": "3_2000979295917768706",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G8ToEWgXAAIvtoU.jpg",
+        "width": 1088
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2000979295917768706"
+          ]
+        },
+        "author_id": "1728710100133478400",
+        "conversation_id": "2000979305522978876",
+        "created_at": "2025-12-16T17:20:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-16T18:20:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2000979305522978876"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/iighiiSTTF",
+              "end": 31,
+              "expanded_url": "https://x.com/_7sro/status/2000979305522978876/photo/1",
+              "media_key": "3_2000979295917768706",
+              "start": 8,
+              "url": "https://t.co/iighiiSTTF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2000979305522978876",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 180,
+          "impression_count": 76484,
+          "like_count": 2423,
+          "quote_count": 8,
+          "reply_count": 4,
+          "retweet_count": 257
+        },
+        "reply_settings": "everyone",
+        "text": "my love https://t.co/iighiiSTTF"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-12T18:50:19.000Z",
+        "description": "随缘//医学爱好者/les🏳️‍🌈/lgbt友好/中文/EN/Arknights/绘画/混乱日常碎碎念/很吵//喵喵 【永远拥护培根卷番茄！】",
+        "id": "1569397683814629379",
+        "location": "世界的尽头",
+        "name": "腐烂培根卷",
+        "pinned_tweet_id": "1993298688010322328",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953366409284861953/HM3Aeou7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 154,
+          "following_count": 972,
+          "like_count": 3676,
+          "listed_count": 1,
+          "media_count": 88,
+          "tweet_count": 4126
+        },
+        "username": "ppppggggjjjj",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-26T09:40:43.000Z",
+        "description": "I belong to myself",
+        "id": "1728710100133478400",
+        "location": "طبرجل",
+        "name": "Sadeem",
+        "pinned_tweet_id": "1902492821229097156",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1992022820331655168/TKUi_uiJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 796,
+          "following_count": 154,
+          "like_count": 12986,
+          "listed_count": 0,
+          "media_count": 443,
+          "tweet_count": 2101
+        },
+        "username": "_7sro",
+        "verified": false
+      }
+    ]
+  }
+}

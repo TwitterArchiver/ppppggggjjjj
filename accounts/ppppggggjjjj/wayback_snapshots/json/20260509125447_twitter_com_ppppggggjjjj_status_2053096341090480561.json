@@ -1,0 +1,250 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2052738968651976704"
+      ],
+      "media_source_tweet_id": [
+        "2052738971495702937"
+      ]
+    },
+    "author_id": "1569397683814629379",
+    "conversation_id": "2053096341090480561",
+    "created_at": "2026-05-09T12:54:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-09T13:54:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2053096341090480561"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "2010929506127851520",
+          "start": 3,
+          "username": "sparrowincrisis"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/snuBypPIvU",
+          "end": 64,
+          "expanded_url": "https://x.com/sparrowincrisis/status/2052738971495702937/photo/1",
+          "media_key": "3_2052738968651976704",
+          "start": 41,
+          "url": "https://t.co/snuBypPIvU"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053096341090480561",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 102
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052738971495702937",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @sparrowincrisis: life has no meaning https://t.co/snuBypPIvU"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 500,
+        "media_key": "3_2052738968651976704",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHzLN1MaUAADpyC.jpg",
+        "width": 500
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2052738968651976704"
+          ],
+          "media_source_tweet_id": [
+            "2052738971495702937"
+          ]
+        },
+        "author_id": "1569397683814629379",
+        "conversation_id": "2053096341090480561",
+        "created_at": "2026-05-09T12:54:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-09T13:54:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053096341090480561"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "2010929506127851520",
+              "start": 3,
+              "username": "sparrowincrisis"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/snuBypPIvU",
+              "end": 64,
+              "expanded_url": "https://x.com/sparrowincrisis/status/2052738971495702937/photo/1",
+              "media_key": "3_2052738968651976704",
+              "start": 41,
+              "url": "https://t.co/snuBypPIvU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053096341090480561",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 102
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052738971495702937",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @sparrowincrisis: life has no meaning https://t.co/snuBypPIvU"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2052738968651976704"
+          ]
+        },
+        "author_id": "2010929506127851520",
+        "conversation_id": "2052738971495702937",
+        "created_at": "2026-05-08T13:14:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-08T14:14:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2052738971495702937"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/snuBypPIvU",
+              "end": 43,
+              "expanded_url": "https://x.com/sparrowincrisis/status/2052738971495702937/photo/1",
+              "media_key": "3_2052738968651976704",
+              "start": 20,
+              "url": "https://t.co/snuBypPIvU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052738971495702937",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 49,
+          "impression_count": 13423,
+          "like_count": 761,
+          "quote_count": 9,
+          "reply_count": 14,
+          "retweet_count": 102
+        },
+        "reply_settings": "everyone",
+        "text": "life has no meaning https://t.co/snuBypPIvU"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-12T18:50:19.000Z",
+        "description": "随缘//医学爱好者/Arknights/绘画/混乱日常碎碎念无营养内容/可能会很吵？ /les/lgbt友好/中文/EN//喵喵//提问箱↓ ↓ ↓",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ppppppppp38481",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ppppppppp38481",
+                "start": 0,
+                "url": "https://t.co/dw8CaO6ajX"
+              }
+            ]
+          }
+        },
+        "id": "1569397683814629379",
+        "location": "世界的尽头",
+        "name": "腐烂培根卷",
+        "pinned_tweet_id": "2012485424057291255",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953366409284861953/HM3Aeou7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 233,
+          "following_count": 1421,
+          "like_count": 7777,
+          "listed_count": 1,
+          "media_count": 100,
+          "tweet_count": 5881
+        },
+        "url": "https://t.co/dw8CaO6ajX",
+        "username": "ppppggggjjjj",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-13T04:18:58.000Z",
+        "description": "I am pilot you know, and one day I will fly away from here. \nkinda naughty and endangered species.",
+        "id": "2010929506127851520",
+        "location": "Farmland",
+        "name": "Sparrow",
+        "pinned_tweet_id": "2042168388206874653",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2017596212401344514/1Vl1HfTu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9019,
+          "following_count": 528,
+          "like_count": 4134,
+          "listed_count": 50,
+          "media_count": 678,
+          "tweet_count": 4996
+        },
+        "username": "sparrowincrisis",
+        "verified": true
+      }
+    ]
+  }
+}

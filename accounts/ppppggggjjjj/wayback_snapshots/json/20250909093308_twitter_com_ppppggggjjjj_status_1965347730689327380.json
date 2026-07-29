@@ -1,0 +1,401 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1965266058761347074"
+      ],
+      "media_source_tweet_id": [
+        "1965266360898039950"
+      ]
+    },
+    "author_id": "1569397683814629379",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "id": "1280550787207147521",
+          "name": "Arts & culture"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Cosplay",
+          "id": "1047106191829028865",
+          "name": "Cosplay"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Cosplay",
+          "id": "1047106191829028865",
+          "name": "Cosplay"
+        }
+      }
+    ],
+    "conversation_id": "1965347730689327380",
+    "created_at": "2025-09-09T09:33:08.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-09T10:33:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1965347730689327380"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1688180748820570113",
+          "start": 3,
+          "username": "Val_elf_chaos"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/x9PZmJ8HvB",
+          "end": 52,
+          "expanded_url": "https://x.com/Val_elf_chaos/status/1965266360898039950/photo/1",
+          "media_key": "3_1965266058761347074",
+          "start": 29,
+          "url": "https://t.co/x9PZmJ8HvB"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1965347730689327380",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 16
+    },
+    "referenced_tweets": [
+      {
+        "id": "1965266360898039950",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Val_elf_chaos: 神級cosplay https://t.co/x9PZmJ8HvB"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 707,
+        "media_key": "3_1965266058761347074",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G0YHEWmaIAIIjYm.png",
+        "width": 764
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1965266058761347074"
+          ],
+          "media_source_tweet_id": [
+            "1965266360898039950"
+          ]
+        },
+        "author_id": "1569397683814629379",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "1280550787207147521",
+              "name": "Arts & culture"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          }
+        ],
+        "conversation_id": "1965347730689327380",
+        "created_at": "2025-09-09T09:33:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-09T10:33:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1965347730689327380"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1688180748820570113",
+              "start": 3,
+              "username": "Val_elf_chaos"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/x9PZmJ8HvB",
+              "end": 52,
+              "expanded_url": "https://x.com/Val_elf_chaos/status/1965266360898039950/photo/1",
+              "media_key": "3_1965266058761347074",
+              "start": 29,
+              "url": "https://t.co/x9PZmJ8HvB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1965347730689327380",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 16
+        },
+        "referenced_tweets": [
+          {
+            "id": "1965266360898039950",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Val_elf_chaos: 神級cosplay https://t.co/x9PZmJ8HvB"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1965266058761347074"
+          ]
+        },
+        "author_id": "1688180748820570113",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "1280550787207147521",
+              "name": "Arts & culture"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          }
+        ],
+        "conversation_id": "1965266360898039950",
+        "created_at": "2025-09-09T04:09:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-09T05:09:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1965266360898039950"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/x9PZmJ8HvB",
+              "end": 33,
+              "expanded_url": "https://x.com/Val_elf_chaos/status/1965266360898039950/photo/1",
+              "media_key": "3_1965266058761347074",
+              "start": 10,
+              "url": "https://t.co/x9PZmJ8HvB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1965266360898039950",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 7,
+          "impression_count": 7131,
+          "like_count": 258,
+          "quote_count": 2,
+          "reply_count": 8,
+          "retweet_count": 16
+        },
+        "reply_settings": "everyone",
+        "text": "神級cosplay https://t.co/x9PZmJ8HvB"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-12T18:50:19.000Z",
+        "description": "随缘//医学爱好者/les🏳️‍🌈/lgbt友好/中文/EN/Arknights/绘画/混乱日常碎碎念/很吵//喵喵 【永远拥护培根卷番茄！】",
+        "id": "1569397683814629379",
+        "location": "世界的尽头",
+        "name": "腐烂培根卷",
+        "pinned_tweet_id": "1937498024907010498",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953366409284861953/HM3Aeou7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 102,
+          "following_count": 681,
+          "like_count": 1997,
+          "listed_count": 1,
+          "media_count": 59,
+          "tweet_count": 2553
+        },
+        "username": "ppppggggjjjj",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-06T13:30:46.000Z",
+        "description": "🍀YT：https://t.co/41LiNmEbuT\n🍀留檔：https://t.co/GXS12AoAA6\n\n🍀媽媽爸爸：喵喵社\n\n🍀Fan Art：#畢卡瓦（可能用作素材）\n🍀R18二創：#瓦爾無照（R18G❌）\n🍀粉絲名：#瓦斯爐\n🍀飯友：#瓦餓了",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 81,
+                "start": 77,
+                "tag": "畢卡瓦"
+              },
+              {
+                "end": 102,
+                "start": 97,
+                "tag": "瓦爾無照"
+              },
+              {
+                "end": 119,
+                "start": 115,
+                "tag": "瓦斯爐"
+              },
+              {
+                "end": 128,
+                "start": 124,
+                "tag": "瓦餓了"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "youtube.com/@Val_elf_chaos/",
+                "end": 27,
+                "expanded_url": "http://youtube.com/@Val_elf_chaos/",
+                "start": 4,
+                "url": "https://t.co/41LiNmEbuT"
+              },
+              {
+                "display_url": "youtube.com/@Val_elf_chaos…",
+                "end": 55,
+                "expanded_url": "http://youtube.com/@Val_elf_chaos_02/",
+                "start": 32,
+                "url": "https://t.co/GXS12AoAA6"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/en/valink",
+                "end": 23,
+                "expanded_url": "https://lit.link/en/valink",
+                "start": 0,
+                "url": "https://t.co/GckqV2EASE"
+              }
+            ]
+          }
+        },
+        "id": "1688180748820570113",
+        "location": "人間煉獄",
+        "name": "Val 瓦爾🍀18天突發系精靈Vtuber💖",
+        "pinned_tweet_id": "1839521050755051974",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1958182351948976128/sWTxTNKL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2205,
+          "following_count": 1560,
+          "like_count": 26789,
+          "listed_count": 14,
+          "media_count": 3001,
+          "tweet_count": 24871
+        },
+        "url": "https://t.co/GckqV2EASE",
+        "username": "Val_elf_chaos",
+        "verified": true
+      }
+    ]
+  }
+}

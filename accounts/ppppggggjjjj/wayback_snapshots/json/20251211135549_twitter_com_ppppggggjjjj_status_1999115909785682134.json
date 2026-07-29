@@ -1,0 +1,235 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1999056075707105280"
+      ],
+      "media_source_tweet_id": [
+        "1999056081172173171"
+      ]
+    },
+    "author_id": "1569397683814629379",
+    "conversation_id": "1999115909785682134",
+    "created_at": "2025-12-11T13:55:49.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-11T14:55:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1999115909785682134"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1638441014645104641",
+          "start": 3,
+          "username": "GED0CH1"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/3LH3h7IFHT",
+          "end": 36,
+          "expanded_url": "https://x.com/GED0CH1/status/1999056081172173171/photo/1",
+          "media_key": "3_1999056075707105280",
+          "start": 13,
+          "url": "https://t.co/3LH3h7IFHT"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1999115909785682134",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 237
+    },
+    "referenced_tweets": [
+      {
+        "id": "1999056081172173171",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @GED0CH1: https://t.co/3LH3h7IFHT"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1924,
+        "media_key": "3_1999056075707105280",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G74S6M6bwAA8Uym.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1999056075707105280"
+          ],
+          "media_source_tweet_id": [
+            "1999056081172173171"
+          ]
+        },
+        "author_id": "1569397683814629379",
+        "conversation_id": "1999115909785682134",
+        "created_at": "2025-12-11T13:55:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-11T14:55:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1999115909785682134"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1638441014645104641",
+              "start": 3,
+              "username": "GED0CH1"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/3LH3h7IFHT",
+              "end": 36,
+              "expanded_url": "https://x.com/GED0CH1/status/1999056081172173171/photo/1",
+              "media_key": "3_1999056075707105280",
+              "start": 13,
+              "url": "https://t.co/3LH3h7IFHT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1999115909785682134",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 237
+        },
+        "referenced_tweets": [
+          {
+            "id": "1999056081172173171",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @GED0CH1: https://t.co/3LH3h7IFHT"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1999056075707105280"
+          ]
+        },
+        "author_id": "1638441014645104641",
+        "conversation_id": "1999056081172173171",
+        "created_at": "2025-12-11T09:58:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-11T10:58:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1999056081172173171"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/3LH3h7IFHT",
+              "end": 23,
+              "expanded_url": "https://x.com/GED0CH1/status/1999056081172173171/photo/1",
+              "media_key": "3_1999056075707105280",
+              "start": 0,
+              "url": "https://t.co/3LH3h7IFHT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1999056081172173171",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 500,
+          "impression_count": 42949,
+          "like_count": 3946,
+          "quote_count": 6,
+          "reply_count": 1,
+          "retweet_count": 237
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/3LH3h7IFHT"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-12T18:50:19.000Z",
+        "description": "随缘//医学爱好者/les🏳️‍🌈/lgbt友好/中文/EN/Arknights/绘画/混乱日常碎碎念/很吵//喵喵 【永远拥护培根卷番茄！】",
+        "id": "1569397683814629379",
+        "location": "世界的尽头",
+        "name": "腐烂培根卷",
+        "pinned_tweet_id": "1993298688010322328",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953366409284861953/HM3Aeou7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 155,
+          "following_count": 932,
+          "like_count": 3381,
+          "listed_count": 1,
+          "media_count": 88,
+          "tweet_count": 3995
+        },
+        "username": "ppppggggjjjj",
+        "verified": false
+      },
+      {
+        "created_at": "2023-03-22T07:22:40.000Z",
+        "description": "oc백업",
+        "id": "1638441014645104641",
+        "name": "게가디",
+        "pinned_tweet_id": "1975508058999824425",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1994234174434365440/0pqDaIKW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5145,
+          "following_count": 32,
+          "like_count": 2699,
+          "listed_count": 36,
+          "media_count": 10,
+          "tweet_count": 74
+        },
+        "username": "GED0CH1",
+        "verified": false
+      }
+    ]
+  }
+}

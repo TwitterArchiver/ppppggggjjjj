@@ -1,0 +1,260 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2050142287997362176"
+      ],
+      "media_source_tweet_id": [
+        "2050142421372076430"
+      ]
+    },
+    "author_id": "1569397683814629379",
+    "conversation_id": "2050527597751341471",
+    "created_at": "2026-05-02T10:47:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-02T11:47:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2050527597751341471"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1248607320990347265",
+          "start": 3,
+          "username": "AGZAMx"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/KbJCLa7IFA",
+          "end": 35,
+          "expanded_url": "https://x.com/AGZAMx/status/2050142421372076430/photo/1",
+          "media_key": "3_2050142287997362176",
+          "start": 12,
+          "url": "https://t.co/KbJCLa7IFA"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2050527597751341471",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3376
+    },
+    "referenced_tweets": [
+      {
+        "id": "2050142421372076430",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @AGZAMx: https://t.co/KbJCLa7IFA"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1280,
+        "media_key": "3_2050142287997362176",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHORjH8W4AAG960.jpg",
+        "width": 1200
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2050142287997362176"
+          ],
+          "media_source_tweet_id": [
+            "2050142421372076430"
+          ]
+        },
+        "author_id": "1569397683814629379",
+        "conversation_id": "2050527597751341471",
+        "created_at": "2026-05-02T10:47:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-02T11:47:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2050527597751341471"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1248607320990347265",
+              "start": 3,
+              "username": "AGZAMx"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/KbJCLa7IFA",
+              "end": 35,
+              "expanded_url": "https://x.com/AGZAMx/status/2050142421372076430/photo/1",
+              "media_key": "3_2050142287997362176",
+              "start": 12,
+              "url": "https://t.co/KbJCLa7IFA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050527597751341471",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3376
+        },
+        "referenced_tweets": [
+          {
+            "id": "2050142421372076430",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @AGZAMx: https://t.co/KbJCLa7IFA"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2050142287997362176"
+          ]
+        },
+        "author_id": "1248607320990347265",
+        "conversation_id": "2050142421372076430",
+        "created_at": "2026-05-01T09:16:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-01T10:16:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2050142421372076430"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/KbJCLa7IFA",
+              "end": 23,
+              "expanded_url": "https://x.com/AGZAMx/status/2050142421372076430/photo/1",
+              "media_key": "3_2050142287997362176",
+              "start": 0,
+              "url": "https://t.co/KbJCLa7IFA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050142421372076430",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1887,
+          "impression_count": 318777,
+          "like_count": 32433,
+          "quote_count": 36,
+          "reply_count": 4,
+          "retweet_count": 3376
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/KbJCLa7IFA"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-12T18:50:19.000Z",
+        "description": "随缘//医学爱好者/Arknights/绘画/混乱日常碎碎念无营养内容/可能会很吵？ /les/lgbt友好/中文/EN//喵喵//提问箱↓ ↓ ↓",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ppppppppp38481",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ppppppppp38481",
+                "start": 0,
+                "url": "https://t.co/dw8CaO6ajX"
+              }
+            ]
+          }
+        },
+        "id": "1569397683814629379",
+        "location": "世界的尽头",
+        "name": "腐烂培根卷",
+        "pinned_tweet_id": "2012485424057291255",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953366409284861953/HM3Aeou7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 218,
+          "following_count": 1347,
+          "like_count": 7166,
+          "listed_count": 1,
+          "media_count": 98,
+          "tweet_count": 5476
+        },
+        "url": "https://t.co/dw8CaO6ajX",
+        "username": "ppppggggjjjj",
+        "verified": false
+      },
+      {
+        "created_at": "2020-04-10T13:43:09.000Z",
+        "description": "أغيلاس 🇩🇿\n\n#hxh",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 15,
+                "start": 11,
+                "tag": "hxh"
+              }
+            ]
+          }
+        },
+        "id": "1248607320990347265",
+        "name": "AGHILAS",
+        "pinned_tweet_id": "2020159316863365284",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039667843944394752/8Iqpwd1u_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17532,
+          "following_count": 255,
+          "like_count": 52787,
+          "listed_count": 52,
+          "media_count": 2910,
+          "tweet_count": 10747
+        },
+        "username": "AGZAMx",
+        "verified": false
+      }
+    ]
+  }
+}

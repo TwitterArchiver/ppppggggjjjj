@@ -1,0 +1,258 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1983804507588100096"
+      ],
+      "media_source_tweet_id": [
+        "1983804529536888906"
+      ]
+    },
+    "author_id": "1569397683814629379",
+    "conversation_id": "1983943929742676132",
+    "created_at": "2025-10-30T17:07:47.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-30T18:07:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1983943929742676132"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1790370144755351552",
+          "start": 3,
+          "username": "FurinaDF"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/FvCia5DvTS",
+          "end": 45,
+          "expanded_url": "https://x.com/FurinaDF/status/1983804529536888906/photo/1",
+          "media_key": "3_1983804507588100096",
+          "start": 22,
+          "url": "https://t.co/FvCia5DvTS"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1983943929742676132",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 22
+    },
+    "referenced_tweets": [
+      {
+        "id": "1983804529536888906",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @FurinaDF: 北京人就长这样 https://t.co/FvCia5DvTS"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1650,
+        "media_key": "3_1983804507588100096",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4fjsGKbgAAamwx.jpg",
+        "width": 1319
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1983804507588100096"
+          ],
+          "media_source_tweet_id": [
+            "1983804529536888906"
+          ]
+        },
+        "author_id": "1569397683814629379",
+        "conversation_id": "1983943929742676132",
+        "created_at": "2025-10-30T17:07:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-30T18:07:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1983943929742676132"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1790370144755351552",
+              "start": 3,
+              "username": "FurinaDF"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/FvCia5DvTS",
+              "end": 45,
+              "expanded_url": "https://x.com/FurinaDF/status/1983804529536888906/photo/1",
+              "media_key": "3_1983804507588100096",
+              "start": 22,
+              "url": "https://t.co/FvCia5DvTS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1983943929742676132",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 22
+        },
+        "referenced_tweets": [
+          {
+            "id": "1983804529536888906",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @FurinaDF: 北京人就长这样 https://t.co/FvCia5DvTS"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1983804507588100096"
+          ]
+        },
+        "author_id": "1790370144755351552",
+        "conversation_id": "1983804529536888906",
+        "created_at": "2025-10-30T07:53:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-30T08:53:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1983804529536888906"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/FvCia5DvTS",
+              "end": 31,
+              "expanded_url": "https://x.com/FurinaDF/status/1983804529536888906/photo/1",
+              "media_key": "3_1983804507588100096",
+              "start": 8,
+              "url": "https://t.co/FvCia5DvTS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1983804529536888906",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 60,
+          "impression_count": 78587,
+          "like_count": 575,
+          "quote_count": 0,
+          "reply_count": 28,
+          "retweet_count": 22
+        },
+        "reply_settings": "everyone",
+        "text": "北京人就长这样 https://t.co/FvCia5DvTS"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-12T18:50:19.000Z",
+        "description": "随缘//医学爱好者/les🏳️‍🌈/lgbt友好/中文/EN/Arknights/绘画/混乱日常碎碎念/很吵//喵喵 【永远拥护培根卷番茄！】",
+        "id": "1569397683814629379",
+        "location": "世界的尽头",
+        "name": "腐烂培根卷",
+        "pinned_tweet_id": "1937498024907010498",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953366409284861953/HM3Aeou7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 123,
+          "following_count": 750,
+          "like_count": 2377,
+          "listed_count": 1,
+          "media_count": 78,
+          "tweet_count": 3403
+        },
+        "username": "ppppggggjjjj",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-14T13:15:08.000Z",
+        "description": "希望咱发的东西，都在你的意料之外喵@yongchuTaffyOwO",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 33,
+                "start": 17,
+                "username": "yongchuTaffyOwO"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/langrenxinwenc…",
+                "end": 23,
+                "expanded_url": "http://t.me/langrenxinwenchonglangtv",
+                "start": 0,
+                "url": "https://t.co/69nE3RLjhg"
+              }
+            ]
+          }
+        },
+        "id": "1790370144755351552",
+        "location": "Oregon",
+        "name": "芙宁娜娜💙𝐅𝐮𝐫𝐢𝐧𝐚𝐧𝐚",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1909485043128434688/z-ZbsFFG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 59283,
+          "following_count": 2367,
+          "like_count": 29619,
+          "listed_count": 166,
+          "media_count": 7445,
+          "tweet_count": 12003
+        },
+        "url": "https://t.co/69nE3RLjhg",
+        "username": "FurinaDF",
+        "verified": false
+      }
+    ]
+  }
+}

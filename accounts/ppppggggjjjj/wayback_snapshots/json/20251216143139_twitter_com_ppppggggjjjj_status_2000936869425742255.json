@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2000757154551099396"
+      ],
+      "media_source_tweet_id": [
+        "2000757163107483689"
+      ]
+    },
+    "author_id": "1569397683814629379",
+    "conversation_id": "2000936869425742255",
+    "created_at": "2025-12-16T14:31:39.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-16T15:31:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2000936869425742255"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1749623310009106432",
+          "start": 3,
+          "username": "e_burw"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/64DrVkgjy4",
+          "end": 35,
+          "expanded_url": "https://x.com/e_burw/status/2000757163107483689/photo/1",
+          "media_key": "3_2000757154551099396",
+          "start": 12,
+          "url": "https://t.co/64DrVkgjy4"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2000936869425742255",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1732
+    },
+    "referenced_tweets": [
+      {
+        "id": "2000757163107483689",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @e_burw: https://t.co/64DrVkgjy4"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 457,
+        "media_key": "3_2000757154551099396",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G8QeCBbW8AQOrLE.jpg",
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2000757154551099396"
+          ],
+          "media_source_tweet_id": [
+            "2000757163107483689"
+          ]
+        },
+        "author_id": "1569397683814629379",
+        "conversation_id": "2000936869425742255",
+        "created_at": "2025-12-16T14:31:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-16T15:31:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2000936869425742255"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1749623310009106432",
+              "start": 3,
+              "username": "e_burw"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/64DrVkgjy4",
+              "end": 35,
+              "expanded_url": "https://x.com/e_burw/status/2000757163107483689/photo/1",
+              "media_key": "3_2000757154551099396",
+              "start": 12,
+              "url": "https://t.co/64DrVkgjy4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2000936869425742255",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1732
+        },
+        "referenced_tweets": [
+          {
+            "id": "2000757163107483689",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @e_burw: https://t.co/64DrVkgjy4"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2000757154551099396"
+          ]
+        },
+        "author_id": "1749623310009106432",
+        "conversation_id": "2000757163107483689",
+        "created_at": "2025-12-16T02:37:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-16T03:37:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2000757163107483689"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/64DrVkgjy4",
+              "end": 23,
+              "expanded_url": "https://x.com/e_burw/status/2000757163107483689/photo/1",
+              "media_key": "3_2000757154551099396",
+              "start": 0,
+              "url": "https://t.co/64DrVkgjy4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2000757163107483689",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 613,
+          "impression_count": 117669,
+          "like_count": 11005,
+          "quote_count": 109,
+          "reply_count": 4,
+          "retweet_count": 1732
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/64DrVkgjy4"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-12T18:50:19.000Z",
+        "description": "随缘//医学爱好者/les🏳️‍🌈/lgbt友好/中文/EN/Arknights/绘画/混乱日常碎碎念/很吵//喵喵 【永远拥护培根卷番茄！】",
+        "id": "1569397683814629379",
+        "location": "世界的尽头",
+        "name": "腐烂培根卷",
+        "pinned_tweet_id": "1993298688010322328",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953366409284861953/HM3Aeou7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 156,
+          "following_count": 970,
+          "like_count": 3556,
+          "listed_count": 1,
+          "media_count": 88,
+          "tweet_count": 4080
+        },
+        "username": "ppppggggjjjj",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-23T02:41:41.000Z",
+        "description": "",
+        "id": "1749623310009106432",
+        "name": "ٍ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1773859586878918657/iPGWRXfG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25545,
+          "following_count": 0,
+          "like_count": 347,
+          "listed_count": 4,
+          "media_count": 2648,
+          "tweet_count": 2672
+        },
+        "username": "e_burw",
+        "verified": false
+      }
+    ]
+  }
+}

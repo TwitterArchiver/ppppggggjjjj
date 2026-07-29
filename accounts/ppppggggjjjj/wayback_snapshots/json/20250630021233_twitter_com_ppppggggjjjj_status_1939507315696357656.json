@@ -1,0 +1,302 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1939199207090323456"
+      ],
+      "media_source_tweet_id": [
+        "1939199217354019116"
+      ]
+    },
+    "author_id": "1569397683814629379",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1939507315696357656",
+    "created_at": "2025-06-30T02:12:33.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-30T03:12:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1939507315696357656"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1388447955221311496",
+          "start": 3,
+          "username": "kasumi_yuzuha"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/dGIlTEuZSE",
+          "end": 42,
+          "expanded_url": "https://x.com/kasumi_yuzuha/status/1939199217354019116/photo/1",
+          "media_key": "3_1939199207090323456",
+          "start": 19,
+          "url": "https://t.co/dGIlTEuZSE"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1939507315696357656",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1345
+    },
+    "referenced_tweets": [
+      {
+        "id": "1939199217354019116",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @kasumi_yuzuha: https://t.co/dGIlTEuZSE"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1939199207090323456",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GulrZ49WgAAWwGn.jpg",
+        "width": 1386
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1939199207090323456"
+          ],
+          "media_source_tweet_id": [
+            "1939199217354019116"
+          ]
+        },
+        "author_id": "1569397683814629379",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1939507315696357656",
+        "created_at": "2025-06-30T02:12:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-30T03:12:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1939507315696357656"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1388447955221311496",
+              "start": 3,
+              "username": "kasumi_yuzuha"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/dGIlTEuZSE",
+              "end": 42,
+              "expanded_url": "https://x.com/kasumi_yuzuha/status/1939199217354019116/photo/1",
+              "media_key": "3_1939199207090323456",
+              "start": 19,
+              "url": "https://t.co/dGIlTEuZSE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1939507315696357656",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1345
+        },
+        "referenced_tweets": [
+          {
+            "id": "1939199217354019116",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @kasumi_yuzuha: https://t.co/dGIlTEuZSE"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1939199207090323456"
+          ]
+        },
+        "author_id": "1388447955221311496",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1939199217354019116",
+        "created_at": "2025-06-29T05:48:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-29T06:48:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1939199217354019116"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/dGIlTEuZSE",
+              "end": 23,
+              "expanded_url": "https://x.com/kasumi_yuzuha/status/1939199217354019116/photo/1",
+              "media_key": "3_1939199207090323456",
+              "start": 0,
+              "url": "https://t.co/dGIlTEuZSE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1939199217354019116",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1340,
+          "impression_count": 151653,
+          "like_count": 11440,
+          "quote_count": 5,
+          "reply_count": 12,
+          "retweet_count": 1345
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/dGIlTEuZSE"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-12T18:50:19.000Z",
+        "description": "随缘//医学爱好者/les🏳️‍🌈/lgbt友好/中文/EN/Arknights/绘画/混乱日常碎碎念/很吵//喵喵",
+        "id": "1569397683814629379",
+        "name": "腐烂苹果酱",
+        "pinned_tweet_id": "1937498024907010498",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1620839959388393479/hsMKvVei_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21,
+          "following_count": 230,
+          "like_count": 341,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 544
+        },
+        "username": "ppppggggjjjj",
+        "verified": false
+      },
+      {
+        "created_at": "2021-05-01T10:59:45.000Z",
+        "description": "絵を描きます/ https://t.co/qJgDIQ3lZ6 ご連絡 : liliabernstein4869@gmail.com",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "skeb.jp/@kasumi_yuzuha",
+                "end": 31,
+                "expanded_url": "https://skeb.jp/@kasumi_yuzuha",
+                "start": 8,
+                "url": "https://t.co/qJgDIQ3lZ6"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/kasumiyuzuha",
+                "end": 23,
+                "expanded_url": "https://lit.link/kasumiyuzuha",
+                "start": 0,
+                "url": "https://t.co/hsYlHciTEL"
+              }
+            ]
+          }
+        },
+        "id": "1388447955221311496",
+        "location": "商業利用・転載・AI学習禁止",
+        "name": "香澄",
+        "pinned_tweet_id": "1828443831697588533",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1550038918501765120/9hWZB3S7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18578,
+          "following_count": 109,
+          "like_count": 1914,
+          "listed_count": 168,
+          "media_count": 278,
+          "tweet_count": 1531
+        },
+        "url": "https://t.co/hsYlHciTEL",
+        "username": "kasumi_yuzuha",
+        "verified": false
+      }
+    ]
+  }
+}

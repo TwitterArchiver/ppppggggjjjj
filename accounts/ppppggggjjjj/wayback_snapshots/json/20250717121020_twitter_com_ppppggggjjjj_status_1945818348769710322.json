@@ -1,0 +1,567 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1945789494193467392",
+        "3_1945789494218604544",
+        "3_1945789494030118912"
+      ],
+      "media_source_tweet_id": [
+        "1945789504335568969",
+        "1945789504335568969",
+        "1945789504335568969"
+      ]
+    },
+    "author_id": "1569397683814629379",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level entities that describe a Brands industry",
+          "id": "45",
+          "name": "Brand Vertical"
+        },
+        "entity": {
+          "id": "781974596740190208",
+          "name": "CPG"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974596144599042",
+          "name": "Snacks - CPG"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10026568582",
+          "name": "Oreo"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Food",
+          "id": "825047692124442624",
+          "name": "Food"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "10026568582",
+          "name": "Oreo"
+        }
+      },
+      {
+        "domain": {
+          "description": "Topics about food, like Donuts or Brunch",
+          "id": "152",
+          "name": "Food"
+        },
+        "entity": {
+          "description": "Cookies",
+          "id": "825058563915526145",
+          "name": "Cookies"
+        }
+      }
+    ],
+    "conversation_id": "1945818348769710322",
+    "created_at": "2025-07-17T12:10:20.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-17T13:10:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1945818348769710322"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1159237294294880256",
+          "start": 3,
+          "username": "Gekikawa_Dbts"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/sDI7Md8Uef",
+          "end": 55,
+          "expanded_url": "https://x.com/Gekikawa_Dbts/status/1945789504335568969/photo/1",
+          "media_key": "3_1945789494193467392",
+          "start": 32,
+          "url": "https://t.co/sDI7Md8Uef"
+        },
+        {
+          "display_url": "pic.x.com/sDI7Md8Uef",
+          "end": 55,
+          "expanded_url": "https://x.com/Gekikawa_Dbts/status/1945789504335568969/photo/1",
+          "media_key": "3_1945789494218604544",
+          "start": 32,
+          "url": "https://t.co/sDI7Md8Uef"
+        },
+        {
+          "display_url": "pic.x.com/sDI7Md8Uef",
+          "end": 55,
+          "expanded_url": "https://x.com/Gekikawa_Dbts/status/1945789504335568969/photo/1",
+          "media_key": "3_1945789494030118912",
+          "start": 32,
+          "url": "https://t.co/sDI7Md8Uef"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1945818348769710322",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 579
+    },
+    "referenced_tweets": [
+      {
+        "id": "1945789504335568969",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Gekikawa_Dbts: かわいい\nオレオクッキー https://t.co/sDI7Md8Uef"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1920,
+        "media_key": "3_1945789494193467392",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GwDVPFkWsAAIeim.jpg",
+        "width": 1440
+      },
+      {
+        "height": 1920,
+        "media_key": "3_1945789494218604544",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GwDVPFqWQAAWNDM.jpg",
+        "width": 1440
+      },
+      {
+        "height": 1920,
+        "media_key": "3_1945789494030118912",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GwDVPE9aMAAL1hG.jpg",
+        "width": 1440
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1945789494193467392",
+            "3_1945789494218604544",
+            "3_1945789494030118912"
+          ],
+          "media_source_tweet_id": [
+            "1945789504335568969",
+            "1945789504335568969",
+            "1945789504335568969"
+          ]
+        },
+        "author_id": "1569397683814629379",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974596740190208",
+              "name": "CPG"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596144599042",
+              "name": "Snacks - CPG"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026568582",
+              "name": "Oreo"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Food",
+              "id": "825047692124442624",
+              "name": "Food"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026568582",
+              "name": "Oreo"
+            }
+          },
+          {
+            "domain": {
+              "description": "Topics about food, like Donuts or Brunch",
+              "id": "152",
+              "name": "Food"
+            },
+            "entity": {
+              "description": "Cookies",
+              "id": "825058563915526145",
+              "name": "Cookies"
+            }
+          }
+        ],
+        "conversation_id": "1945818348769710322",
+        "created_at": "2025-07-17T12:10:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-17T13:10:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1945818348769710322"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1159237294294880256",
+              "start": 3,
+              "username": "Gekikawa_Dbts"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/sDI7Md8Uef",
+              "end": 55,
+              "expanded_url": "https://x.com/Gekikawa_Dbts/status/1945789504335568969/photo/1",
+              "media_key": "3_1945789494193467392",
+              "start": 32,
+              "url": "https://t.co/sDI7Md8Uef"
+            },
+            {
+              "display_url": "pic.x.com/sDI7Md8Uef",
+              "end": 55,
+              "expanded_url": "https://x.com/Gekikawa_Dbts/status/1945789504335568969/photo/1",
+              "media_key": "3_1945789494218604544",
+              "start": 32,
+              "url": "https://t.co/sDI7Md8Uef"
+            },
+            {
+              "display_url": "pic.x.com/sDI7Md8Uef",
+              "end": 55,
+              "expanded_url": "https://x.com/Gekikawa_Dbts/status/1945789504335568969/photo/1",
+              "media_key": "3_1945789494030118912",
+              "start": 32,
+              "url": "https://t.co/sDI7Md8Uef"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1945818348769710322",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 579
+        },
+        "referenced_tweets": [
+          {
+            "id": "1945789504335568969",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Gekikawa_Dbts: かわいい\nオレオクッキー https://t.co/sDI7Md8Uef"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1945789494193467392",
+            "3_1945789494218604544",
+            "3_1945789494030118912"
+          ]
+        },
+        "author_id": "1159237294294880256",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974596740190208",
+              "name": "CPG"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596144599042",
+              "name": "Snacks - CPG"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to Pets such as pet food, toys, cleaning",
+              "id": "1557697078762958848",
+              "name": "Pet Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026568582",
+              "name": "Oreo"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Food",
+              "id": "825047692124442624",
+              "name": "Food"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026568582",
+              "name": "Oreo"
+            }
+          },
+          {
+            "domain": {
+              "description": "Topics about food, like Donuts or Brunch",
+              "id": "152",
+              "name": "Food"
+            },
+            "entity": {
+              "description": "Cookies",
+              "id": "825058563915526145",
+              "name": "Cookies"
+            }
+          }
+        ],
+        "conversation_id": "1945789504335568969",
+        "created_at": "2025-07-17T10:15:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-17T11:15:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1945789504335568969"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/sDI7Md8Uef",
+              "end": 36,
+              "expanded_url": "https://x.com/Gekikawa_Dbts/status/1945789504335568969/photo/1",
+              "media_key": "3_1945789494193467392",
+              "start": 13,
+              "url": "https://t.co/sDI7Md8Uef"
+            },
+            {
+              "display_url": "pic.x.com/sDI7Md8Uef",
+              "end": 36,
+              "expanded_url": "https://x.com/Gekikawa_Dbts/status/1945789504335568969/photo/1",
+              "media_key": "3_1945789494218604544",
+              "start": 13,
+              "url": "https://t.co/sDI7Md8Uef"
+            },
+            {
+              "display_url": "pic.x.com/sDI7Md8Uef",
+              "end": 36,
+              "expanded_url": "https://x.com/Gekikawa_Dbts/status/1945789504335568969/photo/1",
+              "media_key": "3_1945789494030118912",
+              "start": 13,
+              "url": "https://t.co/sDI7Md8Uef"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1945789504335568969",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 243,
+          "impression_count": 223459,
+          "like_count": 4855,
+          "quote_count": 32,
+          "reply_count": 25,
+          "retweet_count": 579
+        },
+        "reply_settings": "everyone",
+        "text": "かわいい\nオレオクッキー https://t.co/sDI7Md8Uef"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-12T18:50:19.000Z",
+        "description": "随缘//医学爱好者/les🏳️‍🌈/lgbt友好/中文/EN/Arknights/绘画/混乱日常碎碎念/很吵//喵喵",
+        "id": "1569397683814629379",
+        "location": "世界的尽头",
+        "name": "腐烂苹果酱",
+        "pinned_tweet_id": "1937498024907010498",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1620839959388393479/hsMKvVei_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 89,
+          "following_count": 597,
+          "like_count": 1422,
+          "listed_count": 0,
+          "media_count": 37,
+          "tweet_count": 1633
+        },
+        "username": "ppppggggjjjj",
+        "verified": false
+      },
+      {
+        "created_at": "2019-08-07T22:58:03.000Z",
+        "description": "かわいい動物たちをツイートしていきます。 Cute Animals",
+        "id": "1159237294294880256",
+        "name": "激かわ動物",
+        "pinned_tweet_id": "1692137323595792449",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1159237407616581632/NT-xjzPN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 585998,
+          "following_count": 4262,
+          "like_count": 90385,
+          "listed_count": 1589,
+          "media_count": 14824,
+          "tweet_count": 14973
+        },
+        "username": "Gekikawa_Dbts",
+        "verified": true
+      }
+    ]
+  }
+}

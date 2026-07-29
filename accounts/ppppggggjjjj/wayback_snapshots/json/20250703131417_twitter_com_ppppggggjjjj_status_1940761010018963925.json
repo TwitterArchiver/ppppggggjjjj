@@ -1,0 +1,408 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1940609504674041856"
+      ],
+      "media_source_tweet_id": [
+        "1940609514740539828"
+      ]
+    },
+    "author_id": "1569397683814629379",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A video game like Overwatch",
+          "id": "71",
+          "name": "Video Game"
+        },
+        "entity": {
+          "id": "1390782787301494785",
+          "name": "Touhou Project"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1390782787301494785",
+          "name": "Touhou Project"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1403427158953922560",
+          "name": "Shooting games"
+        }
+      }
+    ],
+    "conversation_id": "1940761010018963925",
+    "created_at": "2025-07-03T13:14:17.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-03T14:14:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1940761010018963925"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 24,
+          "start": 14,
+          "tag": "東方Project"
+        },
+        {
+          "end": 31,
+          "start": 26,
+          "tag": "博麗霊夢"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1484102719639998465",
+          "start": 3,
+          "username": "HaYuk0"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/ILzoBe4cmt",
+          "end": 55,
+          "expanded_url": "https://x.com/HaYuk0/status/1940609514740539828/photo/1",
+          "media_key": "3_1940609504674041856",
+          "start": 32,
+          "url": "https://t.co/ILzoBe4cmt"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1940761010018963925",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 465
+    },
+    "referenced_tweets": [
+      {
+        "id": "1940609514740539828",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @HaYuk0: 赤\n#東方Project  #博麗霊夢 https://t.co/ILzoBe4cmt"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1940609504674041856",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gu5uEA3X0AACHSK.jpg",
+        "width": 1451
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1940609504674041856"
+          ],
+          "media_source_tweet_id": [
+            "1940609514740539828"
+          ]
+        },
+        "author_id": "1569397683814629379",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1390782787301494785",
+              "name": "Touhou Project"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1390782787301494785",
+              "name": "Touhou Project"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1403427158953922560",
+              "name": "Shooting games"
+            }
+          }
+        ],
+        "conversation_id": "1940761010018963925",
+        "created_at": "2025-07-03T13:14:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-03T14:14:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1940761010018963925"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 24,
+              "start": 14,
+              "tag": "東方Project"
+            },
+            {
+              "end": 31,
+              "start": 26,
+              "tag": "博麗霊夢"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1484102719639998465",
+              "start": 3,
+              "username": "HaYuk0"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ILzoBe4cmt",
+              "end": 55,
+              "expanded_url": "https://x.com/HaYuk0/status/1940609514740539828/photo/1",
+              "media_key": "3_1940609504674041856",
+              "start": 32,
+              "url": "https://t.co/ILzoBe4cmt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1940761010018963925",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 465
+        },
+        "referenced_tweets": [
+          {
+            "id": "1940609514740539828",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @HaYuk0: 赤\n#東方Project  #博麗霊夢 https://t.co/ILzoBe4cmt"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1940609504674041856"
+          ]
+        },
+        "author_id": "1484102719639998465",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1390782787301494785",
+              "name": "Touhou Project"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1390782787301494785",
+              "name": "Touhou Project"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1403427158953922560",
+              "name": "Shooting games"
+            }
+          }
+        ],
+        "conversation_id": "1940609514740539828",
+        "created_at": "2025-07-03T03:12:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-03T04:12:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1940609514740539828"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 12,
+              "start": 2,
+              "tag": "東方Project"
+            },
+            {
+              "end": 19,
+              "start": 14,
+              "tag": "博麗霊夢"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ILzoBe4cmt",
+              "end": 43,
+              "expanded_url": "https://x.com/HaYuk0/status/1940609514740539828/photo/1",
+              "media_key": "3_1940609504674041856",
+              "start": 20,
+              "url": "https://t.co/ILzoBe4cmt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1940609514740539828",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 346,
+          "impression_count": 45464,
+          "like_count": 4375,
+          "quote_count": 5,
+          "reply_count": 5,
+          "retweet_count": 465
+        },
+        "reply_settings": "everyone",
+        "text": "赤\n#東方Project  #博麗霊夢 https://t.co/ILzoBe4cmt"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-12T18:50:19.000Z",
+        "description": "随缘//医学爱好者/les🏳️‍🌈/lgbt友好/中文/EN/Arknights/绘画/混乱日常碎碎念/很吵//喵喵",
+        "id": "1569397683814629379",
+        "name": "腐烂苹果酱",
+        "pinned_tweet_id": "1937498024907010498",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1620839959388393479/hsMKvVei_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 33,
+          "following_count": 311,
+          "like_count": 553,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 776
+        },
+        "username": "ppppggggjjjj",
+        "verified": false
+      },
+      {
+        "created_at": "2022-01-20T09:57:22.000Z",
+        "description": "サークル「はゅこの苗木」→「葉緑想」新規依頼10月以降だと余裕があります！ご相談はDMまたはbosaza71●https://t.co/D3qWHwRZAN｜さぶ @hayukkksab",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 93,
+                "start": 82,
+                "username": "hayukkksab"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "gmail.com",
+                "end": 78,
+                "expanded_url": "http://gmail.com",
+                "start": 55,
+                "url": "https://t.co/D3qWHwRZAN"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/reinahknkminai…",
+                "end": 23,
+                "expanded_url": "https://lit.link/reinahknkminairo",
+                "start": 0,
+                "url": "https://t.co/9wsIQsbd26"
+              }
+            ]
+          }
+        },
+        "id": "1484102719639998465",
+        "location": "その他リンクは↓→",
+        "name": "枝木はゅこ",
+        "pinned_tweet_id": "1940660332571382218",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1852036442928877568/LWbXJZQk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6643,
+          "following_count": 889,
+          "like_count": 3245,
+          "listed_count": 64,
+          "media_count": 473,
+          "tweet_count": 3322
+        },
+        "url": "https://t.co/9wsIQsbd26",
+        "username": "HaYuk0",
+        "verified": false
+      }
+    ]
+  }
+}

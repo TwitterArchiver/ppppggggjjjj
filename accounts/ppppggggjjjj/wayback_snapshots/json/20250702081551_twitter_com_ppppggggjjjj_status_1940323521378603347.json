@@ -1,0 +1,246 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1938300675525689344"
+      ],
+      "media_source_tweet_id": [
+        "1940259135301267793"
+      ]
+    },
+    "author_id": "1569397683814629379",
+    "conversation_id": "1940323521378603347",
+    "created_at": "2025-07-02T08:15:51.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-02T09:15:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1940323521378603347"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1702925354132992000",
+          "start": 3,
+          "username": "remilia_servant"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/4ncYVxVdiD",
+          "end": 44,
+          "expanded_url": "https://x.com/remilia_servant/status/1940259135301267793/photo/1",
+          "media_key": "3_1938300675525689344",
+          "start": 21,
+          "url": "https://t.co/4ncYVxVdiD"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1940323521378603347",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 7
+    },
+    "referenced_tweets": [
+      {
+        "id": "1940259135301267793",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @remilia_servant: https://t.co/4ncYVxVdiD"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 460,
+        "media_key": "3_1938300675525689344",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GuY6MeCbwAAVAOG.jpg",
+        "width": 497
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1938300675525689344"
+          ],
+          "media_source_tweet_id": [
+            "1940259135301267793"
+          ]
+        },
+        "author_id": "1569397683814629379",
+        "conversation_id": "1940323521378603347",
+        "created_at": "2025-07-02T08:15:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-02T09:15:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1940323521378603347"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1702925354132992000",
+              "start": 3,
+              "username": "remilia_servant"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/4ncYVxVdiD",
+              "end": 44,
+              "expanded_url": "https://x.com/remilia_servant/status/1940259135301267793/photo/1",
+              "media_key": "3_1938300675525689344",
+              "start": 21,
+              "url": "https://t.co/4ncYVxVdiD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1940323521378603347",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 7
+        },
+        "referenced_tweets": [
+          {
+            "id": "1940259135301267793",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @remilia_servant: https://t.co/4ncYVxVdiD"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1938300675525689344"
+          ]
+        },
+        "author_id": "1702925354132992000",
+        "conversation_id": "1940259135301267793",
+        "created_at": "2025-07-02T04:00:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-02T05:00:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1940259135301267793"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/4ncYVxVdiD",
+              "end": 23,
+              "expanded_url": "https://x.com/remilia_servant/status/1940259135301267793/photo/1",
+              "media_key": "3_1938300675525689344",
+              "start": 0,
+              "url": "https://t.co/4ncYVxVdiD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1940259135301267793",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 8528,
+          "like_count": 213,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 7
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/4ncYVxVdiD"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-12T18:50:19.000Z",
+        "description": "随缘//医学爱好者/les🏳️‍🌈/lgbt友好/中文/EN/Arknights/绘画/混乱日常碎碎念/很吵//喵喵",
+        "id": "1569397683814629379",
+        "name": "腐烂苹果酱",
+        "pinned_tweet_id": "1937498024907010498",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1620839959388393479/hsMKvVei_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 31,
+          "following_count": 253,
+          "like_count": 410,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 628
+        },
+        "username": "ppppggggjjjj",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-16T06:00:52.000Z",
+        "description": "母語英語/香港語 | 2025DSE • 過期男子高中生 | 現在暑期工做侍應非常折磨😭 | 左翼香港本土主義⬜🟦 | 會譯些廢梗片爛梗圖 | 東方廚 | 頭貼是好朋友幫忙畫的 | 裏帳號 @tnavres_ailimer",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 111,
+                "start": 95,
+                "username": "tnavres_ailimer"
+              }
+            ]
+          }
+        },
+        "id": "1702925354132992000",
+        "location": "New Hong Kong Republic ",
+        "name": "⬜蕾米米🟦",
+        "pinned_tweet_id": "1916556956816249106",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1913497390289743872/qTHbrTMi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15018,
+          "following_count": 1530,
+          "like_count": 97022,
+          "listed_count": 59,
+          "media_count": 363,
+          "tweet_count": 2207
+        },
+        "username": "remilia_servant",
+        "verified": false
+      }
+    ]
+  }
+}

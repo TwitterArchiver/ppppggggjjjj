@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2056560553053818880"
+      ],
+      "media_source_tweet_id": [
+        "2056560555805331867"
+      ]
+    },
+    "author_id": "1569397683814629379",
+    "conversation_id": "2056779161499562352",
+    "created_at": "2026-05-19T16:48:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-19T17:48:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2056779161499562352"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2039537460087037952",
+          "start": 3,
+          "username": "iicorxce"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/RMPKPKmqEB",
+          "end": 37,
+          "expanded_url": "https://x.com/iicorxce/status/2056560555805331867/photo/1",
+          "media_key": "3_2056560553053818880",
+          "start": 14,
+          "url": "https://t.co/RMPKPKmqEB"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056779161499562352",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 52
+    },
+    "referenced_tweets": [
+      {
+        "id": "2056560555805331867",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @iicorxce: https://t.co/RMPKPKmqEB"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2056779161499562352].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2056779161499562352",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2056779161499562352"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 525,
+        "media_key": "3_2056560553053818880",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIpe7UfakAAFLdh.jpg",
+        "width": 410
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2056560553053818880"
+          ]
+        },
+        "author_id": "2039537460087037952",
+        "conversation_id": "2056560555805331867",
+        "created_at": "2026-05-19T02:20:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-19T03:20:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2056560555805331867"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/RMPKPKmqEB",
+              "end": 23,
+              "expanded_url": "https://x.com/iicorxce/status/2056560555805331867/photo/1",
+              "media_key": "3_2056560553053818880",
+              "start": 0,
+              "url": "https://t.co/RMPKPKmqEB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056560555805331867",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 14,
+          "impression_count": 1323,
+          "like_count": 268,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 52
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/RMPKPKmqEB"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-12T18:50:19.000Z",
+        "description": "随缘//医学爱好者/Arknights/绘画/混乱日常碎碎念无营养内容/可能会很吵？ /les/lgbt友好/中文/EN//喵喵//提问箱↓ ↓ ↓",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ppppppppp38481",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ppppppppp38481",
+                "start": 0,
+                "url": "https://t.co/dw8CaO6ajX"
+              }
+            ]
+          }
+        },
+        "id": "1569397683814629379",
+        "location": "世界的尽头",
+        "name": "腐烂培根卷",
+        "pinned_tweet_id": "2012485424057291255",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953366409284861953/HM3Aeou7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 240,
+          "following_count": 1524,
+          "like_count": 8272,
+          "listed_count": 1,
+          "media_count": 100,
+          "tweet_count": 6186
+        },
+        "url": "https://t.co/dw8CaO6ajX",
+        "username": "ppppggggjjjj",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-02T02:56:53.000Z",
+        "description": "⠀ ⠀ ⠀    naomi / licorice     †    any       ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ basic  dnf⠀.⠀ibf⠀ ⠀ ⠀ ⠀ ⠀ ⠀⠀ ⠀ ⠀ ⠀ ⠀ ⠀  #shedtwt #shtwt #edtwt\n⠀ ⠀ ⠀ ⠀ ⠀ \n⠀⠀",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 117,
+                "start": 109,
+                "tag": "shedtwt"
+              },
+              {
+                "end": 124,
+                "start": 118,
+                "tag": "shtwt"
+              },
+              {
+                "end": 131,
+                "start": 125,
+                "tag": "edtwt"
+              }
+            ]
+          }
+        },
+        "id": "2039537460087037952",
+        "location": "ナオミ",
+        "name": "naomi misora of shedtwt",
+        "pinned_tweet_id": "2056355723966370064",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056351283104329729/qSnsrkzc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 688,
+          "following_count": 732,
+          "like_count": 1714,
+          "listed_count": 5,
+          "media_count": 79,
+          "tweet_count": 652
+        },
+        "username": "iicorxce",
+        "verified": false
+      }
+    ]
+  }
+}

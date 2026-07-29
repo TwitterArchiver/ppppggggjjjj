@@ -1,0 +1,235 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1998763183503458304"
+      ],
+      "media_source_tweet_id": [
+        "1998763189459365964"
+      ]
+    },
+    "author_id": "1569397683814629379",
+    "conversation_id": "1998931085766574086",
+    "created_at": "2025-12-11T01:41:23.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-11T02:41:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1998931085766574086"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1776466730489163776",
+          "start": 3,
+          "username": "i_loxe_u"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/ag2cXp4bKs",
+          "end": 37,
+          "expanded_url": "https://x.com/i_loxe_u/status/1998763189459365964/photo/1",
+          "media_key": "3_1998763183503458304",
+          "start": 14,
+          "url": "https://t.co/ag2cXp4bKs"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1998931085766574086",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 743
+    },
+    "referenced_tweets": [
+      {
+        "id": "1998763189459365964",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @i_loxe_u: https://t.co/ag2cXp4bKs"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_1998763183503458304",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G70IhobaQAAgyVh.jpg",
+        "width": 678
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1998763183503458304"
+          ],
+          "media_source_tweet_id": [
+            "1998763189459365964"
+          ]
+        },
+        "author_id": "1569397683814629379",
+        "conversation_id": "1998931085766574086",
+        "created_at": "2025-12-11T01:41:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-11T02:41:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1998931085766574086"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1776466730489163776",
+              "start": 3,
+              "username": "i_loxe_u"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ag2cXp4bKs",
+              "end": 37,
+              "expanded_url": "https://x.com/i_loxe_u/status/1998763189459365964/photo/1",
+              "media_key": "3_1998763183503458304",
+              "start": 14,
+              "url": "https://t.co/ag2cXp4bKs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1998931085766574086",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 743
+        },
+        "referenced_tweets": [
+          {
+            "id": "1998763189459365964",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @i_loxe_u: https://t.co/ag2cXp4bKs"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1998763183503458304"
+          ]
+        },
+        "author_id": "1776466730489163776",
+        "conversation_id": "1998763189459365964",
+        "created_at": "2025-12-10T14:34:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-10T15:34:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1998763189459365964"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ag2cXp4bKs",
+              "end": 23,
+              "expanded_url": "https://x.com/i_loxe_u/status/1998763189459365964/photo/1",
+              "media_key": "3_1998763183503458304",
+              "start": 0,
+              "url": "https://t.co/ag2cXp4bKs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1998763189459365964",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 506,
+          "impression_count": 51228,
+          "like_count": 6289,
+          "quote_count": 6,
+          "reply_count": 3,
+          "retweet_count": 743
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/ag2cXp4bKs"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-12T18:50:19.000Z",
+        "description": "随缘//医学爱好者/les🏳️‍🌈/lgbt友好/中文/EN/Arknights/绘画/混乱日常碎碎念/很吵//喵喵 【永远拥护培根卷番茄！】",
+        "id": "1569397683814629379",
+        "location": "世界的尽头",
+        "name": "腐烂培根卷",
+        "pinned_tweet_id": "1993298688010322328",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953366409284861953/HM3Aeou7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 155,
+          "following_count": 935,
+          "like_count": 3365,
+          "listed_count": 1,
+          "media_count": 88,
+          "tweet_count": 3988
+        },
+        "username": "ppppggggjjjj",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-06T04:27:34.000Z",
+        "description": "",
+        "id": "1776466730489163776",
+        "name": "໊",
+        "pinned_tweet_id": "1998763189459365964",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1988270565850050562/HeUKO_sB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6694,
+          "following_count": 2,
+          "like_count": 37873,
+          "listed_count": 11,
+          "media_count": 6,
+          "tweet_count": 7
+        },
+        "username": "i_loxe_u",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,251 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1569397683814629379",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10045225402",
+          "name": "X"
+        }
+      }
+    ],
+    "conversation_id": "2060397983418499340",
+    "created_at": "2026-05-29T16:28:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-29T17:28:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060397983418499340"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1826083954077872130",
+          "start": 3,
+          "username": "k4r1nz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060397983418499340",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 74
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060016510362624349",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @k4r1nz: 病んでるやつの生活って、\nTwitterやったり、ODしたり、リスカしたりするだけやん\nシコったりもするんか？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1569397683814629379",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10045225402",
+              "name": "X"
+            }
+          }
+        ],
+        "conversation_id": "2060397983418499340",
+        "created_at": "2026-05-29T16:28:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-29T17:28:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060397983418499340"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1826083954077872130",
+              "start": 3,
+              "username": "k4r1nz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060397983418499340",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 74
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060016510362624349",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @k4r1nz: 病んでるやつの生活って、\nTwitterやったり、ODしたり、リスカしたりするだけやん\nシコったりもするんか？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1826083954077872130",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10045225402",
+              "name": "X"
+            }
+          }
+        ],
+        "conversation_id": "2060016510362624349",
+        "created_at": "2026-05-28T15:13:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T16:13:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060016510362624349"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2060016510362624349",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 74,
+          "impression_count": 84410,
+          "like_count": 1856,
+          "quote_count": 46,
+          "reply_count": 34,
+          "retweet_count": 74
+        },
+        "reply_settings": "everyone",
+        "text": "病んでるやつの生活って、\nTwitterやったり、ODしたり、リスカしたりするだけやん\nシコったりもするんか？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-12T18:50:19.000Z",
+        "description": "随缘//医学爱好者/Arknights/绘画/混乱日常碎碎念无营养内容/可能会很吵？ /les/lgbt友好/中文/EN//喵喵//提问箱↓ ↓ ↓",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ppppppppp38481",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ppppppppp38481",
+                "start": 0,
+                "url": "https://t.co/dw8CaO6ajX"
+              }
+            ]
+          }
+        },
+        "id": "1569397683814629379",
+        "location": "世界的尽头",
+        "name": "腐烂培根卷",
+        "pinned_tweet_id": "2012485424057291255",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953366409284861953/HM3Aeou7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 246,
+          "following_count": 1599,
+          "like_count": 9077,
+          "listed_count": 1,
+          "media_count": 104,
+          "tweet_count": 6573
+        },
+        "url": "https://t.co/dw8CaO6ajX",
+        "username": "ppppggggjjjj",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-21T02:28:43.000Z",
+        "description": "鍵 @361_3731",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 11,
+                "start": 2,
+                "username": "361_3731"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/zl4zn/",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/zl4zn/",
+                "start": 0,
+                "url": "https://t.co/y1IxzHiNSo"
+              }
+            ]
+          }
+        },
+        "id": "1826083954077872130",
+        "name": "𓆩𓆪",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058003307147440128/bo_bnSXO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 227,
+          "following_count": 39,
+          "like_count": 1254,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 14
+        },
+        "url": "https://t.co/y1IxzHiNSo",
+        "username": "k4r1nz",
+        "verified": false
+      }
+    ]
+  }
+}

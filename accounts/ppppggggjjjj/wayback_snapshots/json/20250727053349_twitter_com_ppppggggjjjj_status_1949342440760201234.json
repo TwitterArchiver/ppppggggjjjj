@@ -1,0 +1,610 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1949083173465493504",
+        "3_1949083173465559040"
+      ],
+      "media_source_tweet_id": [
+        "1949083185532575974",
+        "1949083185532575974"
+      ]
+    },
+    "author_id": "1569397683814629379",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A video game like Overwatch",
+          "id": "71",
+          "name": "Video Game"
+        },
+        "entity": {
+          "id": "1233113060732092416",
+          "name": "Arknights"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Gaming",
+          "id": "847527650667094017",
+          "name": "Gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1070028159964262400",
+          "name": "Video games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1233113060732092416",
+          "name": "Arknights"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1491897789013393420",
+          "name": "Strategy games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1491900085583577097",
+          "name": "Idol games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1491900373098921986",
+          "name": "Gacha games"
+        }
+      }
+    ],
+    "conversation_id": "1949342440760201234",
+    "created_at": "2025-07-27T05:33:49.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-27T06:33:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1949342440760201234"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 20,
+          "normalized_text": "アークナイツ",
+          "probability": 0.5064,
+          "start": 15,
+          "type": "Person"
+        },
+        {
+          "end": 25,
+          "normalized_text": "海猫さん",
+          "probability": 0.7404,
+          "start": 22,
+          "type": "Person"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 13,
+          "id": "221344673",
+          "start": 3,
+          "username": "kazkodaka"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/uCGojZ391R",
+          "end": 57,
+          "expanded_url": "https://x.com/kazkodaka/status/1949083185532575974/photo/1",
+          "media_key": "3_1949083173465493504",
+          "start": 34,
+          "url": "https://t.co/uCGojZ391R"
+        },
+        {
+          "display_url": "pic.x.com/uCGojZ391R",
+          "end": 57,
+          "expanded_url": "https://x.com/kazkodaka/status/1949083185532575974/photo/1",
+          "media_key": "3_1949083173465559040",
+          "start": 34,
+          "url": "https://t.co/uCGojZ391R"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1949342440760201234",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 828
+    },
+    "referenced_tweets": [
+      {
+        "id": "1949083185532575974",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @kazkodaka: アークナイツの海猫さんと会いました！ https://t.co/uCGojZ391R"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1280,
+        "media_key": "3_1949083173465493504",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GwyI0dAaEAAmeQg.jpg",
+        "width": 1707
+      },
+      {
+        "height": 1707,
+        "media_key": "3_1949083173465559040",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GwyI0dAbEAAgoWB.jpg",
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1949083173465493504",
+            "3_1949083173465559040"
+          ],
+          "media_source_tweet_id": [
+            "1949083185532575974",
+            "1949083185532575974"
+          ]
+        },
+        "author_id": "1569397683814629379",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1233113060732092416",
+              "name": "Arknights"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1233113060732092416",
+              "name": "Arknights"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491897789013393420",
+              "name": "Strategy games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491900085583577097",
+              "name": "Idol games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491900373098921986",
+              "name": "Gacha games"
+            }
+          }
+        ],
+        "conversation_id": "1949342440760201234",
+        "created_at": "2025-07-27T05:33:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-27T06:33:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1949342440760201234"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 20,
+              "normalized_text": "アークナイツ",
+              "probability": 0.5064,
+              "start": 15,
+              "type": "Person"
+            },
+            {
+              "end": 25,
+              "normalized_text": "海猫さん",
+              "probability": 0.7404,
+              "start": 22,
+              "type": "Person"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 13,
+              "id": "221344673",
+              "start": 3,
+              "username": "kazkodaka"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/uCGojZ391R",
+              "end": 57,
+              "expanded_url": "https://x.com/kazkodaka/status/1949083185532575974/photo/1",
+              "media_key": "3_1949083173465493504",
+              "start": 34,
+              "url": "https://t.co/uCGojZ391R"
+            },
+            {
+              "display_url": "pic.x.com/uCGojZ391R",
+              "end": 57,
+              "expanded_url": "https://x.com/kazkodaka/status/1949083185532575974/photo/1",
+              "media_key": "3_1949083173465559040",
+              "start": 34,
+              "url": "https://t.co/uCGojZ391R"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1949342440760201234",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 828
+        },
+        "referenced_tweets": [
+          {
+            "id": "1949083185532575974",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @kazkodaka: アークナイツの海猫さんと会いました！ https://t.co/uCGojZ391R"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1949083173465493504",
+            "3_1949083173465559040"
+          ]
+        },
+        "author_id": "221344673",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1233113060732092416",
+              "name": "Arknights"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1233113060732092416",
+              "name": "Arknights"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491897789013393420",
+              "name": "Strategy games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491900085583577097",
+              "name": "Idol games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491900373098921986",
+              "name": "Gacha games"
+            }
+          }
+        ],
+        "conversation_id": "1949083185532575974",
+        "created_at": "2025-07-26T12:23:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-26T13:23:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1949083185532575974"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 5,
+              "normalized_text": "アークナイツ",
+              "probability": 0.5271,
+              "start": 0,
+              "type": "Person"
+            },
+            {
+              "end": 10,
+              "normalized_text": "海猫さん",
+              "probability": 0.7181,
+              "start": 7,
+              "type": "Person"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/uCGojZ391R",
+              "end": 42,
+              "expanded_url": "https://x.com/kazkodaka/status/1949083185532575974/photo/1",
+              "media_key": "3_1949083173465493504",
+              "start": 19,
+              "url": "https://t.co/uCGojZ391R"
+            },
+            {
+              "display_url": "pic.x.com/uCGojZ391R",
+              "end": 42,
+              "expanded_url": "https://x.com/kazkodaka/status/1949083185532575974/photo/1",
+              "media_key": "3_1949083173465559040",
+              "start": 19,
+              "url": "https://t.co/uCGojZ391R"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1949083185532575974",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 256,
+          "impression_count": 186285,
+          "like_count": 4965,
+          "quote_count": 55,
+          "reply_count": 11,
+          "retweet_count": 828
+        },
+        "reply_settings": "everyone",
+        "text": "アークナイツの海猫さんと会いました！ https://t.co/uCGojZ391R"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-12T18:50:19.000Z",
+        "description": "随缘//医学爱好者/les🏳️‍🌈/lgbt友好/中文/EN/Arknights/绘画/混乱日常碎碎念/很吵//喵喵",
+        "id": "1569397683814629379",
+        "location": "世界的尽头",
+        "name": "腐烂苹果酱",
+        "pinned_tweet_id": "1937498024907010498",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1620839959388393479/hsMKvVei_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 96,
+          "following_count": 625,
+          "like_count": 1652,
+          "listed_count": 0,
+          "media_count": 48,
+          "tweet_count": 1905
+        },
+        "username": "ppppggggjjjj",
+        "verified": false
+      },
+      {
+        "created_at": "2010-11-30T12:09:31.000Z",
+        "description": "「ダンガンロンパ」「レインコード」「アクダマドライブ」 「トライブナイン」「デスカムトゥルー」「ワールズエンドクラブ」 などを作りました。初の自社IP作品かつ集大成かつ狂気の最高傑作「ハンドレッドライン最終防衛学園」はswitchとsteamで発売中。新作ADV「終天教団」2025年9月に発売。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "tookyogames.jp",
+                "end": 23,
+                "expanded_url": "https://tookyogames.jp/",
+                "start": 0,
+                "url": "https://t.co/CA2nuY8qXE"
+              }
+            ]
+          }
+        },
+        "id": "221344673",
+        "name": "Kazutaka kodaka/小高和剛",
+        "pinned_tweet_id": "1923069432991187185",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/985471791853219840/kUiFy0KH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 142718,
+          "following_count": 655,
+          "like_count": 3772,
+          "listed_count": 749,
+          "media_count": 2315,
+          "tweet_count": 26472
+        },
+        "url": "https://t.co/CA2nuY8qXE",
+        "username": "kazkodaka",
+        "verified": true
+      }
+    ]
+  }
+}

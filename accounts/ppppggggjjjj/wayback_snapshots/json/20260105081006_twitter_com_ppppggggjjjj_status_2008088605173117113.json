@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2007957426306478080"
+      ],
+      "media_source_tweet_id": [
+        "2007957439375933640"
+      ]
+    },
+    "author_id": "1569397683814629379",
+    "conversation_id": "2008088605173117113",
+    "created_at": "2026-01-05T08:10:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-05T09:10:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2008088605173117113"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "829148601049772033",
+          "start": 3,
+          "username": "hitobashira_aru"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/8snAjJvyen",
+          "end": 44,
+          "expanded_url": "https://x.com/hitobashira_aru/status/2007957439375933640/photo/1",
+          "media_key": "3_2007957426306478080",
+          "start": 21,
+          "url": "https://t.co/8snAjJvyen"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2008088605173117113",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 243
+    },
+    "referenced_tweets": [
+      {
+        "id": "2007957439375933640",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @hitobashira_aru: https://t.co/8snAjJvyen"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2008088605173117113].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2008088605173117113",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2008088605173117113"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2007957426306478080",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G92yo_8a8AAPOKH.jpg",
+        "width": 1878
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2007957426306478080"
+          ]
+        },
+        "author_id": "829148601049772033",
+        "conversation_id": "2007957439375933640",
+        "created_at": "2026-01-04T23:28:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-05T00:28:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2007957439375933640"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/8snAjJvyen",
+              "end": 23,
+              "expanded_url": "https://x.com/hitobashira_aru/status/2007957439375933640/photo/1",
+              "media_key": "3_2007957426306478080",
+              "start": 0,
+              "url": "https://t.co/8snAjJvyen"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2007957439375933640",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 506,
+          "impression_count": 39248,
+          "like_count": 2478,
+          "quote_count": 3,
+          "reply_count": 13,
+          "retweet_count": 243
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/8snAjJvyen"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-12T18:50:19.000Z",
+        "description": "随缘//医学爱好者/les🏳️‍🌈/lgbt友好/中文/EN/Arknights/绘画/混乱日常碎碎念/很吵//喵喵 【永远拥护培根卷番茄！】提问箱↓ ↓ ↓",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ppppppppp38481",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ppppppppp38481",
+                "start": 0,
+                "url": "https://t.co/dw8CaO5Cup"
+              }
+            ]
+          }
+        },
+        "id": "1569397683814629379",
+        "location": "世界的尽头",
+        "name": "腐烂培根卷",
+        "pinned_tweet_id": "1993298688010322328",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953366409284861953/HM3Aeou7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 176,
+          "following_count": 1022,
+          "like_count": 4032,
+          "listed_count": 1,
+          "media_count": 91,
+          "tweet_count": 4263
+        },
+        "url": "https://t.co/dw8CaO5Cup",
+        "username": "ppppggggjjjj",
+        "verified": false
+      },
+      {
+        "created_at": "2017-02-08T02:03:26.000Z",
+        "description": "👁️AKA Tony Lazzuto👁️//patreon：https://t.co/hBzKAnOFvE",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "patreon.com/user?u=28052552",
+                "end": 53,
+                "expanded_url": "https://www.patreon.com/user?u=28052552",
+                "start": 30,
+                "url": "https://t.co/hBzKAnOFvE"
+              }
+            ]
+          }
+        },
+        "id": "829148601049772033",
+        "name": "人柱有司",
+        "pinned_tweet_id": "1936878702232846366",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1894336223751118848/ayjl3rqr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 131489,
+          "following_count": 1941,
+          "like_count": 27634,
+          "listed_count": 744,
+          "media_count": 820,
+          "tweet_count": 3673
+        },
+        "username": "hitobashira_aru",
+        "verified": false
+      }
+    ]
+  }
+}

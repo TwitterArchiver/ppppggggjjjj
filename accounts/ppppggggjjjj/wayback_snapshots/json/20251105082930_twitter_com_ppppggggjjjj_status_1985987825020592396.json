@@ -1,0 +1,283 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1985390982091980802"
+      ],
+      "media_source_tweet_id": [
+        "1985396052246044888"
+      ]
+    },
+    "author_id": "1569397683814629379",
+    "conversation_id": "1985987825020592396",
+    "created_at": "2025-11-05T08:29:30.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-05T09:29:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1985987825020592396"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 18,
+          "normalized_text": "アスカ",
+          "probability": 0.6705,
+          "start": 16,
+          "type": "Person"
+        },
+        {
+          "end": 21,
+          "normalized_text": "レイ",
+          "probability": 0.5554,
+          "start": 20,
+          "type": "Person"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 14,
+          "id": "807255243842953216",
+          "start": 3,
+          "username": "mutsu_XXXX"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/c7O78eeK1K",
+          "end": 46,
+          "expanded_url": "https://x.com/mutsu_XXXX/status/1985396052246044888/photo/1",
+          "media_key": "3_1985390982091980802",
+          "start": 23,
+          "url": "https://t.co/c7O78eeK1K"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1985987825020592396",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2687
+    },
+    "referenced_tweets": [
+      {
+        "id": "1985396052246044888",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @mutsu_XXXX: アスカとレイ https://t.co/c7O78eeK1K"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 752,
+        "media_key": "3_1985390982091980802",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G42GlEPbQAILH71.jpg",
+        "width": 940
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1985390982091980802"
+          ],
+          "media_source_tweet_id": [
+            "1985396052246044888"
+          ]
+        },
+        "author_id": "1569397683814629379",
+        "conversation_id": "1985987825020592396",
+        "created_at": "2025-11-05T08:29:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-05T09:29:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1985987825020592396"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 18,
+              "normalized_text": "アスカ",
+              "probability": 0.6705,
+              "start": 16,
+              "type": "Person"
+            },
+            {
+              "end": 21,
+              "normalized_text": "レイ",
+              "probability": 0.5554,
+              "start": 20,
+              "type": "Person"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 14,
+              "id": "807255243842953216",
+              "start": 3,
+              "username": "mutsu_XXXX"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/c7O78eeK1K",
+              "end": 46,
+              "expanded_url": "https://x.com/mutsu_XXXX/status/1985396052246044888/photo/1",
+              "media_key": "3_1985390982091980802",
+              "start": 23,
+              "url": "https://t.co/c7O78eeK1K"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1985987825020592396",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2687
+        },
+        "referenced_tweets": [
+          {
+            "id": "1985396052246044888",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @mutsu_XXXX: アスカとレイ https://t.co/c7O78eeK1K"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1985390982091980802"
+          ]
+        },
+        "author_id": "807255243842953216",
+        "conversation_id": "1985396052246044888",
+        "created_at": "2025-11-03T17:18:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-03T18:18:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1985396052246044888"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 2,
+              "normalized_text": "アスカ",
+              "probability": 0.6633,
+              "start": 0,
+              "type": "Person"
+            },
+            {
+              "end": 5,
+              "normalized_text": "レイ",
+              "probability": 0.4217,
+              "start": 4,
+              "type": "Person"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/c7O78eeK1K",
+              "end": 30,
+              "expanded_url": "https://x.com/mutsu_XXXX/status/1985396052246044888/photo/1",
+              "media_key": "3_1985390982091980802",
+              "start": 7,
+              "url": "https://t.co/c7O78eeK1K"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1985396052246044888",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2904,
+          "impression_count": 449668,
+          "like_count": 37569,
+          "quote_count": 65,
+          "reply_count": 10,
+          "retweet_count": 2687
+        },
+        "reply_settings": "everyone",
+        "text": "アスカとレイ https://t.co/c7O78eeK1K"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-12T18:50:19.000Z",
+        "description": "随缘//医学爱好者/les🏳️‍🌈/lgbt友好/中文/EN/Arknights/绘画/混乱日常碎碎念/很吵//喵喵 【永远拥护培根卷番茄！】",
+        "id": "1569397683814629379",
+        "location": "世界的尽头",
+        "name": "腐烂培根卷",
+        "pinned_tweet_id": "1937498024907010498",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953366409284861953/HM3Aeou7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 123,
+          "following_count": 753,
+          "like_count": 2466,
+          "listed_count": 1,
+          "media_count": 79,
+          "tweet_count": 3514
+        },
+        "username": "ppppggggjjjj",
+        "verified": false
+      },
+      {
+        "created_at": "2016-12-09T16:07:03.000Z",
+        "description": "絵、映画が好きです",
+        "id": "807255243842953216",
+        "name": "むつ",
+        "pinned_tweet_id": "1225080318484287488",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1715640391037542400/3SQ_y_Vl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21282,
+          "following_count": 442,
+          "like_count": 44859,
+          "listed_count": 209,
+          "media_count": 1646,
+          "tweet_count": 10386
+        },
+        "username": "mutsu_XXXX",
+        "verified": false
+      }
+    ]
+  }
+}

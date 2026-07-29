@@ -1,0 +1,248 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1970763904491065344"
+      ],
+      "media_source_tweet_id": [
+        "1970763935143129442"
+      ]
+    },
+    "author_id": "1569397683814629379",
+    "conversation_id": "1970869362937790949",
+    "created_at": "2025-09-24T15:14:07.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-24T16:14:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1970869362937790949"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1512423335824871434",
+          "start": 3,
+          "username": "Coring_x"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/5t2SuxxzTQ",
+          "end": 44,
+          "expanded_url": "https://x.com/Coring_x/status/1970763935143129442/photo/1",
+          "media_key": "3_1970763904491065344",
+          "start": 21,
+          "url": "https://t.co/5t2SuxxzTQ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1970869362937790949",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 458
+    },
+    "referenced_tweets": [
+      {
+        "id": "1970763935143129442",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Coring_x: Mon3tr https://t.co/5t2SuxxzTQ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1520,
+        "media_key": "3_1970763904491065344",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G1mPVF9aEAAxqio.jpg",
+        "width": 1040
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1970763904491065344"
+          ],
+          "media_source_tweet_id": [
+            "1970763935143129442"
+          ]
+        },
+        "author_id": "1569397683814629379",
+        "conversation_id": "1970869362937790949",
+        "created_at": "2025-09-24T15:14:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-24T16:14:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1970869362937790949"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1512423335824871434",
+              "start": 3,
+              "username": "Coring_x"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/5t2SuxxzTQ",
+              "end": 44,
+              "expanded_url": "https://x.com/Coring_x/status/1970763935143129442/photo/1",
+              "media_key": "3_1970763904491065344",
+              "start": 21,
+              "url": "https://t.co/5t2SuxxzTQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1970869362937790949",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 458
+        },
+        "referenced_tweets": [
+          {
+            "id": "1970763935143129442",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Coring_x: Mon3tr https://t.co/5t2SuxxzTQ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1970763904491065344"
+          ]
+        },
+        "author_id": "1512423335824871434",
+        "conversation_id": "1970763935143129442",
+        "created_at": "2025-09-24T08:15:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-24T09:15:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1970763935143129442"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/5t2SuxxzTQ",
+              "end": 30,
+              "expanded_url": "https://x.com/Coring_x/status/1970763935143129442/photo/1",
+              "media_key": "3_1970763904491065344",
+              "start": 7,
+              "url": "https://t.co/5t2SuxxzTQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1970763935143129442",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 404,
+          "impression_count": 33612,
+          "like_count": 4635,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 458
+        },
+        "reply_settings": "everyone",
+        "text": "Mon3tr https://t.co/5t2SuxxzTQ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-12T18:50:19.000Z",
+        "description": "随缘//医学爱好者/les🏳️‍🌈/lgbt友好/中文/EN/Arknights/绘画/混乱日常碎碎念/很吵//喵喵 【永远拥护培根卷番茄！】",
+        "id": "1569397683814629379",
+        "location": "世界的尽头",
+        "name": "腐烂培根卷",
+        "pinned_tweet_id": "1937498024907010498",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953366409284861953/HM3Aeou7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 112,
+          "following_count": 702,
+          "like_count": 2208,
+          "listed_count": 1,
+          "media_count": 65,
+          "tweet_count": 2913
+        },
+        "username": "ppppggggjjjj",
+        "verified": false
+      },
+      {
+        "created_at": "2022-04-08T13:33:28.000Z",
+        "description": "All illustrations I post use an AI generator.\nBlue Archive, Arknights and Many Subculture characters.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/20587367",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/20587367",
+                "start": 0,
+                "url": "https://t.co/vQKlZegYMi"
+              }
+            ]
+          }
+        },
+        "id": "1512423335824871434",
+        "name": "Coring",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1947705592698843136/UAQx4y6g_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 31704,
+          "following_count": 883,
+          "like_count": 5296,
+          "listed_count": 161,
+          "media_count": 925,
+          "tweet_count": 1078
+        },
+        "url": "https://t.co/vQKlZegYMi",
+        "username": "Coring_x",
+        "verified": true
+      }
+    ]
+  }
+}

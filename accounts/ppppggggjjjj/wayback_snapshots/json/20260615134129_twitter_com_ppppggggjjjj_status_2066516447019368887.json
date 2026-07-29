@@ -1,0 +1,229 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1569397683814629379",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10045225402",
+          "name": "X"
+        }
+      }
+    ],
+    "conversation_id": "2066516447019368887",
+    "created_at": "2026-06-15T13:41:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-15T14:41:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066516447019368887"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1495956911136649218",
+          "start": 3,
+          "username": "lourdes41190179"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066516447019368887",
+    "lang": "es",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 389
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066294222345400711",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @lourdes41190179: Twitter es básicamente una app para leer pensamientos aleatorios de desconocidos durante horas."
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1569397683814629379",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10045225402",
+              "name": "X"
+            }
+          }
+        ],
+        "conversation_id": "2066516447019368887",
+        "created_at": "2026-06-15T13:41:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-15T14:41:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066516447019368887"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1495956911136649218",
+              "start": 3,
+              "username": "lourdes41190179"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066516447019368887",
+        "lang": "es",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 389
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066294222345400711",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @lourdes41190179: Twitter es básicamente una app para leer pensamientos aleatorios de desconocidos durante horas."
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1495956911136649218",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10045225402",
+              "name": "X"
+            }
+          }
+        ],
+        "conversation_id": "2066294222345400711",
+        "created_at": "2026-06-14T22:58:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T23:58:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2066294222345400711"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2066294222345400711",
+        "lang": "es",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 42,
+          "impression_count": 35998,
+          "like_count": 2305,
+          "quote_count": 26,
+          "reply_count": 52,
+          "retweet_count": 389
+        },
+        "reply_settings": "everyone",
+        "text": "Twitter es básicamente una app para leer pensamientos aleatorios de desconocidos durante horas."
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-12T18:50:19.000Z",
+        "description": "随缘//医学爱好者/Arknights/绘画/混乱日常碎碎念无营养内容/可能会很吵？ /les/lgbt友好/中文/EN//喵喵//提问箱↓ ↓ ↓",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ppppppppp38481",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ppppppppp38481",
+                "start": 0,
+                "url": "https://t.co/dw8CaO6ajX"
+              }
+            ]
+          }
+        },
+        "id": "1569397683814629379",
+        "location": "世界的尽头",
+        "name": "腐烂培根卷",
+        "pinned_tweet_id": "2012485424057291255",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953366409284861953/HM3Aeou7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 241,
+          "following_count": 1611,
+          "like_count": 9789,
+          "listed_count": 1,
+          "media_count": 104,
+          "tweet_count": 7012
+        },
+        "url": "https://t.co/dw8CaO6ajX",
+        "username": "ppppggggjjjj",
+        "verified": false
+      },
+      {
+        "created_at": "2022-02-22T03:02:07.000Z",
+        "description": "Digo cosas, no siempre soy esas cosas.\n\nNo respondo DMs 📵",
+        "id": "1495956911136649218",
+        "location": "Ciudad Autónoma de Buenos Aire",
+        "name": "Lu",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968803796101787648/yq5o_SUa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 23223,
+          "following_count": 13559,
+          "like_count": 25866,
+          "listed_count": 16,
+          "media_count": 1619,
+          "tweet_count": 30723
+        },
+        "username": "lourdes41190179",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,304 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2051340508820348928",
+        "3_2051340508795162625",
+        "3_2051340509176897536",
+        "3_2051340508828717059"
+      ],
+      "media_source_tweet_id": [
+        "2051340519104762248",
+        "2051340519104762248",
+        "2051340519104762248",
+        "2051340519104762248"
+      ]
+    },
+    "author_id": "1569397683814629379",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2051461609466523963",
+    "created_at": "2026-05-05T00:38:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-05T01:38:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2051461609466523963"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2051195377420992512",
+          "start": 3,
+          "username": "Rain7x6y"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/G3YKvLz2S7",
+          "end": 90,
+          "expanded_url": "https://x.com/Rain7x6y/status/2051340519104762248/photo/1",
+          "media_key": "3_2051340508820348928",
+          "start": 67,
+          "url": "https://t.co/G3YKvLz2S7"
+        },
+        {
+          "display_url": "pic.x.com/G3YKvLz2S7",
+          "end": 90,
+          "expanded_url": "https://x.com/Rain7x6y/status/2051340519104762248/photo/1",
+          "media_key": "3_2051340508795162625",
+          "start": 67,
+          "url": "https://t.co/G3YKvLz2S7"
+        },
+        {
+          "display_url": "pic.x.com/G3YKvLz2S7",
+          "end": 90,
+          "expanded_url": "https://x.com/Rain7x6y/status/2051340519104762248/photo/1",
+          "media_key": "3_2051340509176897536",
+          "start": 67,
+          "url": "https://t.co/G3YKvLz2S7"
+        },
+        {
+          "display_url": "pic.x.com/G3YKvLz2S7",
+          "end": 90,
+          "expanded_url": "https://x.com/Rain7x6y/status/2051340519104762248/photo/1",
+          "media_key": "3_2051340508828717059",
+          "start": 67,
+          "url": "https://t.co/G3YKvLz2S7"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2051461609466523963",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 7
+    },
+    "referenced_tweets": [
+      {
+        "id": "2051340519104762248",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Rain7x6y: 我重生了\n我被举报了。。。宝贝们帮我转一下我哭哭哭了\n我🈹我磕药💊我吸我吃策划药/负能\n我来找回互关中。 https://t.co/G3YKvLz2S7"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2051461609466523963].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2051461609466523963",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2051461609466523963"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2051340508820348928",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHfTUwWbIAAS346.jpg",
+        "width": 942
+      },
+      {
+        "height": 1080,
+        "media_key": "3_2051340508795162625",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHfTUwQa0AE71Xc.jpg",
+        "width": 1920
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2051340509176897536",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHfTUxrboAAlCcj.jpg",
+        "width": 1366
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2051340508828717059",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHfTUwYa0AMJvWw.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2051340508820348928",
+            "3_2051340508795162625",
+            "3_2051340509176897536",
+            "3_2051340508828717059"
+          ]
+        },
+        "author_id": "2051195377420992512",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2051340519104762248",
+        "created_at": "2026-05-04T16:37:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-04T17:37:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2051340519104762248"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/G3YKvLz2S7",
+              "end": 76,
+              "expanded_url": "https://x.com/Rain7x6y/status/2051340519104762248/photo/1",
+              "media_key": "3_2051340508820348928",
+              "start": 53,
+              "url": "https://t.co/G3YKvLz2S7"
+            },
+            {
+              "display_url": "pic.x.com/G3YKvLz2S7",
+              "end": 76,
+              "expanded_url": "https://x.com/Rain7x6y/status/2051340519104762248/photo/1",
+              "media_key": "3_2051340508795162625",
+              "start": 53,
+              "url": "https://t.co/G3YKvLz2S7"
+            },
+            {
+              "display_url": "pic.x.com/G3YKvLz2S7",
+              "end": 76,
+              "expanded_url": "https://x.com/Rain7x6y/status/2051340519104762248/photo/1",
+              "media_key": "3_2051340509176897536",
+              "start": 53,
+              "url": "https://t.co/G3YKvLz2S7"
+            },
+            {
+              "display_url": "pic.x.com/G3YKvLz2S7",
+              "end": 76,
+              "expanded_url": "https://x.com/Rain7x6y/status/2051340519104762248/photo/1",
+              "media_key": "3_2051340508828717059",
+              "start": 53,
+              "url": "https://t.co/G3YKvLz2S7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051340519104762248",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 282,
+          "like_count": 15,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 7
+        },
+        "reply_settings": "everyone",
+        "text": "我重生了\n我被举报了。。。宝贝们帮我转一下我哭哭哭了\n我🈹我磕药💊我吸我吃策划药/负能\n我来找回互关中。 https://t.co/G3YKvLz2S7"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-12T18:50:19.000Z",
+        "description": "随缘//医学爱好者/Arknights/绘画/混乱日常碎碎念无营养内容/可能会很吵？ /les/lgbt友好/中文/EN//喵喵//提问箱↓ ↓ ↓",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ppppppppp38481",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ppppppppp38481",
+                "start": 0,
+                "url": "https://t.co/dw8CaO6ajX"
+              }
+            ]
+          }
+        },
+        "id": "1569397683814629379",
+        "location": "世界的尽头",
+        "name": "腐烂培根卷",
+        "pinned_tweet_id": "2012485424057291255",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953366409284861953/HM3Aeou7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 224,
+          "following_count": 1393,
+          "like_count": 7445,
+          "listed_count": 1,
+          "media_count": 99,
+          "tweet_count": 5647
+        },
+        "url": "https://t.co/dw8CaO6ajX",
+        "username": "ppppggggjjjj",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-04T07:03:35.000Z",
+        "description": "",
+        "id": "2051195377420992512",
+        "name": "Rain/二世",
+        "pinned_tweet_id": "2051340519104762248",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051196118256713728/aD5NKnkB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19,
+          "following_count": 32,
+          "like_count": 4,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 6
+        },
+        "username": "Rain7x6y",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,671 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1962800385699278848",
+        "3_1962800636107608064",
+        "3_1962800693263421440",
+        "3_1962800803716177920"
+      ],
+      "media_source_tweet_id": [
+        "1962801209427079620",
+        "1962801209427079620",
+        "1962801209427079620",
+        "1962801209427079620"
+      ]
+    },
+    "author_id": "1569397683814629379",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A video game like Overwatch",
+          "id": "71",
+          "name": "Video Game"
+        },
+        "entity": {
+          "id": "1233113060732092416",
+          "name": "Arknights"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Gaming",
+          "id": "847527650667094017",
+          "name": "Gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1070028159964262400",
+          "name": "Video games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1233113060732092416",
+          "name": "Arknights"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1491897789013393420",
+          "name": "Strategy games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1491900085583577097",
+          "name": "Idol games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1491900373098921986",
+          "name": "Gacha games"
+        }
+      }
+    ],
+    "conversation_id": "1962867926417158358",
+    "created_at": "2025-09-02T13:19:16.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-02T14:19:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1962867926417158358"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 25,
+          "start": 15,
+          "tag": "Arknights"
+        },
+        {
+          "end": 32,
+          "start": 26,
+          "tag": "amiya"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1247782904765112321",
+          "start": 3,
+          "username": "lw000401"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/ncvAI15PHR",
+          "end": 56,
+          "expanded_url": "https://x.com/lw000401/status/1962801209427079620/photo/1",
+          "media_key": "3_1962800385699278848",
+          "start": 33,
+          "url": "https://t.co/ncvAI15PHR"
+        },
+        {
+          "display_url": "pic.x.com/ncvAI15PHR",
+          "end": 56,
+          "expanded_url": "https://x.com/lw000401/status/1962801209427079620/photo/1",
+          "media_key": "3_1962800636107608064",
+          "start": 33,
+          "url": "https://t.co/ncvAI15PHR"
+        },
+        {
+          "display_url": "pic.x.com/ncvAI15PHR",
+          "end": 56,
+          "expanded_url": "https://x.com/lw000401/status/1962801209427079620/photo/1",
+          "media_key": "3_1962800693263421440",
+          "start": 33,
+          "url": "https://t.co/ncvAI15PHR"
+        },
+        {
+          "display_url": "pic.x.com/ncvAI15PHR",
+          "end": 56,
+          "expanded_url": "https://x.com/lw000401/status/1962801209427079620/photo/1",
+          "media_key": "3_1962800803716177920",
+          "start": 33,
+          "url": "https://t.co/ncvAI15PHR"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1962867926417158358",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 173
+    },
+    "referenced_tweets": [
+      {
+        "id": "1962801209427079620",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @lw000401: 👑#Arknights #amiya https://t.co/ncvAI15PHR"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3508,
+        "media_key": "3_1962800385699278848",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gz1EjSqa8AASDyg.jpg",
+        "width": 2480
+      },
+      {
+        "height": 4096,
+        "media_key": "3_1962800636107608064",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gz1Ex3ga0AAPJ0p.jpg",
+        "width": 2561
+      },
+      {
+        "height": 4000,
+        "media_key": "3_1962800693263421440",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gz1E1MbbUAABksw.jpg",
+        "width": 2744
+      },
+      {
+        "height": 1755,
+        "media_key": "3_1962800803716177920",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gz1E7n5aoAAAgMV.jpg",
+        "width": 4096
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1962800385699278848",
+            "3_1962800636107608064",
+            "3_1962800693263421440",
+            "3_1962800803716177920"
+          ],
+          "media_source_tweet_id": [
+            "1962801209427079620",
+            "1962801209427079620",
+            "1962801209427079620",
+            "1962801209427079620"
+          ]
+        },
+        "author_id": "1569397683814629379",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1233113060732092416",
+              "name": "Arknights"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1233113060732092416",
+              "name": "Arknights"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491897789013393420",
+              "name": "Strategy games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491900085583577097",
+              "name": "Idol games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491900373098921986",
+              "name": "Gacha games"
+            }
+          }
+        ],
+        "conversation_id": "1962867926417158358",
+        "created_at": "2025-09-02T13:19:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-02T14:19:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1962867926417158358"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 25,
+              "start": 15,
+              "tag": "Arknights"
+            },
+            {
+              "end": 32,
+              "start": 26,
+              "tag": "amiya"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1247782904765112321",
+              "start": 3,
+              "username": "lw000401"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ncvAI15PHR",
+              "end": 56,
+              "expanded_url": "https://x.com/lw000401/status/1962801209427079620/photo/1",
+              "media_key": "3_1962800385699278848",
+              "start": 33,
+              "url": "https://t.co/ncvAI15PHR"
+            },
+            {
+              "display_url": "pic.x.com/ncvAI15PHR",
+              "end": 56,
+              "expanded_url": "https://x.com/lw000401/status/1962801209427079620/photo/1",
+              "media_key": "3_1962800636107608064",
+              "start": 33,
+              "url": "https://t.co/ncvAI15PHR"
+            },
+            {
+              "display_url": "pic.x.com/ncvAI15PHR",
+              "end": 56,
+              "expanded_url": "https://x.com/lw000401/status/1962801209427079620/photo/1",
+              "media_key": "3_1962800693263421440",
+              "start": 33,
+              "url": "https://t.co/ncvAI15PHR"
+            },
+            {
+              "display_url": "pic.x.com/ncvAI15PHR",
+              "end": 56,
+              "expanded_url": "https://x.com/lw000401/status/1962801209427079620/photo/1",
+              "media_key": "3_1962800803716177920",
+              "start": 33,
+              "url": "https://t.co/ncvAI15PHR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1962867926417158358",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 173
+        },
+        "referenced_tweets": [
+          {
+            "id": "1962801209427079620",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @lw000401: 👑#Arknights #amiya https://t.co/ncvAI15PHR"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1962800385699278848",
+            "3_1962800636107608064",
+            "3_1962800693263421440",
+            "3_1962800803716177920"
+          ]
+        },
+        "author_id": "1247782904765112321",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1233113060732092416",
+              "name": "Arknights"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1233113060732092416",
+              "name": "Arknights"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491897789013393420",
+              "name": "Strategy games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491900085583577097",
+              "name": "Idol games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491900373098921986",
+              "name": "Gacha games"
+            }
+          }
+        ],
+        "conversation_id": "1962801209427079620",
+        "created_at": "2025-09-02T08:54:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-02T09:54:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1962801209427079620"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 11,
+              "start": 1,
+              "tag": "Arknights"
+            },
+            {
+              "end": 18,
+              "start": 12,
+              "tag": "amiya"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ncvAI15PHR",
+              "end": 42,
+              "expanded_url": "https://x.com/lw000401/status/1962801209427079620/photo/1",
+              "media_key": "3_1962800385699278848",
+              "start": 19,
+              "url": "https://t.co/ncvAI15PHR"
+            },
+            {
+              "display_url": "pic.x.com/ncvAI15PHR",
+              "end": 42,
+              "expanded_url": "https://x.com/lw000401/status/1962801209427079620/photo/1",
+              "media_key": "3_1962800636107608064",
+              "start": 19,
+              "url": "https://t.co/ncvAI15PHR"
+            },
+            {
+              "display_url": "pic.x.com/ncvAI15PHR",
+              "end": 42,
+              "expanded_url": "https://x.com/lw000401/status/1962801209427079620/photo/1",
+              "media_key": "3_1962800693263421440",
+              "start": 19,
+              "url": "https://t.co/ncvAI15PHR"
+            },
+            {
+              "display_url": "pic.x.com/ncvAI15PHR",
+              "end": 42,
+              "expanded_url": "https://x.com/lw000401/status/1962801209427079620/photo/1",
+              "media_key": "3_1962800803716177920",
+              "start": 19,
+              "url": "https://t.co/ncvAI15PHR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1962801209427079620",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 122,
+          "impression_count": 19474,
+          "like_count": 874,
+          "quote_count": 3,
+          "reply_count": 2,
+          "retweet_count": 173
+        },
+        "reply_settings": "everyone",
+        "text": "👑#Arknights #amiya https://t.co/ncvAI15PHR"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-12T18:50:19.000Z",
+        "description": "随缘//医学爱好者/les🏳️‍🌈/lgbt友好/中文/EN/Arknights/绘画/混乱日常碎碎念/很吵//喵喵 【永远拥护培根卷番茄！】",
+        "id": "1569397683814629379",
+        "location": "世界的尽头",
+        "name": "腐烂培根卷",
+        "pinned_tweet_id": "1937498024907010498",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953366409284861953/HM3Aeou7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 100,
+          "following_count": 665,
+          "like_count": 1907,
+          "listed_count": 1,
+          "media_count": 56,
+          "tweet_count": 2386
+        },
+        "username": "ppppggggjjjj",
+        "verified": false
+      },
+      {
+        "created_at": "2020-04-08T07:06:55.000Z",
+        "description": "♡明日方舟Arknights/Miku",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/53913561",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/53913561",
+                "start": 0,
+                "url": "https://t.co/ZqqqZpvwQa"
+              }
+            ]
+          }
+        },
+        "id": "1247782904765112321",
+        "name": "老魏",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1519676163039240192/oAhVXw8x_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4205,
+          "following_count": 582,
+          "like_count": 1217,
+          "listed_count": 39,
+          "media_count": 29,
+          "tweet_count": 392
+        },
+        "url": "https://t.co/ZqqqZpvwQa",
+        "username": "lw000401",
+        "verified": false
+      }
+    ]
+  }
+}

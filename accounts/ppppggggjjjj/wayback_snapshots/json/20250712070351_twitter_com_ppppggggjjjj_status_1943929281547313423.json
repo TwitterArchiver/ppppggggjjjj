@@ -1,0 +1,695 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1905092572508254209"
+      ],
+      "media_source_tweet_id": [
+        "1905092624161055039"
+      ]
+    },
+    "author_id": "1569397683814629379",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A video game like Overwatch",
+          "id": "71",
+          "name": "Video Game"
+        },
+        "entity": {
+          "id": "1233113060732092416",
+          "name": "Arknights"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Gaming",
+          "id": "847527650667094017",
+          "name": "Gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1070028159964262400",
+          "name": "Video games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1233113060732092416",
+          "name": "Arknights"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1491897789013393420",
+          "name": "Strategy games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1491900085583577097",
+          "name": "Idol games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1491900373098921986",
+          "name": "Gacha games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Fashion Novelty",
+          "id": "845326060757512192",
+          "name": "Fashion Novelty"
+        }
+      },
+      {
+        "domain": {
+          "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+          "id": "67",
+          "name": "Interests and Hobbies"
+        },
+        "entity": {
+          "description": "Fashion Blogging",
+          "id": "845327283774640128",
+          "name": "Fashion Tags"
+        }
+      }
+    ],
+    "conversation_id": "1943929281547313423",
+    "created_at": "2025-07-12T07:03:51.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-12T08:03:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1943929281547313423"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 29,
+          "normalized_text": "Stylish Priestess",
+          "probability": 0.8982,
+          "start": 13,
+          "type": "Other"
+        },
+        {
+          "end": 40,
+          "normalized_text": "Arknights",
+          "probability": 0.9045,
+          "start": 32,
+          "type": "Other"
+        }
+      ],
+      "hashtags": [
+        {
+          "end": 41,
+          "start": 31,
+          "tag": "Arknights"
+        },
+        {
+          "end": 49,
+          "start": 42,
+          "tag": "アークナイツ"
+        },
+        {
+          "end": 55,
+          "start": 50,
+          "tag": "明日方舟"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1225095192170127365",
+          "start": 3,
+          "username": "Gan3e46"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/jo7xNCiZig",
+          "end": 79,
+          "expanded_url": "https://x.com/Gan3e46/status/1905092624161055039/photo/1",
+          "media_key": "3_1905092572508254209",
+          "start": 56,
+          "url": "https://t.co/jo7xNCiZig"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1943929281547313423",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 922
+    },
+    "referenced_tweets": [
+      {
+        "id": "1905092624161055039",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Gan3e46: Stylish Priestess #Arknights #アークナイツ #明日方舟 https://t.co/jo7xNCiZig"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4010,
+        "media_key": "3_1905092572508254209",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GnA_meCW8AEE1zz.jpg",
+        "width": 2717
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1905092572508254209"
+          ],
+          "media_source_tweet_id": [
+            "1905092624161055039"
+          ]
+        },
+        "author_id": "1569397683814629379",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1233113060732092416",
+              "name": "Arknights"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1233113060732092416",
+              "name": "Arknights"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491897789013393420",
+              "name": "Strategy games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491900085583577097",
+              "name": "Idol games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491900373098921986",
+              "name": "Gacha games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Fashion Novelty",
+              "id": "845326060757512192",
+              "name": "Fashion Novelty"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Fashion Blogging",
+              "id": "845327283774640128",
+              "name": "Fashion Tags"
+            }
+          }
+        ],
+        "conversation_id": "1943929281547313423",
+        "created_at": "2025-07-12T07:03:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-12T08:03:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1943929281547313423"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 29,
+              "normalized_text": "Stylish Priestess",
+              "probability": 0.8982,
+              "start": 13,
+              "type": "Other"
+            },
+            {
+              "end": 40,
+              "normalized_text": "Arknights",
+              "probability": 0.9045,
+              "start": 32,
+              "type": "Other"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 41,
+              "start": 31,
+              "tag": "Arknights"
+            },
+            {
+              "end": 49,
+              "start": 42,
+              "tag": "アークナイツ"
+            },
+            {
+              "end": 55,
+              "start": 50,
+              "tag": "明日方舟"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1225095192170127365",
+              "start": 3,
+              "username": "Gan3e46"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/jo7xNCiZig",
+              "end": 79,
+              "expanded_url": "https://x.com/Gan3e46/status/1905092624161055039/photo/1",
+              "media_key": "3_1905092572508254209",
+              "start": 56,
+              "url": "https://t.co/jo7xNCiZig"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1943929281547313423",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 922
+        },
+        "referenced_tweets": [
+          {
+            "id": "1905092624161055039",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Gan3e46: Stylish Priestess #Arknights #アークナイツ #明日方舟 https://t.co/jo7xNCiZig"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1905092572508254209"
+          ]
+        },
+        "author_id": "1225095192170127365",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1233113060732092416",
+              "name": "Arknights"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1233113060732092416",
+              "name": "Arknights"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491897789013393420",
+              "name": "Strategy games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491900085583577097",
+              "name": "Idol games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491900373098921986",
+              "name": "Gacha games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Fashion Novelty",
+              "id": "845326060757512192",
+              "name": "Fashion Novelty"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Fashion Blogging",
+              "id": "845327283774640128",
+              "name": "Fashion Tags"
+            }
+          }
+        ],
+        "conversation_id": "1905092624161055039",
+        "created_at": "2025-03-27T03:00:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-27T04:00:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1905092624161055039"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 16,
+              "normalized_text": "Stylish Priestess",
+              "probability": 0.8425,
+              "start": 0,
+              "type": "Other"
+            },
+            {
+              "end": 27,
+              "normalized_text": "Arknights",
+              "probability": 0.9032,
+              "start": 19,
+              "type": "Other"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 28,
+              "start": 18,
+              "tag": "Arknights"
+            },
+            {
+              "end": 36,
+              "start": 29,
+              "tag": "アークナイツ"
+            },
+            {
+              "end": 42,
+              "start": 37,
+              "tag": "明日方舟"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/jo7xNCiZig",
+              "end": 66,
+              "expanded_url": "https://x.com/Gan3e46/status/1905092624161055039/photo/1",
+              "media_key": "3_1905092572508254209",
+              "start": 43,
+              "url": "https://t.co/jo7xNCiZig"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1905092624161055039",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1082,
+          "impression_count": 101669,
+          "like_count": 8034,
+          "quote_count": 17,
+          "reply_count": 13,
+          "retweet_count": 922
+        },
+        "reply_settings": "everyone",
+        "text": "Stylish Priestess #Arknights #アークナイツ #明日方舟 https://t.co/jo7xNCiZig"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-12T18:50:19.000Z",
+        "description": "随缘//医学爱好者/les🏳️‍🌈/lgbt友好/中文/EN/Arknights/绘画/混乱日常碎碎念/很吵//喵喵",
+        "id": "1569397683814629379",
+        "name": "腐烂苹果酱",
+        "pinned_tweet_id": "1937498024907010498",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1620839959388393479/hsMKvVei_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 75,
+          "following_count": 564,
+          "like_count": 1089,
+          "listed_count": 0,
+          "media_count": 21,
+          "tweet_count": 1301
+        },
+        "username": "ppppggggjjjj",
+        "verified": false
+      },
+      {
+        "created_at": "2020-02-05T16:34:02.000Z",
+        "description": "Learning artist | Comms Closed Slots 3/3| NSFW | Contact: gandy3e46@gmail.com |",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "3e46.carrd.co",
+                "end": 23,
+                "expanded_url": "https://3e46.carrd.co",
+                "start": 0,
+                "url": "https://t.co/FNnIbtj1i6"
+              }
+            ]
+          }
+        },
+        "id": "1225095192170127365",
+        "name": "3E46",
+        "pinned_tweet_id": "1933195342041715168",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1911972828842250240/j9e2liFF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 26049,
+          "following_count": 465,
+          "like_count": 18551,
+          "listed_count": 157,
+          "media_count": 148,
+          "tweet_count": 2878
+        },
+        "url": "https://t.co/FNnIbtj1i6",
+        "username": "Gan3e46",
+        "verified": false
+      }
+    ]
+  }
+}

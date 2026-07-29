@@ -1,0 +1,196 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1985903686615195648"
+      ],
+      "media_source_tweet_id": [
+        "1985903693234110647"
+      ]
+    },
+    "author_id": "1569397683814629379",
+    "conversation_id": "1986025167269790145",
+    "created_at": "2025-11-05T10:57:53.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-05T11:57:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1986025167269790145"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1795072631169044480",
+          "start": 3,
+          "username": "FoxKami_"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Pl9GEUHWqh",
+          "end": 41,
+          "expanded_url": "https://x.com/FoxKami_/status/1985903693234110647/photo/1",
+          "media_key": "3_1985903686615195648",
+          "start": 18,
+          "url": "https://t.co/Pl9GEUHWqh"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1986025167269790145",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "1985903693234110647",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @FoxKami_: 望周知 https://t.co/Pl9GEUHWqh"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1986025167269790145].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1986025167269790145",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1986025167269790145"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 340,
+        "media_key": "3_1985903686615195648",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G49Y4ZbWYAAzKJE.jpg",
+        "width": 669
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1985903686615195648"
+          ]
+        },
+        "author_id": "1795072631169044480",
+        "conversation_id": "1985903693234110647",
+        "created_at": "2025-11-05T02:55:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-05T03:55:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1985903693234110647"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Pl9GEUHWqh",
+              "end": 27,
+              "expanded_url": "https://x.com/FoxKami_/status/1985903693234110647/photo/1",
+              "media_key": "3_1985903686615195648",
+              "start": 4,
+              "url": "https://t.co/Pl9GEUHWqh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1985903693234110647",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 887,
+          "like_count": 16,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "望周知 https://t.co/Pl9GEUHWqh"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-12T18:50:19.000Z",
+        "description": "随缘//医学爱好者/les🏳️‍🌈/lgbt友好/中文/EN/Arknights/绘画/混乱日常碎碎念/很吵//喵喵 【永远拥护培根卷番茄！】",
+        "id": "1569397683814629379",
+        "location": "世界的尽头",
+        "name": "腐烂培根卷",
+        "pinned_tweet_id": "1937498024907010498",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953366409284861953/HM3Aeou7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 123,
+          "following_count": 753,
+          "like_count": 2468,
+          "listed_count": 1,
+          "media_count": 79,
+          "tweet_count": 3515
+        },
+        "username": "ppppggggjjjj",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-27T12:40:58.000Z",
+        "description": "我該怎麼辦啊…",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/duoduofuo",
+                "end": 23,
+                "expanded_url": "https://ngl.link/duoduofuo",
+                "start": 0,
+                "url": "https://t.co/ZLduecxvmn"
+              }
+            ]
+          }
+        },
+        "id": "1795072631169044480",
+        "location": "未來電波基地",
+        "name": "時行の部屋",
+        "pinned_tweet_id": "1841674811069825079",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1982678097330675712/UnSVboZG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6810,
+          "following_count": 241,
+          "like_count": 31054,
+          "listed_count": 17,
+          "media_count": 179,
+          "tweet_count": 891
+        },
+        "url": "https://t.co/ZLduecxvmn",
+        "username": "FoxKami_",
+        "verified": false
+      }
+    ]
+  }
+}

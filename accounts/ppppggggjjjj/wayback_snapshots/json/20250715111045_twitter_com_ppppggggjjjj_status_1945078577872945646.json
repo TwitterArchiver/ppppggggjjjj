@@ -1,0 +1,144 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1569397683814629379",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10026364281",
+          "name": "Apple"
+        }
+      },
+      {
+        "domain": {
+          "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+          "id": "48",
+          "name": "Product"
+        },
+        "entity": {
+          "description": "Apple iPad",
+          "id": "972153731067273222",
+          "name": "Apple iPad"
+        }
+      }
+    ],
+    "conversation_id": "1945078577872945646",
+    "created_at": "2025-07-15T11:10:45.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-15T12:10:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1945078577872945646"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1945078577872945646",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "好纠结…\n最近ipad送修回来了 原来的壳子太脏了就给丢了 在琢磨琢磨换个新壳子 但之前裸机用了一段时间就感觉受不了带全包壳的那种厚重手感了 手感和重量方面感觉双面夹很完美 但我这个猪脑不用全包壳的话真的太容易给ipad干战损了\n烦死了 保护性强的不轻薄 轻薄的保护性不强"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1569397683814629379",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "description": "Apple iPad",
+              "id": "972153731067273222",
+              "name": "Apple iPad"
+            }
+          }
+        ],
+        "conversation_id": "1945078577872945646",
+        "created_at": "2025-07-15T11:10:45.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-15T12:10:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1945078577872945646"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1945078577872945646",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "好纠结…\n最近ipad送修回来了 原来的壳子太脏了就给丢了 在琢磨琢磨换个新壳子 但之前裸机用了一段时间就感觉受不了带全包壳的那种厚重手感了 手感和重量方面感觉双面夹很完美 但我这个猪脑不用全包壳的话真的太容易给ipad干战损了\n烦死了 保护性强的不轻薄 轻薄的保护性不强"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-12T18:50:19.000Z",
+        "description": "随缘//医学爱好者/les🏳️‍🌈/lgbt友好/中文/EN/Arknights/绘画/混乱日常碎碎念/很吵//喵喵",
+        "id": "1569397683814629379",
+        "location": "世界的尽头",
+        "name": "腐烂苹果酱",
+        "pinned_tweet_id": "1937498024907010498",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1620839959388393479/hsMKvVei_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 79,
+          "following_count": 585,
+          "like_count": 1289,
+          "listed_count": 0,
+          "media_count": 32,
+          "tweet_count": 1483
+        },
+        "username": "ppppggggjjjj",
+        "verified": false
+      }
+    ]
+  }
+}

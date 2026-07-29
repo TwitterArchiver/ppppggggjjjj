@@ -1,0 +1,632 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1948044632774119425"
+      ],
+      "media_source_tweet_id": [
+        "1948044914857808138"
+      ]
+    },
+    "author_id": "1569397683814629379",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A video game like Overwatch",
+          "id": "71",
+          "name": "Video Game"
+        },
+        "entity": {
+          "id": "1233113060732092416",
+          "name": "Arknights"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Gaming",
+          "id": "847527650667094017",
+          "name": "Gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1070028159964262400",
+          "name": "Video games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1233113060732092416",
+          "name": "Arknights"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1491897789013393420",
+          "name": "Strategy games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1491900085583577097",
+          "name": "Idol games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1491900373098921986",
+          "name": "Gacha games"
+        }
+      }
+    ],
+    "conversation_id": "1948332661933846713",
+    "created_at": "2025-07-24T10:41:19.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-24T11:41:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1948332661933846713"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 18,
+          "normalized_text": "Skadi",
+          "probability": 0.6835,
+          "start": 14,
+          "type": "Other"
+        },
+        {
+          "end": 73,
+          "normalized_text": "Arknights",
+          "probability": 0.9017,
+          "start": 65,
+          "type": "Other"
+        }
+      ],
+      "hashtags": [
+        {
+          "end": 63,
+          "start": 58,
+          "tag": "明日方舟"
+        },
+        {
+          "end": 74,
+          "start": 64,
+          "tag": "Arknights"
+        },
+        {
+          "end": 82,
+          "start": 75,
+          "tag": "アークナイツ"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1884860185824632832",
+          "start": 3,
+          "username": "Runyosfw"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/1RBMckR6ZB",
+          "end": 106,
+          "expanded_url": "https://x.com/Runyosfw/status/1948044914857808138/photo/1",
+          "media_key": "3_1948044632774119425",
+          "start": 83,
+          "url": "https://t.co/1RBMckR6ZB"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1948332661933846713",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 480
+    },
+    "referenced_tweets": [
+      {
+        "id": "1948044914857808138",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Runyosfw: Skadi so freaking cute ahhhhhhh! (crawling)\n#明日方舟 #Arknights #アークナイツ https://t.co/1RBMckR6ZB"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3200,
+        "media_key": "3_1948044632774119425",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GwjYRbcbkAECDqG.jpg",
+        "width": 2508
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1948044632774119425"
+          ],
+          "media_source_tweet_id": [
+            "1948044914857808138"
+          ]
+        },
+        "author_id": "1569397683814629379",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1233113060732092416",
+              "name": "Arknights"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1233113060732092416",
+              "name": "Arknights"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491897789013393420",
+              "name": "Strategy games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491900085583577097",
+              "name": "Idol games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491900373098921986",
+              "name": "Gacha games"
+            }
+          }
+        ],
+        "conversation_id": "1948332661933846713",
+        "created_at": "2025-07-24T10:41:19.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-24T11:41:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1948332661933846713"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 18,
+              "normalized_text": "Skadi",
+              "probability": 0.6835,
+              "start": 14,
+              "type": "Other"
+            },
+            {
+              "end": 73,
+              "normalized_text": "Arknights",
+              "probability": 0.9017,
+              "start": 65,
+              "type": "Other"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 63,
+              "start": 58,
+              "tag": "明日方舟"
+            },
+            {
+              "end": 74,
+              "start": 64,
+              "tag": "Arknights"
+            },
+            {
+              "end": 82,
+              "start": 75,
+              "tag": "アークナイツ"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1884860185824632832",
+              "start": 3,
+              "username": "Runyosfw"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/1RBMckR6ZB",
+              "end": 106,
+              "expanded_url": "https://x.com/Runyosfw/status/1948044914857808138/photo/1",
+              "media_key": "3_1948044632774119425",
+              "start": 83,
+              "url": "https://t.co/1RBMckR6ZB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1948332661933846713",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 480
+        },
+        "referenced_tweets": [
+          {
+            "id": "1948044914857808138",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Runyosfw: Skadi so freaking cute ahhhhhhh! (crawling)\n#明日方舟 #Arknights #アークナイツ https://t.co/1RBMckR6ZB"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1948044632774119425"
+          ]
+        },
+        "author_id": "1884860185824632832",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1233113060732092416",
+              "name": "Arknights"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1233113060732092416",
+              "name": "Arknights"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491897789013393420",
+              "name": "Strategy games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491900085583577097",
+              "name": "Idol games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491900373098921986",
+              "name": "Gacha games"
+            }
+          }
+        ],
+        "conversation_id": "1948044914857808138",
+        "created_at": "2025-07-23T15:37:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-23T16:37:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1948044914857808138"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 4,
+              "normalized_text": "Skadi",
+              "probability": 0.7479,
+              "start": 0,
+              "type": "Other"
+            },
+            {
+              "end": 59,
+              "normalized_text": "Arknights",
+              "probability": 0.9016,
+              "start": 51,
+              "type": "Other"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 49,
+              "start": 44,
+              "tag": "明日方舟"
+            },
+            {
+              "end": 60,
+              "start": 50,
+              "tag": "Arknights"
+            },
+            {
+              "end": 68,
+              "start": 61,
+              "tag": "アークナイツ"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/1RBMckR6ZB",
+              "end": 92,
+              "expanded_url": "https://x.com/Runyosfw/status/1948044914857808138/photo/1",
+              "media_key": "3_1948044632774119425",
+              "start": 69,
+              "url": "https://t.co/1RBMckR6ZB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1948044914857808138",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 285,
+          "impression_count": 34412,
+          "like_count": 3666,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 480
+        },
+        "reply_settings": "everyone",
+        "text": "Skadi so freaking cute ahhhhhhh! (crawling)\n#明日方舟 #Arknights #アークナイツ https://t.co/1RBMckR6ZB"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-12T18:50:19.000Z",
+        "description": "随缘//医学爱好者/les🏳️‍🌈/lgbt友好/中文/EN/Arknights/绘画/混乱日常碎碎念/很吵//喵喵",
+        "id": "1569397683814629379",
+        "location": "世界的尽头",
+        "name": "腐烂苹果酱",
+        "pinned_tweet_id": "1937498024907010498",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1620839959388393479/hsMKvVei_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 94,
+          "following_count": 620,
+          "like_count": 1602,
+          "listed_count": 0,
+          "media_count": 47,
+          "tweet_count": 1870
+        },
+        "username": "ppppggggjjjj",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-30T07:04:32.000Z",
+        "description": "Main account🔞 @runyouo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 14,
+                "username": "runyouo"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "patreon.com/c/Runyo",
+                "end": 23,
+                "expanded_url": "https://www.patreon.com/c/Runyo",
+                "start": 0,
+                "url": "https://t.co/vuGwsve0mk"
+              }
+            ]
+          }
+        },
+        "id": "1884860185824632832",
+        "name": "Runyo 跑跑鼬",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1884860752928051200/v4hOD2UL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3609,
+          "following_count": 61,
+          "like_count": 494,
+          "listed_count": 19,
+          "media_count": 40,
+          "tweet_count": 115
+        },
+        "url": "https://t.co/vuGwsve0mk",
+        "username": "Runyosfw",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1972653196914176000"
+      ],
+      "media_source_tweet_id": [
+        "1972653204321230887"
+      ]
+    },
+    "author_id": "1569397683814629379",
+    "conversation_id": "1972737600990691640",
+    "created_at": "2025-09-29T18:57:50.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-29T19:57:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1972737600990691640"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1827563342967533568",
+          "start": 3,
+          "username": "merofang"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/I7VTvPjscg",
+          "end": 41,
+          "expanded_url": "https://x.com/merofang/status/1972653204321230887/photo/1",
+          "media_key": "3_1972653196914176000",
+          "start": 18,
+          "url": "https://t.co/I7VTvPjscg"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1972737600990691640",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 81
+    },
+    "referenced_tweets": [
+      {
+        "id": "1972653204321230887",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @merofang: wip https://t.co/I7VTvPjscg"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1972737600990691640].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1972737600990691640",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1972737600990691640"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1900,
+        "media_key": "3_1972653196914176000",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G2BFoYsbsAA0s9_.jpg",
+        "width": 1937
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1972653196914176000"
+          ]
+        },
+        "author_id": "1827563342967533568",
+        "conversation_id": "1972653204321230887",
+        "created_at": "2025-09-29T13:22:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-29T14:22:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1972653204321230887"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/I7VTvPjscg",
+              "end": 27,
+              "expanded_url": "https://x.com/merofang/status/1972653204321230887/photo/1",
+              "media_key": "3_1972653196914176000",
+              "start": 4,
+              "url": "https://t.co/I7VTvPjscg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1972653204321230887",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 101,
+          "impression_count": 9770,
+          "like_count": 827,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 81
+        },
+        "reply_settings": "everyone",
+        "text": "wip https://t.co/I7VTvPjscg"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-12T18:50:19.000Z",
+        "description": "随缘//医学爱好者/les🏳️‍🌈/lgbt友好/中文/EN/Arknights/绘画/混乱日常碎碎念/很吵//喵喵 【永远拥护培根卷番茄！】",
+        "id": "1569397683814629379",
+        "location": "世界的尽头",
+        "name": "腐烂培根卷",
+        "pinned_tweet_id": "1937498024907010498",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953366409284861953/HM3Aeou7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 113,
+          "following_count": 705,
+          "like_count": 2233,
+          "listed_count": 1,
+          "media_count": 67,
+          "tweet_count": 3019
+        },
+        "username": "ppppggggjjjj",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-25T04:27:16.000Z",
+        "description": "🍈메로팡 / 💚contact - https://t.co/SBQhbWJhEF / 🚫 AI & repost & reproduction is prohibited",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "lit.link/merofang",
+                "end": 41,
+                "expanded_url": "https://lit.link/merofang",
+                "start": 18,
+                "url": "https://t.co/SBQhbWJhEF"
+              }
+            ]
+          }
+        },
+        "id": "1827563342967533568",
+        "name": "メロンパン",
+        "pinned_tweet_id": "1867029875758133495",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1854538890201444352/KDEPJmbW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25851,
+          "following_count": 95,
+          "like_count": 1230,
+          "listed_count": 125,
+          "media_count": 45,
+          "tweet_count": 488
+        },
+        "username": "merofang",
+        "verified": false
+      }
+    ]
+  }
+}

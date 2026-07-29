@@ -1,0 +1,340 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1569397683814629379",
+    "conversation_id": "1965603370129146237",
+    "created_at": "2025-09-10T02:28:57.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-10T03:28:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1965603370129146237"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/ramep40/status…",
+          "end": 27,
+          "expanded_url": "https://twitter.com/ramep40/status/1965261774120513807",
+          "start": 4,
+          "url": "https://t.co/AKFplsfkny"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1965603370129146237",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1965261774120513807",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "太帅了 https://t.co/AKFplsfkny"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1965261768189771778",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G0YDKm-bgAI5xwE.jpg",
+        "width": 1450
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1569397683814629379",
+        "conversation_id": "1965603370129146237",
+        "created_at": "2025-09-10T02:28:57.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-10T03:28:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1965603370129146237"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/ramep40/status…",
+              "end": 27,
+              "expanded_url": "https://twitter.com/ramep40/status/1965261774120513807",
+              "start": 4,
+              "url": "https://t.co/AKFplsfkny"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1965603370129146237",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1965261774120513807",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "太帅了 https://t.co/AKFplsfkny"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1965261768189771778"
+          ]
+        },
+        "author_id": "1906156282538778624",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1233113060732092416",
+              "name": "Arknights"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1233113060732092416",
+              "name": "Arknights"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491897789013393420",
+              "name": "Strategy games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491900085583577097",
+              "name": "Idol games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491900373098921986",
+              "name": "Gacha games"
+            }
+          }
+        ],
+        "conversation_id": "1965261774120513807",
+        "created_at": "2025-09-09T03:51:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-09T04:51:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1965261774120513807"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/FZV8rL0CHd",
+              "end": 26,
+              "expanded_url": "https://x.com/ramep40/status/1965261774120513807/photo/1",
+              "media_key": "3_1965261768189771778",
+              "start": 3,
+              "url": "https://t.co/FZV8rL0CHd"
+            },
+            {
+              "display_url": "x.com/ramep40/status…",
+              "end": 50,
+              "expanded_url": "https://twitter.com/ramep40/status/1965068706352128262",
+              "start": 27,
+              "url": "https://t.co/PMApSiGgof"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1965261774120513807",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3556,
+          "impression_count": 542271,
+          "like_count": 27137,
+          "quote_count": 12,
+          "reply_count": 18,
+          "retweet_count": 2552
+        },
+        "referenced_tweets": [
+          {
+            "id": "1965068706352128262",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "全身 https://t.co/FZV8rL0CHd https://t.co/PMApSiGgof"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-12T18:50:19.000Z",
+        "description": "随缘//医学爱好者/les🏳️‍🌈/lgbt友好/中文/EN/Arknights/绘画/混乱日常碎碎念/很吵//喵喵 【永远拥护培根卷番茄！】",
+        "id": "1569397683814629379",
+        "location": "世界的尽头",
+        "name": "腐烂培根卷",
+        "pinned_tweet_id": "1937498024907010498",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953366409284861953/HM3Aeou7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 103,
+          "following_count": 683,
+          "like_count": 2014,
+          "listed_count": 1,
+          "media_count": 59,
+          "tweet_count": 2571
+        },
+        "username": "ppppggggjjjj",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-30T01:27:39.000Z",
+        "description": "⚠︎ Do not use,repost,AI my works ┊︎ skeb https://t.co/mCWJmd8XvS ┊︎ ✉️ mepo38606@gmail.com ┊︎sub @mep400",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 104,
+                "start": 97,
+                "username": "mep400"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "skeb.jp/@ramep40",
+                "end": 64,
+                "expanded_url": "http://skeb.jp/@ramep40",
+                "start": 41,
+                "url": "https://t.co/mCWJmd8XvS"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/65449966",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/65449966",
+                "start": 0,
+                "url": "https://t.co/nLrZzjUg0O"
+              }
+            ]
+          }
+        },
+        "id": "1906156282538778624",
+        "name": "mepl",
+        "pinned_tweet_id": "1954867308998066361",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1929922430300237830/COLHyitI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9228,
+          "following_count": 114,
+          "like_count": 4504,
+          "listed_count": 60,
+          "media_count": 183,
+          "tweet_count": 1814
+        },
+        "url": "https://t.co/nLrZzjUg0O",
+        "username": "ramep40",
+        "verified": false
+      }
+    ]
+  }
+}

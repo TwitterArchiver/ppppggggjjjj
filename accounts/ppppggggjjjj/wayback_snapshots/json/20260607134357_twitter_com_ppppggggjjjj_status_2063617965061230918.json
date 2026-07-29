@@ -1,0 +1,248 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2063158833430863872"
+      ],
+      "media_source_tweet_id": [
+        "2063158836383588616"
+      ]
+    },
+    "author_id": "1569397683814629379",
+    "conversation_id": "2063617965061230918",
+    "created_at": "2026-06-07T13:43:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-07T14:43:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063617965061230918"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1354770292044820488",
+          "start": 3,
+          "username": "oliwakami6203"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Zi8fGRbS8q",
+          "end": 42,
+          "expanded_url": "https://x.com/oliwakami6203/status/2063158836383588616/photo/1",
+          "media_key": "3_2063158833430863872",
+          "start": 19,
+          "url": "https://t.co/Zi8fGRbS8q"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063617965061230918",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 36
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063158836383588616",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @oliwakami6203: https://t.co/Zi8fGRbS8q"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1640,
+        "media_key": "3_2063158833430863872",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKHQByXbIAAr1ON.jpg",
+        "width": 1260
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2063158833430863872"
+          ],
+          "media_source_tweet_id": [
+            "2063158836383588616"
+          ]
+        },
+        "author_id": "1569397683814629379",
+        "conversation_id": "2063617965061230918",
+        "created_at": "2026-06-07T13:43:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-07T14:43:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063617965061230918"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1354770292044820488",
+              "start": 3,
+              "username": "oliwakami6203"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Zi8fGRbS8q",
+              "end": 42,
+              "expanded_url": "https://x.com/oliwakami6203/status/2063158836383588616/photo/1",
+              "media_key": "3_2063158833430863872",
+              "start": 19,
+              "url": "https://t.co/Zi8fGRbS8q"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063617965061230918",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 36
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063158836383588616",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @oliwakami6203: https://t.co/Zi8fGRbS8q"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2063158833430863872"
+          ]
+        },
+        "author_id": "1354770292044820488",
+        "conversation_id": "2063158836383588616",
+        "created_at": "2026-06-06T07:19:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-06T08:19:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063158836383588616"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Zi8fGRbS8q",
+              "end": 23,
+              "expanded_url": "https://x.com/oliwakami6203/status/2063158836383588616/photo/1",
+              "media_key": "3_2063158833430863872",
+              "start": 0,
+              "url": "https://t.co/Zi8fGRbS8q"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063158836383588616",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 26,
+          "impression_count": 25357,
+          "like_count": 552,
+          "quote_count": 2,
+          "reply_count": 30,
+          "retweet_count": 36
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/Zi8fGRbS8q"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-12T18:50:19.000Z",
+        "description": "随缘//医学爱好者/Arknights/绘画/混乱日常碎碎念无营养内容/可能会很吵？ /les/lgbt友好/中文/EN//喵喵//提问箱↓ ↓ ↓",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ppppppppp38481",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ppppppppp38481",
+                "start": 0,
+                "url": "https://t.co/dw8CaO6ajX"
+              }
+            ]
+          }
+        },
+        "id": "1569397683814629379",
+        "location": "世界的尽头",
+        "name": "腐烂培根卷",
+        "pinned_tweet_id": "2012485424057291255",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953366409284861953/HM3Aeou7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 241,
+          "following_count": 1610,
+          "like_count": 9589,
+          "listed_count": 1,
+          "media_count": 104,
+          "tweet_count": 6878
+        },
+        "url": "https://t.co/dw8CaO6ajX",
+        "username": "ppppggggjjjj",
+        "verified": false
+      },
+      {
+        "created_at": "2021-01-28T12:36:37.000Z",
+        "description": "19岁 osu player\n讨厌某些人 某些事情\n也许心理有问题",
+        "id": "1354770292044820488",
+        "name": "小仓澪",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035745649665384448/KJ2bjsH0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 125,
+          "following_count": 678,
+          "like_count": 1494,
+          "listed_count": 0,
+          "media_count": 102,
+          "tweet_count": 426
+        },
+        "username": "oliwakami6203",
+        "verified": false
+      }
+    ]
+  }
+}

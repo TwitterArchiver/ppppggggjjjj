@@ -1,0 +1,287 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2046492737097334784"
+      ],
+      "media_source_tweet_id": [
+        "2046492741891391784"
+      ]
+    },
+    "author_id": "1569397683814629379",
+    "conversation_id": "2046572084151951812",
+    "created_at": "2026-04-21T12:49:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-21T13:49:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2046572084151951812"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1751497892001685504",
+          "start": 3,
+          "username": "45_206MHz"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/C0glvj3c1Z",
+          "end": 66,
+          "expanded_url": "https://x.com/45_206MHz/status/2046492741891391784/photo/1",
+          "media_key": "3_2046492737097334784",
+          "start": 43,
+          "url": "https://t.co/C0glvj3c1Z"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2046572084151951812",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 6
+    },
+    "referenced_tweets": [
+      {
+        "id": "2046492741891391784",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @45_206MHz: 当你听不清对方在说什么但是你有用掉两次“哈？”的时候： https://t.co/C0glvj3c1Z"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1088,
+        "media_key": "3_2046492737097334784",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGaaTTYagAAMiIJ.jpg",
+        "width": 1088
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2046492737097334784"
+          ],
+          "media_source_tweet_id": [
+            "2046492741891391784"
+          ]
+        },
+        "author_id": "1569397683814629379",
+        "conversation_id": "2046572084151951812",
+        "created_at": "2026-04-21T12:49:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-21T13:49:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046572084151951812"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1751497892001685504",
+              "start": 3,
+              "username": "45_206MHz"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/C0glvj3c1Z",
+              "end": 66,
+              "expanded_url": "https://x.com/45_206MHz/status/2046492741891391784/photo/1",
+              "media_key": "3_2046492737097334784",
+              "start": 43,
+              "url": "https://t.co/C0glvj3c1Z"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046572084151951812",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 6
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046492741891391784",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @45_206MHz: 当你听不清对方在说什么但是你有用掉两次“哈？”的时候： https://t.co/C0glvj3c1Z"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2046492737097334784"
+          ]
+        },
+        "author_id": "1751497892001685504",
+        "conversation_id": "2046492741891391784",
+        "created_at": "2026-04-21T07:34:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-21T08:34:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2046492741891391784"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/C0glvj3c1Z",
+              "end": 51,
+              "expanded_url": "https://x.com/45_206MHz/status/2046492741891391784/photo/1",
+              "media_key": "3_2046492737097334784",
+              "start": 28,
+              "url": "https://t.co/C0glvj3c1Z"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046492741891391784",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 4227,
+          "like_count": 175,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 6
+        },
+        "reply_settings": "everyone",
+        "text": "当你听不清对方在说什么但是你有用掉两次“哈？”的时候： https://t.co/C0glvj3c1Z"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-12T18:50:19.000Z",
+        "description": "随缘//医学爱好者/Arknights/绘画/混乱日常碎碎念无营养内容/可能会很吵？ /les/lgbt友好/中文/EN//喵喵//提问箱↓ ↓ ↓",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ppppppppp38481",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ppppppppp38481",
+                "start": 0,
+                "url": "https://t.co/dw8CaO6ajX"
+              }
+            ]
+          }
+        },
+        "id": "1569397683814629379",
+        "location": "世界的尽头",
+        "name": "腐烂培根卷",
+        "pinned_tweet_id": "2012485424057291255",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953366409284861953/HM3Aeou7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 207,
+          "following_count": 1308,
+          "like_count": 6766,
+          "listed_count": 1,
+          "media_count": 99,
+          "tweet_count": 5245
+        },
+        "url": "https://t.co/dw8CaO6ajX",
+        "username": "ppppggggjjjj",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-28T06:50:23.000Z",
+        "description": "any pronoun\n叫我 45 就好啦\nAMAB | gender apathetic\n里推: @45_206io | ⭐😡: @MomoseReina\nBluesky同名\n提问箱：https://t.co/68frWGl4xj",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 59,
+                "start": 50,
+                "username": "45_206io"
+              },
+              {
+                "end": 78,
+                "start": 66,
+                "username": "MomoseReina"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/45.206mhz",
+                "end": 116,
+                "expanded_url": "https://ngl.link/45.206mhz",
+                "start": 93,
+                "url": "https://t.co/68frWGl4xj"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/45.206mhz",
+                "end": 23,
+                "expanded_url": "https://ngl.link/45.206mhz",
+                "start": 0,
+                "url": "https://t.co/68frWGl4xj"
+              }
+            ]
+          }
+        },
+        "id": "1751497892001685504",
+        "location": "maimai DX Circle (Int’l)",
+        "name": "45.206 MHᴢ 🇳🇿",
+        "pinned_tweet_id": "1955945247575507298",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039289556911194112/f7iNbdDq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2119,
+          "following_count": 499,
+          "like_count": 33429,
+          "listed_count": 0,
+          "media_count": 624,
+          "tweet_count": 3837
+        },
+        "url": "https://t.co/68frWGl4xj",
+        "username": "45_206MHz",
+        "verified": false
+      }
+    ]
+  }
+}

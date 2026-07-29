@@ -1,0 +1,248 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1697195661425598464"
+      ],
+      "media_source_tweet_id": [
+        "1697195853331792241"
+      ]
+    },
+    "author_id": "1569397683814629379",
+    "conversation_id": "2041149525700837588",
+    "created_at": "2026-04-06T13:42:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-06T14:42:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2041149525700837588"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1104758271531835392",
+          "start": 3,
+          "username": "chohui94"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/0gkUIGyYoM",
+          "end": 37,
+          "expanded_url": "https://x.com/chohui94/status/1697195853331792241/photo/1",
+          "media_key": "3_1697195661425598464",
+          "start": 14,
+          "url": "https://t.co/0gkUIGyYoM"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2041149525700837588",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 6865
+    },
+    "referenced_tweets": [
+      {
+        "id": "1697195853331792241",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @chohui94: https://t.co/0gkUIGyYoM"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1858,
+        "media_key": "3_1697195661425598464",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/F42mdkGbYAAEdw4.jpg",
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1697195661425598464"
+          ],
+          "media_source_tweet_id": [
+            "1697195853331792241"
+          ]
+        },
+        "author_id": "1569397683814629379",
+        "conversation_id": "2041149525700837588",
+        "created_at": "2026-04-06T13:42:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-06T14:42:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041149525700837588"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1104758271531835392",
+              "start": 3,
+              "username": "chohui94"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/0gkUIGyYoM",
+              "end": 37,
+              "expanded_url": "https://x.com/chohui94/status/1697195853331792241/photo/1",
+              "media_key": "3_1697195661425598464",
+              "start": 14,
+              "url": "https://t.co/0gkUIGyYoM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041149525700837588",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 6865
+        },
+        "referenced_tweets": [
+          {
+            "id": "1697195853331792241",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @chohui94: https://t.co/0gkUIGyYoM"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1697195661425598464"
+          ]
+        },
+        "author_id": "1104758271531835392",
+        "conversation_id": "1697195853331792241",
+        "created_at": "2023-08-31T10:33:18.000Z",
+        "edit_controls": {
+          "editable_until": "2023-08-31T11:33:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1697195853331792241"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/0gkUIGyYoM",
+              "end": 23,
+              "expanded_url": "https://x.com/chohui94/status/1697195853331792241/photo/1",
+              "media_key": "3_1697195661425598464",
+              "start": 0,
+              "url": "https://t.co/0gkUIGyYoM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1697195853331792241",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1735,
+          "impression_count": 783117,
+          "like_count": 32123,
+          "quote_count": 83,
+          "reply_count": 33,
+          "retweet_count": 6865
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/0gkUIGyYoM"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-12T18:50:19.000Z",
+        "description": "随缘//医学/Arknights/绘画/混乱日常碎碎念无营养内容/可能会很吵？ /les/lgbt友好/中文/EN//喵喵//提问箱↓ ↓ ↓",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ppppppppp38481",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ppppppppp38481",
+                "start": 0,
+                "url": "https://t.co/dw8CaO6ajX"
+              }
+            ]
+          }
+        },
+        "id": "1569397683814629379",
+        "location": "世界的尽头",
+        "name": "腐烂培根卷",
+        "pinned_tweet_id": "2012485424057291255",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953366409284861953/HM3Aeou7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 186,
+          "following_count": 1207,
+          "like_count": 5943,
+          "listed_count": 1,
+          "media_count": 98,
+          "tweet_count": 4898
+        },
+        "url": "https://t.co/dw8CaO6ajX",
+        "username": "ppppggggjjjj",
+        "verified": false
+      },
+      {
+        "created_at": "2019-03-10T14:57:52.000Z",
+        "description": "천연히 | Illustrator | ◽️Contact: yuichohui94@gmail.com",
+        "id": "1104758271531835392",
+        "name": "天然히",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007472746419367939/I84RNeri_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 75819,
+          "following_count": 451,
+          "like_count": 4784,
+          "listed_count": 500,
+          "media_count": 161,
+          "tweet_count": 1548
+        },
+        "username": "chohui94",
+        "verified": false
+      }
+    ]
+  }
+}

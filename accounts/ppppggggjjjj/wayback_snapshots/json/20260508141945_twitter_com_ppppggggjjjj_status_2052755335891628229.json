@@ -1,0 +1,264 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2052632989352472576"
+      ],
+      "media_source_tweet_id": [
+        "2052633296065196403"
+      ]
+    },
+    "author_id": "1569397683814629379",
+    "conversation_id": "2052755335891628229",
+    "created_at": "2026-05-08T14:19:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-08T15:19:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2052755335891628229"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "4024671734",
+          "start": 3,
+          "username": "chikuKWR"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/YREWECE476",
+          "end": 42,
+          "expanded_url": "https://x.com/chikuKWR/status/2052633296065196403/photo/1",
+          "media_key": "3_2052632989352472576",
+          "start": 19,
+          "url": "https://t.co/YREWECE476"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052755335891628229",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1356
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052633296065196403",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @chikuKWR: 🦊📸🦊💞 https://t.co/YREWECE476"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1080,
+        "media_key": "3_2052632989352472576",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHxq1BiaMAA4l4P.jpg",
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2052632989352472576"
+          ],
+          "media_source_tweet_id": [
+            "2052633296065196403"
+          ]
+        },
+        "author_id": "1569397683814629379",
+        "conversation_id": "2052755335891628229",
+        "created_at": "2026-05-08T14:19:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-08T15:19:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052755335891628229"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "4024671734",
+              "start": 3,
+              "username": "chikuKWR"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/YREWECE476",
+              "end": 42,
+              "expanded_url": "https://x.com/chikuKWR/status/2052633296065196403/photo/1",
+              "media_key": "3_2052632989352472576",
+              "start": 19,
+              "url": "https://t.co/YREWECE476"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052755335891628229",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1356
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052633296065196403",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @chikuKWR: 🦊📸🦊💞 https://t.co/YREWECE476"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2052632989352472576"
+          ]
+        },
+        "author_id": "4024671734",
+        "conversation_id": "2052633296065196403",
+        "created_at": "2026-05-08T06:14:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-08T07:14:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2052633296065196403"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/YREWECE476",
+              "end": 28,
+              "expanded_url": "https://x.com/chikuKWR/status/2052633296065196403/photo/1",
+              "media_key": "3_2052632989352472576",
+              "start": 5,
+              "url": "https://t.co/YREWECE476"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052633296065196403",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 852,
+          "impression_count": 80781,
+          "like_count": 7024,
+          "quote_count": 28,
+          "reply_count": 3,
+          "retweet_count": 1356
+        },
+        "reply_settings": "everyone",
+        "text": "🦊📸🦊💞 https://t.co/YREWECE476"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-12T18:50:19.000Z",
+        "description": "随缘//医学爱好者/Arknights/绘画/混乱日常碎碎念无营养内容/可能会很吵？ /les/lgbt友好/中文/EN//喵喵//提问箱↓ ↓ ↓",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ppppppppp38481",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ppppppppp38481",
+                "start": 0,
+                "url": "https://t.co/dw8CaO6ajX"
+              }
+            ]
+          }
+        },
+        "id": "1569397683814629379",
+        "location": "世界的尽头",
+        "name": "腐烂培根卷",
+        "pinned_tweet_id": "2012485424057291255",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953366409284861953/HM3Aeou7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 234,
+          "following_count": 1414,
+          "like_count": 7666,
+          "listed_count": 1,
+          "media_count": 100,
+          "tweet_count": 5788
+        },
+        "url": "https://t.co/dw8CaO6ajX",
+        "username": "ppppggggjjjj",
+        "verified": false
+      },
+      {
+        "created_at": "2015-10-26T13:14:04.000Z",
+        "description": "中文\nchikukwr@gmail.com",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/4009052",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/4009052",
+                "start": 0,
+                "url": "https://t.co/upHU6nF4Pk"
+              }
+            ]
+          }
+        },
+        "id": "4024671734",
+        "location": "China",
+        "name": "蕉",
+        "pinned_tweet_id": "1924705317314818226",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1388059756154163201/E0LEsvkl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 143339,
+          "following_count": 497,
+          "like_count": 1838,
+          "listed_count": 1253,
+          "media_count": 120,
+          "tweet_count": 248
+        },
+        "url": "https://t.co/upHU6nF4Pk",
+        "username": "chikuKWR",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,513 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1996525974436122624"
+      ],
+      "media_source_tweet_id": [
+        "1996525985093820915"
+      ]
+    },
+    "author_id": "1569397683814629379",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+          "id": "67",
+          "name": "Interests and Hobbies"
+        },
+        "entity": {
+          "description": "Drawing and sketching",
+          "id": "847869251595542528",
+          "name": "Drawing & illustration"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Drawing and sketching",
+          "id": "847869251595542528",
+          "name": "Drawing & illustration"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Visual Arts",
+          "id": "1046577790353428480",
+          "name": "Visual arts"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1265660441822281728",
+          "name": "Art"
+        }
+      }
+    ],
+    "conversation_id": "1996763908292726916",
+    "created_at": "2025-12-05T02:09:48.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-05T03:09:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1996763908292726916"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 25,
+          "normalized_text": "C107 ヴィグナちゃん",
+          "probability": 0.2797,
+          "start": 14,
+          "type": "Person"
+        }
+      ],
+      "hashtags": [
+        {
+          "end": 45,
+          "start": 40,
+          "tag": "C107"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 12,
+          "id": "707023222638678016",
+          "start": 3,
+          "username": "hemorina"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/csL9RS1q5f",
+          "end": 69,
+          "expanded_url": "https://x.com/hemorina/status/1996525985093820915/photo/1",
+          "media_key": "3_1996525974436122624",
+          "start": 46,
+          "url": "https://t.co/csL9RS1q5f"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1996763908292726916",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 135
+    },
+    "referenced_tweets": [
+      {
+        "id": "1996525985093820915",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @hemorina: C107 ヴィグナちゃんイラスト本表紙だよ！⚡️😈\n#C107 https://t.co/csL9RS1q5f"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2123,
+        "media_key": "3_1996525974436122624",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7UVy7MbEAA7Ige.jpg",
+        "width": 1503
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1996525974436122624"
+          ],
+          "media_source_tweet_id": [
+            "1996525985093820915"
+          ]
+        },
+        "author_id": "1569397683814629379",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Drawing and sketching",
+              "id": "847869251595542528",
+              "name": "Drawing & illustration"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Drawing and sketching",
+              "id": "847869251595542528",
+              "name": "Drawing & illustration"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Visual Arts",
+              "id": "1046577790353428480",
+              "name": "Visual arts"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1265660441822281728",
+              "name": "Art"
+            }
+          }
+        ],
+        "conversation_id": "1996763908292726916",
+        "created_at": "2025-12-05T02:09:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-05T03:09:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1996763908292726916"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 25,
+              "normalized_text": "C107 ヴィグナちゃん",
+              "probability": 0.2797,
+              "start": 14,
+              "type": "Person"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 45,
+              "start": 40,
+              "tag": "C107"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 12,
+              "id": "707023222638678016",
+              "start": 3,
+              "username": "hemorina"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/csL9RS1q5f",
+              "end": 69,
+              "expanded_url": "https://x.com/hemorina/status/1996525985093820915/photo/1",
+              "media_key": "3_1996525974436122624",
+              "start": 46,
+              "url": "https://t.co/csL9RS1q5f"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1996763908292726916",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 135
+        },
+        "referenced_tweets": [
+          {
+            "id": "1996525985093820915",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @hemorina: C107 ヴィグナちゃんイラスト本表紙だよ！⚡️😈\n#C107 https://t.co/csL9RS1q5f"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1996525974436122624"
+          ]
+        },
+        "author_id": "707023222638678016",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Drawing and sketching",
+              "id": "847869251595542528",
+              "name": "Drawing & illustration"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Drawing and sketching",
+              "id": "847869251595542528",
+              "name": "Drawing & illustration"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Visual Arts",
+              "id": "1046577790353428480",
+              "name": "Visual arts"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1265660441822281728",
+              "name": "Art"
+            }
+          }
+        ],
+        "conversation_id": "1996525985093820915",
+        "created_at": "2025-12-04T10:24:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-04T11:24:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1996525985093820915"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 11,
+              "normalized_text": "C107 ヴィグナちゃん",
+              "probability": 0.3553,
+              "start": 0,
+              "type": "Person"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 31,
+              "start": 26,
+              "tag": "C107"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/csL9RS1q5f",
+              "end": 55,
+              "expanded_url": "https://x.com/hemorina/status/1996525985093820915/photo/1",
+              "media_key": "3_1996525974436122624",
+              "start": 32,
+              "url": "https://t.co/csL9RS1q5f"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1996525985093820915",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 68,
+          "impression_count": 13254,
+          "like_count": 1091,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 135
+        },
+        "reply_settings": "everyone",
+        "text": "C107 ヴィグナちゃんイラスト本表紙だよ！⚡️😈\n#C107 https://t.co/csL9RS1q5f"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-12T18:50:19.000Z",
+        "description": "随缘//医学爱好者/les🏳️‍🌈/lgbt友好/中文/EN/Arknights/绘画/混乱日常碎碎念/很吵//喵喵 【永远拥护培根卷番茄！】",
+        "id": "1569397683814629379",
+        "location": "世界的尽头",
+        "name": "腐烂培根卷",
+        "pinned_tweet_id": "1993298688010322328",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953366409284861953/HM3Aeou7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 151,
+          "following_count": 897,
+          "like_count": 3307,
+          "listed_count": 1,
+          "media_count": 87,
+          "tweet_count": 3932
+        },
+        "username": "ppppggggjjjj",
+        "verified": false
+      },
+      {
+        "created_at": "2016-03-08T02:00:46.000Z",
+        "description": "気ままに絵を描くヘモグロビン\nサブ→Vへも(@VHemorina)\nBluesky→(@ hemorina)\nSkeb→https://t.co/wBEt11Sr8R　\nマシュマロ→https://t.co/qdbhQ90Tdo\n絵の無断転載・AI学習禁止\n共有タグ→　＃ヘモリーナダイアリー",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 146,
+                "start": 135,
+                "tag": "ヘモリーナダイアリー"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 32,
+                "start": 22,
+                "username": "VHemorina"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "skeb.jp/@hemorina",
+                "end": 83,
+                "expanded_url": "http://skeb.jp/@hemorina",
+                "start": 60,
+                "url": "https://t.co/wBEt11Sr8R"
+              },
+              {
+                "display_url": "marshmallow-qa.com/hemorina",
+                "end": 114,
+                "expanded_url": "http://marshmallow-qa.com/hemorina",
+                "start": 91,
+                "url": "https://t.co/qdbhQ90Tdo"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/hemorina",
+                "end": 23,
+                "expanded_url": "https://lit.link/hemorina",
+                "start": 0,
+                "url": "https://t.co/oRjUpJZJYM"
+              }
+            ]
+          }
+        },
+        "id": "707023222638678016",
+        "location": "サークル「HEMORINA COLOR」",
+        "name": "覚醒ヘモリーナ@1日目 ヌ－10a(東５ホール)",
+        "pinned_tweet_id": "1986714548712456507",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1763520303492435968/S4BuI3NA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18502,
+          "following_count": 637,
+          "like_count": 17537,
+          "listed_count": 171,
+          "media_count": 3792,
+          "tweet_count": 24417
+        },
+        "url": "https://t.co/oRjUpJZJYM",
+        "username": "hemorina",
+        "verified": false
+      }
+    ]
+  }
+}

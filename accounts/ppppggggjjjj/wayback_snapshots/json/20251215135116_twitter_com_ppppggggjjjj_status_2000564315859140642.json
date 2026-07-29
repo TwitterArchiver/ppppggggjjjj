@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1569397683814629379",
+    "conversation_id": "2000564315859140642",
+    "created_at": "2025-12-15T13:51:16.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-15T14:51:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2000564315859140642"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1806968851718164480",
+          "start": 3,
+          "username": "Yu_uzzOvO"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2000564315859140642",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 60
+    },
+    "referenced_tweets": [
+      {
+        "id": "2000224846773674052",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Yu_uzzOvO: 你什么时候死全家？我好想成为你唯一的依靠"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1569397683814629379",
+        "conversation_id": "2000564315859140642",
+        "created_at": "2025-12-15T13:51:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-15T14:51:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2000564315859140642"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1806968851718164480",
+              "start": 3,
+              "username": "Yu_uzzOvO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2000564315859140642",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 60
+        },
+        "referenced_tweets": [
+          {
+            "id": "2000224846773674052",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Yu_uzzOvO: 你什么时候死全家？我好想成为你唯一的依靠"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1806968851718164480",
+        "conversation_id": "2000224846773674052",
+        "created_at": "2025-12-14T15:22:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-14T16:22:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2000224846773674052"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2000224846773674052",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 12,
+          "impression_count": 34361,
+          "like_count": 403,
+          "quote_count": 6,
+          "reply_count": 49,
+          "retweet_count": 60
+        },
+        "reply_settings": "everyone",
+        "text": "你什么时候死全家？我好想成为你唯一的依靠"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-12T18:50:19.000Z",
+        "description": "随缘//医学爱好者/les🏳️‍🌈/lgbt友好/中文/EN/Arknights/绘画/混乱日常碎碎念/很吵//喵喵 【永远拥护培根卷番茄！】",
+        "id": "1569397683814629379",
+        "location": "世界的尽头",
+        "name": "腐烂培根卷",
+        "pinned_tweet_id": "1993298688010322328",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953366409284861953/HM3Aeou7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 157,
+          "following_count": 963,
+          "like_count": 3489,
+          "listed_count": 1,
+          "media_count": 88,
+          "tweet_count": 4049
+        },
+        "username": "ppppggggjjjj",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-29T08:32:15.000Z",
+        "description": "🚪108🛰️ 感谢主人投喂喵 拒没素质没礼貌/欧派小小 说话吊吊/傻逼都滚 不约炮不接置顶",
+        "id": "1806968851718164480",
+        "location": "地球",
+        "name": "雨雨宝",
+        "pinned_tweet_id": "1995167481292534158",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1994756095240482816/WQq53uIY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2522,
+          "following_count": 14,
+          "like_count": 634,
+          "listed_count": 4,
+          "media_count": 106,
+          "tweet_count": 245
+        },
+        "username": "Yu_uzzOvO",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,176 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1569397683814629379",
+    "conversation_id": "1992456720401231942",
+    "created_at": "2025-11-23T04:54:34.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-23T05:54:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1992456720401231942"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1549239881469140992",
+          "start": 3,
+          "username": "simplyrotten"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1992456720401231942",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1485
+    },
+    "referenced_tweets": [
+      {
+        "id": "1992222114653610094",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @simplyrotten: parents be like \"you know you can talk to me about anything right?\" and then make it extremely clear it will go very poor…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1569397683814629379",
+        "conversation_id": "1992456720401231942",
+        "created_at": "2025-11-23T04:54:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-23T05:54:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1992456720401231942"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1549239881469140992",
+              "start": 3,
+              "username": "simplyrotten"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1992456720401231942",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1485
+        },
+        "referenced_tweets": [
+          {
+            "id": "1992222114653610094",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @simplyrotten: parents be like \"you know you can talk to me about anything right?\" and then make it extremely clear it will go very poor…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1549239881469140992",
+        "conversation_id": "1992222114653610094",
+        "created_at": "2025-11-22T13:22:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-22T14:22:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1992222114653610094"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1992222114653610094",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 288,
+          "impression_count": 44972,
+          "like_count": 7316,
+          "quote_count": 55,
+          "reply_count": 4,
+          "retweet_count": 1485
+        },
+        "reply_settings": "everyone",
+        "text": "parents be like \"you know you can talk to me about anything right?\" and then make it extremely clear it will go very poorly if you talk to them about specific things"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-12T18:50:19.000Z",
+        "description": "随缘//医学爱好者/les🏳️‍🌈/lgbt友好/中文/EN/Arknights/绘画/混乱日常碎碎念/很吵//喵喵 【永远拥护培根卷番茄！】",
+        "id": "1569397683814629379",
+        "location": "世界的尽头",
+        "name": "腐烂培根卷",
+        "pinned_tweet_id": "1937498024907010498",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953366409284861953/HM3Aeou7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 143,
+          "following_count": 817,
+          "like_count": 2958,
+          "listed_count": 1,
+          "media_count": 82,
+          "tweet_count": 3795
+        },
+        "username": "ppppggggjjjj",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-19T03:49:28.000Z",
+        "description": "",
+        "id": "1549239881469140992",
+        "name": "ana",
+        "pinned_tweet_id": "1980029683006681138",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1991985333529952257/cZLyMPIJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9529,
+          "following_count": 275,
+          "like_count": 10121,
+          "listed_count": 17,
+          "media_count": 11,
+          "tweet_count": 5542
+        },
+        "username": "simplyrotten",
+        "verified": false
+      }
+    ]
+  }
+}

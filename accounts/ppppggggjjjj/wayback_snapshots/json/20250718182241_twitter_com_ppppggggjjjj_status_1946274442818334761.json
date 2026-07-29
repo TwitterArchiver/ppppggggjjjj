@@ -1,0 +1,95 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1946274428733542400"
+      ]
+    },
+    "author_id": "1569397683814629379",
+    "conversation_id": "1946274442818334761",
+    "created_at": "2025-07-18T18:22:41.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-18T19:22:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1946274442818334761"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/amcSvQnfp1",
+          "end": 30,
+          "expanded_url": "https://x.com/ppppggggjjjj/status/1946274442818334761/photo/1",
+          "media_key": "3_1946274428733542400",
+          "start": 7,
+          "url": "https://t.co/amcSvQnfp1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1946274442818334761",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "主播爆照了哟 https://t.co/amcSvQnfp1"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1946274442818334761].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1946274442818334761",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1946274442818334761"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_1946274428733542400",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GwKOR_gW0AA5pup.jpg",
+        "width": 1024
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-12T18:50:19.000Z",
+        "description": "随缘//医学爱好者/les🏳️‍🌈/lgbt友好/中文/EN/Arknights/绘画/混乱日常碎碎念/很吵//喵喵",
+        "id": "1569397683814629379",
+        "location": "世界的尽头",
+        "name": "腐烂苹果酱",
+        "pinned_tweet_id": "1937498024907010498",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1620839959388393479/hsMKvVei_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 89,
+          "following_count": 606,
+          "like_count": 1502,
+          "listed_count": 0,
+          "media_count": 42,
+          "tweet_count": 1753
+        },
+        "username": "ppppggggjjjj",
+        "verified": false
+      }
+    ]
+  }
+}

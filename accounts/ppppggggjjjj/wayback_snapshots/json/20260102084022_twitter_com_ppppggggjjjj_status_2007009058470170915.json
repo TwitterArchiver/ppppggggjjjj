@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2006495808867205121"
+      ],
+      "media_source_tweet_id": [
+        "2006496203987628537"
+      ]
+    },
+    "author_id": "1569397683814629379",
+    "conversation_id": "2007009058470170915",
+    "created_at": "2026-01-02T08:40:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-02T09:40:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2007009058470170915"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1979119395948380160",
+          "start": 3,
+          "username": "mesugakirat"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/PJQewlyvRu",
+          "end": 45,
+          "expanded_url": "https://x.com/mesugakirat/status/2006496203987628537/photo/1",
+          "media_key": "3_2006495808867205121",
+          "start": 22,
+          "url": "https://t.co/PJQewlyvRu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2007009058470170915",
+    "lang": "in",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2353
+    },
+    "referenced_tweets": [
+      {
+        "id": "2006496203987628537",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @mesugakirat: YURI https://t.co/PJQewlyvRu"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2007009058470170915].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2007009058470170915",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2007009058470170915"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 735,
+        "media_key": "3_2006495808867205121",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G9iBTqrXAAEwPgK.jpg",
+        "width": 1295
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2006495808867205121"
+          ]
+        },
+        "author_id": "1979119395948380160",
+        "conversation_id": "2006496203987628537",
+        "created_at": "2025-12-31T22:42:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-31T23:42:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2006496203987628537"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/PJQewlyvRu",
+              "end": 28,
+              "expanded_url": "https://x.com/mesugakirat/status/2006496203987628537/photo/1",
+              "media_key": "3_2006495808867205121",
+              "start": 5,
+              "url": "https://t.co/PJQewlyvRu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2006496203987628537",
+        "lang": "in",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4193,
+          "impression_count": 298510,
+          "like_count": 27494,
+          "quote_count": 117,
+          "reply_count": 24,
+          "retweet_count": 2353
+        },
+        "reply_settings": "everyone",
+        "text": "YURI https://t.co/PJQewlyvRu"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-12T18:50:19.000Z",
+        "description": "随缘//医学爱好者/les🏳️‍🌈/lgbt友好/中文/EN/Arknights/绘画/混乱日常碎碎念/很吵//喵喵 【永远拥护培根卷番茄！】",
+        "id": "1569397683814629379",
+        "location": "世界的尽头",
+        "name": "腐烂培根卷",
+        "pinned_tweet_id": "1993298688010322328",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953366409284861953/HM3Aeou7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 174,
+          "following_count": 1017,
+          "like_count": 3967,
+          "listed_count": 1,
+          "media_count": 91,
+          "tweet_count": 4240
+        },
+        "username": "ppppggggjjjj",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-17T09:37:10.000Z",
+        "description": "hello buy me things \nhttps://t.co/s98TrnyZvz\nback up acc",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "throne.com/m3gus4ki",
+                "end": 44,
+                "expanded_url": "https://throne.com/m3gus4ki",
+                "start": 21,
+                "url": "https://t.co/s98TrnyZvz"
+              }
+            ]
+          }
+        },
+        "id": "1979119395948380160",
+        "name": "yuka",
+        "pinned_tweet_id": "1979688278539620533",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2006741004385161216/UD2aDSar_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1056,
+          "following_count": 176,
+          "like_count": 2814,
+          "listed_count": 3,
+          "media_count": 176,
+          "tweet_count": 504
+        },
+        "username": "mesugakirat",
+        "verified": false
+      }
+    ]
+  }
+}

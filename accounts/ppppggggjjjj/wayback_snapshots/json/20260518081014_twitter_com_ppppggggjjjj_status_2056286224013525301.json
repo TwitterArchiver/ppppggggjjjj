@@ -1,0 +1,250 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2055927974583771136"
+      ],
+      "media_source_tweet_id": [
+        "2055927977087729978"
+      ]
+    },
+    "author_id": "1569397683814629379",
+    "conversation_id": "2056286224013525301",
+    "created_at": "2026-05-18T08:10:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-18T09:10:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2056286224013525301"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1078319338862440448",
+          "start": 3,
+          "username": "Saawawa_"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/4nwkDkzrqw",
+          "end": 37,
+          "expanded_url": "https://x.com/Saawawa_/status/2055927977087729978/photo/1",
+          "media_key": "3_2055927974583771136",
+          "start": 14,
+          "url": "https://t.co/4nwkDkzrqw"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056286224013525301",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 422
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055927977087729978",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Saawawa_: https://t.co/4nwkDkzrqw"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 749,
+        "media_key": "3_2055927974583771136",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIgfmaDaoAAaKEd.jpg",
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2055927974583771136"
+          ],
+          "media_source_tweet_id": [
+            "2055927977087729978"
+          ]
+        },
+        "author_id": "1569397683814629379",
+        "conversation_id": "2056286224013525301",
+        "created_at": "2026-05-18T08:10:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-18T09:10:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056286224013525301"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1078319338862440448",
+              "start": 3,
+              "username": "Saawawa_"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/4nwkDkzrqw",
+              "end": 37,
+              "expanded_url": "https://x.com/Saawawa_/status/2055927977087729978/photo/1",
+              "media_key": "3_2055927974583771136",
+              "start": 14,
+              "url": "https://t.co/4nwkDkzrqw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056286224013525301",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 422
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055927977087729978",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Saawawa_: https://t.co/4nwkDkzrqw"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2055927974583771136"
+          ]
+        },
+        "author_id": "1078319338862440448",
+        "conversation_id": "2055927977087729978",
+        "created_at": "2026-05-17T08:26:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-17T09:26:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055927977087729978"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/4nwkDkzrqw",
+              "end": 23,
+              "expanded_url": "https://x.com/Saawawa_/status/2055927977087729978/photo/1",
+              "media_key": "3_2055927974583771136",
+              "start": 0,
+              "url": "https://t.co/4nwkDkzrqw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055927977087729978",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 153,
+          "impression_count": 18220,
+          "like_count": 2701,
+          "quote_count": 3,
+          "reply_count": 3,
+          "retweet_count": 422
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/4nwkDkzrqw"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-12T18:50:19.000Z",
+        "description": "随缘//医学爱好者/Arknights/绘画/混乱日常碎碎念无营养内容/可能会很吵？ /les/lgbt友好/中文/EN//喵喵//提问箱↓ ↓ ↓",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ppppppppp38481",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ppppppppp38481",
+                "start": 0,
+                "url": "https://t.co/dw8CaO6ajX"
+              }
+            ]
+          }
+        },
+        "id": "1569397683814629379",
+        "location": "世界的尽头",
+        "name": "腐烂培根卷",
+        "pinned_tweet_id": "2012485424057291255",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953366409284861953/HM3Aeou7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 230,
+          "following_count": 1486,
+          "like_count": 8026,
+          "listed_count": 1,
+          "media_count": 100,
+          "tweet_count": 6056
+        },
+        "url": "https://t.co/dw8CaO6ajX",
+        "username": "ppppggggjjjj",
+        "verified": false
+      },
+      {
+        "created_at": "2018-12-27T15:58:59.000Z",
+        "description": "🇻🇳 (⚙️🕊️) Nhỏ này cọc tính nên đừng có kiếm chuyện.\nDo NOT repost my art without my permission/ Selective w Columdrone supporters, còn lại đa số t ko tiếp.",
+        "id": "1078319338862440448",
+        "location": "Can you lock tf in?",
+        "name": "NN (⚙️🕊️)",
+        "pinned_tweet_id": "2054030612449853769",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055935611564146688/CZb0XNlK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5326,
+          "following_count": 376,
+          "like_count": 14284,
+          "listed_count": 6,
+          "media_count": 461,
+          "tweet_count": 5946
+        },
+        "username": "Saawawa_",
+        "verified": false
+      }
+    ]
+  }
+}

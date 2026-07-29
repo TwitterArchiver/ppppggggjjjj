@@ -1,0 +1,210 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1995151618073890816"
+      ],
+      "media_source_tweet_id": [
+        "1995151622499143761"
+      ]
+    },
+    "author_id": "1569397683814629379",
+    "conversation_id": "1995195261958950955",
+    "created_at": "2025-11-30T18:16:34.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-30T19:16:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1995195261958950955"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1025546987578556417",
+          "start": 3,
+          "username": "FTMiaoX"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/ojm1PzURBl",
+          "end": 36,
+          "expanded_url": "https://x.com/FTMiaoX/status/1995151622499143761/photo/1",
+          "media_key": "3_1995151618073890816",
+          "start": 13,
+          "url": "https://t.co/ojm1PzURBl"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1995195261958950955",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "1995151622499143761",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @FTMiaoX: https://t.co/ojm1PzURBl"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1995195261958950955].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1995195261958950955",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1995195261958950955"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1440,
+        "media_key": "3_1995151618073890816",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7Az02xXEAA-FjG.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1995151618073890816"
+          ]
+        },
+        "author_id": "1025546987578556417",
+        "conversation_id": "1995151622499143761",
+        "created_at": "2025-11-30T15:23:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-30T16:23:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1995151622499143761"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ojm1PzURBl",
+              "end": 23,
+              "expanded_url": "https://x.com/FTMiaoX/status/1995151622499143761/photo/1",
+              "media_key": "3_1995151618073890816",
+              "start": 0,
+              "url": "https://t.co/ojm1PzURBl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1995151622499143761",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 172,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/ojm1PzURBl"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-12T18:50:19.000Z",
+        "description": "随缘//医学爱好者/les🏳️‍🌈/lgbt友好/中文/EN/Arknights/绘画/混乱日常碎碎念/很吵//喵喵 【永远拥护培根卷番茄！】",
+        "id": "1569397683814629379",
+        "location": "世界的尽头",
+        "name": "腐烂培根卷",
+        "pinned_tweet_id": "1993298688010322328",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953366409284861953/HM3Aeou7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 145,
+          "following_count": 844,
+          "like_count": 3106,
+          "listed_count": 1,
+          "media_count": 85,
+          "tweet_count": 3870
+        },
+        "username": "ppppggggjjjj",
+        "verified": false
+      },
+      {
+        "created_at": "2018-08-04T01:00:30.000Z",
+        "description": "FTX/FTM/enby/ta/他/AuDHD/S/Dom/我是发条/人类友好/❤️属于我的@1234566nya/发点自己喜欢的有趣东西/点alt看出处(有水印的不标 有些图我也不知道)/转载授权在主页搜索“授权”/我爱你 希望你幸福快乐/我会在这里与你互动：@IWantMyLilDoggy",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 57,
+                "start": 46,
+                "username": "1234566nya"
+              },
+              {
+                "end": 147,
+                "start": 131,
+                "username": "IWantMyLilDoggy"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/LoveFTMiaoTV",
+                "end": 23,
+                "expanded_url": "https://t.me/LoveFTMiaoTV",
+                "start": 0,
+                "url": "https://t.co/OfJi4k2BhE"
+              }
+            ]
+          }
+        },
+        "id": "1025546987578556417",
+        "location": "关着123的笼子旁边",
+        "name": "🏳️‍🌈发条喵🏳️‍⚧️",
+        "pinned_tweet_id": "1978871306620948810",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1881339664034091009/UbLEaqas_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7737,
+          "following_count": 3380,
+          "like_count": 172946,
+          "listed_count": 22,
+          "media_count": 3450,
+          "tweet_count": 28034
+        },
+        "url": "https://t.co/OfJi4k2BhE",
+        "username": "FTMiaoX",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,490 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1569397683814629379",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Television shows from around the world",
+          "id": "3",
+          "name": "TV Shows"
+        },
+        "entity": {
+          "id": "10051561438",
+          "name": "Steins;Gate"
+        }
+      },
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "description": "Japanese voice actor",
+          "id": "1070725787488157697",
+          "name": "Tomokazu Seki"
+        }
+      },
+      {
+        "domain": {
+          "description": "An actor or actress in the world, like Kate Winslet or Leonardo DiCaprio",
+          "id": "56",
+          "name": "Actor"
+        },
+        "entity": {
+          "description": "Japanese voice actor",
+          "id": "1070725787488157697",
+          "name": "Tomokazu Seki"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Japanese voice actor",
+          "id": "1070725787488157697",
+          "name": "Tomokazu Seki"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1191379707473715201",
+          "name": "Voice actors"
+        }
+      }
+    ],
+    "conversation_id": "2056399704884470159",
+    "created_at": "2026-05-18T15:41:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-18T16:41:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2056399704884470159"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 110,
+          "start": 106,
+          "tag": "橋田至"
+        },
+        {
+          "end": 119,
+          "start": 115,
+          "tag": "関智一"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 13,
+          "id": "869524129",
+          "start": 3,
+          "username": "kagakuadv"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056399704884470159",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 83
+    },
+    "referenced_tweets": [
+      {
+        "id": "2056389354147426714",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @kagakuadv: 🎉━━━━━━━━━━━━🎊\n\n　　🎂HAPPY BIRTHDAY🎂 \n\n🎊━━━━━━━━━━━━🎉\n\n今日5月19日は……\n『STEINS;GATE』シリーズに登場するダルこと\n#橋田至 (CV:#関智一)の誕生日🎉\nお誕生日おめでとう✨\n\n#…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 720,
+        "media_key": "3_2050165963203698688",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHOnFM9aYAAAr6K.jpg",
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1569397683814629379",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Television shows from around the world",
+              "id": "3",
+              "name": "TV Shows"
+            },
+            "entity": {
+              "id": "10051561438",
+              "name": "Steins;Gate"
+            }
+          },
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Japanese voice actor",
+              "id": "1070725787488157697",
+              "name": "Tomokazu Seki"
+            }
+          },
+          {
+            "domain": {
+              "description": "An actor or actress in the world, like Kate Winslet or Leonardo DiCaprio",
+              "id": "56",
+              "name": "Actor"
+            },
+            "entity": {
+              "description": "Japanese voice actor",
+              "id": "1070725787488157697",
+              "name": "Tomokazu Seki"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Japanese voice actor",
+              "id": "1070725787488157697",
+              "name": "Tomokazu Seki"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1191379707473715201",
+              "name": "Voice actors"
+            }
+          }
+        ],
+        "conversation_id": "2056399704884470159",
+        "created_at": "2026-05-18T15:41:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-18T16:41:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056399704884470159"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 110,
+              "start": 106,
+              "tag": "橋田至"
+            },
+            {
+              "end": 119,
+              "start": 115,
+              "tag": "関智一"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 13,
+              "id": "869524129",
+              "start": 3,
+              "username": "kagakuadv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056399704884470159",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 83
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056389354147426714",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @kagakuadv: 🎉━━━━━━━━━━━━🎊\n\n　　🎂HAPPY BIRTHDAY🎂 \n\n🎊━━━━━━━━━━━━🎉\n\n今日5月19日は……\n『STEINS;GATE』シリーズに登場するダルこと\n#橋田至 (CV:#関智一)の誕生日🎉\nお誕生日おめでとう✨\n\n#…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2050165963203698688"
+          ]
+        },
+        "author_id": "869524129",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Television shows from around the world",
+              "id": "3",
+              "name": "TV Shows"
+            },
+            "entity": {
+              "id": "10051561438",
+              "name": "Steins;Gate"
+            }
+          },
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Japanese voice actor",
+              "id": "1070725787488157697",
+              "name": "Tomokazu Seki"
+            }
+          },
+          {
+            "domain": {
+              "description": "An actor or actress in the world, like Kate Winslet or Leonardo DiCaprio",
+              "id": "56",
+              "name": "Actor"
+            },
+            "entity": {
+              "description": "Japanese voice actor",
+              "id": "1070725787488157697",
+              "name": "Tomokazu Seki"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Japanese voice actor",
+              "id": "1070725787488157697",
+              "name": "Tomokazu Seki"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1191379707473715201",
+              "name": "Voice actors"
+            }
+          }
+        ],
+        "conversation_id": "2056389354147426714",
+        "created_at": "2026-05-18T15:00:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-18T16:00:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2056389354147426714"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 95,
+              "start": 91,
+              "tag": "橋田至"
+            },
+            {
+              "end": 104,
+              "start": 100,
+              "tag": "関智一"
+            },
+            {
+              "end": 134,
+              "start": 123,
+              "tag": "シュタインズ・ゲート"
+            },
+            {
+              "end": 140,
+              "start": 135,
+              "tag": "シュタゲ"
+            }
+          ],
+          "urls": [
+            {
+              "description": "鳳凰院凶真、再誕。もう一度、世界を騙せ―　Switch2 / Switch / PS5 / PS4 / Xbox SERIESX|S / Steam",
+              "display_url": "steinsgate.jp/reboot/",
+              "end": 165,
+              "expanded_url": "https://steinsgate.jp/reboot/",
+              "images": [
+                {
+                  "height": 672,
+                  "url": "https://pbs.twimg.com/news_img/2054865644055826432/3zdcpNwR?format=jpg&name=orig",
+                  "width": 1280
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2054865644055826432/3zdcpNwR?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 142,
+              "status": 200,
+              "title": "「STEINS;GATE RE:BOOT」公式サイト",
+              "unwound_url": "https://steinsgate.jp/reboot/ja-jp/",
+              "url": "https://t.co/VPQVL3vjRD"
+            },
+            {
+              "display_url": "pic.x.com/poCMYW7OSc",
+              "end": 189,
+              "expanded_url": "https://x.com/kagakuadv/status/2056389354147426714/photo/1",
+              "media_key": "3_2050165963203698688",
+              "start": 166,
+              "url": "https://t.co/poCMYW7OSc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056389354147426714",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 5095,
+          "like_count": 252,
+          "quote_count": 6,
+          "reply_count": 5,
+          "retweet_count": 83
+        },
+        "reply_settings": "everyone",
+        "text": "🎉━━━━━━━━━━━━🎊\n\n　　🎂HAPPY BIRTHDAY🎂 \n\n🎊━━━━━━━━━━━━🎉\n\n今日5月19日は……\n『STEINS;GATE』シリーズに登場するダルこと\n#橋田至 (CV:#関智一)の誕生日🎉\nお誕生日おめでとう✨\n\n#シュタインズ・ゲート\n#シュタゲ\n\nhttps://t.co/VPQVL3vjRD https://t.co/poCMYW7OSc"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-12T18:50:19.000Z",
+        "description": "随缘//医学爱好者/Arknights/绘画/混乱日常碎碎念无营养内容/可能会很吵？ /les/lgbt友好/中文/EN//喵喵//提问箱↓ ↓ ↓",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ppppppppp38481",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ppppppppp38481",
+                "start": 0,
+                "url": "https://t.co/dw8CaO6ajX"
+              }
+            ]
+          }
+        },
+        "id": "1569397683814629379",
+        "location": "世界的尽头",
+        "name": "腐烂培根卷",
+        "pinned_tweet_id": "2012485424057291255",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953366409284861953/HM3Aeou7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 232,
+          "following_count": 1493,
+          "like_count": 8078,
+          "listed_count": 1,
+          "media_count": 100,
+          "tweet_count": 6086
+        },
+        "url": "https://t.co/dw8CaO6ajX",
+        "username": "ppppggggjjjj",
+        "verified": false
+      },
+      {
+        "created_at": "2012-10-09T09:02:03.000Z",
+        "description": "CHAOS;HEAD／ROBOTICS;NOTES／CHAOS;CHILD／STEINS;GATE／ANONYMOUS;CODE／OCCULTIC;NINE 等シリーズ作品の情報をお伝えします。\n◆『STEINS;GATE RE:BOOT』2026年発売予定 https://t.co/nUCN3rwcyf",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "steinsgate.jp/reboot/",
+                "end": 153,
+                "expanded_url": "https://steinsgate.jp/reboot/",
+                "start": 130,
+                "url": "https://t.co/nUCN3rwcyf"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kagaku-adv.com",
+                "end": 23,
+                "expanded_url": "http://www.kagaku-adv.com/",
+                "start": 0,
+                "url": "https://t.co/YHvpv4YVC1"
+              }
+            ]
+          }
+        },
+        "id": "869524129",
+        "location": "秋葉原 渋谷 種子島 吉祥寺 中野",
+        "name": "科学アドベンチャーシリーズ公式",
+        "pinned_tweet_id": "2054865634991951982",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1338468975236141056/K1gA_T41_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 124597,
+          "following_count": 116,
+          "like_count": 596,
+          "listed_count": 970,
+          "media_count": 109690,
+          "tweet_count": 117124
+        },
+        "url": "https://t.co/YHvpv4YVC1",
+        "username": "kagakuadv",
+        "verified": true
+      }
+    ]
+  }
+}

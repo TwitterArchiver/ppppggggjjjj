@@ -1,0 +1,447 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1940226723808747520"
+      ],
+      "media_source_tweet_id": [
+        "1941044307428872358"
+      ]
+    },
+    "author_id": "1569397683814629379",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+          "id": "67",
+          "name": "Interests and Hobbies"
+        },
+        "entity": {
+          "description": "Drawing and sketching",
+          "id": "847869251595542528",
+          "name": "Drawing & illustration"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Drawing and sketching",
+          "id": "847869251595542528",
+          "name": "Drawing & illustration"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Visual Arts",
+          "id": "1046577790353428480",
+          "name": "Visual arts"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1265660441822281728",
+          "name": "Art"
+        }
+      }
+    ],
+    "conversation_id": "1941065131770925067",
+    "created_at": "2025-07-04T09:22:45.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-04T10:22:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1941065131770925067"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 38,
+          "start": 29,
+          "tag": "リバース1999"
+        },
+        {
+          "end": 51,
+          "start": 39,
+          "tag": "Reverse1999"
+        },
+        {
+          "end": 61,
+          "start": 52,
+          "tag": "重返未来1999"
+        },
+        {
+          "end": 70,
+          "start": 62,
+          "tag": "리버스1999"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1729418596248633344",
+          "start": 3,
+          "username": "bananasemicond1"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/0hbPhYFq4M",
+          "end": 94,
+          "expanded_url": "https://x.com/bananasemicond1/status/1941044307428872358/photo/1",
+          "media_key": "3_1940226723808747520",
+          "start": 71,
+          "url": "https://t.co/0hbPhYFq4M"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1941065131770925067",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 23
+    },
+    "referenced_tweets": [
+      {
+        "id": "1941044307428872358",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @bananasemicond1: 公式イラスト\n\n#リバース1999 #Reverse1999 #重返未来1999 #리버스1999 https://t.co/0hbPhYFq4M"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2000,
+        "media_key": "3_1940226723808747520",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gu0R7PBXIAAJlLl.jpg",
+        "width": 2000
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1940226723808747520"
+          ],
+          "media_source_tweet_id": [
+            "1941044307428872358"
+          ]
+        },
+        "author_id": "1569397683814629379",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Drawing and sketching",
+              "id": "847869251595542528",
+              "name": "Drawing & illustration"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Drawing and sketching",
+              "id": "847869251595542528",
+              "name": "Drawing & illustration"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Visual Arts",
+              "id": "1046577790353428480",
+              "name": "Visual arts"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1265660441822281728",
+              "name": "Art"
+            }
+          }
+        ],
+        "conversation_id": "1941065131770925067",
+        "created_at": "2025-07-04T09:22:45.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-04T10:22:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1941065131770925067"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 38,
+              "start": 29,
+              "tag": "リバース1999"
+            },
+            {
+              "end": 51,
+              "start": 39,
+              "tag": "Reverse1999"
+            },
+            {
+              "end": 61,
+              "start": 52,
+              "tag": "重返未来1999"
+            },
+            {
+              "end": 70,
+              "start": 62,
+              "tag": "리버스1999"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1729418596248633344",
+              "start": 3,
+              "username": "bananasemicond1"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/0hbPhYFq4M",
+              "end": 94,
+              "expanded_url": "https://x.com/bananasemicond1/status/1941044307428872358/photo/1",
+              "media_key": "3_1940226723808747520",
+              "start": 71,
+              "url": "https://t.co/0hbPhYFq4M"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1941065131770925067",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 23
+        },
+        "referenced_tweets": [
+          {
+            "id": "1941044307428872358",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @bananasemicond1: 公式イラスト\n\n#リバース1999 #Reverse1999 #重返未来1999 #리버스1999 https://t.co/0hbPhYFq4M"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1940226723808747520"
+          ]
+        },
+        "author_id": "1729418596248633344",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Drawing and sketching",
+              "id": "847869251595542528",
+              "name": "Drawing & illustration"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Drawing and sketching",
+              "id": "847869251595542528",
+              "name": "Drawing & illustration"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Visual Arts",
+              "id": "1046577790353428480",
+              "name": "Visual arts"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1265660441822281728",
+              "name": "Art"
+            }
+          }
+        ],
+        "conversation_id": "1941044307428872358",
+        "created_at": "2025-07-04T08:00:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-04T09:00:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1941044307428872358"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 17,
+              "start": 8,
+              "tag": "リバース1999"
+            },
+            {
+              "end": 30,
+              "start": 18,
+              "tag": "Reverse1999"
+            },
+            {
+              "end": 40,
+              "start": 31,
+              "tag": "重返未来1999"
+            },
+            {
+              "end": 49,
+              "start": 41,
+              "tag": "리버스1999"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/0hbPhYFq4M",
+              "end": 73,
+              "expanded_url": "https://x.com/bananasemicond1/status/1941044307428872358/photo/1",
+              "media_key": "3_1940226723808747520",
+              "start": 50,
+              "url": "https://t.co/0hbPhYFq4M"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1941044307428872358",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 7,
+          "impression_count": 1490,
+          "like_count": 122,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 23
+        },
+        "reply_settings": "everyone",
+        "text": "公式イラスト\n\n#リバース1999 #Reverse1999 #重返未来1999 #리버스1999 https://t.co/0hbPhYFq4M"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-12T18:50:19.000Z",
+        "description": "随缘//医学爱好者/les🏳️‍🌈/lgbt友好/中文/EN/Arknights/绘画/混乱日常碎碎念/很吵//喵喵",
+        "id": "1569397683814629379",
+        "name": "腐烂苹果酱",
+        "pinned_tweet_id": "1937498024907010498",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1620839959388393479/hsMKvVei_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 35,
+          "following_count": 325,
+          "like_count": 618,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 857
+        },
+        "username": "ppppggggjjjj",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-28T08:35:20.000Z",
+        "description": "リバース：1999専用アカウント\nリバース：1999攻略、お役立ち情報などを発信しています\nぜひフォローしてください！",
+        "id": "1729418596248633344",
+        "name": "バナナ＠リバース：1999攻略まとめ",
+        "pinned_tweet_id": "1940621523292651579",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1743515445259534336/mU-qtYOx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7395,
+          "following_count": 143,
+          "like_count": 1711,
+          "listed_count": 30,
+          "media_count": 1010,
+          "tweet_count": 1948
+        },
+        "username": "bananasemicond1",
+        "verified": false
+      }
+    ]
+  }
+}

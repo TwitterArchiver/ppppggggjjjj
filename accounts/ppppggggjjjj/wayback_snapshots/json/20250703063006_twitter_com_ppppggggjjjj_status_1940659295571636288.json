@@ -1,0 +1,341 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1940339412052647936"
+      ],
+      "media_source_tweet_id": [
+        "1940339415764914390"
+      ]
+    },
+    "author_id": "1569397683814629379",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1265660441822281728",
+          "name": "Art"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1537182142450372608",
+          "name": "AI image generation"
+        }
+      }
+    ],
+    "conversation_id": "1940659295571636288",
+    "created_at": "2025-07-03T06:30:06.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-03T07:30:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1940659295571636288"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 31,
+          "start": 24,
+          "tag": "AIイラスト"
+        },
+        {
+          "end": 38,
+          "start": 32,
+          "tag": "AIart"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1780039106602713088",
+          "start": 3,
+          "username": "maiai_dayo"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/l8TZpGAaia",
+          "end": 62,
+          "expanded_url": "https://x.com/maiai_dayo/status/1940339415764914390/photo/1",
+          "media_key": "3_1940339412052647936",
+          "start": 39,
+          "url": "https://t.co/l8TZpGAaia"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1940659295571636288",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 61
+    },
+    "referenced_tweets": [
+      {
+        "id": "1940339415764914390",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @maiai_dayo: まだ夜じゃない\n#AIイラスト #AIart https://t.co/l8TZpGAaia"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2082,
+        "media_key": "3_1940339412052647936",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gu14ajcWoAA2EJW.jpg",
+        "width": 1314
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1940339412052647936"
+          ],
+          "media_source_tweet_id": [
+            "1940339415764914390"
+          ]
+        },
+        "author_id": "1569397683814629379",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1265660441822281728",
+              "name": "Art"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1537182142450372608",
+              "name": "AI image generation"
+            }
+          }
+        ],
+        "conversation_id": "1940659295571636288",
+        "created_at": "2025-07-03T06:30:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-03T07:30:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1940659295571636288"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 31,
+              "start": 24,
+              "tag": "AIイラスト"
+            },
+            {
+              "end": 38,
+              "start": 32,
+              "tag": "AIart"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1780039106602713088",
+              "start": 3,
+              "username": "maiai_dayo"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/l8TZpGAaia",
+              "end": 62,
+              "expanded_url": "https://x.com/maiai_dayo/status/1940339415764914390/photo/1",
+              "media_key": "3_1940339412052647936",
+              "start": 39,
+              "url": "https://t.co/l8TZpGAaia"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1940659295571636288",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 61
+        },
+        "referenced_tweets": [
+          {
+            "id": "1940339415764914390",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @maiai_dayo: まだ夜じゃない\n#AIイラスト #AIart https://t.co/l8TZpGAaia"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1940339412052647936"
+          ]
+        },
+        "author_id": "1780039106602713088",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1265660441822281728",
+              "name": "Art"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1537182142450372608",
+              "name": "AI image generation"
+            }
+          }
+        ],
+        "conversation_id": "1940339415764914390",
+        "created_at": "2025-07-02T09:19:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-02T10:19:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1940339415764914390"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 15,
+              "start": 8,
+              "tag": "AIイラスト"
+            },
+            {
+              "end": 22,
+              "start": 16,
+              "tag": "AIart"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/l8TZpGAaia",
+              "end": 46,
+              "expanded_url": "https://x.com/maiai_dayo/status/1940339415764914390/photo/1",
+              "media_key": "3_1940339412052647936",
+              "start": 23,
+              "url": "https://t.co/l8TZpGAaia"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1940339415764914390",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 64,
+          "impression_count": 6843,
+          "like_count": 578,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 61
+        },
+        "reply_settings": "everyone",
+        "text": "まだ夜じゃない\n#AIイラスト #AIart https://t.co/l8TZpGAaia"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-12T18:50:19.000Z",
+        "description": "随缘//医学爱好者/les🏳️‍🌈/lgbt友好/中文/EN/Arknights/绘画/混乱日常碎碎念/很吵//喵喵",
+        "id": "1569397683814629379",
+        "name": "腐烂苹果酱",
+        "pinned_tweet_id": "1937498024907010498",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1620839959388393479/hsMKvVei_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 33,
+          "following_count": 290,
+          "like_count": 504,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 744
+        },
+        "username": "ppppggggjjjj",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-16T01:04:36.000Z",
+        "description": "pixaiで遊んでいます",
+        "id": "1780039106602713088",
+        "name": "宇宙ザウルス(｢・ω・)｢ｶﾞｵｰ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1924086236613926912/Q1xvLlbJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1624,
+          "following_count": 209,
+          "like_count": 42418,
+          "listed_count": 12,
+          "media_count": 291,
+          "tweet_count": 2052
+        },
+        "username": "maiai_dayo",
+        "verified": false
+      }
+    ]
+  }
+}

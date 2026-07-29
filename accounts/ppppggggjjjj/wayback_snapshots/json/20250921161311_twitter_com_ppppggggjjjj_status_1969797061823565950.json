@@ -1,0 +1,375 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1969697670605463552"
+      ],
+      "media_source_tweet_id": [
+        "1969697678872187314"
+      ]
+    },
+    "author_id": "1569397683814629379",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+          "id": "130",
+          "name": "Multimedia Franchise"
+        },
+        "entity": {
+          "id": "1311766165065142273",
+          "name": "Higurashi When They Cry"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1311766165065142273",
+          "name": "Higurashi When They Cry"
+        }
+      }
+    ],
+    "conversation_id": "1969797061823565950",
+    "created_at": "2025-09-21T16:13:11.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-21T17:13:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1969797061823565950"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 35,
+          "normalized_text": "圭レナ",
+          "probability": 0.9135,
+          "start": 33,
+          "type": "Person"
+        }
+      ],
+      "hashtags": [
+        {
+          "end": 23,
+          "start": 13,
+          "tag": "ひぐらしのなく頃に"
+        },
+        {
+          "end": 31,
+          "start": 24,
+          "tag": "ひぐらしFA"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1129402381395881984",
+          "start": 3,
+          "username": "QN_cmsn"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/jKOYUDaKST",
+          "end": 60,
+          "expanded_url": "https://x.com/QN_cmsn/status/1969697678872187314/photo/1",
+          "media_key": "3_1969697670605463552",
+          "start": 37,
+          "url": "https://t.co/jKOYUDaKST"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1969797061823565950",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 228
+    },
+    "referenced_tweets": [
+      {
+        "id": "1969697678872187314",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @QN_cmsn: #ひぐらしのなく頃に\n#ひぐらしFA\n\n圭レナ https://t.co/jKOYUDaKST"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1365,
+        "media_key": "3_1969697670605463552",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G1XFmHNaYAALfPw.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1969697670605463552"
+          ],
+          "media_source_tweet_id": [
+            "1969697678872187314"
+          ]
+        },
+        "author_id": "1569397683814629379",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "id": "1311766165065142273",
+              "name": "Higurashi When They Cry"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1311766165065142273",
+              "name": "Higurashi When They Cry"
+            }
+          }
+        ],
+        "conversation_id": "1969797061823565950",
+        "created_at": "2025-09-21T16:13:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-21T17:13:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1969797061823565950"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 35,
+              "normalized_text": "圭レナ",
+              "probability": 0.9135,
+              "start": 33,
+              "type": "Person"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 23,
+              "start": 13,
+              "tag": "ひぐらしのなく頃に"
+            },
+            {
+              "end": 31,
+              "start": 24,
+              "tag": "ひぐらしFA"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1129402381395881984",
+              "start": 3,
+              "username": "QN_cmsn"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/jKOYUDaKST",
+              "end": 60,
+              "expanded_url": "https://x.com/QN_cmsn/status/1969697678872187314/photo/1",
+              "media_key": "3_1969697670605463552",
+              "start": 37,
+              "url": "https://t.co/jKOYUDaKST"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1969797061823565950",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 228
+        },
+        "referenced_tweets": [
+          {
+            "id": "1969697678872187314",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @QN_cmsn: #ひぐらしのなく頃に\n#ひぐらしFA\n\n圭レナ https://t.co/jKOYUDaKST"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1969697670605463552"
+          ]
+        },
+        "author_id": "1129402381395881984",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "id": "1311766165065142273",
+              "name": "Higurashi When They Cry"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1311766165065142273",
+              "name": "Higurashi When They Cry"
+            }
+          }
+        ],
+        "conversation_id": "1969697678872187314",
+        "created_at": "2025-09-21T09:38:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-21T10:38:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1969697678872187314"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 10,
+              "start": 0,
+              "tag": "ひぐらしのなく頃に"
+            },
+            {
+              "end": 18,
+              "start": 11,
+              "tag": "ひぐらしFA"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/jKOYUDaKST",
+              "end": 47,
+              "expanded_url": "https://x.com/QN_cmsn/status/1969697678872187314/photo/1",
+              "media_key": "3_1969697670605463552",
+              "start": 24,
+              "url": "https://t.co/jKOYUDaKST"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1969697678872187314",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 74,
+          "impression_count": 11549,
+          "like_count": 648,
+          "quote_count": 10,
+          "reply_count": 1,
+          "retweet_count": 228
+        },
+        "reply_settings": "everyone",
+        "text": "#ひぐらしのなく頃に\n#ひぐらしFA\n\n圭レナ https://t.co/jKOYUDaKST"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-12T18:50:19.000Z",
+        "description": "随缘//医学爱好者/les🏳️‍🌈/lgbt友好/中文/EN/Arknights/绘画/混乱日常碎碎念/很吵//喵喵 【永远拥护培根卷番茄！】",
+        "id": "1569397683814629379",
+        "location": "世界的尽头",
+        "name": "腐烂培根卷",
+        "pinned_tweet_id": "1937498024907010498",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953366409284861953/HM3Aeou7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 110,
+          "following_count": 703,
+          "like_count": 2214,
+          "listed_count": 1,
+          "media_count": 62,
+          "tweet_count": 2880
+        },
+        "username": "ppppggggjjjj",
+        "verified": false
+      },
+      {
+        "created_at": "2019-05-17T15:04:45.000Z",
+        "description": "💌 qnrunning@gmail.com\nKOR/日本語/ENG   2025 work O",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "asked.kr/QN_cmsn",
+                "end": 23,
+                "expanded_url": "https://asked.kr/QN_cmsn",
+                "start": 0,
+                "url": "https://t.co/CnXqBN9L6O"
+              }
+            ]
+          }
+        },
+        "id": "1129402381395881984",
+        "name": "キュ🐥",
+        "pinned_tweet_id": "1948877594314899572",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1956575215657582592/6j4udr3E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7606,
+          "following_count": 263,
+          "like_count": 111,
+          "listed_count": 56,
+          "media_count": 20,
+          "tweet_count": 32
+        },
+        "url": "https://t.co/CnXqBN9L6O",
+        "username": "QN_cmsn",
+        "verified": false
+      }
+    ]
+  }
+}

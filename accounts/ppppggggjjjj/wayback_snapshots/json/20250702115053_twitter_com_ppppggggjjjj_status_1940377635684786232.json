@@ -1,0 +1,276 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1940200192411668482"
+      ],
+      "media_source_tweet_id": [
+        "1940200223311372657"
+      ]
+    },
+    "author_id": "1569397683814629379",
+    "conversation_id": "1940377635684786232",
+    "created_at": "2025-07-02T11:50:53.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-02T12:50:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1940377635684786232"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 13,
+          "normalized_text": "まいん",
+          "probability": 0.5259,
+          "start": 11,
+          "type": "Person"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2766725377",
+          "start": 3,
+          "username": "748cm"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/TJ5Z1j2v9N",
+          "end": 42,
+          "expanded_url": "https://x.com/748cm/status/1940200223311372657/photo/1",
+          "media_key": "3_1940200192411668482",
+          "start": 19,
+          "url": "https://t.co/TJ5Z1j2v9N"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1940377635684786232",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 23
+    },
+    "referenced_tweets": [
+      {
+        "id": "1940200223311372657",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @748cm: まいんどのいず https://t.co/TJ5Z1j2v9N"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1232,
+        "media_key": "3_1940200192411668482",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Guz5y53XkAIKSZY.jpg",
+        "width": 928
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1940200192411668482"
+          ],
+          "media_source_tweet_id": [
+            "1940200223311372657"
+          ]
+        },
+        "author_id": "1569397683814629379",
+        "conversation_id": "1940377635684786232",
+        "created_at": "2025-07-02T11:50:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-02T12:50:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1940377635684786232"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 13,
+              "normalized_text": "まいん",
+              "probability": 0.5259,
+              "start": 11,
+              "type": "Person"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2766725377",
+              "start": 3,
+              "username": "748cm"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/TJ5Z1j2v9N",
+              "end": 42,
+              "expanded_url": "https://x.com/748cm/status/1940200223311372657/photo/1",
+              "media_key": "3_1940200192411668482",
+              "start": 19,
+              "url": "https://t.co/TJ5Z1j2v9N"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1940377635684786232",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 23
+        },
+        "referenced_tweets": [
+          {
+            "id": "1940200223311372657",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @748cm: まいんどのいず https://t.co/TJ5Z1j2v9N"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1940200192411668482"
+          ]
+        },
+        "author_id": "2766725377",
+        "conversation_id": "1940200223311372657",
+        "created_at": "2025-07-02T00:05:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-02T01:05:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1940200223311372657"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 2,
+              "normalized_text": "まいん",
+              "probability": 0.5025,
+              "start": 0,
+              "type": "Person"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/TJ5Z1j2v9N",
+              "end": 31,
+              "expanded_url": "https://x.com/748cm/status/1940200223311372657/photo/1",
+              "media_key": "3_1940200192411668482",
+              "start": 8,
+              "url": "https://t.co/TJ5Z1j2v9N"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1940200223311372657",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 30,
+          "impression_count": 6644,
+          "like_count": 322,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 23
+        },
+        "reply_settings": "everyone",
+        "text": "まいんどのいず https://t.co/TJ5Z1j2v9N"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-12T18:50:19.000Z",
+        "description": "随缘//医学爱好者/les🏳️‍🌈/lgbt友好/中文/EN/Arknights/绘画/混乱日常碎碎念/很吵//喵喵",
+        "id": "1569397683814629379",
+        "name": "腐烂苹果酱",
+        "pinned_tweet_id": "1937498024907010498",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1620839959388393479/hsMKvVei_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 31,
+          "following_count": 265,
+          "like_count": 437,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 662
+        },
+        "username": "ppppggggjjjj",
+        "verified": false
+      },
+      {
+        "created_at": "2014-08-25T15:18:15.000Z",
+        "description": "Malice🎀| 鬱 x エモ / AI illustration / 夏の夜の匂いに胸が焼かれる / ご依頼はDMで🧸🔪",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/Malice?fbclid=…",
+                "end": 23,
+                "expanded_url": "https://lit.link/Malice?fbclid=PAZXh0bgNhZW0CMTEAAafcer0oY_77rVDK561knTG8HeU-8d4MAnWDMPaRaixtP-lziz0",
+                "start": 0,
+                "url": "https://t.co/yJRMpThVHE"
+              }
+            ]
+          }
+        },
+        "id": "2766725377",
+        "location": "Created by \"AI\" 100%",
+        "name": "惡意",
+        "pinned_tweet_id": "1938413935843217517",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1925714997813932033/Uf7ZceDy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 105168,
+          "following_count": 210,
+          "like_count": 15666,
+          "listed_count": 543,
+          "media_count": 3460,
+          "tweet_count": 11891
+        },
+        "url": "https://t.co/yJRMpThVHE",
+        "username": "748cm",
+        "verified": true
+      }
+    ]
+  }
+}

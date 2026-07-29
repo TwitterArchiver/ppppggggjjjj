@@ -1,0 +1,391 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1964269413076791296"
+      ],
+      "media_source_tweet_id": [
+        "1964269422496960779"
+      ]
+    },
+    "author_id": "1569397683814629379",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A video game like Overwatch",
+          "id": "71",
+          "name": "Video Game"
+        },
+        "entity": {
+          "id": "1390782787301494785",
+          "name": "Touhou Project"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1390782787301494785",
+          "name": "Touhou Project"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1403427158953922560",
+          "name": "Shooting games"
+        }
+      }
+    ],
+    "conversation_id": "1964580773677380003",
+    "created_at": "2025-09-07T06:45:31.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-07T07:45:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1964580773677380003"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 25,
+          "start": 15,
+          "tag": "東方Project"
+        },
+        {
+          "end": 39,
+          "start": 27,
+          "tag": "パチュリー・ノーレッジ"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1079660252",
+          "start": 3,
+          "username": "hr_rz_ggg"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/gwbGWZgd5M",
+          "end": 63,
+          "expanded_url": "https://x.com/hr_rz_ggg/status/1964269422496960779/photo/1",
+          "media_key": "3_1964269413076791296",
+          "start": 40,
+          "url": "https://t.co/gwbGWZgd5M"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1964580773677380003",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1036
+    },
+    "referenced_tweets": [
+      {
+        "id": "1964269422496960779",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @hr_rz_ggg: #東方Project \n#パチュリー・ノーレッジ https://t.co/gwbGWZgd5M"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2829,
+        "media_key": "3_1964269413076791296",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G0J8n8GbcAA5fGn.jpg",
+        "width": 2000
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1964269413076791296"
+          ],
+          "media_source_tweet_id": [
+            "1964269422496960779"
+          ]
+        },
+        "author_id": "1569397683814629379",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1390782787301494785",
+              "name": "Touhou Project"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1390782787301494785",
+              "name": "Touhou Project"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1403427158953922560",
+              "name": "Shooting games"
+            }
+          }
+        ],
+        "conversation_id": "1964580773677380003",
+        "created_at": "2025-09-07T06:45:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-07T07:45:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1964580773677380003"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 25,
+              "start": 15,
+              "tag": "東方Project"
+            },
+            {
+              "end": 39,
+              "start": 27,
+              "tag": "パチュリー・ノーレッジ"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1079660252",
+              "start": 3,
+              "username": "hr_rz_ggg"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/gwbGWZgd5M",
+              "end": 63,
+              "expanded_url": "https://x.com/hr_rz_ggg/status/1964269422496960779/photo/1",
+              "media_key": "3_1964269413076791296",
+              "start": 40,
+              "url": "https://t.co/gwbGWZgd5M"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1964580773677380003",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1036
+        },
+        "referenced_tweets": [
+          {
+            "id": "1964269422496960779",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @hr_rz_ggg: #東方Project \n#パチュリー・ノーレッジ https://t.co/gwbGWZgd5M"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1964269413076791296"
+          ]
+        },
+        "author_id": "1079660252",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1390782787301494785",
+              "name": "Touhou Project"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1390782787301494785",
+              "name": "Touhou Project"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1403427158953922560",
+              "name": "Shooting games"
+            }
+          }
+        ],
+        "conversation_id": "1964269422496960779",
+        "created_at": "2025-09-06T10:08:19.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-06T11:08:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1964269422496960779"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 10,
+              "start": 0,
+              "tag": "東方Project"
+            },
+            {
+              "end": 24,
+              "start": 12,
+              "tag": "パチュリー・ノーレッジ"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/gwbGWZgd5M",
+              "end": 48,
+              "expanded_url": "https://x.com/hr_rz_ggg/status/1964269422496960779/photo/1",
+              "media_key": "3_1964269413076791296",
+              "start": 25,
+              "url": "https://t.co/gwbGWZgd5M"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1964269422496960779",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 705,
+          "impression_count": 102501,
+          "like_count": 6855,
+          "quote_count": 7,
+          "reply_count": 16,
+          "retweet_count": 1036
+        },
+        "reply_settings": "everyone",
+        "text": "#東方Project \n#パチュリー・ノーレッジ https://t.co/gwbGWZgd5M"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-12T18:50:19.000Z",
+        "description": "随缘//医学爱好者/les🏳️‍🌈/lgbt友好/中文/EN/Arknights/绘画/混乱日常碎碎念/很吵//喵喵 【永远拥护培根卷番茄！】",
+        "id": "1569397683814629379",
+        "location": "世界的尽头",
+        "name": "腐烂培根卷",
+        "pinned_tweet_id": "1937498024907010498",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953366409284861953/HM3Aeou7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 103,
+          "following_count": 678,
+          "like_count": 1958,
+          "listed_count": 1,
+          "media_count": 59,
+          "tweet_count": 2483
+        },
+        "username": "ppppggggjjjj",
+        "verified": false
+      },
+      {
+        "created_at": "2013-01-11T13:20:13.000Z",
+        "description": "헤레ㅣイラストレーターㅣ 한국어, 日本語 ㅣ\n25年12月からのお仕事募集中です! ㅣ 百合好きで可愛い女の子や大人の男など描いています \n\n✉: wlsdk7371@gmail.com",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/member.php?id=…",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/member.php?id=5061948",
+                "start": 0,
+                "url": "https://t.co/wTR4uIFQSs"
+              }
+            ]
+          }
+        },
+        "id": "1079660252",
+        "location": "!!! AI学習禁止 !!!",
+        "name": "ヘレ/HERE",
+        "pinned_tweet_id": "1964269422496960779",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1466221901391761408/kPAc0svR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16880,
+          "following_count": 370,
+          "like_count": 22189,
+          "listed_count": 203,
+          "media_count": 10011,
+          "tweet_count": 218979
+        },
+        "url": "https://t.co/wTR4uIFQSs",
+        "username": "hr_rz_ggg",
+        "verified": false
+      }
+    ]
+  }
+}

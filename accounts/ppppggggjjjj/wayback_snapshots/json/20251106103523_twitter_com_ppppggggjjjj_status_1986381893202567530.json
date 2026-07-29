@@ -1,0 +1,339 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1986332738547511296",
+        "3_1986332738526531584"
+      ],
+      "media_source_tweet_id": [
+        "1986332743614202096",
+        "1986332743614202096"
+      ]
+    },
+    "author_id": "1569397683814629379",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "States, provinces, or prefectures, like California or Fukushima Prefecture",
+          "id": "159",
+          "name": "States"
+        },
+        "entity": {
+          "description": "Texas",
+          "id": "855432197297192961",
+          "name": "Texas"
+        }
+      }
+    ],
+    "conversation_id": "1986381893202567530",
+    "created_at": "2025-11-06T10:35:23.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-06T11:35:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1986381893202567530"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1520353782311251968",
+          "start": 3,
+          "username": "jaguchi38"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/mBTFC5jUfj",
+          "end": 99,
+          "expanded_url": "https://x.com/jaguchi38/status/1986332743614202096/photo/1",
+          "media_key": "3_1986332738547511296",
+          "start": 76,
+          "url": "https://t.co/mBTFC5jUfj"
+        },
+        {
+          "display_url": "pic.x.com/mBTFC5jUfj",
+          "end": 99,
+          "expanded_url": "https://x.com/jaguchi38/status/1986332743614202096/photo/1",
+          "media_key": "3_1986332738526531584",
+          "start": 76,
+          "url": "https://t.co/mBTFC5jUfj"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1986381893202567530",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 88
+    },
+    "referenced_tweets": [
+      {
+        "id": "1986332743614202096",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @jaguchi38: 随分前に描いたメイドテキサスと頭なでなでテキサスです！\nうぇぶぼでテキサスによしよしされたい方がいたので再掲🥰✨❤️‍🔥 https://t.co/mBTFC5jUfj"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1998,
+        "media_key": "3_1986332738547511296",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5DfGgbacAAmLbZ.jpg",
+        "width": 1583
+      },
+      {
+        "height": 949,
+        "media_key": "3_1986332738526531584",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5DfGgWaUAAcPgP.jpg",
+        "width": 495
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1986332738547511296",
+            "3_1986332738526531584"
+          ],
+          "media_source_tweet_id": [
+            "1986332743614202096",
+            "1986332743614202096"
+          ]
+        },
+        "author_id": "1569397683814629379",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "States, provinces, or prefectures, like California or Fukushima Prefecture",
+              "id": "159",
+              "name": "States"
+            },
+            "entity": {
+              "description": "Texas",
+              "id": "855432197297192961",
+              "name": "Texas"
+            }
+          }
+        ],
+        "conversation_id": "1986381893202567530",
+        "created_at": "2025-11-06T10:35:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-06T11:35:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1986381893202567530"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1520353782311251968",
+              "start": 3,
+              "username": "jaguchi38"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/mBTFC5jUfj",
+              "end": 99,
+              "expanded_url": "https://x.com/jaguchi38/status/1986332743614202096/photo/1",
+              "media_key": "3_1986332738547511296",
+              "start": 76,
+              "url": "https://t.co/mBTFC5jUfj"
+            },
+            {
+              "display_url": "pic.x.com/mBTFC5jUfj",
+              "end": 99,
+              "expanded_url": "https://x.com/jaguchi38/status/1986332743614202096/photo/1",
+              "media_key": "3_1986332738526531584",
+              "start": 76,
+              "url": "https://t.co/mBTFC5jUfj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1986381893202567530",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 88
+        },
+        "referenced_tweets": [
+          {
+            "id": "1986332743614202096",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @jaguchi38: 随分前に描いたメイドテキサスと頭なでなでテキサスです！\nうぇぶぼでテキサスによしよしされたい方がいたので再掲🥰✨❤️‍🔥 https://t.co/mBTFC5jUfj"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1986332738547511296",
+            "3_1986332738526531584"
+          ]
+        },
+        "author_id": "1520353782311251968",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "States, provinces, or prefectures, like California or Fukushima Prefecture",
+              "id": "159",
+              "name": "States"
+            },
+            "entity": {
+              "description": "Texas",
+              "id": "855432197297192961",
+              "name": "Texas"
+            }
+          }
+        ],
+        "conversation_id": "1986332743614202096",
+        "created_at": "2025-11-06T07:20:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-06T08:20:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1986332743614202096"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/mBTFC5jUfj",
+              "end": 84,
+              "expanded_url": "https://x.com/jaguchi38/status/1986332743614202096/photo/1",
+              "media_key": "3_1986332738547511296",
+              "start": 61,
+              "url": "https://t.co/mBTFC5jUfj"
+            },
+            {
+              "display_url": "pic.x.com/mBTFC5jUfj",
+              "end": 84,
+              "expanded_url": "https://x.com/jaguchi38/status/1986332743614202096/photo/1",
+              "media_key": "3_1986332738526531584",
+              "start": 61,
+              "url": "https://t.co/mBTFC5jUfj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1986332743614202096",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 113,
+          "impression_count": 9426,
+          "like_count": 735,
+          "quote_count": 1,
+          "reply_count": 3,
+          "retweet_count": 88
+        },
+        "reply_settings": "everyone",
+        "text": "随分前に描いたメイドテキサスと頭なでなでテキサスです！\nうぇぶぼでテキサスによしよしされたい方がいたので再掲🥰✨❤️‍🔥 https://t.co/mBTFC5jUfj"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-12T18:50:19.000Z",
+        "description": "随缘//医学爱好者/les🏳️‍🌈/lgbt友好/中文/EN/Arknights/绘画/混乱日常碎碎念/很吵//喵喵 【永远拥护培根卷番茄！】",
+        "id": "1569397683814629379",
+        "location": "世界的尽头",
+        "name": "腐烂培根卷",
+        "pinned_tweet_id": "1937498024907010498",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953366409284861953/HM3Aeou7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 122,
+          "following_count": 753,
+          "like_count": 2489,
+          "listed_count": 1,
+          "media_count": 79,
+          "tweet_count": 3526
+        },
+        "username": "ppppggggjjjj",
+        "verified": false
+      },
+      {
+        "created_at": "2022-04-30T10:46:29.000Z",
+        "description": "きまぐれ 原神 アークナイツ 雑多 imag:All rights received AI学習禁止 skeb📒▶︎ https://t.co/pzSDShQv7T",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "skeb.jp/@jaguchi38",
+                "end": 81,
+                "expanded_url": "https://skeb.jp/@jaguchi38",
+                "start": 58,
+                "url": "https://t.co/pzSDShQv7T"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "wavebox.me/wave/ccmgmaxng…",
+                "end": 23,
+                "expanded_url": "https://wavebox.me/wave/ccmgmaxng44ces5p/",
+                "start": 0,
+                "url": "https://t.co/9xZbWuINtl"
+              }
+            ]
+          }
+        },
+        "id": "1520353782311251968",
+        "location": "🇯🇵  👋wave box▶︎",
+        "name": "まりん",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1772163662381473792/9fCYfk3u_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1511,
+          "following_count": 134,
+          "like_count": 4198,
+          "listed_count": 17,
+          "media_count": 52,
+          "tweet_count": 1488
+        },
+        "url": "https://t.co/9xZbWuINtl",
+        "username": "jaguchi38",
+        "verified": false
+      }
+    ]
+  }
+}

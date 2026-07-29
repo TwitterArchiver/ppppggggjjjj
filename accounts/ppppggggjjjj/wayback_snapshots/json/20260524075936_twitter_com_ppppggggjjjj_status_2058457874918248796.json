@@ -1,0 +1,249 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2058186686375534593"
+      ],
+      "media_source_tweet_id": [
+        "2058186692516036631"
+      ]
+    },
+    "author_id": "1569397683814629379",
+    "conversation_id": "2058457874918248796",
+    "created_at": "2026-05-24T07:59:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-24T08:59:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2058457874918248796"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "2049690086623911936",
+          "start": 3,
+          "username": "2hollisshowmore"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/1ROBIlorpP",
+          "end": 66,
+          "expanded_url": "https://x.com/2hollisshowmore/status/2058186692516036631/photo/1",
+          "media_key": "3_2058186686375534593",
+          "start": 43,
+          "url": "https://t.co/1ROBIlorpP"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058457874918248796",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 62
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058186692516036631",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @2hollisshowmore: 我日常就这样呆呆的盯着屏幕期待你们的消息… https://t.co/1ROBIlorpP"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 976,
+        "media_key": "3_2058186686375534593",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJAl4vLaIAEytIn.jpg",
+        "width": 976
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2058186686375534593"
+          ],
+          "media_source_tweet_id": [
+            "2058186692516036631"
+          ]
+        },
+        "author_id": "1569397683814629379",
+        "conversation_id": "2058457874918248796",
+        "created_at": "2026-05-24T07:59:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-24T08:59:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058457874918248796"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "2049690086623911936",
+              "start": 3,
+              "username": "2hollisshowmore"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/1ROBIlorpP",
+              "end": 66,
+              "expanded_url": "https://x.com/2hollisshowmore/status/2058186692516036631/photo/1",
+              "media_key": "3_2058186686375534593",
+              "start": 43,
+              "url": "https://t.co/1ROBIlorpP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058457874918248796",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 62
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058186692516036631",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @2hollisshowmore: 我日常就这样呆呆的盯着屏幕期待你们的消息… https://t.co/1ROBIlorpP"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2058186686375534593"
+          ]
+        },
+        "author_id": "2049690086623911936",
+        "conversation_id": "2058186692516036631",
+        "created_at": "2026-05-23T14:02:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-23T15:02:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2058186692516036631"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/1ROBIlorpP",
+              "end": 45,
+              "expanded_url": "https://x.com/2hollisshowmore/status/2058186692516036631/photo/1",
+              "media_key": "3_2058186686375534593",
+              "start": 22,
+              "url": "https://t.co/1ROBIlorpP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058186692516036631",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 10,
+          "impression_count": 11666,
+          "like_count": 614,
+          "quote_count": 1,
+          "reply_count": 61,
+          "retweet_count": 62
+        },
+        "reply_settings": "everyone",
+        "text": "我日常就这样呆呆的盯着屏幕期待你们的消息… https://t.co/1ROBIlorpP"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-12T18:50:19.000Z",
+        "description": "随缘//医学爱好者/Arknights/绘画/混乱日常碎碎念无营养内容/可能会很吵？ /les/lgbt友好/中文/EN//喵喵//提问箱↓ ↓ ↓",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ppppppppp38481",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ppppppppp38481",
+                "start": 0,
+                "url": "https://t.co/dw8CaO6ajX"
+              }
+            ]
+          }
+        },
+        "id": "1569397683814629379",
+        "location": "世界的尽头",
+        "name": "腐烂培根卷",
+        "pinned_tweet_id": "2012485424057291255",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953366409284861953/HM3Aeou7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 248,
+          "following_count": 1550,
+          "like_count": 8482,
+          "listed_count": 1,
+          "media_count": 101,
+          "tweet_count": 6281
+        },
+        "url": "https://t.co/dw8CaO6ajX",
+        "username": "ppppggggjjjj",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-30T03:20:41.000Z",
+        "description": "号主现实是一只蛋小黄呦 \n喜欢蛋小黄的话呢。请投喂咸鱼币。嘎哒嘎哒\n太在意别人的看法只能成为别人的裤衩(๑‾ ꇴ ‾๑)",
+        "id": "2049690086623911936",
+        "name": "啾咪≡ω≡",
+        "pinned_tweet_id": "2056628959488647343",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058374843717111808/kWEsQxSI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 384,
+          "following_count": 128,
+          "like_count": 320,
+          "listed_count": 2,
+          "media_count": 103,
+          "tweet_count": 652
+        },
+        "username": "2hollisshowmore",
+        "verified": false
+      }
+    ]
+  }
+}

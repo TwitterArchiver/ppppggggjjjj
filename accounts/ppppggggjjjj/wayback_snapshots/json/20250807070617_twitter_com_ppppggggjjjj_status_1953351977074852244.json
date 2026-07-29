@@ -1,0 +1,546 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1952687054153981953"
+      ],
+      "media_source_tweet_id": [
+        "1952689347574301096"
+      ]
+    },
+    "author_id": "1569397683814629379",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A video game like Overwatch",
+          "id": "71",
+          "name": "Video Game"
+        },
+        "entity": {
+          "id": "1233113060732092416",
+          "name": "Arknights"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Gaming",
+          "id": "847527650667094017",
+          "name": "Gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1070028159964262400",
+          "name": "Video games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1233113060732092416",
+          "name": "Arknights"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1491897789013393420",
+          "name": "Strategy games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1491900085583577097",
+          "name": "Idol games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1491900373098921986",
+          "name": "Gacha games"
+        }
+      }
+    ],
+    "conversation_id": "1953351977074852244",
+    "created_at": "2025-08-07T07:06:17.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-07T08:06:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1953351977074852244"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 29,
+          "start": 24,
+          "tag": "明日方舟"
+        },
+        {
+          "end": 37,
+          "start": 30,
+          "tag": "アークナイツ"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1076854649846546432",
+          "start": 3,
+          "username": "kisaragipana"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/k2HDStqxI2",
+          "end": 61,
+          "expanded_url": "https://x.com/kisaragipana/status/1952689347574301096/photo/1",
+          "media_key": "3_1952687054153981953",
+          "start": 38,
+          "url": "https://t.co/k2HDStqxI2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1953351977074852244",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 601
+    },
+    "referenced_tweets": [
+      {
+        "id": "1952689347574301096",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @kisaragipana: 濁心スカジ\n#明日方舟 #アークナイツ https://t.co/k2HDStqxI2"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4000,
+        "media_key": "3_1952687054153981953",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GxlWh6xaIAEDkVq.jpg",
+        "width": 3000
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1952687054153981953"
+          ],
+          "media_source_tweet_id": [
+            "1952689347574301096"
+          ]
+        },
+        "author_id": "1569397683814629379",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1233113060732092416",
+              "name": "Arknights"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1233113060732092416",
+              "name": "Arknights"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491897789013393420",
+              "name": "Strategy games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491900085583577097",
+              "name": "Idol games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491900373098921986",
+              "name": "Gacha games"
+            }
+          }
+        ],
+        "conversation_id": "1953351977074852244",
+        "created_at": "2025-08-07T07:06:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-07T08:06:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1953351977074852244"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 29,
+              "start": 24,
+              "tag": "明日方舟"
+            },
+            {
+              "end": 37,
+              "start": 30,
+              "tag": "アークナイツ"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1076854649846546432",
+              "start": 3,
+              "username": "kisaragipana"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/k2HDStqxI2",
+              "end": 61,
+              "expanded_url": "https://x.com/kisaragipana/status/1952689347574301096/photo/1",
+              "media_key": "3_1952687054153981953",
+              "start": 38,
+              "url": "https://t.co/k2HDStqxI2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1953351977074852244",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 601
+        },
+        "referenced_tweets": [
+          {
+            "id": "1952689347574301096",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @kisaragipana: 濁心スカジ\n#明日方舟 #アークナイツ https://t.co/k2HDStqxI2"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1952687054153981953"
+          ]
+        },
+        "author_id": "1076854649846546432",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1233113060732092416",
+              "name": "Arknights"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1233113060732092416",
+              "name": "Arknights"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491900085583577097",
+              "name": "Idol games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491900373098921986",
+              "name": "Gacha games"
+            }
+          }
+        ],
+        "conversation_id": "1952689347574301096",
+        "created_at": "2025-08-05T11:13:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-05T12:13:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1952689347574301096"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 11,
+              "start": 6,
+              "tag": "明日方舟"
+            },
+            {
+              "end": 19,
+              "start": 12,
+              "tag": "アークナイツ"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/k2HDStqxI2",
+              "end": 43,
+              "expanded_url": "https://x.com/kisaragipana/status/1952689347574301096/photo/1",
+              "media_key": "3_1952687054153981953",
+              "start": 20,
+              "url": "https://t.co/k2HDStqxI2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1952689347574301096",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 374,
+          "impression_count": 57438,
+          "like_count": 4418,
+          "quote_count": 2,
+          "reply_count": 3,
+          "retweet_count": 601
+        },
+        "reply_settings": "everyone",
+        "text": "濁心スカジ\n#明日方舟 #アークナイツ https://t.co/k2HDStqxI2"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-12T18:50:19.000Z",
+        "description": "随缘//医学爱好者/les🏳️‍🌈/lgbt友好/中文/EN/Arknights/绘画/混乱日常碎碎念/很吵//喵喵",
+        "id": "1569397683814629379",
+        "location": "世界的尽头",
+        "name": "腐烂苹果酱",
+        "pinned_tweet_id": "1937498024907010498",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1620839959388393479/hsMKvVei_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 103,
+          "following_count": 637,
+          "like_count": 1746,
+          "listed_count": 0,
+          "media_count": 50,
+          "tweet_count": 2049
+        },
+        "username": "ppppggggjjjj",
+        "verified": false
+      },
+      {
+        "created_at": "2018-12-23T14:58:50.000Z",
+        "description": "🐙JP/EN illustrator 日本人です\n💕Arknights\n🐙Skeb:https://t.co/Vj4Ne0oZqH\n🟦https://t.co/Et2pe5rAaf\n🐙Contact:kisaragipana@gmail.com",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "skeb.jp/@kisaragipana",
+                "end": 65,
+                "expanded_url": "http://skeb.jp/@kisaragipana",
+                "start": 42,
+                "url": "https://t.co/Vj4Ne0oZqH"
+              },
+              {
+                "display_url": "bsky.app/profile/kisara…",
+                "end": 90,
+                "expanded_url": "https://bsky.app/profile/kisaragipana.bsky.social",
+                "start": 67,
+                "url": "https://t.co/Et2pe5rAaf"
+              }
+            ]
+          }
+        },
+        "id": "1076854649846546432",
+        "location": "はつはなづき",
+        "name": "如月ぱな/pana 1日目東マ17b",
+        "pinned_tweet_id": "1740522872882499755",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1546051872338743299/huJ1yMKX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 44648,
+          "following_count": 2390,
+          "like_count": 27143,
+          "listed_count": 375,
+          "media_count": 107,
+          "tweet_count": 6722
+        },
+        "username": "kisaragipana",
+        "verified": false
+      }
+    ]
+  }
+}

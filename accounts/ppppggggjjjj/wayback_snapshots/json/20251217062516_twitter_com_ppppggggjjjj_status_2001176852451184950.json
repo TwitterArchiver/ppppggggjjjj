@@ -1,0 +1,196 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2000842920077713411"
+      ],
+      "media_source_tweet_id": [
+        "2000842927715635529"
+      ]
+    },
+    "author_id": "1569397683814629379",
+    "conversation_id": "2001176852451184950",
+    "created_at": "2025-12-17T06:25:16.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-17T07:25:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2001176852451184950"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1793306075384434688",
+          "start": 3,
+          "username": "Leviationn"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/v1pRNMomxC",
+          "end": 39,
+          "expanded_url": "https://x.com/Leviationn/status/2000842927715635529/photo/1",
+          "media_key": "3_2000842920077713411",
+          "start": 16,
+          "url": "https://t.co/v1pRNMomxC"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2001176852451184950",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 364
+    },
+    "referenced_tweets": [
+      {
+        "id": "2000842927715635529",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Leviationn: https://t.co/v1pRNMomxC"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2001176852451184950].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2001176852451184950",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2001176852451184950"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 877,
+        "media_key": "3_2000842920077713411",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G8RsCO6WYAMqJDo.jpg",
+        "width": 1170
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2000842920077713411"
+          ]
+        },
+        "author_id": "1793306075384434688",
+        "conversation_id": "2000842927715635529",
+        "created_at": "2025-12-16T08:18:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-16T09:18:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2000842927715635529"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/v1pRNMomxC",
+              "end": 23,
+              "expanded_url": "https://x.com/Leviationn/status/2000842927715635529/photo/1",
+              "media_key": "3_2000842920077713411",
+              "start": 0,
+              "url": "https://t.co/v1pRNMomxC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2000842927715635529",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 247,
+          "impression_count": 149363,
+          "like_count": 3359,
+          "quote_count": 19,
+          "reply_count": 6,
+          "retweet_count": 364
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/v1pRNMomxC"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-12T18:50:19.000Z",
+        "description": "随缘//医学爱好者/les🏳️‍🌈/lgbt友好/中文/EN/Arknights/绘画/混乱日常碎碎念/很吵//喵喵 【永远拥护培根卷番茄！】",
+        "id": "1569397683814629379",
+        "location": "世界的尽头",
+        "name": "腐烂培根卷",
+        "pinned_tweet_id": "1993298688010322328",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953366409284861953/HM3Aeou7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 154,
+          "following_count": 971,
+          "like_count": 3620,
+          "listed_count": 1,
+          "media_count": 88,
+          "tweet_count": 4110
+        },
+        "username": "ppppggggjjjj",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-22T15:41:14.000Z",
+        "description": "مـَابيـَن عبثِ وسكينةَ",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "onvo.me/Leviationn",
+                "end": 23,
+                "expanded_url": "https://onvo.me/Leviationn",
+                "start": 0,
+                "url": "https://t.co/SBlMYju06H"
+              }
+            ]
+          }
+        },
+        "id": "1793306075384434688",
+        "location": "Beyond Love",
+        "name": "Lee",
+        "pinned_tweet_id": "1981840483170345259",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1882830401292402690/UxrovbCh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 821,
+          "following_count": 64,
+          "like_count": 36741,
+          "listed_count": 0,
+          "media_count": 202,
+          "tweet_count": 632
+        },
+        "url": "https://t.co/SBlMYju06H",
+        "username": "Leviationn",
+        "verified": false
+      }
+    ]
+  }
+}

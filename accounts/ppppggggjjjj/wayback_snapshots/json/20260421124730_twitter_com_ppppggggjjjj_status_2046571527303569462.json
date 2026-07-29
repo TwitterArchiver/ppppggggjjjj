@@ -1,0 +1,190 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1569397683814629379",
+    "conversation_id": "2046571527303569462",
+    "created_at": "2026-04-21T12:47:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-21T13:47:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2046571527303569462"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1472022007797719048",
+          "start": 3,
+          "username": "user0000O0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2046571527303569462",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 4626
+    },
+    "referenced_tweets": [
+      {
+        "id": "2046007080138551737",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @user0000O0: fuck everything"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1569397683814629379",
+        "conversation_id": "2046571527303569462",
+        "created_at": "2026-04-21T12:47:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-21T13:47:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046571527303569462"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1472022007797719048",
+              "start": 3,
+              "username": "user0000O0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046571527303569462",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 4626
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046007080138551737",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @user0000O0: fuck everything"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1472022007797719048",
+        "conversation_id": "2046007080138551737",
+        "created_at": "2026-04-19T23:24:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-20T00:24:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2046007080138551737"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2046007080138551737",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 319,
+          "impression_count": 260613,
+          "like_count": 9319,
+          "quote_count": 100,
+          "reply_count": 66,
+          "retweet_count": 4626
+        },
+        "reply_settings": "everyone",
+        "text": "fuck everything"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-12T18:50:19.000Z",
+        "description": "随缘//医学爱好者/Arknights/绘画/混乱日常碎碎念无营养内容/可能会很吵？ /les/lgbt友好/中文/EN//喵喵//提问箱↓ ↓ ↓",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ppppppppp38481",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ppppppppp38481",
+                "start": 0,
+                "url": "https://t.co/dw8CaO6ajX"
+              }
+            ]
+          }
+        },
+        "id": "1569397683814629379",
+        "location": "世界的尽头",
+        "name": "腐烂培根卷",
+        "pinned_tweet_id": "2012485424057291255",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953366409284861953/HM3Aeou7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 207,
+          "following_count": 1308,
+          "like_count": 6761,
+          "listed_count": 1,
+          "media_count": 99,
+          "tweet_count": 5242
+        },
+        "url": "https://t.co/dw8CaO6ajX",
+        "username": "ppppggggjjjj",
+        "verified": false
+      },
+      {
+        "created_at": "2021-12-18T01:52:57.000Z",
+        "description": "in my restless dreams",
+        "id": "1472022007797719048",
+        "location": "silent hill ",
+        "name": "໊",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039665398208159744/sDo192OK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 123044,
+          "following_count": 310,
+          "like_count": 12521,
+          "listed_count": 156,
+          "media_count": 2986,
+          "tweet_count": 10246
+        },
+        "username": "user0000O0",
+        "verified": true
+      }
+    ]
+  }
+}

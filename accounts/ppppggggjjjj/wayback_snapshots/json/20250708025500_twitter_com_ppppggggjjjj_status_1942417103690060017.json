@@ -1,0 +1,389 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1942409068934754304"
+      ],
+      "media_source_tweet_id": [
+        "1942409096076091402"
+      ]
+    },
+    "author_id": "1569397683814629379",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A video game like Overwatch",
+          "id": "71",
+          "name": "Video Game"
+        },
+        "entity": {
+          "id": "1390782787301494785",
+          "name": "Touhou Project"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1390782787301494785",
+          "name": "Touhou Project"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1403427158953922560",
+          "name": "Shooting games"
+        }
+      }
+    ],
+    "conversation_id": "1942417103690060017",
+    "created_at": "2025-07-08T02:55:00.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-08T03:55:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1942417103690060017"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 25,
+          "start": 15,
+          "tag": "東方Project"
+        },
+        {
+          "end": 32,
+          "start": 26,
+          "tag": "河城にとり"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1900402382061920257",
+          "start": 3,
+          "username": "wusem0108"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Fz4ewrxBl2",
+          "end": 56,
+          "expanded_url": "https://x.com/wusem0108/status/1942409096076091402/photo/1",
+          "media_key": "3_1942409068934754304",
+          "start": 33,
+          "url": "https://t.co/Fz4ewrxBl2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1942417103690060017",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 32
+    },
+    "referenced_tweets": [
+      {
+        "id": "1942409096076091402",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @wusem0108: #東方Project #河城にとり https://t.co/Fz4ewrxBl2"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1660,
+        "media_key": "3_1942409068934754304",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GvTSwcJacAAoTVw.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1942409068934754304"
+          ],
+          "media_source_tweet_id": [
+            "1942409096076091402"
+          ]
+        },
+        "author_id": "1569397683814629379",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1390782787301494785",
+              "name": "Touhou Project"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1390782787301494785",
+              "name": "Touhou Project"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1403427158953922560",
+              "name": "Shooting games"
+            }
+          }
+        ],
+        "conversation_id": "1942417103690060017",
+        "created_at": "2025-07-08T02:55:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-08T03:55:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1942417103690060017"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 25,
+              "start": 15,
+              "tag": "東方Project"
+            },
+            {
+              "end": 32,
+              "start": 26,
+              "tag": "河城にとり"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1900402382061920257",
+              "start": 3,
+              "username": "wusem0108"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Fz4ewrxBl2",
+              "end": 56,
+              "expanded_url": "https://x.com/wusem0108/status/1942409096076091402/photo/1",
+              "media_key": "3_1942409068934754304",
+              "start": 33,
+              "url": "https://t.co/Fz4ewrxBl2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1942417103690060017",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 32
+        },
+        "referenced_tweets": [
+          {
+            "id": "1942409096076091402",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @wusem0108: #東方Project #河城にとり https://t.co/Fz4ewrxBl2"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1942409068934754304"
+          ]
+        },
+        "author_id": "1900402382061920257",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1390782787301494785",
+              "name": "Touhou Project"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1390782787301494785",
+              "name": "Touhou Project"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1403427158953922560",
+              "name": "Shooting games"
+            }
+          }
+        ],
+        "conversation_id": "1942409096076091402",
+        "created_at": "2025-07-08T02:23:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-08T03:23:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1942409096076091402"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 10,
+              "start": 0,
+              "tag": "東方Project"
+            },
+            {
+              "end": 17,
+              "start": 11,
+              "tag": "河城にとり"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Fz4ewrxBl2",
+              "end": 41,
+              "expanded_url": "https://x.com/wusem0108/status/1942409096076091402/photo/1",
+              "media_key": "3_1942409068934754304",
+              "start": 18,
+              "url": "https://t.co/Fz4ewrxBl2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1942409096076091402",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 12,
+          "impression_count": 1338,
+          "like_count": 139,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 32
+        },
+        "reply_settings": "everyone",
+        "text": "#東方Project #河城にとり https://t.co/Fz4ewrxBl2"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-12T18:50:19.000Z",
+        "description": "随缘//医学爱好者/les🏳️‍🌈/lgbt友好/中文/EN/Arknights/绘画/混乱日常碎碎念/很吵//喵喵",
+        "id": "1569397683814629379",
+        "name": "腐烂苹果酱",
+        "pinned_tweet_id": "1937498024907010498",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1620839959388393479/hsMKvVei_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 57,
+          "following_count": 479,
+          "like_count": 809,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 1014
+        },
+        "username": "ppppggggjjjj",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-14T04:23:39.000Z",
+        "description": "🎨🐡｜雜多/東方 百合 tanoc中心｜AI学习🚫",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/65794679",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/65794679",
+                "start": 0,
+                "url": "https://t.co/K4MnTS5RD5"
+              }
+            ]
+          }
+        },
+        "id": "1900402382061920257",
+        "location": "CN",
+        "name": "物黍",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1903947803145256960/OIztVR7K_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3286,
+          "following_count": 86,
+          "like_count": 828,
+          "listed_count": 17,
+          "media_count": 162,
+          "tweet_count": 404
+        },
+        "url": "https://t.co/K4MnTS5RD5",
+        "username": "wusem0108",
+        "verified": false
+      }
+    ]
+  }
+}

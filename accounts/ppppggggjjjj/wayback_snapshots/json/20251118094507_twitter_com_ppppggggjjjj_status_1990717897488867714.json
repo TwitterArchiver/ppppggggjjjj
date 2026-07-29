@@ -1,0 +1,176 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1569397683814629379",
+    "conversation_id": "1990717897488867714",
+    "created_at": "2025-11-18T09:45:07.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-18T10:45:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1990717897488867714"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1549239881469140992",
+          "start": 3,
+          "username": "simplyrotten"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1990717897488867714",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 292
+    },
+    "referenced_tweets": [
+      {
+        "id": "1990444440063005011",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @simplyrotten: my younger self would be so disappointed seeing how i turned out"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1569397683814629379",
+        "conversation_id": "1990717897488867714",
+        "created_at": "2025-11-18T09:45:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-18T10:45:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1990717897488867714"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1549239881469140992",
+              "start": 3,
+              "username": "simplyrotten"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1990717897488867714",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 292
+        },
+        "referenced_tweets": [
+          {
+            "id": "1990444440063005011",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @simplyrotten: my younger self would be so disappointed seeing how i turned out"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1549239881469140992",
+        "conversation_id": "1990444440063005011",
+        "created_at": "2025-11-17T15:38:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-17T16:38:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1990444440063005011"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1990444440063005011",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 54,
+          "impression_count": 12093,
+          "like_count": 1121,
+          "quote_count": 28,
+          "reply_count": 6,
+          "retweet_count": 292
+        },
+        "reply_settings": "everyone",
+        "text": "my younger self would be so disappointed seeing how i turned out"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-12T18:50:19.000Z",
+        "description": "随缘//医学爱好者/les🏳️‍🌈/lgbt友好/中文/EN/Arknights/绘画/混乱日常碎碎念/很吵//喵喵 【永远拥护培根卷番茄！】",
+        "id": "1569397683814629379",
+        "location": "世界的尽头",
+        "name": "腐烂培根卷",
+        "pinned_tweet_id": "1937498024907010498",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953366409284861953/HM3Aeou7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 136,
+          "following_count": 797,
+          "like_count": 2886,
+          "listed_count": 1,
+          "media_count": 81,
+          "tweet_count": 3756
+        },
+        "username": "ppppggggjjjj",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-19T03:49:28.000Z",
+        "description": "",
+        "id": "1549239881469140992",
+        "name": "karina",
+        "pinned_tweet_id": "1980029683006681138",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1990531387951034368/ZWyIR3U__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8281,
+          "following_count": 274,
+          "like_count": 9932,
+          "listed_count": 16,
+          "media_count": 11,
+          "tweet_count": 5308
+        },
+        "username": "simplyrotten",
+        "verified": false
+      }
+    ]
+  }
+}

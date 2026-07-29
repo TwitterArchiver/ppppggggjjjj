@@ -1,0 +1,594 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2053457758796865536",
+        "3_2053457758318723072"
+      ],
+      "media_source_tweet_id": [
+        "2053636203195326485",
+        "2053636203195326485"
+      ]
+    },
+    "author_id": "1569397683814629379",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level entities that describe a Brands industry",
+          "id": "45",
+          "name": "Brand Vertical"
+        },
+        "entity": {
+          "id": "781974596740190208",
+          "name": "CPG"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974596144599042",
+          "name": "Snacks - CPG"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10026692659",
+          "name": "Cheetos"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Food",
+          "id": "825047692124442624",
+          "name": "Food"
+        }
+      },
+      {
+        "domain": {
+          "description": "Top level entities that describe a Brands industry",
+          "id": "45",
+          "name": "Brand Vertical"
+        },
+        "entity": {
+          "id": "781974596740190208",
+          "name": "CPG"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974596144599042",
+          "name": "Snacks - CPG"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10026692659",
+          "name": "Cheetos"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "10026692659",
+          "name": "Cheetos"
+        }
+      }
+    ],
+    "conversation_id": "2053672708970565868",
+    "created_at": "2026-05-11T03:05:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-11T04:05:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2053672708970565868"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "868354704",
+          "start": 3,
+          "username": "TheCatsX"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/ICw3gPR7us",
+          "end": 68,
+          "expanded_url": "https://x.com/TheCatsX/status/2053636203195326485/photo/1",
+          "media_key": "3_2053457758796865536",
+          "start": 45,
+          "url": "https://t.co/ICw3gPR7us"
+        },
+        {
+          "display_url": "pic.x.com/ICw3gPR7us",
+          "end": 68,
+          "expanded_url": "https://x.com/TheCatsX/status/2053636203195326485/photo/1",
+          "media_key": "3_2053457758318723072",
+          "start": 45,
+          "url": "https://t.co/ICw3gPR7us"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053672708970565868",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 23
+    },
+    "referenced_tweets": [
+      {
+        "id": "2053636203195326485",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @TheCatsX: A cheetah licking her Cheeto 🥹 https://t.co/ICw3gPR7us"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1239,
+        "media_key": "3_2053457758796865536",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HH9Y87JbYAAc2C5.jpg",
+        "width": 1241
+      },
+      {
+        "height": 1198,
+        "media_key": "3_2053457758318723072",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HH9Y85XbgAAOfca.jpg",
+        "width": 1241
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2053457758796865536",
+            "3_2053457758318723072"
+          ],
+          "media_source_tweet_id": [
+            "2053636203195326485",
+            "2053636203195326485"
+          ]
+        },
+        "author_id": "1569397683814629379",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974596740190208",
+              "name": "CPG"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596144599042",
+              "name": "Snacks - CPG"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026692659",
+              "name": "Cheetos"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Food",
+              "id": "825047692124442624",
+              "name": "Food"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974596740190208",
+              "name": "CPG"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596144599042",
+              "name": "Snacks - CPG"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026692659",
+              "name": "Cheetos"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026692659",
+              "name": "Cheetos"
+            }
+          }
+        ],
+        "conversation_id": "2053672708970565868",
+        "created_at": "2026-05-11T03:05:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-11T04:05:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053672708970565868"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "868354704",
+              "start": 3,
+              "username": "TheCatsX"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ICw3gPR7us",
+              "end": 68,
+              "expanded_url": "https://x.com/TheCatsX/status/2053636203195326485/photo/1",
+              "media_key": "3_2053457758796865536",
+              "start": 45,
+              "url": "https://t.co/ICw3gPR7us"
+            },
+            {
+              "display_url": "pic.x.com/ICw3gPR7us",
+              "end": 68,
+              "expanded_url": "https://x.com/TheCatsX/status/2053636203195326485/photo/1",
+              "media_key": "3_2053457758318723072",
+              "start": 45,
+              "url": "https://t.co/ICw3gPR7us"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053672708970565868",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 23
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053636203195326485",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @TheCatsX: A cheetah licking her Cheeto 🥹 https://t.co/ICw3gPR7us"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2053457758796865536",
+            "3_2053457758318723072"
+          ]
+        },
+        "author_id": "868354704",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974596740190208",
+              "name": "CPG"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596144599042",
+              "name": "Snacks - CPG"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026692659",
+              "name": "Cheetos"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Food",
+              "id": "825047692124442624",
+              "name": "Food"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974596740190208",
+              "name": "CPG"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596144599042",
+              "name": "Snacks - CPG"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026692659",
+              "name": "Cheetos"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026692659",
+              "name": "Cheetos"
+            }
+          }
+        ],
+        "conversation_id": "2053636203195326485",
+        "created_at": "2026-05-11T00:40:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-11T01:40:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2053636203195326485"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ICw3gPR7us",
+              "end": 54,
+              "expanded_url": "https://x.com/TheCatsX/status/2053636203195326485/photo/1",
+              "media_key": "3_2053457758796865536",
+              "start": 31,
+              "url": "https://t.co/ICw3gPR7us"
+            },
+            {
+              "display_url": "pic.x.com/ICw3gPR7us",
+              "end": 54,
+              "expanded_url": "https://x.com/TheCatsX/status/2053636203195326485/photo/1",
+              "media_key": "3_2053457758318723072",
+              "start": 31,
+              "url": "https://t.co/ICw3gPR7us"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053636203195326485",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 7,
+          "impression_count": 2509,
+          "like_count": 105,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 23
+        },
+        "reply_settings": "everyone",
+        "text": "A cheetah licking her Cheeto 🥹 https://t.co/ICw3gPR7us"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-12T18:50:19.000Z",
+        "description": "随缘//医学爱好者/Arknights/绘画/混乱日常碎碎念无营养内容/可能会很吵？ /les/lgbt友好/中文/EN//喵喵//提问箱↓ ↓ ↓",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ppppppppp38481",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ppppppppp38481",
+                "start": 0,
+                "url": "https://t.co/dw8CaO6ajX"
+              }
+            ]
+          }
+        },
+        "id": "1569397683814629379",
+        "location": "世界的尽头",
+        "name": "腐烂培根卷",
+        "pinned_tweet_id": "2012485424057291255",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953366409284861953/HM3Aeou7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 228,
+          "following_count": 1432,
+          "like_count": 7850,
+          "listed_count": 1,
+          "media_count": 100,
+          "tweet_count": 5948
+        },
+        "url": "https://t.co/dw8CaO6ajX",
+        "username": "ppppggggjjjj",
+        "verified": false
+      },
+      {
+        "created_at": "2012-10-08T17:25:41.000Z",
+        "description": "Your Daily Dose of Cats",
+        "id": "868354704",
+        "name": "The Cats 𝕏",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007846404929245184/sAN8YnzL_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 349563,
+          "following_count": 10,
+          "like_count": 1012,
+          "listed_count": 614,
+          "media_count": 12491,
+          "tweet_count": 13082
+        },
+        "username": "TheCatsX",
+        "verified": true
+      }
+    ]
+  }
+}

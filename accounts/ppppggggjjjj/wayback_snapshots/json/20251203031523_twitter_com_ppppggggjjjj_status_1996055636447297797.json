@@ -1,0 +1,268 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1995809501094854656"
+      ],
+      "media_source_tweet_id": [
+        "1995809506153169244"
+      ]
+    },
+    "author_id": "1569397683814629379",
+    "conversation_id": "1996055636447297797",
+    "created_at": "2025-12-03T03:15:23.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-03T04:15:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1996055636447297797"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1642839803208306688",
+          "start": 3,
+          "username": "Tsuru_ha_"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Z6YBAjdXwv",
+          "end": 38,
+          "expanded_url": "https://x.com/Tsuru_ha_/status/1995809506153169244/photo/1",
+          "media_key": "3_1995809501094854656",
+          "start": 15,
+          "url": "https://t.co/Z6YBAjdXwv"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1996055636447297797",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 141
+    },
+    "referenced_tweets": [
+      {
+        "id": "1995809506153169244",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Tsuru_ha_: https://t.co/Z6YBAjdXwv"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1435,
+        "media_key": "3_1995809501094854656",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7KKKsAbwAAhXeL.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1995809501094854656"
+          ],
+          "media_source_tweet_id": [
+            "1995809506153169244"
+          ]
+        },
+        "author_id": "1569397683814629379",
+        "conversation_id": "1996055636447297797",
+        "created_at": "2025-12-03T03:15:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-03T04:15:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1996055636447297797"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1642839803208306688",
+              "start": 3,
+              "username": "Tsuru_ha_"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Z6YBAjdXwv",
+              "end": 38,
+              "expanded_url": "https://x.com/Tsuru_ha_/status/1995809506153169244/photo/1",
+              "media_key": "3_1995809501094854656",
+              "start": 15,
+              "url": "https://t.co/Z6YBAjdXwv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1996055636447297797",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 141
+        },
+        "referenced_tweets": [
+          {
+            "id": "1995809506153169244",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Tsuru_ha_: https://t.co/Z6YBAjdXwv"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1995809501094854656"
+          ]
+        },
+        "author_id": "1642839803208306688",
+        "conversation_id": "1995809506153169244",
+        "created_at": "2025-12-02T10:57:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-02T11:57:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1995809506153169244"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Z6YBAjdXwv",
+              "end": 23,
+              "expanded_url": "https://x.com/Tsuru_ha_/status/1995809506153169244/photo/1",
+              "media_key": "3_1995809501094854656",
+              "start": 0,
+              "url": "https://t.co/Z6YBAjdXwv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1995809506153169244",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 69,
+          "impression_count": 9863,
+          "like_count": 1352,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 141
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/Z6YBAjdXwv"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-12T18:50:19.000Z",
+        "description": "随缘//医学爱好者/les🏳️‍🌈/lgbt友好/中文/EN/Arknights/绘画/混乱日常碎碎念/很吵//喵喵 【永远拥护培根卷番茄！】",
+        "id": "1569397683814629379",
+        "location": "世界的尽头",
+        "name": "腐烂培根卷",
+        "pinned_tweet_id": "1993298688010322328",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953366409284861953/HM3Aeou7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 147,
+          "following_count": 877,
+          "like_count": 3189,
+          "listed_count": 1,
+          "media_count": 86,
+          "tweet_count": 3892
+        },
+        "username": "ppppggggjjjj",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-03T10:43:34.000Z",
+        "description": "◼︎本垢：＠cha_annin ◼︎ご連絡：annin.cha.63@gmail.com ◼︎各種リンク：https://t.co/PYRpWfziw1",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 5,
+                "username": "cha_annin"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "lit.link/annin_cha",
+                "end": 76,
+                "expanded_url": "https://lit.link/annin_cha",
+                "start": 53,
+                "url": "https://t.co/PYRpWfziw1"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "skeb.jp/@cha__annin",
+                "end": 23,
+                "expanded_url": "https://skeb.jp/@cha__annin",
+                "start": 0,
+                "url": "https://t.co/ENI35g0PLO"
+              }
+            ]
+          }
+        },
+        "id": "1642839803208306688",
+        "location": "skeb→",
+        "name": "都瑠葉😶‍🌫️",
+        "pinned_tweet_id": "1995518883428778082",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993238136781258757/Paow3HHr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15213,
+          "following_count": 144,
+          "like_count": 397,
+          "listed_count": 78,
+          "media_count": 146,
+          "tweet_count": 280
+        },
+        "url": "https://t.co/ENI35g0PLO",
+        "username": "Tsuru_ha_",
+        "verified": false
+      }
+    ]
+  }
+}

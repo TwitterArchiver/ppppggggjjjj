@@ -1,0 +1,280 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2054847334526439424"
+      ],
+      "media_source_tweet_id": [
+        "2054847345272205512"
+      ]
+    },
+    "author_id": "1569397683814629379",
+    "conversation_id": "2054928464059470274",
+    "created_at": "2026-05-14T14:14:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-14T15:14:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2054928464059470274"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1840368899591901184",
+          "start": 3,
+          "username": "qtbisterr"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/nEubpqXbiM",
+          "end": 63,
+          "expanded_url": "https://x.com/qtbisterr/status/2054847345272205512/photo/1",
+          "media_key": "3_2054847334526439424",
+          "start": 40,
+          "url": "https://t.co/nEubpqXbiM"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2054928464059470274",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 670
+    },
+    "referenced_tweets": [
+      {
+        "id": "2054847345272205512",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @qtbisterr: Stupid idea I thought of https://t.co/nEubpqXbiM"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2150,
+        "media_key": "3_2054847334526439424",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIRIw4IbUAAULXk.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2054847334526439424"
+          ],
+          "media_source_tweet_id": [
+            "2054847345272205512"
+          ]
+        },
+        "author_id": "1569397683814629379",
+        "conversation_id": "2054928464059470274",
+        "created_at": "2026-05-14T14:14:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-14T15:14:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054928464059470274"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1840368899591901184",
+              "start": 3,
+              "username": "qtbisterr"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/nEubpqXbiM",
+              "end": 63,
+              "expanded_url": "https://x.com/qtbisterr/status/2054847345272205512/photo/1",
+              "media_key": "3_2054847334526439424",
+              "start": 40,
+              "url": "https://t.co/nEubpqXbiM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054928464059470274",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 670
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054847345272205512",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @qtbisterr: Stupid idea I thought of https://t.co/nEubpqXbiM"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2054847334526439424"
+          ]
+        },
+        "author_id": "1840368899591901184",
+        "conversation_id": "2054847345272205512",
+        "created_at": "2026-05-14T08:52:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-14T09:52:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2054847345272205512"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/nEubpqXbiM",
+              "end": 48,
+              "expanded_url": "https://x.com/qtbisterr/status/2054847345272205512/photo/1",
+              "media_key": "3_2054847334526439424",
+              "start": 25,
+              "url": "https://t.co/nEubpqXbiM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054847345272205512",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 267,
+          "impression_count": 17336,
+          "like_count": 4435,
+          "quote_count": 9,
+          "reply_count": 20,
+          "retweet_count": 670
+        },
+        "reply_settings": "everyone",
+        "text": "Stupid idea I thought of https://t.co/nEubpqXbiM"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-12T18:50:19.000Z",
+        "description": "随缘//医学爱好者/Arknights/绘画/混乱日常碎碎念无营养内容/可能会很吵？ /les/lgbt友好/中文/EN//喵喵//提问箱↓ ↓ ↓",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ppppppppp38481",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ppppppppp38481",
+                "start": 0,
+                "url": "https://t.co/dw8CaO6ajX"
+              }
+            ]
+          }
+        },
+        "id": "1569397683814629379",
+        "location": "世界的尽头",
+        "name": "腐烂培根卷",
+        "pinned_tweet_id": "2012485424057291255",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953366409284861953/HM3Aeou7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 228,
+          "following_count": 1460,
+          "like_count": 7985,
+          "listed_count": 1,
+          "media_count": 100,
+          "tweet_count": 6033
+        },
+        "url": "https://t.co/dw8CaO6ajX",
+        "username": "ppppggggjjjj",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-29T12:32:16.000Z",
+        "description": "#shtwt, backup acc of @Kheikehiaa5t, sniped at 3k💔",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 6,
+                "start": 0,
+                "tag": "shtwt"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 35,
+                "start": 22,
+                "username": "Kheikehiaa5t"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kheixp.straw.page",
+                "end": 23,
+                "expanded_url": "http://kheixp.straw.page",
+                "start": 0,
+                "url": "https://t.co/GFkUSEdEQJ"
+              }
+            ]
+          }
+        },
+        "id": "1840368899591901184",
+        "location": "lolicons shotacons proship dni",
+        "name": "KHEI || 🔪twt",
+        "pinned_tweet_id": "2054339745292112191",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054339604938133504/N7V_iRiH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 335,
+          "following_count": 378,
+          "like_count": 1091,
+          "listed_count": 1,
+          "media_count": 28,
+          "tweet_count": 70
+        },
+        "url": "https://t.co/GFkUSEdEQJ",
+        "username": "qtbisterr",
+        "verified": false
+      }
+    ]
+  }
+}

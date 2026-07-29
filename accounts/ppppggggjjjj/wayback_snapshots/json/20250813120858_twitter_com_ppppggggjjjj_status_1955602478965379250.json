@@ -1,0 +1,446 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1955173498533650432",
+        "3_1955173498458083330"
+      ],
+      "media_source_tweet_id": [
+        "1955173506989297859",
+        "1955173506989297859"
+      ]
+    },
+    "author_id": "1569397683814629379",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "id": "839543165002506240",
+          "name": "Anime"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "839543165002506240",
+          "name": "Anime"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1297951101136732160",
+          "name": "Animation & comics"
+        }
+      }
+    ],
+    "conversation_id": "1955602478965379250",
+    "created_at": "2025-08-13T12:08:58.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-13T13:08:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1955602478965379250"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1584060358872170496",
+          "start": 3,
+          "username": "Lm7y7C"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/6aExMhODjk",
+          "end": 91,
+          "expanded_url": "https://x.com/Lm7y7C/status/1955173506989297859/photo/1",
+          "media_key": "3_1955173498533650432",
+          "start": 68,
+          "url": "https://t.co/6aExMhODjk"
+        },
+        {
+          "display_url": "pic.x.com/6aExMhODjk",
+          "end": 91,
+          "expanded_url": "https://x.com/Lm7y7C/status/1955173506989297859/photo/1",
+          "media_key": "3_1955173498458083330",
+          "start": 68,
+          "url": "https://t.co/6aExMhODjk"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1955602478965379250",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 646
+    },
+    "referenced_tweets": [
+      {
+        "id": "1955173506989297859",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Lm7y7C: anime                                         real life https://t.co/6aExMhODjk"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 401,
+        "media_key": "3_1955173498533650432",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GyIr8B5bIAAJKd9.jpg",
+        "width": 765
+      },
+      {
+        "height": 440,
+        "media_key": "3_1955173498458083330",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GyIr8BnaEAIa_4G.jpg",
+        "width": 660
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1955173498533650432",
+            "3_1955173498458083330"
+          ],
+          "media_source_tweet_id": [
+            "1955173506989297859",
+            "1955173506989297859"
+          ]
+        },
+        "author_id": "1569397683814629379",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "839543165002506240",
+              "name": "Anime"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839543165002506240",
+              "name": "Anime"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1297951101136732160",
+              "name": "Animation & comics"
+            }
+          }
+        ],
+        "conversation_id": "1955602478965379250",
+        "created_at": "2025-08-13T12:08:58.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-13T13:08:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1955602478965379250"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1584060358872170496",
+              "start": 3,
+              "username": "Lm7y7C"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/6aExMhODjk",
+              "end": 91,
+              "expanded_url": "https://x.com/Lm7y7C/status/1955173506989297859/photo/1",
+              "media_key": "3_1955173498533650432",
+              "start": 68,
+              "url": "https://t.co/6aExMhODjk"
+            },
+            {
+              "display_url": "pic.x.com/6aExMhODjk",
+              "end": 91,
+              "expanded_url": "https://x.com/Lm7y7C/status/1955173506989297859/photo/1",
+              "media_key": "3_1955173498458083330",
+              "start": 68,
+              "url": "https://t.co/6aExMhODjk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1955602478965379250",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 646
+        },
+        "referenced_tweets": [
+          {
+            "id": "1955173506989297859",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Lm7y7C: anime                                         real life https://t.co/6aExMhODjk"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1955173498533650432",
+            "3_1955173498458083330"
+          ]
+        },
+        "author_id": "1584060358872170496",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "839543165002506240",
+              "name": "Anime"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839543165002506240",
+              "name": "Anime"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1297951101136732160",
+              "name": "Animation & comics"
+            }
+          }
+        ],
+        "conversation_id": "1955173506989297859",
+        "created_at": "2025-08-12T07:44:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-12T08:44:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1955173506989297859"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 54,
+              "normalized_text": "anime                                         real life",
+              "probability": 0.7258,
+              "start": 0,
+              "type": "Other"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/6aExMhODjk",
+              "end": 79,
+              "expanded_url": "https://x.com/Lm7y7C/status/1955173506989297859/photo/1",
+              "media_key": "3_1955173498533650432",
+              "start": 56,
+              "url": "https://t.co/6aExMhODjk"
+            },
+            {
+              "display_url": "pic.x.com/6aExMhODjk",
+              "end": 79,
+              "expanded_url": "https://x.com/Lm7y7C/status/1955173506989297859/photo/1",
+              "media_key": "3_1955173498458083330",
+              "start": 56,
+              "url": "https://t.co/6aExMhODjk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1955173506989297859",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 432,
+          "impression_count": 134008,
+          "like_count": 7142,
+          "quote_count": 16,
+          "reply_count": 9,
+          "retweet_count": 646
+        },
+        "reply_settings": "everyone",
+        "text": "anime                                         real life https://t.co/6aExMhODjk"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-12T18:50:19.000Z",
+        "description": "随缘//医学爱好者/les🏳️‍🌈/lgbt友好/中文/EN/Arknights/绘画/混乱日常碎碎念/很吵//喵喵",
+        "id": "1569397683814629379",
+        "location": "世界的尽头",
+        "name": "腐烂培根卷",
+        "pinned_tweet_id": "1937498024907010498",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953366409284861953/HM3Aeou7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 104,
+          "following_count": 652,
+          "like_count": 1792,
+          "listed_count": 0,
+          "media_count": 53,
+          "tweet_count": 2122
+        },
+        "username": "ppppggggjjjj",
+        "verified": false
+      },
+      {
+        "created_at": "2022-10-23T05:53:24.000Z",
+        "description": "◾︎ このクリーチャーの下のカードが6枚以下なら、このクリーチャーはバトルを行えず、離れない。𝙥𝙧𝙤𝙛𝙞𝙡𝙚 𝙥𝙞𝙘𝙩𝙪𝙧𝙚 →@Dr_Yamero",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 74,
+                "start": 64,
+                "username": "Dr_Yamero"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "note.com/anji_sssdisast…",
+                "end": 23,
+                "expanded_url": "https://note.com/anji_sssdisaster",
+                "start": 0,
+                "url": "https://t.co/nqFeTSQWPm"
+              }
+            ]
+          }
+        },
+        "id": "1584060358872170496",
+        "location": "松崎しげる",
+        "name": "ぱんいち",
+        "pinned_tweet_id": "1688021381517287424",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1732760973621014528/SDDcsSUt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1428,
+          "following_count": 867,
+          "like_count": 15765,
+          "listed_count": 11,
+          "media_count": 2577,
+          "tweet_count": 23102
+        },
+        "url": "https://t.co/nqFeTSQWPm",
+        "username": "Lm7y7C",
+        "verified": false
+      }
+    ]
+  }
+}

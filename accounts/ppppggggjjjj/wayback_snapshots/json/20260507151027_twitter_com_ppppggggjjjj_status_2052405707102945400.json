@@ -1,0 +1,264 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2052321994948186112"
+      ],
+      "media_source_tweet_id": [
+        "2052350229551386750"
+      ]
+    },
+    "author_id": "1569397683814629379",
+    "conversation_id": "2052405707102945400",
+    "created_at": "2026-05-07T15:10:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-07T16:10:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2052405707102945400"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1664625829094244352",
+          "start": 3,
+          "username": "550_Bi"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/3usdBZJn5C",
+          "end": 46,
+          "expanded_url": "https://x.com/550_Bi/status/2052350229551386750/photo/1",
+          "media_key": "3_2052321994948186112",
+          "start": 23,
+          "url": "https://t.co/3usdBZJn5C"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052405707102945400",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 8
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052350229551386750",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @550_Bi: がおー...なんてね https://t.co/3usdBZJn5C"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 816,
+        "media_key": "3_2052321994948186112",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHtP-xGbkAA_3in.jpg",
+        "width": 1456
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2052321994948186112"
+          ],
+          "media_source_tweet_id": [
+            "2052350229551386750"
+          ]
+        },
+        "author_id": "1569397683814629379",
+        "conversation_id": "2052405707102945400",
+        "created_at": "2026-05-07T15:10:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-07T16:10:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052405707102945400"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1664625829094244352",
+              "start": 3,
+              "username": "550_Bi"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/3usdBZJn5C",
+              "end": 46,
+              "expanded_url": "https://x.com/550_Bi/status/2052350229551386750/photo/1",
+              "media_key": "3_2052321994948186112",
+              "start": 23,
+              "url": "https://t.co/3usdBZJn5C"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052405707102945400",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 8
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052350229551386750",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @550_Bi: がおー...なんてね https://t.co/3usdBZJn5C"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2052321994948186112"
+          ]
+        },
+        "author_id": "1664625829094244352",
+        "conversation_id": "2052350229551386750",
+        "created_at": "2026-05-07T11:30:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-07T12:30:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2052350229551386750"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/3usdBZJn5C",
+              "end": 34,
+              "expanded_url": "https://x.com/550_Bi/status/2052350229551386750/photo/1",
+              "media_key": "3_2052321994948186112",
+              "start": 11,
+              "url": "https://t.co/3usdBZJn5C"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052350229551386750",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 11,
+          "impression_count": 1467,
+          "like_count": 122,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 8
+        },
+        "reply_settings": "everyone",
+        "text": "がおー...なんてね https://t.co/3usdBZJn5C"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-12T18:50:19.000Z",
+        "description": "随缘//医学爱好者/Arknights/绘画/混乱日常碎碎念无营养内容/可能会很吵？ /les/lgbt友好/中文/EN//喵喵//提问箱↓ ↓ ↓",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ppppppppp38481",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ppppppppp38481",
+                "start": 0,
+                "url": "https://t.co/dw8CaO6ajX"
+              }
+            ]
+          }
+        },
+        "id": "1569397683814629379",
+        "location": "世界的尽头",
+        "name": "腐烂培根卷",
+        "pinned_tweet_id": "2012485424057291255",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953366409284861953/HM3Aeou7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 233,
+          "following_count": 1414,
+          "like_count": 7624,
+          "listed_count": 1,
+          "media_count": 100,
+          "tweet_count": 5767
+        },
+        "url": "https://t.co/dw8CaO6ajX",
+        "username": "ppppggggjjjj",
+        "verified": false
+      },
+      {
+        "created_at": "2023-06-02T13:31:47.000Z",
+        "description": "My artwork is Gen AI art that has been retouched and refined./お仕事等受付中",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/550Bi",
+                "end": 23,
+                "expanded_url": "https://lit.link/550Bi",
+                "start": 0,
+                "url": "https://t.co/gdF2HXaQdF"
+              }
+            ]
+          }
+        },
+        "id": "1664625829094244352",
+        "location": "利用時の注意点・有償依頼→",
+        "name": "零レ",
+        "pinned_tweet_id": "2018303386442219758",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1941429236012810242/LTs6Sob5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17682,
+          "following_count": 469,
+          "like_count": 20113,
+          "listed_count": 84,
+          "media_count": 2832,
+          "tweet_count": 8267
+        },
+        "url": "https://t.co/gdF2HXaQdF",
+        "username": "550_Bi",
+        "verified": false
+      }
+    ]
+  }
+}

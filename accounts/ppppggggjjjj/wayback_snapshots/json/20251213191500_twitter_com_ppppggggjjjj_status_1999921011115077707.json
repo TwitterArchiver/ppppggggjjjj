@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1999730855129022470"
+      ],
+      "media_source_tweet_id": [
+        "1999730858975199524"
+      ]
+    },
+    "author_id": "1569397683814629379",
+    "conversation_id": "1999921011115077707",
+    "created_at": "2025-12-13T19:15:00.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-13T20:15:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1999921011115077707"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1855429446943248384",
+          "start": 3,
+          "username": "mmmmimimimmm"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/wq3HDMUvog",
+          "end": 41,
+          "expanded_url": "https://x.com/mmmmimimimmm/status/1999730858975199524/photo/1",
+          "media_key": "3_1999730855129022470",
+          "start": 18,
+          "url": "https://t.co/wq3HDMUvog"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1999921011115077707",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 64
+    },
+    "referenced_tweets": [
+      {
+        "id": "1999730858975199524",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @mmmmimimimmm: https://t.co/wq3HDMUvog"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1999921011115077707].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1999921011115077707",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1999921011115077707"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1196,
+        "media_key": "3_1999730855129022470",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G8B4niJagAYB5Mx.jpg",
+        "width": 655
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1999730855129022470"
+          ]
+        },
+        "author_id": "1855429446943248384",
+        "conversation_id": "1999730858975199524",
+        "created_at": "2025-12-13T06:39:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-13T07:39:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1999730858975199524"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/wq3HDMUvog",
+              "end": 23,
+              "expanded_url": "https://x.com/mmmmimimimmm/status/1999730858975199524/photo/1",
+              "media_key": "3_1999730855129022470",
+              "start": 0,
+              "url": "https://t.co/wq3HDMUvog"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1999730858975199524",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 89,
+          "impression_count": 9519,
+          "like_count": 892,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 64
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/wq3HDMUvog"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-12T18:50:19.000Z",
+        "description": "随缘//医学爱好者/les🏳️‍🌈/lgbt友好/中文/EN/Arknights/绘画/混乱日常碎碎念/很吵//喵喵 【永远拥护培根卷番茄！】",
+        "id": "1569397683814629379",
+        "location": "世界的尽头",
+        "name": "腐烂培根卷",
+        "pinned_tweet_id": "1993298688010322328",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953366409284861953/HM3Aeou7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 156,
+          "following_count": 946,
+          "like_count": 3429,
+          "listed_count": 1,
+          "media_count": 88,
+          "tweet_count": 4015
+        },
+        "username": "ppppggggjjjj",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-10T01:57:16.000Z",
+        "description": "サブ垢ですフォローしない方がいいです！ おすすめに出てきちゃったらミュートして下さい❕絵が見たいだけの人はこっちフォローしてね→@akemitan_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 74,
+                "start": 64,
+                "username": "akemitan_"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@akemitan_",
+                "end": 23,
+                "expanded_url": "https://youtube.com/@akemitan_",
+                "start": 0,
+                "url": "https://t.co/Xgak8Pz5Sm"
+              }
+            ]
+          }
+        },
+        "id": "1855429446943248384",
+        "name": "フォロー非推奨",
+        "pinned_tweet_id": "1963176197690736703",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1932992014624411648/4r-81r0Q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12940,
+          "following_count": 13,
+          "like_count": 1274,
+          "listed_count": 55,
+          "media_count": 509,
+          "tweet_count": 3700
+        },
+        "url": "https://t.co/Xgak8Pz5Sm",
+        "username": "mmmmimimimmm",
+        "verified": false
+      }
+    ]
+  }
+}

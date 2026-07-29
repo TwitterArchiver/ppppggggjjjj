@@ -1,0 +1,249 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2053709328377339904"
+      ],
+      "media_source_tweet_id": [
+        "2053709626063921439"
+      ]
+    },
+    "author_id": "1569397683814629379",
+    "conversation_id": "2053760621590847923",
+    "created_at": "2026-05-11T08:54:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-11T09:54:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2053760621590847923"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1224972556546891784",
+          "start": 3,
+          "username": "tok8505"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/GLsGnlrJxp",
+          "end": 45,
+          "expanded_url": "https://x.com/tok8505/status/2053709626063921439/photo/1",
+          "media_key": "3_2053709328377339904",
+          "start": 22,
+          "url": "https://t.co/GLsGnlrJxp"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053760621590847923",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 57
+    },
+    "referenced_tweets": [
+      {
+        "id": "2053709626063921439",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @tok8505: 是稿件请勿使用～ https://t.co/GLsGnlrJxp"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2053709328377339904",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIA9wM3WYAAqdw3.jpg",
+        "width": 1282
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2053709328377339904"
+          ],
+          "media_source_tweet_id": [
+            "2053709626063921439"
+          ]
+        },
+        "author_id": "1569397683814629379",
+        "conversation_id": "2053760621590847923",
+        "created_at": "2026-05-11T08:54:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-11T09:54:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053760621590847923"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1224972556546891784",
+              "start": 3,
+              "username": "tok8505"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/GLsGnlrJxp",
+              "end": 45,
+              "expanded_url": "https://x.com/tok8505/status/2053709626063921439/photo/1",
+              "media_key": "3_2053709328377339904",
+              "start": 22,
+              "url": "https://t.co/GLsGnlrJxp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053760621590847923",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 57
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053709626063921439",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @tok8505: 是稿件请勿使用～ https://t.co/GLsGnlrJxp"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2053709328377339904"
+          ]
+        },
+        "author_id": "1224972556546891784",
+        "conversation_id": "2053709626063921439",
+        "created_at": "2026-05-11T05:31:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-11T06:31:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2053709626063921439"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/GLsGnlrJxp",
+              "end": 32,
+              "expanded_url": "https://x.com/tok8505/status/2053709626063921439/photo/1",
+              "media_key": "3_2053709328377339904",
+              "start": 9,
+              "url": "https://t.co/GLsGnlrJxp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053709626063921439",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 18,
+          "impression_count": 1950,
+          "like_count": 222,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 57
+        },
+        "reply_settings": "everyone",
+        "text": "是稿件请勿使用～ https://t.co/GLsGnlrJxp"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-12T18:50:19.000Z",
+        "description": "随缘//医学爱好者/Arknights/绘画/混乱日常碎碎念无营养内容/可能会很吵？ /les/lgbt友好/中文/EN//喵喵//提问箱↓ ↓ ↓",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ppppppppp38481",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ppppppppp38481",
+                "start": 0,
+                "url": "https://t.co/dw8CaO6ajX"
+              }
+            ]
+          }
+        },
+        "id": "1569397683814629379",
+        "location": "世界的尽头",
+        "name": "腐烂培根卷",
+        "pinned_tweet_id": "2012485424057291255",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953366409284861953/HM3Aeou7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 227,
+          "following_count": 1434,
+          "like_count": 7862,
+          "listed_count": 1,
+          "media_count": 100,
+          "tweet_count": 5955
+        },
+        "url": "https://t.co/dw8CaO6ajX",
+        "username": "ppppggggjjjj",
+        "verified": false
+      },
+      {
+        "created_at": "2020-02-05T08:26:35.000Z",
+        "description": "20⬆️ 混沌杂食人 🚫AI🚫 政治相关🚫I❤️琥珀秋葉 日文和英文都不是很好所以会使用翻译器 请不要无授权转载我的作品",
+        "id": "1224972556546891784",
+        "name": "小绘Erica",
+        "pinned_tweet_id": "1946479418211193117",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1938849972453015552/BohNBiUi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2113,
+          "following_count": 343,
+          "like_count": 1755,
+          "listed_count": 5,
+          "media_count": 232,
+          "tweet_count": 432
+        },
+        "username": "tok8505",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,353 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1940061492969095168",
+        "3_1940061492969095169"
+      ],
+      "media_source_tweet_id": [
+        "1940061513785778190",
+        "1940061513785778190"
+      ]
+    },
+    "author_id": "1569397683814629379",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1940367672023339459",
+    "created_at": "2025-07-02T11:11:17.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-02T12:11:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1940367672023339459"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1385783959972315139",
+          "start": 3,
+          "username": "Shime__Kake"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/EMrCtZPS5q",
+          "end": 43,
+          "expanded_url": "https://x.com/Shime__Kake/status/1940061513785778190/photo/1",
+          "media_key": "3_1940061492969095168",
+          "start": 20,
+          "url": "https://t.co/EMrCtZPS5q"
+        },
+        {
+          "display_url": "pic.x.com/EMrCtZPS5q",
+          "end": 43,
+          "expanded_url": "https://x.com/Shime__Kake/status/1940061513785778190/photo/1",
+          "media_key": "3_1940061492969095169",
+          "start": 20,
+          "url": "https://t.co/EMrCtZPS5q"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1940367672023339459",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 994
+    },
+    "referenced_tweets": [
+      {
+        "id": "1940061513785778190",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Shime__Kake: 夏！ https://t.co/EMrCtZPS5q"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1940061492969095168",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gux7piLWQAAX06v.jpg",
+        "width": 1449
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1940061492969095169",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gux7piLWQAEOZGG.jpg",
+        "width": 1446
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1940061492969095168",
+            "3_1940061492969095169"
+          ],
+          "media_source_tweet_id": [
+            "1940061513785778190",
+            "1940061513785778190"
+          ]
+        },
+        "author_id": "1569397683814629379",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1940367672023339459",
+        "created_at": "2025-07-02T11:11:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-02T12:11:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1940367672023339459"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1385783959972315139",
+              "start": 3,
+              "username": "Shime__Kake"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/EMrCtZPS5q",
+              "end": 43,
+              "expanded_url": "https://x.com/Shime__Kake/status/1940061513785778190/photo/1",
+              "media_key": "3_1940061492969095168",
+              "start": 20,
+              "url": "https://t.co/EMrCtZPS5q"
+            },
+            {
+              "display_url": "pic.x.com/EMrCtZPS5q",
+              "end": 43,
+              "expanded_url": "https://x.com/Shime__Kake/status/1940061513785778190/photo/1",
+              "media_key": "3_1940061492969095169",
+              "start": 20,
+              "url": "https://t.co/EMrCtZPS5q"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1940367672023339459",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 994
+        },
+        "referenced_tweets": [
+          {
+            "id": "1940061513785778190",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Shime__Kake: 夏！ https://t.co/EMrCtZPS5q"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1940061492969095168",
+            "3_1940061492969095169"
+          ]
+        },
+        "author_id": "1385783959972315139",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1940061513785778190",
+        "created_at": "2025-07-01T14:54:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-01T15:54:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1940061513785778190"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/EMrCtZPS5q",
+              "end": 26,
+              "expanded_url": "https://x.com/Shime__Kake/status/1940061513785778190/photo/1",
+              "media_key": "3_1940061492969095168",
+              "start": 3,
+              "url": "https://t.co/EMrCtZPS5q"
+            },
+            {
+              "display_url": "pic.x.com/EMrCtZPS5q",
+              "end": 26,
+              "expanded_url": "https://x.com/Shime__Kake/status/1940061513785778190/photo/1",
+              "media_key": "3_1940061492969095169",
+              "start": 3,
+              "url": "https://t.co/EMrCtZPS5q"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1940061513785778190",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1683,
+          "impression_count": 244884,
+          "like_count": 11413,
+          "quote_count": 10,
+          "reply_count": 7,
+          "retweet_count": 994
+        },
+        "reply_settings": "everyone",
+        "text": "夏！ https://t.co/EMrCtZPS5q"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-12T18:50:19.000Z",
+        "description": "随缘//医学爱好者/les🏳️‍🌈/lgbt友好/中文/EN/Arknights/绘画/混乱日常碎碎念/很吵//喵喵",
+        "id": "1569397683814629379",
+        "name": "腐烂苹果酱",
+        "pinned_tweet_id": "1937498024907010498",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1620839959388393479/hsMKvVei_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 31,
+          "following_count": 263,
+          "like_count": 432,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 657
+        },
+        "username": "ppppggggjjjj",
+        "verified": false
+      },
+      {
+        "created_at": "2021-04-24T02:33:44.000Z",
+        "description": "絵。光と湿度と匂い。◇skeb▶https://t.co/R1iOCDoCuR ◇ご依頼は✉shime.kake03@gmail.com ◇Xfolioから▶https://t.co/QUkTvd7IOB◇SKIMA▶https://t.co/OZf1grFs8L ※AI学習❌",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "skeb.jp/@Shime__Kake",
+                "end": 39,
+                "expanded_url": "https://skeb.jp/@Shime__Kake",
+                "start": 16,
+                "url": "https://t.co/R1iOCDoCuR"
+              },
+              {
+                "display_url": "xfolio.jp/portfolio/Shim…",
+                "end": 102,
+                "expanded_url": "https://xfolio.jp/portfolio/Shime__Kake",
+                "start": 79,
+                "url": "https://t.co/QUkTvd7IOB"
+              },
+              {
+                "display_url": "onl.bz/9uLmh68",
+                "end": 132,
+                "expanded_url": "https://onl.bz/9uLmh68",
+                "start": 109,
+                "url": "https://t.co/OZf1grFs8L"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/1867674",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/1867674",
+                "start": 0,
+                "url": "https://t.co/kbx27vEu0J"
+              }
+            ]
+          }
+        },
+        "id": "1385783959972315139",
+        "location": "禁足地",
+        "name": "七五三懸(しめかけ)",
+        "pinned_tweet_id": "1936310158512341061",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1652268485727375361/dnB5xTOL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5189,
+          "following_count": 583,
+          "like_count": 2322,
+          "listed_count": 52,
+          "media_count": 105,
+          "tweet_count": 2851
+        },
+        "url": "https://t.co/kbx27vEu0J",
+        "username": "Shime__Kake",
+        "verified": false
+      }
+    ]
+  }
+}

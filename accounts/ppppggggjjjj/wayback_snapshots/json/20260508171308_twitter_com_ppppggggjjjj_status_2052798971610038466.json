@@ -1,0 +1,378 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2052750135705137155"
+      ],
+      "media_source_tweet_id": [
+        "2052750146778087512"
+      ]
+    },
+    "author_id": "1569397683814629379",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+          "id": "130",
+          "name": "Multimedia Franchise"
+        },
+        "entity": {
+          "id": "1448422092655845378",
+          "name": "Tsukihime"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1448422092655845378",
+          "name": "Tsukihime"
+        }
+      }
+    ],
+    "conversation_id": "2052798971610038466",
+    "created_at": "2026-05-08T17:13:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-08T18:13:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2052798971610038466"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 33,
+          "start": 23,
+          "tag": "Tsukihime"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1224972556546891784",
+          "start": 3,
+          "username": "tok8505"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/z0Rja8H2R4",
+          "end": 57,
+          "expanded_url": "https://x.com/tok8505/status/2052750146778087512/photo/1",
+          "media_key": "3_2052750135705137155",
+          "start": 34,
+          "url": "https://t.co/z0Rja8H2R4"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052798971610038466",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 51
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052750146778087512",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @tok8505: 小心被女鬼缠上…\n\n#Tsukihime https://t.co/z0Rja8H2R4"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 510,
+        "media_key": "3_2052750135705137155",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHzVX1tW8AMHAxg.jpg",
+        "width": 658
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2052750135705137155"
+          ],
+          "media_source_tweet_id": [
+            "2052750146778087512"
+          ]
+        },
+        "author_id": "1569397683814629379",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "id": "1448422092655845378",
+              "name": "Tsukihime"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1448422092655845378",
+              "name": "Tsukihime"
+            }
+          }
+        ],
+        "conversation_id": "2052798971610038466",
+        "created_at": "2026-05-08T17:13:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-08T18:13:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052798971610038466"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 33,
+              "start": 23,
+              "tag": "Tsukihime"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1224972556546891784",
+              "start": 3,
+              "username": "tok8505"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/z0Rja8H2R4",
+              "end": 57,
+              "expanded_url": "https://x.com/tok8505/status/2052750146778087512/photo/1",
+              "media_key": "3_2052750135705137155",
+              "start": 34,
+              "url": "https://t.co/z0Rja8H2R4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052798971610038466",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 51
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052750146778087512",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @tok8505: 小心被女鬼缠上…\n\n#Tsukihime https://t.co/z0Rja8H2R4"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2052750135705137155"
+          ]
+        },
+        "author_id": "1224972556546891784",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "id": "1448422092655845378",
+              "name": "Tsukihime"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1448422092655845378",
+              "name": "Tsukihime"
+            }
+          }
+        ],
+        "conversation_id": "2052750146778087512",
+        "created_at": "2026-05-08T13:59:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-08T14:59:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2052750146778087512"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 20,
+              "start": 10,
+              "tag": "Tsukihime"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/z0Rja8H2R4",
+              "end": 44,
+              "expanded_url": "https://x.com/tok8505/status/2052750146778087512/photo/1",
+              "media_key": "3_2052750135705137155",
+              "start": 21,
+              "url": "https://t.co/z0Rja8H2R4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052750146778087512",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 25,
+          "impression_count": 2862,
+          "like_count": 227,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 51
+        },
+        "reply_settings": "everyone",
+        "text": "小心被女鬼缠上…\n\n#Tsukihime https://t.co/z0Rja8H2R4"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-12T18:50:19.000Z",
+        "description": "随缘//医学爱好者/Arknights/绘画/混乱日常碎碎念无营养内容/可能会很吵？ /les/lgbt友好/中文/EN//喵喵//提问箱↓ ↓ ↓",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ppppppppp38481",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ppppppppp38481",
+                "start": 0,
+                "url": "https://t.co/dw8CaO6ajX"
+              }
+            ]
+          }
+        },
+        "id": "1569397683814629379",
+        "location": "世界的尽头",
+        "name": "腐烂培根卷",
+        "pinned_tweet_id": "2012485424057291255",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953366409284861953/HM3Aeou7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 233,
+          "following_count": 1414,
+          "like_count": 7699,
+          "listed_count": 1,
+          "media_count": 100,
+          "tweet_count": 5816
+        },
+        "url": "https://t.co/dw8CaO6ajX",
+        "username": "ppppggggjjjj",
+        "verified": false
+      },
+      {
+        "created_at": "2020-02-05T08:26:35.000Z",
+        "description": "20⬆️ 混沌杂食人 🚫AI🚫 政治相关🚫I❤️琥珀秋葉 日文和英文都不是很好所以会使用翻译器 请不要无授权转载我的作品",
+        "id": "1224972556546891784",
+        "name": "小绘Erica",
+        "pinned_tweet_id": "1946479418211193117",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1938849972453015552/BohNBiUi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2050,
+          "following_count": 343,
+          "like_count": 1733,
+          "listed_count": 5,
+          "media_count": 225,
+          "tweet_count": 423
+        },
+        "username": "tok8505",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,264 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2066777278286307328"
+      ],
+      "media_source_tweet_id": [
+        "2066777319893766284"
+      ]
+    },
+    "author_id": "1569397683814629379",
+    "conversation_id": "2067185851927277685",
+    "created_at": "2026-06-17T10:01:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-17T11:01:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067185851927277685"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1819660400453165056",
+          "start": 3,
+          "username": "310lxlx"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/t6SCxF9FPm",
+          "end": 46,
+          "expanded_url": "https://x.com/310lxlx/status/2066777319893766284/photo/1",
+          "media_key": "3_2066777278286307328",
+          "start": 23,
+          "url": "https://t.co/t6SCxF9FPm"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067185851927277685",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2458
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066777319893766284",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "following",
+    "text": "RT @310lxlx: Priestess https://t.co/t6SCxF9FPm"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2891,
+        "media_key": "3_2066777278286307328",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HK6q-_4aoAAZfE1.jpg",
+        "width": 4096
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2066777278286307328"
+          ],
+          "media_source_tweet_id": [
+            "2066777319893766284"
+          ]
+        },
+        "author_id": "1569397683814629379",
+        "conversation_id": "2067185851927277685",
+        "created_at": "2026-06-17T10:01:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-17T11:01:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067185851927277685"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1819660400453165056",
+              "start": 3,
+              "username": "310lxlx"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/t6SCxF9FPm",
+              "end": 46,
+              "expanded_url": "https://x.com/310lxlx/status/2066777319893766284/photo/1",
+              "media_key": "3_2066777278286307328",
+              "start": 23,
+              "url": "https://t.co/t6SCxF9FPm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067185851927277685",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2458
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066777319893766284",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "following",
+        "text": "RT @310lxlx: Priestess https://t.co/t6SCxF9FPm"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2066777278286307328"
+          ]
+        },
+        "author_id": "1819660400453165056",
+        "conversation_id": "2066777319893766284",
+        "created_at": "2026-06-16T06:58:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-16T07:58:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2066777319893766284"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/t6SCxF9FPm",
+              "end": 33,
+              "expanded_url": "https://x.com/310lxlx/status/2066777319893766284/photo/1",
+              "media_key": "3_2066777278286307328",
+              "start": 10,
+              "url": "https://t.co/t6SCxF9FPm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066777319893766284",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2417,
+          "impression_count": 157684,
+          "like_count": 22075,
+          "quote_count": 6,
+          "reply_count": 24,
+          "retweet_count": 2458
+        },
+        "reply_settings": "following",
+        "text": "Priestess https://t.co/t6SCxF9FPm"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-12T18:50:19.000Z",
+        "description": "随缘//医学爱好者/Arknights/绘画/混乱日常碎碎念无营养内容/可能会很吵？ /les/lgbt友好/中文/EN//喵喵//提问箱↓ ↓ ↓",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ppppppppp38481",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ppppppppp38481",
+                "start": 0,
+                "url": "https://t.co/dw8CaO6ajX"
+              }
+            ]
+          }
+        },
+        "id": "1569397683814629379",
+        "location": "世界的尽头",
+        "name": "腐烂培根卷",
+        "pinned_tweet_id": "2012485424057291255",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953366409284861953/HM3Aeou7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 241,
+          "following_count": 1615,
+          "like_count": 9860,
+          "listed_count": 1,
+          "media_count": 104,
+          "tweet_count": 7068
+        },
+        "url": "https://t.co/dw8CaO6ajX",
+        "username": "ppppggggjjjj",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-03T09:04:00.000Z",
+        "description": "横這い",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "profcard.info/u/zH2TFUFGhVas…",
+                "end": 23,
+                "expanded_url": "https://profcard.info/u/zH2TFUFGhVasFSker5lnI1bGg343",
+                "start": 0,
+                "url": "https://t.co/iTrGX2JeYs"
+              }
+            ]
+          }
+        },
+        "id": "1819660400453165056",
+        "location": "アイコン→ @iwashipatapata",
+        "name": "絶品",
+        "pinned_tweet_id": "1886217485781021136",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043700160170221569/yStZNhv__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10823,
+          "following_count": 36,
+          "like_count": 15890,
+          "listed_count": 68,
+          "media_count": 1059,
+          "tweet_count": 19914
+        },
+        "url": "https://t.co/iTrGX2JeYs",
+        "username": "310lxlx",
+        "verified": true
+      }
+    ]
+  }
+}

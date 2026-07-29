@@ -1,0 +1,249 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2048519883584126976"
+      ],
+      "media_source_tweet_id": [
+        "2048519893478461823"
+      ]
+    },
+    "author_id": "1569397683814629379",
+    "conversation_id": "2048617743730331914",
+    "created_at": "2026-04-27T04:18:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-27T05:18:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2048617743730331914"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1669295912836018178",
+          "start": 3,
+          "username": "zvuqz"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/yfaE8kdJZF",
+          "end": 42,
+          "expanded_url": "https://x.com/zvuqz/status/2048519893478461823/photo/1",
+          "media_key": "3_2048519883584126976",
+          "start": 19,
+          "url": "https://t.co/yfaE8kdJZF"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048617743730331914",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 80
+    },
+    "referenced_tweets": [
+      {
+        "id": "2048519893478461823",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @zvuqz: CEO wip https://t.co/yfaE8kdJZF"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_2048519883584126976",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HG3N-whbQAA1ZOt.jpg",
+        "width": 2509
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2048519883584126976"
+          ],
+          "media_source_tweet_id": [
+            "2048519893478461823"
+          ]
+        },
+        "author_id": "1569397683814629379",
+        "conversation_id": "2048617743730331914",
+        "created_at": "2026-04-27T04:18:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-27T05:18:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048617743730331914"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1669295912836018178",
+              "start": 3,
+              "username": "zvuqz"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/yfaE8kdJZF",
+              "end": 42,
+              "expanded_url": "https://x.com/zvuqz/status/2048519893478461823/photo/1",
+              "media_key": "3_2048519883584126976",
+              "start": 19,
+              "url": "https://t.co/yfaE8kdJZF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048617743730331914",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 80
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048519893478461823",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @zvuqz: CEO wip https://t.co/yfaE8kdJZF"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2048519883584126976"
+          ]
+        },
+        "author_id": "1669295912836018178",
+        "conversation_id": "2048519893478461823",
+        "created_at": "2026-04-26T21:49:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-26T22:49:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2048519893478461823"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/yfaE8kdJZF",
+              "end": 31,
+              "expanded_url": "https://x.com/zvuqz/status/2048519893478461823/photo/1",
+              "media_key": "3_2048519883584126976",
+              "start": 8,
+              "url": "https://t.co/yfaE8kdJZF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048519893478461823",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 69,
+          "impression_count": 4818,
+          "like_count": 726,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 80
+        },
+        "reply_settings": "everyone",
+        "text": "CEO wip https://t.co/yfaE8kdJZF"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-12T18:50:19.000Z",
+        "description": "随缘//医学爱好者/Arknights/绘画/混乱日常碎碎念无营养内容/可能会很吵？ /les/lgbt友好/中文/EN//喵喵//提问箱↓ ↓ ↓",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ppppppppp38481",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ppppppppp38481",
+                "start": 0,
+                "url": "https://t.co/dw8CaO6ajX"
+              }
+            ]
+          }
+        },
+        "id": "1569397683814629379",
+        "location": "世界的尽头",
+        "name": "腐烂培根卷",
+        "pinned_tweet_id": "2012485424057291255",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953366409284861953/HM3Aeou7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 216,
+          "following_count": 1324,
+          "like_count": 7008,
+          "listed_count": 1,
+          "media_count": 98,
+          "tweet_count": 5376
+        },
+        "url": "https://t.co/dw8CaO6ajX",
+        "username": "ppppggggjjjj",
+        "verified": false
+      },
+      {
+        "created_at": "2023-06-15T10:49:03.000Z",
+        "description": "アークナイツを描くアカウント",
+        "id": "1669295912836018178",
+        "location": "ロドスのトイレ掃除担当※昇進1",
+        "name": "一般",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035215380701163520/H2AGuhdr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1490,
+          "following_count": 61,
+          "like_count": 2056,
+          "listed_count": 11,
+          "media_count": 23,
+          "tweet_count": 974
+        },
+        "username": "zvuqz",
+        "verified": false
+      }
+    ]
+  }
+}

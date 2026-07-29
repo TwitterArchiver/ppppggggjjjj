@@ -1,0 +1,210 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2002446819230720000"
+      ],
+      "media_source_tweet_id": [
+        "2002446825094324662"
+      ]
+    },
+    "author_id": "1569397683814629379",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2003327864939385038",
+    "created_at": "2025-12-23T04:52:37.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-23T05:52:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2003327864939385038"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1791757871178559488",
+          "start": 3,
+          "username": "kkallllllllcon"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Pir0YsvzAL",
+          "end": 46,
+          "expanded_url": "https://x.com/kkallllllllcon/status/2002446825094324662/photo/1",
+          "media_key": "3_2002446819230720000",
+          "start": 23,
+          "url": "https://t.co/Pir0YsvzAL"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2003327864939385038",
+    "lang": "ko",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 747
+    },
+    "referenced_tweets": [
+      {
+        "id": "2002446825094324662",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @kkallllllllcon: 냥냥 https://t.co/Pir0YsvzAL"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2003327864939385038].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2003327864939385038",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2003327864939385038"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2002446819230720000",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G8oexc3boAAC_8j.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2002446819230720000"
+          ]
+        },
+        "author_id": "1791757871178559488",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2002446825094324662",
+        "created_at": "2025-12-20T18:31:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-20T19:31:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2002446825094324662"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Pir0YsvzAL",
+              "end": 26,
+              "expanded_url": "https://x.com/kkallllllllcon/status/2002446825094324662/photo/1",
+              "media_key": "3_2002446819230720000",
+              "start": 3,
+              "url": "https://t.co/Pir0YsvzAL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2002446825094324662",
+        "lang": "ko",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 377,
+          "impression_count": 34280,
+          "like_count": 4358,
+          "quote_count": 30,
+          "reply_count": 45,
+          "retweet_count": 747
+        },
+        "reply_settings": "everyone",
+        "text": "냥냥 https://t.co/Pir0YsvzAL"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-12T18:50:19.000Z",
+        "description": "随缘//医学爱好者/les🏳️‍🌈/lgbt友好/中文/EN/Arknights/绘画/混乱日常碎碎念/很吵//喵喵 【永远拥护培根卷番茄！】",
+        "id": "1569397683814629379",
+        "location": "世界的尽头",
+        "name": "腐烂培根卷",
+        "pinned_tweet_id": "1993298688010322328",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953366409284861953/HM3Aeou7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 156,
+          "following_count": 998,
+          "like_count": 3837,
+          "listed_count": 1,
+          "media_count": 88,
+          "tweet_count": 4195
+        },
+        "username": "ppppggggjjjj",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-18T09:09:50.000Z",
+        "description": "10/여",
+        "id": "1791757871178559488",
+        "location": "하늘",
+        "name": "으엥",
+        "pinned_tweet_id": "1995814468564255097",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1981490370195124224/Oxw7mEJT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 498,
+          "following_count": 346,
+          "like_count": 21173,
+          "listed_count": 1,
+          "media_count": 58,
+          "tweet_count": 146
+        },
+        "username": "kkallllllllcon",
+        "verified": false
+      }
+    ]
+  }
+}

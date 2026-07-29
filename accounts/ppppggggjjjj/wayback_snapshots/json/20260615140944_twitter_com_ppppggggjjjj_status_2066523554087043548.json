@@ -1,0 +1,202 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1569397683814629379",
+    "conversation_id": "2066523554087043548",
+    "created_at": "2026-06-15T14:09:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-15T15:09:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066523554087043548"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "410818785",
+          "start": 3,
+          "username": "umANSIOS0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066523554087043548",
+    "lang": "pt",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1143
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066267465412198627",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @umANSIOS0: não sei se preciso de terapia, um abraço de 3h, uma oração, ou 3 meses de sono"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1569397683814629379",
+        "conversation_id": "2066523554087043548",
+        "created_at": "2026-06-15T14:09:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-15T15:09:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066523554087043548"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "410818785",
+              "start": 3,
+              "username": "umANSIOS0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066523554087043548",
+        "lang": "pt",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1143
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066267465412198627",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @umANSIOS0: não sei se preciso de terapia, um abraço de 3h, uma oração, ou 3 meses de sono"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "410818785",
+        "conversation_id": "2066267465412198627",
+        "created_at": "2026-06-14T21:12:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T22:12:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2066267465412198627"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2066267465412198627",
+        "lang": "pt",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 54,
+          "impression_count": 32475,
+          "like_count": 1991,
+          "quote_count": 40,
+          "reply_count": 7,
+          "retweet_count": 1143
+        },
+        "reply_settings": "everyone",
+        "text": "não sei se preciso de terapia, um abraço de 3h, uma oração, ou 3 meses de sono"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-12T18:50:19.000Z",
+        "description": "随缘//医学爱好者/Arknights/绘画/混乱日常碎碎念无营养内容/可能会很吵？ /les/lgbt友好/中文/EN//喵喵//提问箱↓ ↓ ↓",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ppppppppp38481",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ppppppppp38481",
+                "start": 0,
+                "url": "https://t.co/dw8CaO6ajX"
+              }
+            ]
+          }
+        },
+        "id": "1569397683814629379",
+        "location": "世界的尽头",
+        "name": "腐烂培根卷",
+        "pinned_tweet_id": "2012485424057291255",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953366409284861953/HM3Aeou7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 241,
+          "following_count": 1611,
+          "like_count": 9816,
+          "listed_count": 1,
+          "media_count": 104,
+          "tweet_count": 7033
+        },
+        "url": "https://t.co/dw8CaO6ajX",
+        "username": "ppppggggjjjj",
+        "verified": false
+      },
+      {
+        "created_at": "2011-11-12T16:21:55.000Z",
+        "description": "de marte para a terra 👽\n\n@MIBR",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 30,
+                "start": 25,
+                "username": "MIBR"
+              }
+            ]
+          }
+        },
+        "id": "410818785",
+        "location": "São Paulo, Brasil",
+        "name": "Renan Callegari 🇧🇷",
+        "pinned_tweet_id": "1844032477406675216",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049913700304244736/7jBqbkxZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 76851,
+          "following_count": 36247,
+          "like_count": 204792,
+          "listed_count": 11,
+          "media_count": 2899,
+          "tweet_count": 59791
+        },
+        "username": "umANSIOS0",
+        "verified": false
+      }
+    ]
+  }
+}

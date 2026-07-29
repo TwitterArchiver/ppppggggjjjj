@@ -1,0 +1,223 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1998778757205942273"
+      ],
+      "media_source_tweet_id": [
+        "1998778762448515260"
+      ]
+    },
+    "author_id": "1569397683814629379",
+    "conversation_id": "1999084568197115993",
+    "created_at": "2025-12-11T11:51:16.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-11T12:51:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1999084568197115993"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 22,
+          "normalized_text": "アイリン",
+          "probability": 0.4402,
+          "start": 19,
+          "type": "Person"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1903093399529590789",
+          "start": 3,
+          "username": "fanyaan_"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/kFe6N9vcIq",
+          "end": 59,
+          "expanded_url": "https://x.com/fanyaan_/status/1998778762448515260/photo/1",
+          "media_key": "3_1998778757205942273",
+          "start": 36,
+          "url": "https://t.co/kFe6N9vcIq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1999084568197115993",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 37
+    },
+    "referenced_tweets": [
+      {
+        "id": "1998778762448515260",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @fanyaan_: 【やっと】アイリンをあげました【鍵垢始動】 https://t.co/kFe6N9vcIq"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1999084568197115993].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1999084568197115993",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1999084568197115993"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 888,
+        "media_key": "3_1998778757205942273",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G70WsI_bYAETX_k.jpg",
+        "width": 1335
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1998778757205942273"
+          ]
+        },
+        "author_id": "1903093399529590789",
+        "conversation_id": "1998778762448515260",
+        "created_at": "2025-12-10T15:36:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-10T16:36:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1998778762448515260"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 8,
+              "normalized_text": "アイリン",
+              "probability": 0.4169,
+              "start": 5,
+              "type": "Person"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/kFe6N9vcIq",
+              "end": 45,
+              "expanded_url": "https://x.com/fanyaan_/status/1998778762448515260/photo/1",
+              "media_key": "3_1998778757205942273",
+              "start": 22,
+              "url": "https://t.co/kFe6N9vcIq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1998778762448515260",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 352,
+          "impression_count": 43974,
+          "like_count": 1911,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 37
+        },
+        "reply_settings": "everyone",
+        "text": "【やっと】アイリンをあげました【鍵垢始動】 https://t.co/kFe6N9vcIq"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-12T18:50:19.000Z",
+        "description": "随缘//医学爱好者/les🏳️‍🌈/lgbt友好/中文/EN/Arknights/绘画/混乱日常碎碎念/很吵//喵喵 【永远拥护培根卷番茄！】",
+        "id": "1569397683814629379",
+        "location": "世界的尽头",
+        "name": "腐烂培根卷",
+        "pinned_tweet_id": "1993298688010322328",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953366409284861953/HM3Aeou7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 154,
+          "following_count": 930,
+          "like_count": 3373,
+          "listed_count": 1,
+          "media_count": 88,
+          "tweet_count": 3990
+        },
+        "username": "ppppggggjjjj",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-21T14:36:55.000Z",
+        "description": "チー豚です。GLトッピングもお願いします。/ PもTも顔あり🚺です / 通知🔕𝗢𝗙𝗙 / 🔞→ @fanyaa_nn",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 58,
+                "start": 48,
+                "username": "fanyaa_nn"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "wavebox.me/wave/5kfbvzg7e…",
+                "end": 23,
+                "expanded_url": "https://wavebox.me/wave/5kfbvzg7eblwqvg6/",
+                "start": 0,
+                "url": "https://t.co/LPLF5VSDFT"
+              }
+            ]
+          }
+        },
+        "id": "1903093399529590789",
+        "location": "ナカトレ/🅿️⚽️/🦔🍑🦔/銀澤",
+        "name": "チーズ豚丼",
+        "pinned_tweet_id": "1996182810995155111",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1997353733513203712/eAAz90fq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 855,
+          "following_count": 1,
+          "like_count": 915,
+          "listed_count": 1,
+          "media_count": 80,
+          "tweet_count": 460
+        },
+        "url": "https://t.co/LPLF5VSDFT",
+        "username": "fanyaan_",
+        "verified": false
+      }
+    ]
+  }
+}

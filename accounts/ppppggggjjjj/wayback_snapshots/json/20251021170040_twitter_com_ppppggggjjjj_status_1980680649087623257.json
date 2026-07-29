@@ -1,0 +1,250 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1980151020190650368"
+      ],
+      "media_source_tweet_id": [
+        "1980151022057410810"
+      ]
+    },
+    "author_id": "1569397683814629379",
+    "conversation_id": "1980680649087623257",
+    "created_at": "2025-10-21T17:00:40.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-21T18:00:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1980680649087623257"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1360772570769813505",
+          "start": 3,
+          "username": "BraveQuestEX"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/CaMQyFuul1",
+          "end": 41,
+          "expanded_url": "https://x.com/BraveQuestEX/status/1980151022057410810/photo/1",
+          "media_key": "3_1980151020190650368",
+          "start": 18,
+          "url": "https://t.co/CaMQyFuul1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1980680649087623257",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 574
+    },
+    "referenced_tweets": [
+      {
+        "id": "1980151022057410810",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @BraveQuestEX: https://t.co/CaMQyFuul1"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1208,
+        "media_key": "3_1980151020190650368",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G3ro3JAXUAA0kbV.jpg",
+        "width": 1206
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1980151020190650368"
+          ],
+          "media_source_tweet_id": [
+            "1980151022057410810"
+          ]
+        },
+        "author_id": "1569397683814629379",
+        "conversation_id": "1980680649087623257",
+        "created_at": "2025-10-21T17:00:40.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-21T18:00:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1980680649087623257"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1360772570769813505",
+              "start": 3,
+              "username": "BraveQuestEX"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/CaMQyFuul1",
+              "end": 41,
+              "expanded_url": "https://x.com/BraveQuestEX/status/1980151022057410810/photo/1",
+              "media_key": "3_1980151020190650368",
+              "start": 18,
+              "url": "https://t.co/CaMQyFuul1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1980680649087623257",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 574
+        },
+        "referenced_tweets": [
+          {
+            "id": "1980151022057410810",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @BraveQuestEX: https://t.co/CaMQyFuul1"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1980151020190650368"
+          ]
+        },
+        "author_id": "1360772570769813505",
+        "conversation_id": "1980151022057410810",
+        "created_at": "2025-10-20T05:56:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-20T06:56:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1980151022057410810"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/CaMQyFuul1",
+              "end": 23,
+              "expanded_url": "https://x.com/BraveQuestEX/status/1980151022057410810/photo/1",
+              "media_key": "3_1980151020190650368",
+              "start": 0,
+              "url": "https://t.co/CaMQyFuul1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1980151022057410810",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 605,
+          "impression_count": 473259,
+          "like_count": 9279,
+          "quote_count": 16,
+          "reply_count": 41,
+          "retweet_count": 574
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/CaMQyFuul1"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-12T18:50:19.000Z",
+        "description": "随缘//医学爱好者/les🏳️‍🌈/lgbt友好/中文/EN/Arknights/绘画/混乱日常碎碎念/很吵//喵喵 【永远拥护培根卷番茄！】",
+        "id": "1569397683814629379",
+        "location": "世界的尽头",
+        "name": "腐烂培根卷",
+        "pinned_tweet_id": "1937498024907010498",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953366409284861953/HM3Aeou7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 120,
+          "following_count": 734,
+          "like_count": 2284,
+          "listed_count": 1,
+          "media_count": 72,
+          "tweet_count": 3224
+        },
+        "username": "ppppggggjjjj",
+        "verified": false
+      },
+      {
+        "created_at": "2021-02-14T02:07:24.000Z",
+        "description": "某在职游戏汉化测试人员。笑ってくれてアリガトウ",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "bangumi.tv/user/seiuex",
+                "end": 23,
+                "expanded_url": "https://bangumi.tv/user/seiuex",
+                "start": 0,
+                "url": "https://t.co/sY3WqMyceB"
+              }
+            ]
+          }
+        },
+        "id": "1360772570769813505",
+        "location": "关西",
+        "name": "暁",
+        "pinned_tweet_id": "1979057865588392225",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1976613984091668480/tcTGOATV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 456,
+          "following_count": 400,
+          "like_count": 18875,
+          "listed_count": 3,
+          "media_count": 739,
+          "tweet_count": 3669
+        },
+        "url": "https://t.co/sY3WqMyceB",
+        "username": "BraveQuestEX",
+        "verified": false
+      }
+    ]
+  }
+}

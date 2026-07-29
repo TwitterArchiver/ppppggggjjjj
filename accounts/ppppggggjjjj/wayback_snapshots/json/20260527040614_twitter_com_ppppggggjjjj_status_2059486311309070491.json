@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2059128790362857472"
+      ],
+      "media_source_tweet_id": [
+        "2059128792698986746"
+      ]
+    },
+    "author_id": "1569397683814629379",
+    "conversation_id": "2059486311309070491",
+    "created_at": "2026-05-27T04:06:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-27T05:06:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059486311309070491"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1557450235621695488",
+          "start": 3,
+          "username": "KBDYD555"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/kNu5TVawVQ",
+          "end": 37,
+          "expanded_url": "https://x.com/KBDYD555/status/2059128792698986746/photo/1",
+          "media_key": "3_2059128790362857472",
+          "start": 14,
+          "url": "https://t.co/kNu5TVawVQ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059486311309070491",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 6
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059128792698986746",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @KBDYD555: https://t.co/kNu5TVawVQ"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2059486311309070491].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2059486311309070491",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2059486311309070491"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1080,
+        "media_key": "3_2059128790362857472",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJN-uaBboAABQtF.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2059128790362857472"
+          ]
+        },
+        "author_id": "1557450235621695488",
+        "conversation_id": "2059128792698986746",
+        "created_at": "2026-05-26T04:25:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-26T05:25:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059128792698986746"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/kNu5TVawVQ",
+              "end": 23,
+              "expanded_url": "https://x.com/KBDYD555/status/2059128792698986746/photo/1",
+              "media_key": "3_2059128790362857472",
+              "start": 0,
+              "url": "https://t.co/kNu5TVawVQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059128792698986746",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 838,
+          "like_count": 134,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 6
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/kNu5TVawVQ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-12T18:50:19.000Z",
+        "description": "随缘//医学爱好者/Arknights/绘画/混乱日常碎碎念无营养内容/可能会很吵？ /les/lgbt友好/中文/EN//喵喵//提问箱↓ ↓ ↓",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ppppppppp38481",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ppppppppp38481",
+                "start": 0,
+                "url": "https://t.co/dw8CaO6ajX"
+              }
+            ]
+          }
+        },
+        "id": "1569397683814629379",
+        "location": "世界的尽头",
+        "name": "腐烂培根卷",
+        "pinned_tweet_id": "2012485424057291255",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953366409284861953/HM3Aeou7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 246,
+          "following_count": 1582,
+          "like_count": 8742,
+          "listed_count": 1,
+          "media_count": 104,
+          "tweet_count": 6404
+        },
+        "url": "https://t.co/dw8CaO6ajX",
+        "username": "ppppggggjjjj",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-10T19:34:22.000Z",
+        "description": "我是99...前世叫不安定猫猫：@kokocat_9 遭举报冻结...现世成分:碎碎念日常/ED/sh/鼠/狗/猫twt....互关回来吧...（Eng🆗）避难小号：@kyuukoQ 目前身体精神不好找不到工作如果可怜我喜欢我请给我一点点资助... 🩵@lengqizi💜",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 16,
+                "username": "kokocat_9"
+              },
+              {
+                "end": 91,
+                "start": 83,
+                "username": "kyuukoQ"
+              },
+              {
+                "end": 135,
+                "start": 126,
+                "username": "lengqizi"
+              }
+            ]
+          }
+        },
+        "id": "1557450235621695488",
+        "location": "鼠鼠樂園🐭vx🚪52",
+        "name": "🐭老鼠国王",
+        "pinned_tweet_id": "2031302686671515896",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038421157733617664/dbVEp8Aq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3843,
+          "following_count": 564,
+          "like_count": 4573,
+          "listed_count": 7,
+          "media_count": 965,
+          "tweet_count": 3533
+        },
+        "username": "KBDYD555",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,422 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1940083258756157444"
+      ],
+      "media_source_tweet_id": [
+        "1940083272710869224"
+      ]
+    },
+    "author_id": "1569397683814629379",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "id": "1418662307442221063",
+          "name": "Kaf"
+        }
+      },
+      {
+        "domain": {
+          "description": "Influencers who create content on digital platforms",
+          "id": "120",
+          "name": "Digital Creator"
+        },
+        "entity": {
+          "id": "1418662307442221063",
+          "name": "Kaf"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1247288073542463488",
+          "name": "Virtual YouTubers"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1418662307442221063",
+          "name": "Kaf"
+        }
+      }
+    ],
+    "conversation_id": "1940210163845317046",
+    "created_at": "2025-07-02T00:45:25.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-02T01:45:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1940210163845317046"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 24,
+          "start": 21,
+          "tag": "花譜"
+        },
+        {
+          "end": 32,
+          "start": 26,
+          "tag": "花譜美術部"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1160406202846593024",
+          "start": 3,
+          "username": "_kaomoji_0112"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/xST5uW5Phf",
+          "end": 56,
+          "expanded_url": "https://x.com/_kaomoji_0112/status/1940083272710869224/photo/1",
+          "media_key": "3_1940083258756157444",
+          "start": 33,
+          "url": "https://t.co/xST5uW5Phf"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1940210163845317046",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 236
+    },
+    "referenced_tweets": [
+      {
+        "id": "1940083272710869224",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @_kaomoji_0112: 🦉\n#花譜 \n#花譜美術部 https://t.co/xST5uW5Phf"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1940083258756157444",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GuyPceDX0AQA6zs.jpg",
+        "width": 1448
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1940083258756157444"
+          ],
+          "media_source_tweet_id": [
+            "1940083272710869224"
+          ]
+        },
+        "author_id": "1569397683814629379",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1418662307442221063",
+              "name": "Kaf"
+            }
+          },
+          {
+            "domain": {
+              "description": "Influencers who create content on digital platforms",
+              "id": "120",
+              "name": "Digital Creator"
+            },
+            "entity": {
+              "id": "1418662307442221063",
+              "name": "Kaf"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1247288073542463488",
+              "name": "Virtual YouTubers"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1418662307442221063",
+              "name": "Kaf"
+            }
+          }
+        ],
+        "conversation_id": "1940210163845317046",
+        "created_at": "2025-07-02T00:45:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-02T01:45:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1940210163845317046"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 24,
+              "start": 21,
+              "tag": "花譜"
+            },
+            {
+              "end": 32,
+              "start": 26,
+              "tag": "花譜美術部"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1160406202846593024",
+              "start": 3,
+              "username": "_kaomoji_0112"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/xST5uW5Phf",
+              "end": 56,
+              "expanded_url": "https://x.com/_kaomoji_0112/status/1940083272710869224/photo/1",
+              "media_key": "3_1940083258756157444",
+              "start": 33,
+              "url": "https://t.co/xST5uW5Phf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1940210163845317046",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 236
+        },
+        "referenced_tweets": [
+          {
+            "id": "1940083272710869224",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @_kaomoji_0112: 🦉\n#花譜 \n#花譜美術部 https://t.co/xST5uW5Phf"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1940083258756157444"
+          ]
+        },
+        "author_id": "1160406202846593024",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1418662307442221063",
+              "name": "Kaf"
+            }
+          },
+          {
+            "domain": {
+              "description": "Influencers who create content on digital platforms",
+              "id": "120",
+              "name": "Digital Creator"
+            },
+            "entity": {
+              "id": "1418662307442221063",
+              "name": "Kaf"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1247288073542463488",
+              "name": "Virtual YouTubers"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1418662307442221063",
+              "name": "Kaf"
+            }
+          }
+        ],
+        "conversation_id": "1940083272710869224",
+        "created_at": "2025-07-01T16:21:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-01T17:21:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1940083272710869224"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 5,
+              "start": 2,
+              "tag": "花譜"
+            },
+            {
+              "end": 13,
+              "start": 7,
+              "tag": "花譜美術部"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/xST5uW5Phf",
+              "end": 37,
+              "expanded_url": "https://x.com/_kaomoji_0112/status/1940083272710869224/photo/1",
+              "media_key": "3_1940083258756157444",
+              "start": 14,
+              "url": "https://t.co/xST5uW5Phf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1940083272710869224",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 85,
+          "impression_count": 9899,
+          "like_count": 1031,
+          "quote_count": 3,
+          "reply_count": 1,
+          "retweet_count": 236
+        },
+        "reply_settings": "everyone",
+        "text": "🦉\n#花譜 \n#花譜美術部 https://t.co/xST5uW5Phf"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-12T18:50:19.000Z",
+        "description": "随缘//医学爱好者/les🏳️‍🌈/lgbt友好/中文/EN/Arknights/绘画/混乱日常碎碎念/很吵//喵喵",
+        "id": "1569397683814629379",
+        "name": "腐烂苹果酱",
+        "pinned_tweet_id": "1937498024907010498",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1620839959388393479/hsMKvVei_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 29,
+          "following_count": 246,
+          "like_count": 402,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 611
+        },
+        "username": "ppppggggjjjj",
+        "verified": false
+      },
+      {
+        "created_at": "2019-08-11T04:22:52.000Z",
+        "description": "🇨🇳中国人 ，画一些简单的画，目前沉迷神椿中。｜観測者花組/芽組，VWPの全員大好きです。｜⚠️请不要无授权转载我的图！不要不经询问用作视频素材！｜中文OK/English OK/日本語は勉強中です、普段は機械翻訳を使います。｜無断転載/AI禁止🚫｜marshmallow↓",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "marshmallow-qa.com/z4xde0616uiudp…",
+                "end": 23,
+                "expanded_url": "https://marshmallow-qa.com/z4xde0616uiudpl?t=HYvfdE&utm_medium=url_text&utm_source=promotion",
+                "start": 0,
+                "url": "https://t.co/y0F5XITG63"
+              }
+            ]
+          }
+        },
+        "id": "1160406202846593024",
+        "location": "夢中",
+        "name": "(｀・ω・´)",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878890823183740928/qVgpEyuc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 851,
+          "following_count": 88,
+          "like_count": 1213,
+          "listed_count": 4,
+          "media_count": 28,
+          "tweet_count": 106
+        },
+        "url": "https://t.co/y0F5XITG63",
+        "username": "_kaomoji_0112",
+        "verified": false
+      }
+    ]
+  }
+}

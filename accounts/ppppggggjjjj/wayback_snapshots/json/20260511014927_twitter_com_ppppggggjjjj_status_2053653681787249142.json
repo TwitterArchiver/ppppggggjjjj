@@ -1,0 +1,326 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2053289049906192384"
+      ],
+      "media_source_tweet_id": [
+        "2053308544091636036"
+      ]
+    },
+    "author_id": "1569397683814629379",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Television shows from around the world",
+          "id": "3",
+          "name": "TV Shows"
+        },
+        "entity": {
+          "id": "10051561438",
+          "name": "Steins;Gate"
+        }
+      }
+    ],
+    "conversation_id": "2053653681787249142",
+    "created_at": "2026-05-11T01:49:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-11T02:49:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2053653681787249142"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1510030638610493442",
+          "start": 3,
+          "username": "jinbaRTA2"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/cJeJ53n80D",
+          "end": 57,
+          "expanded_url": "https://x.com/jinbaRTA2/status/2053308544091636036/photo/1",
+          "media_key": "3_2053289049906192384",
+          "start": 34,
+          "url": "https://t.co/cJeJ53n80D"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053653681787249142",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 685
+    },
+    "referenced_tweets": [
+      {
+        "id": "2053308544091636036",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @jinbaRTA2: STEINS;GATE  牧瀬紅莉栖 https://t.co/cJeJ53n80D"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_2053289049906192384",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HH6_gxjboAAB2Mt.jpg",
+        "width": 2886
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2053289049906192384"
+          ],
+          "media_source_tweet_id": [
+            "2053308544091636036"
+          ]
+        },
+        "author_id": "1569397683814629379",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Television shows from around the world",
+              "id": "3",
+              "name": "TV Shows"
+            },
+            "entity": {
+              "id": "10051561438",
+              "name": "Steins;Gate"
+            }
+          }
+        ],
+        "conversation_id": "2053653681787249142",
+        "created_at": "2026-05-11T01:49:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-11T02:49:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053653681787249142"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1510030638610493442",
+              "start": 3,
+              "username": "jinbaRTA2"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/cJeJ53n80D",
+              "end": 57,
+              "expanded_url": "https://x.com/jinbaRTA2/status/2053308544091636036/photo/1",
+              "media_key": "3_2053289049906192384",
+              "start": 34,
+              "url": "https://t.co/cJeJ53n80D"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053653681787249142",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 685
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053308544091636036",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @jinbaRTA2: STEINS;GATE  牧瀬紅莉栖 https://t.co/cJeJ53n80D"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2053289049906192384"
+          ]
+        },
+        "author_id": "1510030638610493442",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Television shows from around the world",
+              "id": "3",
+              "name": "TV Shows"
+            },
+            "entity": {
+              "id": "10051561438",
+              "name": "Steins;Gate"
+            }
+          }
+        ],
+        "conversation_id": "2053308544091636036",
+        "created_at": "2026-05-10T02:58:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-10T03:58:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2053308544091636036"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/cJeJ53n80D",
+              "end": 42,
+              "expanded_url": "https://x.com/jinbaRTA2/status/2053308544091636036/photo/1",
+              "media_key": "3_2053289049906192384",
+              "start": 19,
+              "url": "https://t.co/cJeJ53n80D"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053308544091636036",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 993,
+          "impression_count": 85937,
+          "like_count": 6861,
+          "quote_count": 10,
+          "reply_count": 10,
+          "retweet_count": 685
+        },
+        "reply_settings": "everyone",
+        "text": "STEINS;GATE  牧瀬紅莉栖 https://t.co/cJeJ53n80D"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-12T18:50:19.000Z",
+        "description": "随缘//医学爱好者/Arknights/绘画/混乱日常碎碎念无营养内容/可能会很吵？ /les/lgbt友好/中文/EN//喵喵//提问箱↓ ↓ ↓",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ppppppppp38481",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ppppppppp38481",
+                "start": 0,
+                "url": "https://t.co/dw8CaO6ajX"
+              }
+            ]
+          }
+        },
+        "id": "1569397683814629379",
+        "location": "世界的尽头",
+        "name": "腐烂培根卷",
+        "pinned_tweet_id": "2012485424057291255",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953366409284861953/HM3Aeou7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 228,
+          "following_count": 1429,
+          "like_count": 7834,
+          "listed_count": 1,
+          "media_count": 100,
+          "tweet_count": 5936
+        },
+        "url": "https://t.co/dw8CaO6ajX",
+        "username": "ppppggggjjjj",
+        "verified": false
+      },
+      {
+        "created_at": "2022-04-01T23:05:48.000Z",
+        "description": "@jinba123456のサブ。アイコン→ @faoru_ofuton。ショタお嬢様です。お絵描きはカルマ。\nスケブ始めました👉 https://t.co/h2mqeE86h2  / 依頼先👉tetuo8988@gmail.com",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 12,
+                "start": 0,
+                "username": "jinba123456"
+              },
+              {
+                "end": 35,
+                "start": 22,
+                "username": "faoru_ofuton"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "skeb.jp/@jinbaRTA2",
+                "end": 88,
+                "expanded_url": "https://skeb.jp/@jinbaRTA2",
+                "start": 65,
+                "url": "https://t.co/h2mqeE86h2"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/92380601",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/92380601",
+                "start": 0,
+                "url": "https://t.co/sOEN2Bi07L"
+              }
+            ]
+          }
+        },
+        "id": "1510030638610493442",
+        "location": "闇空間",
+        "name": "じんばちゃん",
+        "pinned_tweet_id": "2052946911687213137",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2010254495398461440/XHR9Z2q7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12307,
+          "following_count": 756,
+          "like_count": 52763,
+          "listed_count": 53,
+          "media_count": 964,
+          "tweet_count": 20445
+        },
+        "url": "https://t.co/sOEN2Bi07L",
+        "username": "jinbaRTA2",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,367 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1940690035642343424"
+      ],
+      "media_source_tweet_id": [
+        "1940690270984851637"
+      ]
+    },
+    "author_id": "1569397683814629379",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+          "id": "130",
+          "name": "Multimedia Franchise"
+        },
+        "entity": {
+          "id": "1341520686771175424",
+          "name": "Uma Musume"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1341520686771175424",
+          "name": "Uma Musume"
+        }
+      }
+    ],
+    "conversation_id": "1940785460240175519",
+    "created_at": "2025-07-03T14:51:26.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-03T15:51:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1940785460240175519"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 19,
+          "start": 15,
+          "tag": "ウマ娘"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2278315518",
+          "start": 3,
+          "username": "Siena_140"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/awxb7tl2ei",
+          "end": 48,
+          "expanded_url": "https://x.com/Siena_140/status/1940690270984851637/photo/1",
+          "media_key": "3_1940690035642343424",
+          "start": 25,
+          "url": "https://t.co/awxb7tl2ei"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1940785460240175519",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 605
+    },
+    "referenced_tweets": [
+      {
+        "id": "1940690270984851637",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Siena_140: #ウマ娘 \nカフェ https://t.co/awxb7tl2ei"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4063,
+        "media_key": "3_1940690035642343424",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gu63TiGaIAAbsTi.jpg",
+        "width": 4096
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1940690035642343424"
+          ],
+          "media_source_tweet_id": [
+            "1940690270984851637"
+          ]
+        },
+        "author_id": "1569397683814629379",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "id": "1341520686771175424",
+              "name": "Uma Musume"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1341520686771175424",
+              "name": "Uma Musume"
+            }
+          }
+        ],
+        "conversation_id": "1940785460240175519",
+        "created_at": "2025-07-03T14:51:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-03T15:51:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1940785460240175519"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 19,
+              "start": 15,
+              "tag": "ウマ娘"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2278315518",
+              "start": 3,
+              "username": "Siena_140"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/awxb7tl2ei",
+              "end": 48,
+              "expanded_url": "https://x.com/Siena_140/status/1940690270984851637/photo/1",
+              "media_key": "3_1940690035642343424",
+              "start": 25,
+              "url": "https://t.co/awxb7tl2ei"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1940785460240175519",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 605
+        },
+        "referenced_tweets": [
+          {
+            "id": "1940690270984851637",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Siena_140: #ウマ娘 \nカフェ https://t.co/awxb7tl2ei"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1940690035642343424"
+          ]
+        },
+        "author_id": "2278315518",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "id": "1341520686771175424",
+              "name": "Uma Musume"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1341520686771175424",
+              "name": "Uma Musume"
+            }
+          }
+        ],
+        "conversation_id": "1940690270984851637",
+        "created_at": "2025-07-03T08:33:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-03T09:33:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1940690270984851637"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 4,
+              "start": 0,
+              "tag": "ウマ娘"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/awxb7tl2ei",
+              "end": 33,
+              "expanded_url": "https://x.com/Siena_140/status/1940690270984851637/photo/1",
+              "media_key": "3_1940690035642343424",
+              "start": 10,
+              "url": "https://t.co/awxb7tl2ei"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1940690270984851637",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 300,
+          "impression_count": 33352,
+          "like_count": 2910,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 605
+        },
+        "reply_settings": "everyone",
+        "text": "#ウマ娘 \nカフェ https://t.co/awxb7tl2ei"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-12T18:50:19.000Z",
+        "description": "随缘//医学爱好者/les🏳️‍🌈/lgbt友好/中文/EN/Arknights/绘画/混乱日常碎碎念/很吵//喵喵",
+        "id": "1569397683814629379",
+        "name": "腐烂苹果酱",
+        "pinned_tweet_id": "1937498024907010498",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1620839959388393479/hsMKvVei_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 33,
+          "following_count": 313,
+          "like_count": 562,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 791
+        },
+        "username": "ppppggggjjjj",
+        "verified": false
+      },
+      {
+        "created_at": "2014-01-06T01:17:40.000Z",
+        "description": "Siena/イラストレーター\nお仕事の依頼はこちらまで→siena.work4177@gmail.com\n\nskeb→https://t.co/A4wghgtvy1（一次創作のみ）\nskima→https://t.co/S4tTsGeeuU\nココナラ→https://t.co/HaT33jApAx",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "skeb.jp/@Siena_140",
+                "end": 82,
+                "expanded_url": "http://skeb.jp/@Siena_140",
+                "start": 59,
+                "url": "https://t.co/A4wghgtvy1"
+              },
+              {
+                "display_url": "x.gd/eR2aI",
+                "end": 120,
+                "expanded_url": "https://x.gd/eR2aI",
+                "start": 97,
+                "url": "https://t.co/S4tTsGeeuU"
+              },
+              {
+                "display_url": "x.gd/iDAT0",
+                "end": 149,
+                "expanded_url": "https://x.gd/iDAT0",
+                "start": 126,
+                "url": "https://t.co/HaT33jApAx"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "siena.fanbox.cc",
+                "end": 23,
+                "expanded_url": "https://siena.fanbox.cc/",
+                "start": 0,
+                "url": "https://t.co/MVN1by2ERS"
+              }
+            ]
+          }
+        },
+        "id": "2278315518",
+        "location": "✖イラストのAI学習は禁止しています",
+        "name": "Siena@お仕事募集中",
+        "pinned_tweet_id": "1819726850819776732",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1862851772441567232/tpekiEw5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5940,
+          "following_count": 149,
+          "like_count": 3174,
+          "listed_count": 93,
+          "media_count": 611,
+          "tweet_count": 8100
+        },
+        "url": "https://t.co/MVN1by2ERS",
+        "username": "Siena_140",
+        "verified": false
+      }
+    ]
+  }
+}

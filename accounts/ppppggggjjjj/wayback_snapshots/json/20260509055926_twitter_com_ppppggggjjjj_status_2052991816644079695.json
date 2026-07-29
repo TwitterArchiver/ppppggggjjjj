@@ -1,0 +1,408 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2052943605053239296"
+      ],
+      "media_source_tweet_id": [
+        "2052944632930357587"
+      ]
+    },
+    "author_id": "1569397683814629379",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+          "id": "67",
+          "name": "Interests and Hobbies"
+        },
+        "entity": {
+          "id": "1297951101136732160",
+          "name": "Animation & comics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Do NOT tune or ship this topic in Japanese. See Comics instead (847521144173350912)",
+          "id": "1283453704088084480",
+          "name": "Manga"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1308499412067393536",
+          "name": "Doujinshi"
+        }
+      }
+    ],
+    "conversation_id": "2052991816644079695",
+    "created_at": "2026-05-09T05:59:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-09T06:59:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2052991816644079695"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1212555939338838021",
+          "start": 3,
+          "username": "__hham"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/XXgPMsaekc",
+          "end": 81,
+          "expanded_url": "https://x.com/__hham/status/2052944632930357587/photo/1",
+          "media_key": "3_2052943605053239296",
+          "start": 58,
+          "url": "https://t.co/XXgPMsaekc"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052991816644079695",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 555
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052944632930357587",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @__hham: drawn last year for a w/amiya doujin project😊 https://t.co/XXgPMsaekc"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1000,
+        "media_key": "3_2052943605053239296",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HH2FVPMbsAAXhox.jpg",
+        "width": 708
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2052943605053239296"
+          ],
+          "media_source_tweet_id": [
+            "2052944632930357587"
+          ]
+        },
+        "author_id": "1569397683814629379",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "id": "1297951101136732160",
+              "name": "Animation & comics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Do NOT tune or ship this topic in Japanese. See Comics instead (847521144173350912)",
+              "id": "1283453704088084480",
+              "name": "Manga"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1308499412067393536",
+              "name": "Doujinshi"
+            }
+          }
+        ],
+        "conversation_id": "2052991816644079695",
+        "created_at": "2026-05-09T05:59:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-09T06:59:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052991816644079695"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1212555939338838021",
+              "start": 3,
+              "username": "__hham"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/XXgPMsaekc",
+              "end": 81,
+              "expanded_url": "https://x.com/__hham/status/2052944632930357587/photo/1",
+              "media_key": "3_2052943605053239296",
+              "start": 58,
+              "url": "https://t.co/XXgPMsaekc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052991816644079695",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 555
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052944632930357587",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @__hham: drawn last year for a w/amiya doujin project😊 https://t.co/XXgPMsaekc"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2052943605053239296"
+          ]
+        },
+        "author_id": "1212555939338838021",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "id": "1297951101136732160",
+              "name": "Animation & comics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Do NOT tune or ship this topic in Japanese. See Comics instead (847521144173350912)",
+              "id": "1283453704088084480",
+              "name": "Manga"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1308499412067393536",
+              "name": "Doujinshi"
+            }
+          }
+        ],
+        "conversation_id": "2052944632930357587",
+        "created_at": "2026-05-09T02:51:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-09T03:51:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2052944632930357587"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/XXgPMsaekc",
+              "end": 69,
+              "expanded_url": "https://x.com/__hham/status/2052944632930357587/photo/1",
+              "media_key": "3_2052943605053239296",
+              "start": 46,
+              "url": "https://t.co/XXgPMsaekc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052944632930357587",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 486,
+          "impression_count": 36575,
+          "like_count": 4476,
+          "quote_count": 18,
+          "reply_count": 10,
+          "retweet_count": 555
+        },
+        "reply_settings": "everyone",
+        "text": "drawn last year for a w/amiya doujin project😊 https://t.co/XXgPMsaekc"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-12T18:50:19.000Z",
+        "description": "随缘//医学爱好者/Arknights/绘画/混乱日常碎碎念无营养内容/可能会很吵？ /les/lgbt友好/中文/EN//喵喵//提问箱↓ ↓ ↓",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ppppppppp38481",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ppppppppp38481",
+                "start": 0,
+                "url": "https://t.co/dw8CaO6ajX"
+              }
+            ]
+          }
+        },
+        "id": "1569397683814629379",
+        "location": "世界的尽头",
+        "name": "腐烂培根卷",
+        "pinned_tweet_id": "2012485424057291255",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953366409284861953/HM3Aeou7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 233,
+          "following_count": 1414,
+          "like_count": 7703,
+          "listed_count": 1,
+          "media_count": 100,
+          "tweet_count": 5820
+        },
+        "url": "https://t.co/dw8CaO6ajX",
+        "username": "ppppggggjjjj",
+        "verified": false
+      },
+      {
+        "created_at": "2020-01-02T02:07:24.000Z",
+        "description": "🪳🐰",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "patreon.com/__hham",
+                "end": 23,
+                "expanded_url": "https://www.patreon.com/__hham",
+                "start": 0,
+                "url": "https://t.co/pxTHAbV7wH"
+              }
+            ]
+          }
+        },
+        "id": "1212555939338838021",
+        "location": "hhamcontact@gmail.com",
+        "name": ".",
+        "pinned_tweet_id": "2018013362970607993",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1821093961118965760/0upvGvLw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 35367,
+          "following_count": 90,
+          "like_count": 6568,
+          "listed_count": 170,
+          "media_count": 953,
+          "tweet_count": 4828
+        },
+        "url": "https://t.co/pxTHAbV7wH",
+        "username": "__hham",
+        "verified": false
+      }
+    ]
+  }
+}

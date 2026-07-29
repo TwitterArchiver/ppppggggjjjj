@@ -1,0 +1,340 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1969418091349360641"
+      ],
+      "media_source_tweet_id": [
+        "1969418098714558510"
+      ]
+    },
+    "author_id": "1569397683814629379",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+          "id": "130",
+          "name": "Multimedia Franchise"
+        },
+        "entity": {
+          "id": "1311766165065142273",
+          "name": "Higurashi When They Cry"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1311766165065142273",
+          "name": "Higurashi When They Cry"
+        }
+      }
+    ],
+    "conversation_id": "1969795701489213854",
+    "created_at": "2025-09-21T16:07:46.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-21T17:07:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1969795701489213854"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 29,
+          "start": 19,
+          "tag": "higurashi"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1775653740160446464",
+          "start": 3,
+          "username": "Daily_HiguUmi"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Tn49W3pgny",
+          "end": 53,
+          "expanded_url": "https://x.com/Daily_HiguUmi/status/1969418098714558510/photo/1",
+          "media_key": "3_1969418091349360641",
+          "start": 30,
+          "url": "https://t.co/Tn49W3pgny"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1969795701489213854",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 295
+    },
+    "referenced_tweets": [
+      {
+        "id": "1969418098714558510",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Daily_HiguUmi: #higurashi https://t.co/Tn49W3pgny"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2698,
+        "media_key": "3_1969418091349360641",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G1THUdUbQAEUxhM.jpg",
+        "width": 4096
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1969418091349360641"
+          ],
+          "media_source_tweet_id": [
+            "1969418098714558510"
+          ]
+        },
+        "author_id": "1569397683814629379",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "id": "1311766165065142273",
+              "name": "Higurashi When They Cry"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1311766165065142273",
+              "name": "Higurashi When They Cry"
+            }
+          }
+        ],
+        "conversation_id": "1969795701489213854",
+        "created_at": "2025-09-21T16:07:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-21T17:07:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1969795701489213854"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 29,
+              "start": 19,
+              "tag": "higurashi"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1775653740160446464",
+              "start": 3,
+              "username": "Daily_HiguUmi"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Tn49W3pgny",
+              "end": 53,
+              "expanded_url": "https://x.com/Daily_HiguUmi/status/1969418098714558510/photo/1",
+              "media_key": "3_1969418091349360641",
+              "start": 30,
+              "url": "https://t.co/Tn49W3pgny"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1969795701489213854",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 295
+        },
+        "referenced_tweets": [
+          {
+            "id": "1969418098714558510",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Daily_HiguUmi: #higurashi https://t.co/Tn49W3pgny"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1969418091349360641"
+          ]
+        },
+        "author_id": "1775653740160446464",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "id": "1311766165065142273",
+              "name": "Higurashi When They Cry"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1311766165065142273",
+              "name": "Higurashi When They Cry"
+            }
+          }
+        ],
+        "conversation_id": "1969418098714558510",
+        "created_at": "2025-09-20T15:07:19.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-20T16:07:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1969418098714558510"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 10,
+              "start": 0,
+              "tag": "higurashi"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Tn49W3pgny",
+              "end": 34,
+              "expanded_url": "https://x.com/Daily_HiguUmi/status/1969418098714558510/photo/1",
+              "media_key": "3_1969418091349360641",
+              "start": 11,
+              "url": "https://t.co/Tn49W3pgny"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1969418098714558510",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 264,
+          "impression_count": 27141,
+          "like_count": 1864,
+          "quote_count": 17,
+          "reply_count": 2,
+          "retweet_count": 295
+        },
+        "reply_settings": "everyone",
+        "text": "#higurashi https://t.co/Tn49W3pgny"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-12T18:50:19.000Z",
+        "description": "随缘//医学爱好者/les🏳️‍🌈/lgbt友好/中文/EN/Arknights/绘画/混乱日常碎碎念/很吵//喵喵 【永远拥护培根卷番茄！】",
+        "id": "1569397683814629379",
+        "location": "世界的尽头",
+        "name": "腐烂培根卷",
+        "pinned_tweet_id": "1937498024907010498",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953366409284861953/HM3Aeou7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 110,
+          "following_count": 702,
+          "like_count": 2210,
+          "listed_count": 1,
+          "media_count": 62,
+          "tweet_count": 2872
+        },
+        "username": "ppppggggjjjj",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-03T22:37:07.000Z",
+        "description": "Despite everything, can you still believe it? 🗝️ @Remind_sb",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 59,
+                "start": 49,
+                "username": "Remind_sb"
+              }
+            ]
+          }
+        },
+        "id": "1775653740160446464",
+        "location": "六軒島",
+        "name": "Daily Higurashi&Umineko",
+        "pinned_tweet_id": "1898735799673487590",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1964428258671271936/1-5WyS3p_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9231,
+          "following_count": 39,
+          "like_count": 817,
+          "listed_count": 19,
+          "media_count": 2152,
+          "tweet_count": 2664
+        },
+        "username": "Daily_HiguUmi",
+        "verified": false
+      }
+    ]
+  }
+}

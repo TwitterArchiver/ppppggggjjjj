@@ -1,0 +1,248 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2050846810877632512"
+      ],
+      "media_source_tweet_id": [
+        "2050846930910241243"
+      ]
+    },
+    "author_id": "1569397683814629379",
+    "conversation_id": "2051227128059089358",
+    "created_at": "2026-05-04T09:07:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-04T10:07:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2051227128059089358"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1361879881626312705",
+          "start": 3,
+          "username": "_Meiems"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/pbfJ4mv7ps",
+          "end": 36,
+          "expanded_url": "https://x.com/_Meiems/status/2050846930910241243/photo/1",
+          "media_key": "3_2050846810877632512",
+          "start": 13,
+          "url": "https://t.co/pbfJ4mv7ps"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2051227128059089358",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 454
+    },
+    "referenced_tweets": [
+      {
+        "id": "2050846930910241243",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @_Meiems: https://t.co/pbfJ4mv7ps"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2822,
+        "media_key": "3_2050846810877632512",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHYSTwMaoAAvp9W.jpg",
+        "width": 3990
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2050846810877632512"
+          ],
+          "media_source_tweet_id": [
+            "2050846930910241243"
+          ]
+        },
+        "author_id": "1569397683814629379",
+        "conversation_id": "2051227128059089358",
+        "created_at": "2026-05-04T09:07:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-04T10:07:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2051227128059089358"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1361879881626312705",
+              "start": 3,
+              "username": "_Meiems"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/pbfJ4mv7ps",
+              "end": 36,
+              "expanded_url": "https://x.com/_Meiems/status/2050846930910241243/photo/1",
+              "media_key": "3_2050846810877632512",
+              "start": 13,
+              "url": "https://t.co/pbfJ4mv7ps"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051227128059089358",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 454
+        },
+        "referenced_tweets": [
+          {
+            "id": "2050846930910241243",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @_Meiems: https://t.co/pbfJ4mv7ps"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2050846810877632512"
+          ]
+        },
+        "author_id": "1361879881626312705",
+        "conversation_id": "2050846930910241243",
+        "created_at": "2026-05-03T07:56:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-03T08:56:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2050846930910241243"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/pbfJ4mv7ps",
+              "end": 23,
+              "expanded_url": "https://x.com/_Meiems/status/2050846930910241243/photo/1",
+              "media_key": "3_2050846810877632512",
+              "start": 0,
+              "url": "https://t.co/pbfJ4mv7ps"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050846930910241243",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 203,
+          "impression_count": 26455,
+          "like_count": 2512,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 454
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/pbfJ4mv7ps"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-12T18:50:19.000Z",
+        "description": "随缘//医学爱好者/Arknights/绘画/混乱日常碎碎念无营养内容/可能会很吵？ /les/lgbt友好/中文/EN//喵喵//提问箱↓ ↓ ↓",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ppppppppp38481",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ppppppppp38481",
+                "start": 0,
+                "url": "https://t.co/dw8CaO6ajX"
+              }
+            ]
+          }
+        },
+        "id": "1569397683814629379",
+        "location": "世界的尽头",
+        "name": "腐烂培根卷",
+        "pinned_tweet_id": "2012485424057291255",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953366409284861953/HM3Aeou7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 222,
+          "following_count": 1387,
+          "like_count": 7318,
+          "listed_count": 1,
+          "media_count": 98,
+          "tweet_count": 5580
+        },
+        "url": "https://t.co/dw8CaO6ajX",
+        "username": "ppppggggjjjj",
+        "verified": false
+      },
+      {
+        "created_at": "2021-02-17T03:27:32.000Z",
+        "description": "死鱼眼 日照不足 随时去世",
+        "id": "1361879881626312705",
+        "name": "MEEEEEi",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1861370591124824065/l97n2ntG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3714,
+          "following_count": 528,
+          "like_count": 8106,
+          "listed_count": 18,
+          "media_count": 151,
+          "tweet_count": 341
+        },
+        "username": "_Meiems",
+        "verified": false
+      }
+    ]
+  }
+}

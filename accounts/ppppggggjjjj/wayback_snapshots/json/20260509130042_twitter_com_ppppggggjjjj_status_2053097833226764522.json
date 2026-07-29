@@ -1,0 +1,248 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2052633568606920704"
+      ],
+      "media_source_tweet_id": [
+        "2052696259643789668"
+      ]
+    },
+    "author_id": "1569397683814629379",
+    "conversation_id": "2053097833226764522",
+    "created_at": "2026-05-09T13:00:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-09T14:00:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2053097833226764522"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "14463502",
+          "start": 3,
+          "username": "cdoll"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/UUW1KulcMD",
+          "end": 34,
+          "expanded_url": "https://x.com/cdoll/status/2052696259643789668/photo/1",
+          "media_key": "3_2052633568606920704",
+          "start": 11,
+          "url": "https://t.co/UUW1KulcMD"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053097833226764522",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3481
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052696259643789668",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @cdoll: https://t.co/UUW1KulcMD"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 665,
+        "media_key": "3_2052633568606920704",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHxrWvbboAAZYa3.jpg",
+        "width": 1000
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2052633568606920704"
+          ],
+          "media_source_tweet_id": [
+            "2052696259643789668"
+          ]
+        },
+        "author_id": "1569397683814629379",
+        "conversation_id": "2053097833226764522",
+        "created_at": "2026-05-09T13:00:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-09T14:00:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053097833226764522"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "14463502",
+              "start": 3,
+              "username": "cdoll"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/UUW1KulcMD",
+              "end": 34,
+              "expanded_url": "https://x.com/cdoll/status/2052696259643789668/photo/1",
+              "media_key": "3_2052633568606920704",
+              "start": 11,
+              "url": "https://t.co/UUW1KulcMD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053097833226764522",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3481
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052696259643789668",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @cdoll: https://t.co/UUW1KulcMD"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2052633568606920704"
+          ]
+        },
+        "author_id": "14463502",
+        "conversation_id": "2052696259643789668",
+        "created_at": "2026-05-08T10:25:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-08T11:25:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2052696259643789668"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/UUW1KulcMD",
+              "end": 23,
+              "expanded_url": "https://x.com/cdoll/status/2052696259643789668/photo/1",
+              "media_key": "3_2052633568606920704",
+              "start": 0,
+              "url": "https://t.co/UUW1KulcMD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052696259643789668",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 807,
+          "impression_count": 336503,
+          "like_count": 27246,
+          "quote_count": 93,
+          "reply_count": 52,
+          "retweet_count": 3481
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/UUW1KulcMD"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-12T18:50:19.000Z",
+        "description": "随缘//医学爱好者/Arknights/绘画/混乱日常碎碎念无营养内容/可能会很吵？ /les/lgbt友好/中文/EN//喵喵//提问箱↓ ↓ ↓",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ppppppppp38481",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ppppppppp38481",
+                "start": 0,
+                "url": "https://t.co/dw8CaO6ajX"
+              }
+            ]
+          }
+        },
+        "id": "1569397683814629379",
+        "location": "世界的尽头",
+        "name": "腐烂培根卷",
+        "pinned_tweet_id": "2012485424057291255",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953366409284861953/HM3Aeou7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 233,
+          "following_count": 1422,
+          "like_count": 7783,
+          "listed_count": 1,
+          "media_count": 100,
+          "tweet_count": 5888
+        },
+        "url": "https://t.co/dw8CaO6ajX",
+        "username": "ppppggggjjjj",
+        "verified": false
+      },
+      {
+        "created_at": "2008-04-21T16:06:27.000Z",
+        "description": "",
+        "id": "14463502",
+        "name": "໊",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1914268502665621505/XFJCOb4S_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 61427,
+          "following_count": 0,
+          "like_count": 0,
+          "listed_count": 132,
+          "media_count": 4295,
+          "tweet_count": 4375
+        },
+        "username": "cdoll",
+        "verified": true
+      }
+    ]
+  }
+}

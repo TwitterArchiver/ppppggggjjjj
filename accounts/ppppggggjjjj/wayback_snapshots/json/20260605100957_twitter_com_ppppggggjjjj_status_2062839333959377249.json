@@ -1,0 +1,228 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1569397683814629379",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10045225402",
+          "name": "X"
+        }
+      }
+    ],
+    "conversation_id": "2062839333959377249",
+    "created_at": "2026-06-05T10:09:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-05T11:09:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062839333959377249"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2021347310840795136",
+          "start": 3,
+          "username": "_eoantao"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062839333959377249",
+    "lang": "pt",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 47
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062696607267615193",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @_eoantao: O Twitter é outro nível, parece um pavilhão psiquiátrico sem supervisão"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1569397683814629379",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10045225402",
+              "name": "X"
+            }
+          }
+        ],
+        "conversation_id": "2062839333959377249",
+        "created_at": "2026-06-05T10:09:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-05T11:09:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062839333959377249"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2021347310840795136",
+              "start": 3,
+              "username": "_eoantao"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062839333959377249",
+        "lang": "pt",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 47
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062696607267615193",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @_eoantao: O Twitter é outro nível, parece um pavilhão psiquiátrico sem supervisão"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2021347310840795136",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10045225402",
+              "name": "X"
+            }
+          }
+        ],
+        "conversation_id": "2062696607267615193",
+        "created_at": "2026-06-05T00:42:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-05T01:42:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062696607267615193"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2062696607267615193",
+        "lang": "pt",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 2086,
+          "like_count": 110,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 47
+        },
+        "reply_settings": "everyone",
+        "text": "O Twitter é outro nível, parece um pavilhão psiquiátrico sem supervisão"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-12T18:50:19.000Z",
+        "description": "随缘//医学爱好者/Arknights/绘画/混乱日常碎碎念无营养内容/可能会很吵？ /les/lgbt友好/中文/EN//喵喵//提问箱↓ ↓ ↓",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ppppppppp38481",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ppppppppp38481",
+                "start": 0,
+                "url": "https://t.co/dw8CaO6ajX"
+              }
+            ]
+          }
+        },
+        "id": "1569397683814629379",
+        "location": "世界的尽头",
+        "name": "腐烂培根卷",
+        "pinned_tweet_id": "2012485424057291255",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953366409284861953/HM3Aeou7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 239,
+          "following_count": 1606,
+          "like_count": 9553,
+          "listed_count": 1,
+          "media_count": 104,
+          "tweet_count": 6861
+        },
+        "url": "https://t.co/dw8CaO6ajX",
+        "username": "ppppggggjjjj",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-10T22:15:40.000Z",
+        "description": ".",
+        "id": "2021347310840795136",
+        "name": "floptok",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021347965496066054/2QeIy85S_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6928,
+          "following_count": 1713,
+          "like_count": 392,
+          "listed_count": 4,
+          "media_count": 190,
+          "tweet_count": 1178
+        },
+        "username": "_eoantao",
+        "verified": true
+      }
+    ]
+  }
+}

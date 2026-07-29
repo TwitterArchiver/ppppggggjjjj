@@ -1,0 +1,250 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2056290271336259586"
+      ],
+      "media_source_tweet_id": [
+        "2056290273697706419"
+      ]
+    },
+    "author_id": "1569397683814629379",
+    "conversation_id": "2056654385804165124",
+    "created_at": "2026-05-19T08:33:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-19T09:33:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2056654385804165124"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1924212425332813824",
+          "start": 3,
+          "username": "Phoenixyin13"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/NrEgbdSrRg",
+          "end": 61,
+          "expanded_url": "https://x.com/Phoenixyin13/status/2056290273697706419/photo/1",
+          "media_key": "3_2056290271336259586",
+          "start": 38,
+          "url": "https://t.co/NrEgbdSrRg"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056654385804165124",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 44
+    },
+    "referenced_tweets": [
+      {
+        "id": "2056290273697706419",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Phoenixyin13: 伟大的思想家可以骗别人，但从不骗自己。 https://t.co/NrEgbdSrRg"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 609,
+        "media_key": "3_2056290271336259586",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIlpG2oW4AIDhbF.jpg",
+        "width": 1179
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2056290271336259586"
+          ],
+          "media_source_tweet_id": [
+            "2056290273697706419"
+          ]
+        },
+        "author_id": "1569397683814629379",
+        "conversation_id": "2056654385804165124",
+        "created_at": "2026-05-19T08:33:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-19T09:33:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056654385804165124"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1924212425332813824",
+              "start": 3,
+              "username": "Phoenixyin13"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/NrEgbdSrRg",
+              "end": 61,
+              "expanded_url": "https://x.com/Phoenixyin13/status/2056290273697706419/photo/1",
+              "media_key": "3_2056290271336259586",
+              "start": 38,
+              "url": "https://t.co/NrEgbdSrRg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056654385804165124",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 44
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056290273697706419",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Phoenixyin13: 伟大的思想家可以骗别人，但从不骗自己。 https://t.co/NrEgbdSrRg"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2056290271336259586"
+          ]
+        },
+        "author_id": "1924212425332813824",
+        "conversation_id": "2056290273697706419",
+        "created_at": "2026-05-18T08:26:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-18T09:26:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2056290273697706419"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/NrEgbdSrRg",
+              "end": 43,
+              "expanded_url": "https://x.com/Phoenixyin13/status/2056290273697706419/photo/1",
+              "media_key": "3_2056290271336259586",
+              "start": 20,
+              "url": "https://t.co/NrEgbdSrRg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056290273697706419",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 68,
+          "impression_count": 29923,
+          "like_count": 521,
+          "quote_count": 0,
+          "reply_count": 44,
+          "retweet_count": 44
+        },
+        "reply_settings": "everyone",
+        "text": "伟大的思想家可以骗别人，但从不骗自己。 https://t.co/NrEgbdSrRg"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-12T18:50:19.000Z",
+        "description": "随缘//医学爱好者/Arknights/绘画/混乱日常碎碎念无营养内容/可能会很吵？ /les/lgbt友好/中文/EN//喵喵//提问箱↓ ↓ ↓",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ppppppppp38481",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ppppppppp38481",
+                "start": 0,
+                "url": "https://t.co/dw8CaO6ajX"
+              }
+            ]
+          }
+        },
+        "id": "1569397683814629379",
+        "location": "世界的尽头",
+        "name": "腐烂培根卷",
+        "pinned_tweet_id": "2012485424057291255",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953366409284861953/HM3Aeou7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 236,
+          "following_count": 1510,
+          "like_count": 8165,
+          "listed_count": 1,
+          "media_count": 100,
+          "tweet_count": 6134
+        },
+        "url": "https://t.co/dw8CaO6ajX",
+        "username": "ppppggggjjjj",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-18T21:16:21.000Z",
+        "description": "🇺🇸 04美本 | 计算机科学&认知科学\n⚙️AI, cognition, crypto, and the future of intelligence.\n✨相信好奇心驱动。相信人永远可塑。",
+        "id": "1924212425332813824",
+        "location": "Beverly Hills, CA",
+        "name": "Phoenix Yin",
+        "pinned_tweet_id": "2056269488140509649",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028337523773038592/1kSOtKBU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5042,
+          "following_count": 1267,
+          "like_count": 5983,
+          "listed_count": 17,
+          "media_count": 400,
+          "tweet_count": 4389
+        },
+        "username": "Phoenixyin13",
+        "verified": true
+      }
+    ]
+  }
+}

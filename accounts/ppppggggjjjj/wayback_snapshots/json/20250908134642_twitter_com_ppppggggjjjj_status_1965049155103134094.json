@@ -1,0 +1,287 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_1965033890676084736"
+      ],
+      "media_source_tweet_id": [
+        "1965035345084571900"
+      ]
+    },
+    "author_id": "1569397683814629379",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1965049155103134094",
+    "created_at": "2025-09-08T13:46:42.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-08T14:46:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1965049155103134094"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "851297412970827776",
+          "start": 3,
+          "username": "ment502"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Ljk93EZ0v7",
+          "end": 36,
+          "expanded_url": "https://x.com/ment502/status/1965035345084571900/video/1",
+          "media_key": "13_1965033890676084736",
+          "start": 13,
+          "url": "https://t.co/Ljk93EZ0v7"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1965049155103134094",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 87
+    },
+    "referenced_tweets": [
+      {
+        "id": "1965035345084571900",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ment502: https://t.co/Ljk93EZ0v7"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 149733,
+        "height": 2034,
+        "media_key": "13_1965033890676084736",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1965033890676084736/img/0LLuT6DE-6tTSKKh.jpg",
+        "public_metrics": {
+          "view_count": 3508
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1965033890676084736/vid/avc1/320x452/7lGytng_nLRuJ3uh.mp4?tag=14"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1965033890676084736/vid/avc1/480x678/qIsSxisVbM0-Eqe1.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1965033890676084736/vid/avc1/720x1018/efe385lFr1Yahwp8.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1965033890676084736/pl/5pL3S9cjzCKv34tT.m3u8?tag=14"
+          }
+        ],
+        "width": 1438
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1965033890676084736"
+          ],
+          "media_source_tweet_id": [
+            "1965035345084571900"
+          ]
+        },
+        "author_id": "1569397683814629379",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1965049155103134094",
+        "created_at": "2025-09-08T13:46:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-08T14:46:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1965049155103134094"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "851297412970827776",
+              "start": 3,
+              "username": "ment502"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Ljk93EZ0v7",
+              "end": 36,
+              "expanded_url": "https://x.com/ment502/status/1965035345084571900/video/1",
+              "media_key": "13_1965033890676084736",
+              "start": 13,
+              "url": "https://t.co/Ljk93EZ0v7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1965049155103134094",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 87
+        },
+        "referenced_tweets": [
+          {
+            "id": "1965035345084571900",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ment502: https://t.co/Ljk93EZ0v7"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1965033890676084736"
+          ]
+        },
+        "author_id": "851297412970827776",
+        "conversation_id": "1965035345084571900",
+        "created_at": "2025-09-08T12:51:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-08T13:51:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1965035345084571900"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Ljk93EZ0v7",
+              "end": 23,
+              "expanded_url": "https://x.com/ment502/status/1965035345084571900/video/1",
+              "media_key": "13_1965033890676084736",
+              "start": 0,
+              "url": "https://t.co/Ljk93EZ0v7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1965035345084571900",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 341,
+          "impression_count": 12130,
+          "like_count": 827,
+          "quote_count": 2,
+          "reply_count": 0,
+          "retweet_count": 87
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/Ljk93EZ0v7"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-12T18:50:19.000Z",
+        "description": "随缘//医学爱好者/les🏳️‍🌈/lgbt友好/中文/EN/Arknights/绘画/混乱日常碎碎念/很吵//喵喵 【永远拥护培根卷番茄！】",
+        "id": "1569397683814629379",
+        "location": "世界的尽头",
+        "name": "腐烂培根卷",
+        "pinned_tweet_id": "1937498024907010498",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953366409284861953/HM3Aeou7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 102,
+          "following_count": 681,
+          "like_count": 1978,
+          "listed_count": 1,
+          "media_count": 59,
+          "tweet_count": 2521
+        },
+        "username": "ppppggggjjjj",
+        "verified": false
+      },
+      {
+        "created_at": "2017-04-10T04:54:54.000Z",
+        "description": "摸鱼集散地。wb现在僵尸门徒 無断転載(AI学習含む)NG ◆ご連絡はこちらまで→1356574103＠qq.com◆在这里联系\n不给无料授权了太麻烦了，壁纸头像随意",
+        "id": "851297412970827776",
+        "location": "中国",
+        "name": "门徒",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1852692558901858304/MpgyJzaT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 174536,
+          "following_count": 1755,
+          "like_count": 2710,
+          "listed_count": 991,
+          "media_count": 362,
+          "tweet_count": 826
+        },
+        "username": "ment502",
+        "verified": false
+      }
+    ]
+  }
+}

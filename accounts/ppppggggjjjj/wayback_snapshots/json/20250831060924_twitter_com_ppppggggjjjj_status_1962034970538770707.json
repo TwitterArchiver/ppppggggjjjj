@@ -1,0 +1,425 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1961802691728007169"
+      ],
+      "media_source_tweet_id": [
+        "1961802786133487805"
+      ]
+    },
+    "author_id": "1569397683814629379",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A video game like Overwatch",
+          "id": "71",
+          "name": "Video Game"
+        },
+        "entity": {
+          "id": "1390782787301494785",
+          "name": "Touhou Project"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1390782787301494785",
+          "name": "Touhou Project"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1403427158953922560",
+          "name": "Shooting games"
+        }
+      }
+    ],
+    "conversation_id": "1962034970538770707",
+    "created_at": "2025-08-31T06:09:24.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-31T07:09:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1962034970538770707"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 32,
+          "normalized_text": "古明地",
+          "probability": 0.4856,
+          "start": 30,
+          "type": "Person"
+        }
+      ],
+      "hashtags": [
+        {
+          "end": 29,
+          "start": 19,
+          "tag": "東方Project"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 17,
+          "id": "938745570344046592",
+          "start": 3,
+          "username": "chunlanlanlan"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Mcx90DRUlA",
+          "end": 57,
+          "expanded_url": "https://x.com/chunlanlanlan/status/1961802786133487805/photo/1",
+          "media_key": "3_1961802691728007169",
+          "start": 34,
+          "url": "https://t.co/Mcx90DRUlA"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1962034970538770707",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 339
+    },
+    "referenced_tweets": [
+      {
+        "id": "1961802786133487805",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @chunlanlanlan: #東方Project 古明地 https://t.co/Mcx90DRUlA"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2664,
+        "media_key": "3_1961802691728007169",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gzm5J2_aYAEkGzr.jpg",
+        "width": 3436
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1961802691728007169"
+          ],
+          "media_source_tweet_id": [
+            "1961802786133487805"
+          ]
+        },
+        "author_id": "1569397683814629379",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1390782787301494785",
+              "name": "Touhou Project"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1390782787301494785",
+              "name": "Touhou Project"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1403427158953922560",
+              "name": "Shooting games"
+            }
+          }
+        ],
+        "conversation_id": "1962034970538770707",
+        "created_at": "2025-08-31T06:09:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-31T07:09:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1962034970538770707"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 32,
+              "normalized_text": "古明地",
+              "probability": 0.4856,
+              "start": 30,
+              "type": "Person"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 29,
+              "start": 19,
+              "tag": "東方Project"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 17,
+              "id": "938745570344046592",
+              "start": 3,
+              "username": "chunlanlanlan"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Mcx90DRUlA",
+              "end": 57,
+              "expanded_url": "https://x.com/chunlanlanlan/status/1961802786133487805/photo/1",
+              "media_key": "3_1961802691728007169",
+              "start": 34,
+              "url": "https://t.co/Mcx90DRUlA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1962034970538770707",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 339
+        },
+        "referenced_tweets": [
+          {
+            "id": "1961802786133487805",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @chunlanlanlan: #東方Project 古明地 https://t.co/Mcx90DRUlA"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1961802691728007169"
+          ]
+        },
+        "author_id": "938745570344046592",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1390782787301494785",
+              "name": "Touhou Project"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1390782787301494785",
+              "name": "Touhou Project"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1403427158953922560",
+              "name": "Shooting games"
+            }
+          }
+        ],
+        "conversation_id": "1961802786133487805",
+        "created_at": "2025-08-30T14:46:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-30T15:46:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1961802786133487805"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 13,
+              "normalized_text": "古明地",
+              "probability": 0.5818,
+              "start": 11,
+              "type": "Person"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 10,
+              "start": 0,
+              "tag": "東方Project"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Mcx90DRUlA",
+              "end": 38,
+              "expanded_url": "https://x.com/chunlanlanlan/status/1961802786133487805/photo/1",
+              "media_key": "3_1961802691728007169",
+              "start": 15,
+              "url": "https://t.co/Mcx90DRUlA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1961802786133487805",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 203,
+          "impression_count": 31385,
+          "like_count": 1995,
+          "quote_count": 5,
+          "reply_count": 4,
+          "retweet_count": 339
+        },
+        "reply_settings": "everyone",
+        "text": "#東方Project 古明地 https://t.co/Mcx90DRUlA"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-12T18:50:19.000Z",
+        "description": "随缘//医学爱好者/les🏳️‍🌈/lgbt友好/中文/EN/Arknights/绘画/混乱日常碎碎念/很吵//喵喵 【永远拥护培根卷番茄！】",
+        "id": "1569397683814629379",
+        "location": "世界的尽头",
+        "name": "腐烂培根卷",
+        "pinned_tweet_id": "1937498024907010498",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953366409284861953/HM3Aeou7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 98,
+          "following_count": 662,
+          "like_count": 1883,
+          "listed_count": 1,
+          "media_count": 56,
+          "tweet_count": 2349
+        },
+        "username": "ppppggggjjjj",
+        "verified": false
+      },
+      {
+        "created_at": "2017-12-07T12:22:39.000Z",
+        "description": "🇨🇳。東方か好き。趣味は絵画、作曲、撮影で、。pid=7930724",
+        "id": "938745570344046592",
+        "location": "北京",
+        "name": "聰明嵐🌾",
+        "pinned_tweet_id": "1166347597444857856",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1421923981800599558/W6xjFNkK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4984,
+          "following_count": 189,
+          "like_count": 562,
+          "listed_count": 75,
+          "media_count": 26,
+          "tweet_count": 329
+        },
+        "username": "chunlanlanlan",
+        "verified": false
+      }
+    ]
+  }
+}

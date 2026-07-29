@@ -1,0 +1,515 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1941796813063028737"
+      ],
+      "media_source_tweet_id": [
+        "1941796819698139416"
+      ]
+    },
+    "author_id": "1569397683814629379",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "id": "1104125539877412864",
+          "name": "Miku Hatsune"
+        }
+      },
+      {
+        "domain": {
+          "description": "A person or other being in a narrative work of art, like Tom Sawyer or Jon Snow",
+          "id": "122",
+          "name": "Fictional Character"
+        },
+        "entity": {
+          "id": "1104125539877412864",
+          "name": "Miku Hatsune"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1104125539877412864",
+          "name": "Miku Hatsune"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1247236287485997056",
+          "name": "Vocaloid"
+        }
+      },
+      {
+        "domain": {
+          "description": "Cities around the world",
+          "id": "156",
+          "name": "Cities"
+        },
+        "entity": {
+          "description": "Tokyo",
+          "id": "855095546553393152",
+          "name": "Tokyo"
+        }
+      }
+    ],
+    "conversation_id": "1941826474803450312",
+    "created_at": "2025-07-06T11:48:03.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-06T12:48:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1941826474803450312"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 31,
+          "normalized_text": "初音ミクシンフォニー2025",
+          "probability": 0.5812,
+          "start": 18,
+          "type": "Other"
+        },
+        {
+          "end": 36,
+          "normalized_text": "東京",
+          "probability": 0.8382,
+          "start": 35,
+          "type": "Place"
+        }
+      ],
+      "hashtags": [
+        {
+          "end": 60,
+          "start": 49,
+          "tag": "初音ミクシンフォニー"
+        },
+        {
+          "end": 76,
+          "start": 61,
+          "tag": "初音ミクシンフォニー10th"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 16,
+          "id": "735474554533908481",
+          "start": 3,
+          "username": "mikusymphony"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/mFYhAn76zQ",
+          "end": 100,
+          "expanded_url": "https://x.com/mikusymphony/status/1941796819698139416/photo/1",
+          "media_key": "3_1941796813063028737",
+          "start": 77,
+          "url": "https://t.co/mFYhAn76zQ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1941826474803450312",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 320
+    },
+    "referenced_tweets": [
+      {
+        "id": "1941796819698139416",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @mikusymphony: 初音ミクシンフォニー2025🎻\n東京公演まもなく開演します。\n#初音ミクシンフォニー\n#初音ミクシンフォニー10th https://t.co/mFYhAn76zQ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1941796813063028737",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GvKl6dSbgAEkDZ1.jpg",
+        "width": 1456
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1941796813063028737"
+          ],
+          "media_source_tweet_id": [
+            "1941796819698139416"
+          ]
+        },
+        "author_id": "1569397683814629379",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1104125539877412864",
+              "name": "Miku Hatsune"
+            }
+          },
+          {
+            "domain": {
+              "description": "A person or other being in a narrative work of art, like Tom Sawyer or Jon Snow",
+              "id": "122",
+              "name": "Fictional Character"
+            },
+            "entity": {
+              "id": "1104125539877412864",
+              "name": "Miku Hatsune"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1104125539877412864",
+              "name": "Miku Hatsune"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1247236287485997056",
+              "name": "Vocaloid"
+            }
+          },
+          {
+            "domain": {
+              "description": "Cities around the world",
+              "id": "156",
+              "name": "Cities"
+            },
+            "entity": {
+              "description": "Tokyo",
+              "id": "855095546553393152",
+              "name": "Tokyo"
+            }
+          }
+        ],
+        "conversation_id": "1941826474803450312",
+        "created_at": "2025-07-06T11:48:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-06T12:48:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1941826474803450312"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 31,
+              "normalized_text": "初音ミクシンフォニー2025",
+              "probability": 0.5812,
+              "start": 18,
+              "type": "Other"
+            },
+            {
+              "end": 36,
+              "normalized_text": "東京",
+              "probability": 0.8382,
+              "start": 35,
+              "type": "Place"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 60,
+              "start": 49,
+              "tag": "初音ミクシンフォニー"
+            },
+            {
+              "end": 76,
+              "start": 61,
+              "tag": "初音ミクシンフォニー10th"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 16,
+              "id": "735474554533908481",
+              "start": 3,
+              "username": "mikusymphony"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/mFYhAn76zQ",
+              "end": 100,
+              "expanded_url": "https://x.com/mikusymphony/status/1941796819698139416/photo/1",
+              "media_key": "3_1941796813063028737",
+              "start": 77,
+              "url": "https://t.co/mFYhAn76zQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1941826474803450312",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 320
+        },
+        "referenced_tweets": [
+          {
+            "id": "1941796819698139416",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @mikusymphony: 初音ミクシンフォニー2025🎻\n東京公演まもなく開演します。\n#初音ミクシンフォニー\n#初音ミクシンフォニー10th https://t.co/mFYhAn76zQ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1941796813063028737"
+          ]
+        },
+        "author_id": "735474554533908481",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1104125539877412864",
+              "name": "Miku Hatsune"
+            }
+          },
+          {
+            "domain": {
+              "description": "A person or other being in a narrative work of art, like Tom Sawyer or Jon Snow",
+              "id": "122",
+              "name": "Fictional Character"
+            },
+            "entity": {
+              "id": "1104125539877412864",
+              "name": "Miku Hatsune"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1104125539877412864",
+              "name": "Miku Hatsune"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1247236287485997056",
+              "name": "Vocaloid"
+            }
+          },
+          {
+            "domain": {
+              "description": "Cities around the world",
+              "id": "156",
+              "name": "Cities"
+            },
+            "entity": {
+              "description": "Tokyo",
+              "id": "855095546553393152",
+              "name": "Tokyo"
+            }
+          }
+        ],
+        "conversation_id": "1941796819698139416",
+        "created_at": "2025-07-06T09:50:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-06T10:50:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1941796819698139416"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 13,
+              "normalized_text": "初音ミクシンフォニー2025",
+              "probability": 0.5711,
+              "start": 0,
+              "type": "Other"
+            },
+            {
+              "end": 18,
+              "normalized_text": "東京",
+              "probability": 0.8545,
+              "start": 17,
+              "type": "Place"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 42,
+              "start": 31,
+              "tag": "初音ミクシンフォニー"
+            },
+            {
+              "end": 58,
+              "start": 43,
+              "tag": "初音ミクシンフォニー10th"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/mFYhAn76zQ",
+              "end": 82,
+              "expanded_url": "https://x.com/mikusymphony/status/1941796819698139416/photo/1",
+              "media_key": "3_1941796813063028737",
+              "start": 59,
+              "url": "https://t.co/mFYhAn76zQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1941796819698139416",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 120,
+          "impression_count": 30324,
+          "like_count": 2196,
+          "quote_count": 7,
+          "reply_count": 0,
+          "retweet_count": 320
+        },
+        "reply_settings": "everyone",
+        "text": "初音ミクシンフォニー2025🎻\n東京公演まもなく開演します。\n#初音ミクシンフォニー\n#初音ミクシンフォニー10th https://t.co/mFYhAn76zQ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-12T18:50:19.000Z",
+        "description": "随缘//医学爱好者/les🏳️‍🌈/lgbt友好/中文/EN/Arknights/绘画/混乱日常碎碎念/很吵//喵喵",
+        "id": "1569397683814629379",
+        "name": "腐烂苹果酱",
+        "pinned_tweet_id": "1937498024907010498",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1620839959388393479/hsMKvVei_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 42,
+          "following_count": 410,
+          "like_count": 714,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 937
+        },
+        "username": "ppppggggjjjj",
+        "verified": false
+      },
+      {
+        "created_at": "2016-05-25T14:16:13.000Z",
+        "description": "バーチャルシンガー楽曲をフルオーケストラで美しく奏でるコンサート🎻 『初音ミクシンフォニー2025』5都市開催‼︎2025.10.1(Wed)Release‼︎ 『Miku Symphony Live at Sapporo & Tokyo - 10th Anniversary Best -』 #初音ミクシンフォニー",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 158,
+                "start": 147,
+                "tag": "初音ミクシンフォニー"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "sp.wmg.jp/mikusymphony/s…",
+                "end": 23,
+                "expanded_url": "https://sp.wmg.jp/mikusymphony/sp/10th/",
+                "start": 0,
+                "url": "https://t.co/u2JakYWRS2"
+              }
+            ]
+          }
+        },
+        "id": "735474554533908481",
+        "name": "初音ミクシンフォニー公式〜10th Anniversary🎻 〜",
+        "pinned_tweet_id": "1918957601574056323",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1243099131570077696/Bsm9hCck_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 68700,
+          "following_count": 316,
+          "like_count": 1159,
+          "listed_count": 473,
+          "media_count": 862,
+          "tweet_count": 2505
+        },
+        "url": "https://t.co/u2JakYWRS2",
+        "username": "mikusymphony",
+        "verified": true
+      }
+    ]
+  }
+}

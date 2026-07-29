@@ -1,0 +1,338 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1995991242778525696",
+        "3_1995991303688200192"
+      ],
+      "media_source_tweet_id": [
+        "1995991391995134228",
+        "1995991391995134228"
+      ]
+    },
+    "author_id": "1569397683814629379",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1996047214544912593",
+    "created_at": "2025-12-03T02:41:55.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-03T03:41:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1996047214544912593"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1492682488728018953",
+          "start": 3,
+          "username": "SakiyoZy"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/4EORAM87qU",
+          "end": 39,
+          "expanded_url": "https://x.com/SakiyoZy/status/1995991391995134228/photo/1",
+          "media_key": "3_1995991242778525696",
+          "start": 16,
+          "url": "https://t.co/4EORAM87qU"
+        },
+        {
+          "display_url": "pic.x.com/4EORAM87qU",
+          "end": 39,
+          "expanded_url": "https://x.com/SakiyoZy/status/1995991391995134228/photo/1",
+          "media_key": "3_1995991303688200192",
+          "start": 16,
+          "url": "https://t.co/4EORAM87qU"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1996047214544912593",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 389
+    },
+    "referenced_tweets": [
+      {
+        "id": "1995991391995134228",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @SakiyoZy: 🔵 https://t.co/4EORAM87qU"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_1995991242778525696",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7MvdciawAAeOpI.jpg",
+        "width": 2688
+      },
+      {
+        "height": 4096,
+        "media_key": "3_1995991303688200192",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7Mvg_caoAAi_W5.jpg",
+        "width": 2926
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1995991242778525696",
+            "3_1995991303688200192"
+          ],
+          "media_source_tweet_id": [
+            "1995991391995134228",
+            "1995991391995134228"
+          ]
+        },
+        "author_id": "1569397683814629379",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1996047214544912593",
+        "created_at": "2025-12-03T02:41:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-03T03:41:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1996047214544912593"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1492682488728018953",
+              "start": 3,
+              "username": "SakiyoZy"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/4EORAM87qU",
+              "end": 39,
+              "expanded_url": "https://x.com/SakiyoZy/status/1995991391995134228/photo/1",
+              "media_key": "3_1995991242778525696",
+              "start": 16,
+              "url": "https://t.co/4EORAM87qU"
+            },
+            {
+              "display_url": "pic.x.com/4EORAM87qU",
+              "end": 39,
+              "expanded_url": "https://x.com/SakiyoZy/status/1995991391995134228/photo/1",
+              "media_key": "3_1995991303688200192",
+              "start": 16,
+              "url": "https://t.co/4EORAM87qU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1996047214544912593",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 389
+        },
+        "referenced_tweets": [
+          {
+            "id": "1995991391995134228",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @SakiyoZy: 🔵 https://t.co/4EORAM87qU"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1995991242778525696",
+            "3_1995991303688200192"
+          ]
+        },
+        "author_id": "1492682488728018953",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1995991391995134228",
+        "created_at": "2025-12-02T23:00:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-03T00:00:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1995991391995134228"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/4EORAM87qU",
+              "end": 25,
+              "expanded_url": "https://x.com/SakiyoZy/status/1995991391995134228/photo/1",
+              "media_key": "3_1995991242778525696",
+              "start": 2,
+              "url": "https://t.co/4EORAM87qU"
+            },
+            {
+              "display_url": "pic.x.com/4EORAM87qU",
+              "end": 25,
+              "expanded_url": "https://x.com/SakiyoZy/status/1995991391995134228/photo/1",
+              "media_key": "3_1995991303688200192",
+              "start": 2,
+              "url": "https://t.co/4EORAM87qU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1995991391995134228",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 243,
+          "impression_count": 19330,
+          "like_count": 2331,
+          "quote_count": 2,
+          "reply_count": 4,
+          "retweet_count": 389
+        },
+        "reply_settings": "everyone",
+        "text": "🔵 https://t.co/4EORAM87qU"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-12T18:50:19.000Z",
+        "description": "随缘//医学爱好者/les🏳️‍🌈/lgbt友好/中文/EN/Arknights/绘画/混乱日常碎碎念/很吵//喵喵 【永远拥护培根卷番茄！】",
+        "id": "1569397683814629379",
+        "location": "世界的尽头",
+        "name": "腐烂培根卷",
+        "pinned_tweet_id": "1993298688010322328",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953366409284861953/HM3Aeou7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 147,
+          "following_count": 861,
+          "like_count": 3148,
+          "listed_count": 1,
+          "media_count": 86,
+          "tweet_count": 3880
+        },
+        "username": "ppppggggjjjj",
+        "verified": false
+      },
+      {
+        "created_at": "2022-02-13T02:10:28.000Z",
+        "description": "禁止商用，转发请标明作者\nno commercial use, repost with credit\ncommission: https://t.co/zcYJATvRye",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "vgen.co/Sakiyozy",
+                "end": 86,
+                "expanded_url": "https://vgen.co/Sakiyozy",
+                "start": 63,
+                "url": "https://t.co/zcYJATvRye"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/en/users/78382…",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/en/users/78382494",
+                "start": 0,
+                "url": "https://t.co/8prec0sx27"
+              }
+            ]
+          }
+        },
+        "id": "1492682488728018953",
+        "name": "Sakiyo",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1492966756624699398/vYXjQ6fu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8949,
+          "following_count": 15,
+          "like_count": 411,
+          "listed_count": 63,
+          "media_count": 90,
+          "tweet_count": 101
+        },
+        "url": "https://t.co/8prec0sx27",
+        "username": "SakiyoZy",
+        "verified": true
+      }
+    ]
+  }
+}

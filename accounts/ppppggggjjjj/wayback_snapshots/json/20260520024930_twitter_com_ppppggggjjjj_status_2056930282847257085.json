@@ -1,0 +1,196 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2056898810073456640"
+      ],
+      "media_source_tweet_id": [
+        "2056898828310315150"
+      ]
+    },
+    "author_id": "1569397683814629379",
+    "conversation_id": "2056930282847257085",
+    "created_at": "2026-05-20T02:49:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-20T03:49:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2056930282847257085"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1167876754926530562",
+          "start": 3,
+          "username": "Ronsudsud"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/8FDQarP6qF",
+          "end": 38,
+          "expanded_url": "https://x.com/Ronsudsud/status/2056898828310315150/photo/1",
+          "media_key": "3_2056898810073456640",
+          "start": 15,
+          "url": "https://t.co/8FDQarP6qF"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056930282847257085",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 125
+    },
+    "referenced_tweets": [
+      {
+        "id": "2056898828310315150",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Ronsudsud: https://t.co/8FDQarP6qF"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2056930282847257085].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2056930282847257085",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2056930282847257085"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2056898810073456640",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIuSkeFaIAALc5r.jpg",
+        "width": 1424
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2056898810073456640"
+          ]
+        },
+        "author_id": "1167876754926530562",
+        "conversation_id": "2056898828310315150",
+        "created_at": "2026-05-20T00:44:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-20T01:44:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2056898828310315150"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/8FDQarP6qF",
+              "end": 23,
+              "expanded_url": "https://x.com/Ronsudsud/status/2056898828310315150/photo/1",
+              "media_key": "3_2056898810073456640",
+              "start": 0,
+              "url": "https://t.co/8FDQarP6qF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056898828310315150",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 99,
+          "impression_count": 4580,
+          "like_count": 695,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 125
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/8FDQarP6qF"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-12T18:50:19.000Z",
+        "description": "随缘//医学爱好者/Arknights/绘画/混乱日常碎碎念无营养内容/可能会很吵？ /les/lgbt友好/中文/EN//喵喵//提问箱↓ ↓ ↓",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ppppppppp38481",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ppppppppp38481",
+                "start": 0,
+                "url": "https://t.co/dw8CaO6ajX"
+              }
+            ]
+          }
+        },
+        "id": "1569397683814629379",
+        "location": "世界的尽头",
+        "name": "腐烂培根卷",
+        "pinned_tweet_id": "2012485424057291255",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953366409284861953/HM3Aeou7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 245,
+          "following_count": 1524,
+          "like_count": 8279,
+          "listed_count": 1,
+          "media_count": 100,
+          "tweet_count": 6190
+        },
+        "url": "https://t.co/dw8CaO6ajX",
+        "username": "ppppggggjjjj",
+        "verified": false
+      },
+      {
+        "created_at": "2019-08-31T19:08:21.000Z",
+        "description": "TH|EN |アークナイツ |フィアモス Fiamos 菲莫 | FUB free | occasionally nsfw | 🚫AI",
+        "id": "1167876754926530562",
+        "location": "Terra",
+        "name": "RA",
+        "pinned_tweet_id": "2003891311062274392",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039388573296889856/JXOicQme_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9043,
+          "following_count": 332,
+          "like_count": 48773,
+          "listed_count": 42,
+          "media_count": 1261,
+          "tweet_count": 29002
+        },
+        "username": "Ronsudsud",
+        "verified": false
+      }
+    ]
+  }
+}

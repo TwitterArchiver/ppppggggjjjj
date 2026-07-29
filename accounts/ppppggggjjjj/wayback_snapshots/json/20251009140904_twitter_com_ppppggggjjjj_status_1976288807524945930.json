@@ -1,0 +1,432 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1975847967400882178"
+      ],
+      "media_source_tweet_id": [
+        "1975848013521383490"
+      ]
+    },
+    "author_id": "1569397683814629379",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+          "id": "67",
+          "name": "Interests and Hobbies"
+        },
+        "entity": {
+          "description": "Drawing and sketching",
+          "id": "847869251595542528",
+          "name": "Drawing & illustration"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Drawing and sketching",
+          "id": "847869251595542528",
+          "name": "Drawing & illustration"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Visual Arts",
+          "id": "1046577790353428480",
+          "name": "Visual arts"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1265660441822281728",
+          "name": "Art"
+        }
+      }
+    ],
+    "conversation_id": "1976288807524945930",
+    "created_at": "2025-10-09T14:09:04.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-09T15:09:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1976288807524945930"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1383329374233976835",
+          "start": 3,
+          "username": "shiro_neko_ban"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/QQbZV5otcO",
+          "end": 77,
+          "expanded_url": "https://x.com/shiro_neko_ban/status/1975848013521383490/photo/1",
+          "media_key": "3_1975847967400882178",
+          "start": 54,
+          "url": "https://t.co/QQbZV5otcO"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1976288807524945930",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1021
+    },
+    "referenced_tweets": [
+      {
+        "id": "1975848013521383490",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @shiro_neko_ban: skebで納品したイラストです\nリクエストありがとうございました🙏 https://t.co/QQbZV5otcO"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 800,
+        "media_key": "3_1975847967400882178",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G2ufQgMbcAIl-mz.jpg",
+        "width": 640
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1975847967400882178"
+          ],
+          "media_source_tweet_id": [
+            "1975848013521383490"
+          ]
+        },
+        "author_id": "1569397683814629379",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Drawing and sketching",
+              "id": "847869251595542528",
+              "name": "Drawing & illustration"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Drawing and sketching",
+              "id": "847869251595542528",
+              "name": "Drawing & illustration"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Visual Arts",
+              "id": "1046577790353428480",
+              "name": "Visual arts"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1265660441822281728",
+              "name": "Art"
+            }
+          }
+        ],
+        "conversation_id": "1976288807524945930",
+        "created_at": "2025-10-09T14:09:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-09T15:09:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1976288807524945930"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1383329374233976835",
+              "start": 3,
+              "username": "shiro_neko_ban"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/QQbZV5otcO",
+              "end": 77,
+              "expanded_url": "https://x.com/shiro_neko_ban/status/1975848013521383490/photo/1",
+              "media_key": "3_1975847967400882178",
+              "start": 54,
+              "url": "https://t.co/QQbZV5otcO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1976288807524945930",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1021
+        },
+        "referenced_tweets": [
+          {
+            "id": "1975848013521383490",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @shiro_neko_ban: skebで納品したイラストです\nリクエストありがとうございました🙏 https://t.co/QQbZV5otcO"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1975847967400882178"
+          ]
+        },
+        "author_id": "1383329374233976835",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Drawing and sketching",
+              "id": "847869251595542528",
+              "name": "Drawing & illustration"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Drawing and sketching",
+              "id": "847869251595542528",
+              "name": "Drawing & illustration"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1265660441822281728",
+              "name": "Art"
+            }
+          }
+        ],
+        "conversation_id": "1975848013521383490",
+        "created_at": "2025-10-08T08:57:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-08T09:57:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1975848013521383490"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/QQbZV5otcO",
+              "end": 57,
+              "expanded_url": "https://x.com/shiro_neko_ban/status/1975848013521383490/photo/1",
+              "media_key": "3_1975847967400882178",
+              "start": 34,
+              "url": "https://t.co/QQbZV5otcO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1975848013521383490",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 887,
+          "impression_count": 96629,
+          "like_count": 8011,
+          "quote_count": 9,
+          "reply_count": 5,
+          "retweet_count": 1021
+        },
+        "reply_settings": "everyone",
+        "text": "skebで納品したイラストです\nリクエストありがとうございました🙏 https://t.co/QQbZV5otcO"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-12T18:50:19.000Z",
+        "description": "随缘//医学爱好者/les🏳️‍🌈/lgbt友好/中文/EN/Arknights/绘画/混乱日常碎碎念/很吵//喵喵 【永远拥护培根卷番茄！】",
+        "id": "1569397683814629379",
+        "location": "世界的尽头",
+        "name": "腐烂培根卷",
+        "pinned_tweet_id": "1937498024907010498",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953366409284861953/HM3Aeou7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 114,
+          "following_count": 723,
+          "like_count": 2259,
+          "listed_count": 1,
+          "media_count": 70,
+          "tweet_count": 3133
+        },
+        "username": "ppppggggjjjj",
+        "verified": false
+      },
+      {
+        "created_at": "2021-04-17T08:00:09.000Z",
+        "description": "アークナイツをやりながら絵の練習をしています\npixiv→https://t.co/aobxnsI5ON\nFANBOX→https://t.co/KvSqrCcLQB\nskeb→https://t.co/FOWtej0Adr",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/3084939",
+                "end": 52,
+                "expanded_url": "http://pixiv.net/users/3084939",
+                "start": 29,
+                "url": "https://t.co/aobxnsI5ON"
+              },
+              {
+                "display_url": "shironekoban.fanbox.cc",
+                "end": 83,
+                "expanded_url": "http://shironekoban.fanbox.cc",
+                "start": 60,
+                "url": "https://t.co/KvSqrCcLQB"
+              },
+              {
+                "display_url": "skeb.jp/@shiro_neko_ban",
+                "end": 112,
+                "expanded_url": "http://skeb.jp/@shiro_neko_ban",
+                "start": 89,
+                "url": "https://t.co/FOWtej0Adr"
+              }
+            ]
+          }
+        },
+        "id": "1383329374233976835",
+        "name": "シロネコバン",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1473996618743828482/NesCh48G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15556,
+          "following_count": 25,
+          "like_count": 1199,
+          "listed_count": 145,
+          "media_count": 282,
+          "tweet_count": 690
+        },
+        "username": "shiro_neko_ban",
+        "verified": false
+      }
+    ]
+  }
+}

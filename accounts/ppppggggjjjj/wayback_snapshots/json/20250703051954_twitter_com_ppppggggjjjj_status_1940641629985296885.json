@@ -1,0 +1,255 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1940303128424841216"
+      ],
+      "media_source_tweet_id": [
+        "1940303235010744662"
+      ]
+    },
+    "author_id": "1569397683814629379",
+    "conversation_id": "1940641629985296885",
+    "created_at": "2025-07-03T05:19:54.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-03T06:19:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1940641629985296885"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 15,
+          "start": 12,
+          "tag": "oc"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1304297406834507781",
+          "start": 3,
+          "username": "75m_xx"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/fsw6BcLQCy",
+          "end": 39,
+          "expanded_url": "https://x.com/75m_xx/status/1940303235010744662/photo/1",
+          "media_key": "3_1940303128424841216",
+          "start": 16,
+          "url": "https://t.co/fsw6BcLQCy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1940641629985296885",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1434
+    },
+    "referenced_tweets": [
+      {
+        "id": "1940303235010744662",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "following",
+    "text": "RT @75m_xx: #oc https://t.co/fsw6BcLQCy"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2160,
+        "media_key": "3_1940303128424841216",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gu1XakZXgAAIUqd.jpg",
+        "width": 1683
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1940303128424841216"
+          ],
+          "media_source_tweet_id": [
+            "1940303235010744662"
+          ]
+        },
+        "author_id": "1569397683814629379",
+        "conversation_id": "1940641629985296885",
+        "created_at": "2025-07-03T05:19:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-03T06:19:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1940641629985296885"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 15,
+              "start": 12,
+              "tag": "oc"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1304297406834507781",
+              "start": 3,
+              "username": "75m_xx"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/fsw6BcLQCy",
+              "end": 39,
+              "expanded_url": "https://x.com/75m_xx/status/1940303235010744662/photo/1",
+              "media_key": "3_1940303128424841216",
+              "start": 16,
+              "url": "https://t.co/fsw6BcLQCy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1940641629985296885",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1434
+        },
+        "referenced_tweets": [
+          {
+            "id": "1940303235010744662",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "following",
+        "text": "RT @75m_xx: #oc https://t.co/fsw6BcLQCy"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1940303128424841216"
+          ]
+        },
+        "author_id": "1304297406834507781",
+        "conversation_id": "1940303235010744662",
+        "created_at": "2025-07-02T06:55:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-02T07:55:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1940303235010744662"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 3,
+              "start": 0,
+              "tag": "oc"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/fsw6BcLQCy",
+              "end": 27,
+              "expanded_url": "https://x.com/75m_xx/status/1940303235010744662/photo/1",
+              "media_key": "3_1940303128424841216",
+              "start": 4,
+              "url": "https://t.co/fsw6BcLQCy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1940303235010744662",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3497,
+          "impression_count": 242320,
+          "like_count": 17495,
+          "quote_count": 34,
+          "reply_count": 1,
+          "retweet_count": 1434
+        },
+        "reply_settings": "following",
+        "text": "#oc https://t.co/fsw6BcLQCy"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-12T18:50:19.000Z",
+        "description": "随缘//医学爱好者/les🏳️‍🌈/lgbt友好/中文/EN/Arknights/绘画/混乱日常碎碎念/很吵//喵喵",
+        "id": "1569397683814629379",
+        "name": "腐烂苹果酱",
+        "pinned_tweet_id": "1937498024907010498",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1620839959388393479/hsMKvVei_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 33,
+          "following_count": 277,
+          "like_count": 475,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 723
+        },
+        "username": "ppppggggjjjj",
+        "verified": false
+      },
+      {
+        "created_at": "2020-09-11T05:55:21.000Z",
+        "description": "✉️ 75mxx_@anise.dev / Ai❌",
+        "id": "1304297406834507781",
+        "name": "ちロミ",
+        "pinned_tweet_id": "1940303235010744662",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1922540538869514241/sB92-lsv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4459,
+          "following_count": 233,
+          "like_count": 403,
+          "listed_count": 39,
+          "media_count": 17,
+          "tweet_count": 233
+        },
+        "username": "75m_xx",
+        "verified": false
+      }
+    ]
+  }
+}

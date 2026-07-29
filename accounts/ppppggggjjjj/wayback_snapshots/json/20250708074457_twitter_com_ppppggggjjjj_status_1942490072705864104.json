@@ -1,0 +1,384 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1942260722940968967"
+      ],
+      "media_source_tweet_id": [
+        "1942260729572442385"
+      ]
+    },
+    "author_id": "1569397683814629379",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Television shows from around the world",
+          "id": "3",
+          "name": "TV Shows"
+        },
+        "entity": {
+          "id": "10051561438",
+          "name": "Steins;Gate"
+        }
+      }
+    ],
+    "conversation_id": "1942490072705864104",
+    "created_at": "2025-07-08T07:44:57.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-08T08:44:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1942490072705864104"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 38,
+          "start": 27,
+          "tag": "steinsgate"
+        },
+        {
+          "end": 50,
+          "start": 39,
+          "tag": "Steinsgate"
+        },
+        {
+          "end": 62,
+          "start": 51,
+          "tag": "SteinsGate"
+        },
+        {
+          "end": 75,
+          "start": 63,
+          "tag": "steins_gate"
+        },
+        {
+          "end": 88,
+          "start": 76,
+          "tag": "steinsgate0"
+        },
+        {
+          "end": 102,
+          "start": 89,
+          "tag": "makisekurisu"
+        },
+        {
+          "end": 109,
+          "start": 103,
+          "tag": "牧瀬紅莉栖"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1536118604571320322",
+          "start": 3,
+          "username": "YagamiMaxime"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/OUgaMvve2w",
+          "end": 133,
+          "expanded_url": "https://x.com/YagamiMaxime/status/1942260729572442385/photo/1",
+          "media_key": "3_1942260722940968967",
+          "start": 110,
+          "url": "https://t.co/OUgaMvve2w"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1942490072705864104",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 6
+    },
+    "referenced_tweets": [
+      {
+        "id": "1942260729572442385",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @YagamiMaxime: ヽ(*ﾟдﾟ)ノ\n#steinsgate #Steinsgate #SteinsGate #steins_gate #steinsgate0 #makisekurisu #牧瀬紅莉栖 https://t.co/OUgaMvve2w"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1942260722940968967",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GvRL1kQXAAcE2VT.jpg",
+        "width": 1328
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1942260722940968967"
+          ],
+          "media_source_tweet_id": [
+            "1942260729572442385"
+          ]
+        },
+        "author_id": "1569397683814629379",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Television shows from around the world",
+              "id": "3",
+              "name": "TV Shows"
+            },
+            "entity": {
+              "id": "10051561438",
+              "name": "Steins;Gate"
+            }
+          }
+        ],
+        "conversation_id": "1942490072705864104",
+        "created_at": "2025-07-08T07:44:57.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-08T08:44:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1942490072705864104"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 38,
+              "start": 27,
+              "tag": "steinsgate"
+            },
+            {
+              "end": 50,
+              "start": 39,
+              "tag": "Steinsgate"
+            },
+            {
+              "end": 62,
+              "start": 51,
+              "tag": "SteinsGate"
+            },
+            {
+              "end": 75,
+              "start": 63,
+              "tag": "steins_gate"
+            },
+            {
+              "end": 88,
+              "start": 76,
+              "tag": "steinsgate0"
+            },
+            {
+              "end": 102,
+              "start": 89,
+              "tag": "makisekurisu"
+            },
+            {
+              "end": 109,
+              "start": 103,
+              "tag": "牧瀬紅莉栖"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1536118604571320322",
+              "start": 3,
+              "username": "YagamiMaxime"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/OUgaMvve2w",
+              "end": 133,
+              "expanded_url": "https://x.com/YagamiMaxime/status/1942260729572442385/photo/1",
+              "media_key": "3_1942260722940968967",
+              "start": 110,
+              "url": "https://t.co/OUgaMvve2w"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1942490072705864104",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 6
+        },
+        "referenced_tweets": [
+          {
+            "id": "1942260729572442385",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @YagamiMaxime: ヽ(*ﾟдﾟ)ノ\n#steinsgate #Steinsgate #SteinsGate #steins_gate #steinsgate0 #makisekurisu #牧瀬紅莉栖 https://t.co/OUgaMvve2w"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1942260722940968967"
+          ]
+        },
+        "author_id": "1536118604571320322",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Television shows from around the world",
+              "id": "3",
+              "name": "TV Shows"
+            },
+            "entity": {
+              "id": "10051561438",
+              "name": "Steins;Gate"
+            }
+          }
+        ],
+        "conversation_id": "1942260729572442385",
+        "created_at": "2025-07-07T16:33:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-07T17:33:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1942260729572442385"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 20,
+              "start": 9,
+              "tag": "steinsgate"
+            },
+            {
+              "end": 32,
+              "start": 21,
+              "tag": "Steinsgate"
+            },
+            {
+              "end": 44,
+              "start": 33,
+              "tag": "SteinsGate"
+            },
+            {
+              "end": 57,
+              "start": 45,
+              "tag": "steins_gate"
+            },
+            {
+              "end": 70,
+              "start": 58,
+              "tag": "steinsgate0"
+            },
+            {
+              "end": 84,
+              "start": 71,
+              "tag": "makisekurisu"
+            },
+            {
+              "end": 91,
+              "start": 85,
+              "tag": "牧瀬紅莉栖"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/OUgaMvve2w",
+              "end": 115,
+              "expanded_url": "https://x.com/YagamiMaxime/status/1942260729572442385/photo/1",
+              "media_key": "3_1942260722940968967",
+              "start": 92,
+              "url": "https://t.co/OUgaMvve2w"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1942260729572442385",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6,
+          "impression_count": 241,
+          "like_count": 27,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 6
+        },
+        "reply_settings": "everyone",
+        "text": "ヽ(*ﾟдﾟ)ノ\n#steinsgate #Steinsgate #SteinsGate #steins_gate #steinsgate0 #makisekurisu #牧瀬紅莉栖 https://t.co/OUgaMvve2w"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-12T18:50:19.000Z",
+        "description": "随缘//医学爱好者/les🏳️‍🌈/lgbt友好/中文/EN/Arknights/绘画/混乱日常碎碎念/很吵//喵喵",
+        "id": "1569397683814629379",
+        "name": "腐烂苹果酱",
+        "pinned_tweet_id": "1937498024907010498",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1620839959388393479/hsMKvVei_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 59,
+          "following_count": 500,
+          "like_count": 845,
+          "listed_count": 0,
+          "media_count": 17,
+          "tweet_count": 1057
+        },
+        "username": "ppppggggjjjj",
+        "verified": false
+      },
+      {
+        "created_at": "2022-06-12T22:50:09.000Z",
+        "description": "A page featuring a variety of Steins;Gate artwork. Feel free to credit the source and artist in the comments to showcase their talent. El Psy Kongroo ⚙️⏳📺",
+        "id": "1536118604571320322",
+        "location": "Steins;Gate",
+        "name": "Steins;Gate Artwork",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1941066849371770880/CgCZC5B4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 180,
+          "following_count": 21,
+          "like_count": 152,
+          "listed_count": 0,
+          "media_count": 55,
+          "tweet_count": 120
+        },
+        "username": "YagamiMaxime",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,295 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2059929010441011200"
+      ],
+      "media_source_tweet_id": [
+        "2059929015994187876"
+      ]
+    },
+    "author_id": "1569397683814629379",
+    "conversation_id": "2060295437425189131",
+    "created_at": "2026-05-29T09:41:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-29T10:41:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060295437425189131"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1274676492715212802",
+          "start": 3,
+          "username": "wiwinnf"
+        },
+        {
+          "end": 24,
+          "id": "1372618205965864961",
+          "start": 13,
+          "username": "zakariamlk"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/XnfF2IN0A9",
+          "end": 62,
+          "expanded_url": "https://x.com/wiwinnf/status/2059929015994187876/photo/1",
+          "media_key": "3_2059929010441011200",
+          "start": 39,
+          "url": "https://t.co/XnfF2IN0A9"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060295437425189131",
+    "lang": "in",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 13
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059929015994187876",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @wiwinnf: @zakariamlk main dino aja https://t.co/XnfF2IN0A9"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 582,
+        "media_key": "3_2059929010441011200",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJZWhWHbwAAjnuc.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2059929010441011200"
+          ],
+          "media_source_tweet_id": [
+            "2059929015994187876"
+          ]
+        },
+        "author_id": "1569397683814629379",
+        "conversation_id": "2060295437425189131",
+        "created_at": "2026-05-29T09:41:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-29T10:41:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060295437425189131"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1274676492715212802",
+              "start": 3,
+              "username": "wiwinnf"
+            },
+            {
+              "end": 24,
+              "id": "1372618205965864961",
+              "start": 13,
+              "username": "zakariamlk"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/XnfF2IN0A9",
+              "end": 62,
+              "expanded_url": "https://x.com/wiwinnf/status/2059929015994187876/photo/1",
+              "media_key": "3_2059929010441011200",
+              "start": 39,
+              "url": "https://t.co/XnfF2IN0A9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060295437425189131",
+        "lang": "in",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 13
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059929015994187876",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @wiwinnf: @zakariamlk main dino aja https://t.co/XnfF2IN0A9"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2059929010441011200"
+          ]
+        },
+        "author_id": "1274676492715212802",
+        "conversation_id": "2059889391318057346",
+        "created_at": "2026-05-28T09:25:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T10:25:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059929015994187876"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1372618205965864961",
+              "start": 0,
+              "username": "zakariamlk"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/XnfF2IN0A9",
+              "end": 49,
+              "expanded_url": "https://x.com/wiwinnf/status/2059929015994187876/photo/1",
+              "media_key": "3_2059929010441011200",
+              "start": 26,
+              "url": "https://t.co/XnfF2IN0A9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059929015994187876",
+        "in_reply_to_user_id": "1372618205965864961",
+        "lang": "in",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 75762,
+          "like_count": 1992,
+          "quote_count": 0,
+          "reply_count": 8,
+          "retweet_count": 13
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059889391318057346",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zakariamlk main dino aja https://t.co/XnfF2IN0A9"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-12T18:50:19.000Z",
+        "description": "随缘//医学爱好者/Arknights/绘画/混乱日常碎碎念无营养内容/可能会很吵？ /les/lgbt友好/中文/EN//喵喵//提问箱↓ ↓ ↓",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ppppppppp38481",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ppppppppp38481",
+                "start": 0,
+                "url": "https://t.co/dw8CaO6ajX"
+              }
+            ]
+          }
+        },
+        "id": "1569397683814629379",
+        "location": "世界的尽头",
+        "name": "腐烂培根卷",
+        "pinned_tweet_id": "2012485424057291255",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953366409284861953/HM3Aeou7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 246,
+          "following_count": 1598,
+          "like_count": 9023,
+          "listed_count": 1,
+          "media_count": 104,
+          "tweet_count": 6528
+        },
+        "url": "https://t.co/dw8CaO6ajX",
+        "username": "ppppggggjjjj",
+        "verified": false
+      },
+      {
+        "created_at": "2020-06-21T12:12:31.000Z",
+        "description": "stay classy",
+        "id": "1274676492715212802",
+        "location": "your mind",
+        "name": "dabelyu",
+        "pinned_tweet_id": "1394838346828943362",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2002727892422459392/RMDIAedN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3629,
+          "following_count": 2772,
+          "like_count": 29561,
+          "listed_count": 3,
+          "media_count": 1059,
+          "tweet_count": 35665
+        },
+        "username": "wiwinnf",
+        "verified": true
+      },
+      {
+        "created_at": "2021-03-18T18:37:48.000Z",
+        "description": "Depok - Indonesia 🇲🇨 -1 lovers! Be yourself ✨ 14|02! DM me for PP/endorsement! Aquarius 🌊",
+        "id": "1372618205965864961",
+        "name": "Zaka✨",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1654498746242146306/sfRygSVI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16679,
+          "following_count": 1691,
+          "like_count": 354780,
+          "listed_count": 14,
+          "media_count": 2465,
+          "tweet_count": 348730
+        },
+        "username": "zakariamlk",
+        "verified": true
+      }
+    ]
+  }
+}

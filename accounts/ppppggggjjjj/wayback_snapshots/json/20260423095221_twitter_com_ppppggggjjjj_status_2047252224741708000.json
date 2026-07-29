@@ -1,0 +1,279 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_2046888313441898496"
+      ],
+      "media_source_tweet_id": [
+        "2046888350452502962"
+      ]
+    },
+    "author_id": "1569397683814629379",
+    "conversation_id": "2047252224741708000",
+    "created_at": "2026-04-23T09:52:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-23T10:52:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2047252224741708000"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1207132508040523776",
+          "start": 3,
+          "username": "yuashwe"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/A5RvUEDy3X",
+          "end": 44,
+          "expanded_url": "https://x.com/yuashwe/status/2046888350452502962/video/1",
+          "media_key": "7_2046888313441898496",
+          "start": 21,
+          "url": "https://t.co/A5RvUEDy3X"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047252224741708000",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 123
+    },
+    "referenced_tweets": [
+      {
+        "id": "2046888350452502962",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @yuashwe: 生活终极小窍门 https://t.co/A5RvUEDy3X"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 14444,
+        "height": 1920,
+        "media_key": "7_2046888313441898496",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2046888313441898496/pu/img/XJ2IjKR0R85Yz7c9.jpg",
+        "public_metrics": {
+          "view_count": 32907
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2046888313441898496/pu/vid/avc1/320x568/RN5EYYQ-nkpD7nSH.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2046888313441898496/pu/vid/avc1/480x852/JWqsjb-A4EtFGkic.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2046888313441898496/pu/vid/avc1/720x1280/uY60ayklYzDrIhLo.mp4"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2046888313441898496/pu/vid/avc1/1080x1920/4zqWdePu-_rPt42r.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2046888313441898496/pu/pl/J8HSFEUGnQqZA4p3.m3u8?v=cfc"
+          }
+        ],
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2046888313441898496"
+          ],
+          "media_source_tweet_id": [
+            "2046888350452502962"
+          ]
+        },
+        "author_id": "1569397683814629379",
+        "conversation_id": "2047252224741708000",
+        "created_at": "2026-04-23T09:52:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-23T10:52:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047252224741708000"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1207132508040523776",
+              "start": 3,
+              "username": "yuashwe"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/A5RvUEDy3X",
+              "end": 44,
+              "expanded_url": "https://x.com/yuashwe/status/2046888350452502962/video/1",
+              "media_key": "7_2046888313441898496",
+              "start": 21,
+              "url": "https://t.co/A5RvUEDy3X"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047252224741708000",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 123
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046888350452502962",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @yuashwe: 生活终极小窍门 https://t.co/A5RvUEDy3X"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2046888313441898496"
+          ]
+        },
+        "author_id": "1207132508040523776",
+        "conversation_id": "2046888350452502962",
+        "created_at": "2026-04-22T09:46:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-22T10:46:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2046888350452502962"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/A5RvUEDy3X",
+              "end": 31,
+              "expanded_url": "https://x.com/yuashwe/status/2046888350452502962/video/1",
+              "media_key": "7_2046888313441898496",
+              "start": 8,
+              "url": "https://t.co/A5RvUEDy3X"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046888350452502962",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 426,
+          "impression_count": 94500,
+          "like_count": 866,
+          "quote_count": 14,
+          "reply_count": 120,
+          "retweet_count": 123
+        },
+        "reply_settings": "everyone",
+        "text": "生活终极小窍门 https://t.co/A5RvUEDy3X"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-12T18:50:19.000Z",
+        "description": "随缘//医学爱好者/Arknights/绘画/混乱日常碎碎念无营养内容/可能会很吵？ /les/lgbt友好/中文/EN//喵喵//提问箱↓ ↓ ↓",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ppppppppp38481",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ppppppppp38481",
+                "start": 0,
+                "url": "https://t.co/dw8CaO6ajX"
+              }
+            ]
+          }
+        },
+        "id": "1569397683814629379",
+        "location": "世界的尽头",
+        "name": "腐烂培根卷",
+        "pinned_tweet_id": "2012485424057291255",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953366409284861953/HM3Aeou7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 212,
+          "following_count": 1314,
+          "like_count": 6946,
+          "listed_count": 1,
+          "media_count": 98,
+          "tweet_count": 5334
+        },
+        "url": "https://t.co/dw8CaO6ajX",
+        "username": "ppppggggjjjj",
+        "verified": false
+      },
+      {
+        "created_at": "2019-12-18T02:56:40.000Z",
+        "description": "我所有的推文你都可以当成反话听，如果你的智商不足以分辨的话，你就都当成阴阳怪气好了，总之没有正经的。凡是到推上找真相的、寻营养的、求破案的、觅真理的，都你妈屄给我滚远点儿，老子这儿没有这些。我是来寻开心的，不是来哄你丫玩儿的",
+        "id": "1207132508040523776",
+        "location": "Macau",
+        "name": "老多",
+        "pinned_tweet_id": "1952428095408889943",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1548061646043590658/9ErxBsRA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 106902,
+          "following_count": 286,
+          "like_count": 633297,
+          "listed_count": 311,
+          "media_count": 8567,
+          "tweet_count": 58954
+        },
+        "username": "yuashwe",
+        "verified": true
+      }
+    ]
+  }
+}

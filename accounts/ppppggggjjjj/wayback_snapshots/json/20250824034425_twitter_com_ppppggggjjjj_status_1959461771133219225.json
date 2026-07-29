@@ -1,0 +1,249 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1959296474925215744"
+      ],
+      "media_source_tweet_id": [
+        "1959296496664264845"
+      ]
+    },
+    "author_id": "1569397683814629379",
+    "conversation_id": "1959461771133219225",
+    "created_at": "2025-08-24T03:44:25.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-24T04:44:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1959461771133219225"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1526520133040148482",
+          "start": 3,
+          "username": "kanji55755948"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/TxA8WmabsX",
+          "end": 42,
+          "expanded_url": "https://x.com/kanji55755948/status/1959296496664264845/photo/1",
+          "media_key": "3_1959296474925215744",
+          "start": 19,
+          "url": "https://t.co/TxA8WmabsX"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1959461771133219225",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1669
+    },
+    "referenced_tweets": [
+      {
+        "id": "1959296496664264845",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @kanji55755948: https://t.co/TxA8WmabsX"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2700,
+        "media_key": "3_1959296474925215744",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GzDRw12XsAA71oT.jpg",
+        "width": 2160
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1959296474925215744"
+          ],
+          "media_source_tweet_id": [
+            "1959296496664264845"
+          ]
+        },
+        "author_id": "1569397683814629379",
+        "conversation_id": "1959461771133219225",
+        "created_at": "2025-08-24T03:44:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-24T04:44:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1959461771133219225"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1526520133040148482",
+              "start": 3,
+              "username": "kanji55755948"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/TxA8WmabsX",
+              "end": 42,
+              "expanded_url": "https://x.com/kanji55755948/status/1959296496664264845/photo/1",
+              "media_key": "3_1959296474925215744",
+              "start": 19,
+              "url": "https://t.co/TxA8WmabsX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1959461771133219225",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1669
+        },
+        "referenced_tweets": [
+          {
+            "id": "1959296496664264845",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @kanji55755948: https://t.co/TxA8WmabsX"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1959296474925215744"
+          ]
+        },
+        "author_id": "1526520133040148482",
+        "conversation_id": "1959296496664264845",
+        "created_at": "2025-08-23T16:47:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-23T17:47:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1959296496664264845"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/TxA8WmabsX",
+              "end": 23,
+              "expanded_url": "https://x.com/kanji55755948/status/1959296496664264845/photo/1",
+              "media_key": "3_1959296474925215744",
+              "start": 0,
+              "url": "https://t.co/TxA8WmabsX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1959296496664264845",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2221,
+          "impression_count": 214523,
+          "like_count": 16491,
+          "quote_count": 18,
+          "reply_count": 12,
+          "retweet_count": 1669
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/TxA8WmabsX"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-12T18:50:19.000Z",
+        "description": "随缘//医学爱好者/les🏳️‍🌈/lgbt友好/中文/EN/Arknights/绘画/混乱日常碎碎念/很吵//喵喵 【永远拥护培根卷番茄！】",
+        "id": "1569397683814629379",
+        "location": "世界的尽头",
+        "name": "腐烂培根卷",
+        "pinned_tweet_id": "1937498024907010498",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953366409284861953/HM3Aeou7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 102,
+          "following_count": 658,
+          "like_count": 1848,
+          "listed_count": 1,
+          "media_count": 56,
+          "tweet_count": 2260
+        },
+        "username": "ppppggggjjjj",
+        "verified": false
+      },
+      {
+        "created_at": "2022-05-17T11:09:16.000Z",
+        "description": "My name is Ivan, 2D-artist,  commissions сlosed",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/nievart",
+                "end": 23,
+                "expanded_url": "https://linktr.ee/nievart",
+                "start": 0,
+                "url": "https://t.co/WHruBMdRZS"
+              }
+            ]
+          }
+        },
+        "id": "1526520133040148482",
+        "name": "kanji",
+        "pinned_tweet_id": "1943772770846093534",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1714263888915537920/0YGVekA9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 101724,
+          "following_count": 101,
+          "like_count": 7861,
+          "listed_count": 559,
+          "media_count": 465,
+          "tweet_count": 730
+        },
+        "url": "https://t.co/WHruBMdRZS",
+        "username": "kanji55755948",
+        "verified": false
+      }
+    ]
+  }
+}

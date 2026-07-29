@@ -1,0 +1,300 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2052735373957337088"
+      ],
+      "media_source_tweet_id": [
+        "2052736053484958086"
+      ]
+    },
+    "author_id": "1569397683814629379",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2052798004848197858",
+    "created_at": "2026-05-08T17:09:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-08T18:09:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2052798004848197858"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "4253831413",
+          "start": 3,
+          "username": "ashkillash"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/deYVrcOyb9",
+          "end": 48,
+          "expanded_url": "https://x.com/ashkillash/status/2052736053484958086/video/1",
+          "media_key": "13_2052735373957337088",
+          "start": 25,
+          "url": "https://t.co/deYVrcOyb9"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052798004848197858",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 227
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052736053484958086",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ashkillash: 欢迎回家，凯尔希 https://t.co/deYVrcOyb9"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 63347,
+        "height": 2160,
+        "media_key": "13_2052735373957337088",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2052735373957337088/img/QSqCVEBY-Csmm7o5.jpg",
+        "public_metrics": {
+          "view_count": 9050
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 288000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2052735373957337088/vid/avc1/480x270/CAIC9n878IxlQn3l.mp4?tag=14"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2052735373957337088/vid/avc1/640x360/nYVCsoCb8SygyMmf.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2052735373957337088/vid/avc1/1280x720/F2pypw2zp51vvZEh.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2052735373957337088/pl/iJUONGsWOLnfvLpY.m3u8?tag=14&v=cfc"
+          }
+        ],
+        "width": 3840
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2052735373957337088"
+          ],
+          "media_source_tweet_id": [
+            "2052736053484958086"
+          ]
+        },
+        "author_id": "1569397683814629379",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2052798004848197858",
+        "created_at": "2026-05-08T17:09:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-08T18:09:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052798004848197858"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "4253831413",
+              "start": 3,
+              "username": "ashkillash"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/deYVrcOyb9",
+              "end": 48,
+              "expanded_url": "https://x.com/ashkillash/status/2052736053484958086/video/1",
+              "media_key": "13_2052735373957337088",
+              "start": 25,
+              "url": "https://t.co/deYVrcOyb9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052798004848197858",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 227
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052736053484958086",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ashkillash: 欢迎回家，凯尔希 https://t.co/deYVrcOyb9"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2052735373957337088"
+          ]
+        },
+        "author_id": "4253831413",
+        "conversation_id": "2052736053484958086",
+        "created_at": "2026-05-08T13:03:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-08T14:03:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2052736053484958086"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/deYVrcOyb9",
+              "end": 32,
+              "expanded_url": "https://x.com/ashkillash/status/2052736053484958086/video/1",
+              "media_key": "13_2052735373957337088",
+              "start": 9,
+              "url": "https://t.co/deYVrcOyb9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052736053484958086",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 393,
+          "impression_count": 27000,
+          "like_count": 1738,
+          "quote_count": 3,
+          "reply_count": 2,
+          "retweet_count": 227
+        },
+        "reply_settings": "everyone",
+        "text": "欢迎回家，凯尔希 https://t.co/deYVrcOyb9"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-12T18:50:19.000Z",
+        "description": "随缘//医学爱好者/Arknights/绘画/混乱日常碎碎念无营养内容/可能会很吵？ /les/lgbt友好/中文/EN//喵喵//提问箱↓ ↓ ↓",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ppppppppp38481",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ppppppppp38481",
+                "start": 0,
+                "url": "https://t.co/dw8CaO6ajX"
+              }
+            ]
+          }
+        },
+        "id": "1569397683814629379",
+        "location": "世界的尽头",
+        "name": "腐烂培根卷",
+        "pinned_tweet_id": "2012485424057291255",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953366409284861953/HM3Aeou7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 233,
+          "following_count": 1413,
+          "like_count": 7688,
+          "listed_count": 1,
+          "media_count": 100,
+          "tweet_count": 5804
+        },
+        "url": "https://t.co/dw8CaO6ajX",
+        "username": "ppppggggjjjj",
+        "verified": false
+      },
+      {
+        "created_at": "2015-11-16T06:24:21.000Z",
+        "description": "全平台同名@灰色灰烬GREYASH\n▪Time waits for no one.\n▪Do not quench your inspiration and your imagination;do not become the slave of your model.",
+        "id": "4253831413",
+        "name": "灰色灰烬GREYASH",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1897514320772341760/PHKPBb3L_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 63897,
+          "following_count": 1090,
+          "like_count": 857,
+          "listed_count": 413,
+          "media_count": 495,
+          "tweet_count": 1051
+        },
+        "username": "ashkillash",
+        "verified": false
+      }
+    ]
+  }
+}

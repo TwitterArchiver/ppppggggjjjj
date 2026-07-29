@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2059768878813818880"
+      ],
+      "media_source_tweet_id": [
+        "2059768968760729651"
+      ]
+    },
+    "author_id": "1569397683814629379",
+    "conversation_id": "2059986649421922550",
+    "created_at": "2026-05-28T13:14:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-28T14:14:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059986649421922550"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "215259184",
+          "start": 3,
+          "username": "tvtvnvb"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/fhPg0r1eo8",
+          "end": 36,
+          "expanded_url": "https://x.com/tvtvnvb/status/2059768968760729651/photo/1",
+          "media_key": "3_2059768878813818880",
+          "start": 13,
+          "url": "https://t.co/fhPg0r1eo8"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059986649421922550",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 12
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059768968760729651",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "following",
+    "text": "RT @tvtvnvb: https://t.co/fhPg0r1eo8"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2059986649421922550].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2059986649421922550",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2059986649421922550"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 338,
+        "media_key": "3_2059768878813818880",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJXE4dUaMAA9z0T.jpg",
+        "width": 540
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2059768878813818880"
+          ]
+        },
+        "author_id": "215259184",
+        "conversation_id": "2059768968760729651",
+        "created_at": "2026-05-27T22:49:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T23:49:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059768968760729651"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/fhPg0r1eo8",
+              "end": 23,
+              "expanded_url": "https://x.com/tvtvnvb/status/2059768968760729651/photo/1",
+              "media_key": "3_2059768878813818880",
+              "start": 0,
+              "url": "https://t.co/fhPg0r1eo8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059768968760729651",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 15,
+          "impression_count": 12000,
+          "like_count": 96,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 12
+        },
+        "reply_settings": "following",
+        "text": "https://t.co/fhPg0r1eo8"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-12T18:50:19.000Z",
+        "description": "随缘//医学爱好者/Arknights/绘画/混乱日常碎碎念无营养内容/可能会很吵？ /les/lgbt友好/中文/EN//喵喵//提问箱↓ ↓ ↓",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ppppppppp38481",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ppppppppp38481",
+                "start": 0,
+                "url": "https://t.co/dw8CaO6ajX"
+              }
+            ]
+          }
+        },
+        "id": "1569397683814629379",
+        "location": "世界的尽头",
+        "name": "腐烂培根卷",
+        "pinned_tweet_id": "2012485424057291255",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953366409284861953/HM3Aeou7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 247,
+          "following_count": 1597,
+          "like_count": 8906,
+          "listed_count": 1,
+          "media_count": 104,
+          "tweet_count": 6477
+        },
+        "url": "https://t.co/dw8CaO6ajX",
+        "username": "ppppggggjjjj",
+        "verified": false
+      },
+      {
+        "created_at": "2010-11-13T12:46:13.000Z",
+        "description": "",
+        "id": "215259184",
+        "name": "ゴア・ヴォールト",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059786645394862080/sn6YcU3D_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1298,
+          "following_count": 0,
+          "like_count": 25,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 7
+        },
+        "username": "tvtvnvb",
+        "verified": false
+      }
+    ]
+  }
+}

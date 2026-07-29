@@ -1,0 +1,504 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2032709069942018048"
+      ],
+      "media_source_tweet_id": [
+        "2032709074945712567"
+      ]
+    },
+    "author_id": "1569397683814629379",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Television shows from around the world",
+          "id": "3",
+          "name": "TV Shows"
+        },
+        "entity": {
+          "id": "10050108014",
+          "name": "賭ケグルイ (アニメ)"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+          "id": "130",
+          "name": "Multimedia Franchise"
+        },
+        "entity": {
+          "id": "1544464920384704512",
+          "name": "Kakegurui"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1074757527995277313",
+          "name": "Entertainment franchises"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1544464920384704512",
+          "name": "Kakegurui"
+        }
+      }
+    ],
+    "conversation_id": "2033181916485333346",
+    "created_at": "2026-03-15T14:01:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-15T15:01:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2033181916485333346"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 31,
+          "start": 25,
+          "tag": "賭ケグルイ"
+        },
+        {
+          "end": 42,
+          "start": 32,
+          "tag": "kakegurui"
+        },
+        {
+          "end": 48,
+          "start": 43,
+          "tag": "めあリリ"
+        },
+        {
+          "end": 57,
+          "start": 49,
+          "tag": "meariri"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 18,
+          "id": "955485089424662529",
+          "start": 3,
+          "username": "DANGANRONPAV31"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/EC9xAgOZDI",
+          "end": 81,
+          "expanded_url": "https://x.com/DANGANRONPAV31/status/2032709074945712567/photo/1",
+          "media_key": "3_2032709069942018048",
+          "start": 58,
+          "url": "https://t.co/EC9xAgOZDI"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2033181916485333346",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1902
+    },
+    "referenced_tweets": [
+      {
+        "id": "2032709074945712567",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @DANGANRONPAV31: 咬嘴礼🐺\n#賭ケグルイ #kakegurui #めあリリ #meariri https://t.co/EC9xAgOZDI"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2032709069942018048",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDWiIR2b0AAdMoX.jpg",
+        "width": 1193
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2032709069942018048"
+          ],
+          "media_source_tweet_id": [
+            "2032709074945712567"
+          ]
+        },
+        "author_id": "1569397683814629379",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Television shows from around the world",
+              "id": "3",
+              "name": "TV Shows"
+            },
+            "entity": {
+              "id": "10050108014",
+              "name": "賭ケグルイ (アニメ)"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "id": "1544464920384704512",
+              "name": "Kakegurui"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1074757527995277313",
+              "name": "Entertainment franchises"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1544464920384704512",
+              "name": "Kakegurui"
+            }
+          }
+        ],
+        "conversation_id": "2033181916485333346",
+        "created_at": "2026-03-15T14:01:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-15T15:01:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2033181916485333346"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 31,
+              "start": 25,
+              "tag": "賭ケグルイ"
+            },
+            {
+              "end": 42,
+              "start": 32,
+              "tag": "kakegurui"
+            },
+            {
+              "end": 48,
+              "start": 43,
+              "tag": "めあリリ"
+            },
+            {
+              "end": 57,
+              "start": 49,
+              "tag": "meariri"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 18,
+              "id": "955485089424662529",
+              "start": 3,
+              "username": "DANGANRONPAV31"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/EC9xAgOZDI",
+              "end": 81,
+              "expanded_url": "https://x.com/DANGANRONPAV31/status/2032709074945712567/photo/1",
+              "media_key": "3_2032709069942018048",
+              "start": 58,
+              "url": "https://t.co/EC9xAgOZDI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2033181916485333346",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1902
+        },
+        "referenced_tweets": [
+          {
+            "id": "2032709074945712567",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @DANGANRONPAV31: 咬嘴礼🐺\n#賭ケグルイ #kakegurui #めあリリ #meariri https://t.co/EC9xAgOZDI"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2032709069942018048"
+          ]
+        },
+        "author_id": "955485089424662529",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Television shows from around the world",
+              "id": "3",
+              "name": "TV Shows"
+            },
+            "entity": {
+              "id": "10050108014",
+              "name": "賭ケグルイ (アニメ)"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "id": "1544464920384704512",
+              "name": "Kakegurui"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1074757527995277313",
+              "name": "Entertainment franchises"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1544464920384704512",
+              "name": "Kakegurui"
+            }
+          }
+        ],
+        "conversation_id": "2032709074945712567",
+        "created_at": "2026-03-14T06:43:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-14T07:43:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2032709074945712567"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 11,
+              "start": 5,
+              "tag": "賭ケグルイ"
+            },
+            {
+              "end": 22,
+              "start": 12,
+              "tag": "kakegurui"
+            },
+            {
+              "end": 28,
+              "start": 23,
+              "tag": "めあリリ"
+            },
+            {
+              "end": 37,
+              "start": 29,
+              "tag": "meariri"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/EC9xAgOZDI",
+              "end": 61,
+              "expanded_url": "https://x.com/DANGANRONPAV31/status/2032709074945712567/photo/1",
+              "media_key": "3_2032709069942018048",
+              "start": 38,
+              "url": "https://t.co/EC9xAgOZDI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2032709074945712567",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3525,
+          "impression_count": 242968,
+          "like_count": 27298,
+          "quote_count": 29,
+          "reply_count": 21,
+          "retweet_count": 1902
+        },
+        "reply_settings": "everyone",
+        "text": "咬嘴礼🐺\n#賭ケグルイ #kakegurui #めあリリ #meariri https://t.co/EC9xAgOZDI"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-12T18:50:19.000Z",
+        "description": "随缘//医学爱好者/les🏳️‍🌈/lgbt友好/中文/EN/Arknights/绘画/混乱日常碎碎念/很吵//喵喵//提问箱↓ ↓ ↓",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ppppppppp38481",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ppppppppp38481",
+                "start": 0,
+                "url": "https://t.co/dw8CaO6ajX"
+              }
+            ]
+          }
+        },
+        "id": "1569397683814629379",
+        "location": "世界的尽头",
+        "name": "腐烂培根卷",
+        "pinned_tweet_id": "2012485424057291255",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953366409284861953/HM3Aeou7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 192,
+          "following_count": 1170,
+          "like_count": 5414,
+          "listed_count": 1,
+          "media_count": 97,
+          "tweet_count": 4724
+        },
+        "url": "https://t.co/dw8CaO6ajX",
+        "username": "ppppggggjjjj",
+        "verified": false
+      },
+      {
+        "created_at": "2018-01-22T16:59:32.000Z",
+        "description": "重度百合豚，杂食党。已婚人士，妻子比我会画画。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/82837136",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/82837136",
+                "start": 0,
+                "url": "https://t.co/wUcxlLlyQY"
+              }
+            ]
+          }
+        },
+        "id": "955485089424662529",
+        "location": "💛🔛🤍｜🔞",
+        "name": "旺财拯救宇宙",
+        "pinned_tweet_id": "1905946727804223770",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028102656120737792/Evd-SdhG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18614,
+          "following_count": 174,
+          "like_count": 17446,
+          "listed_count": 41,
+          "media_count": 202,
+          "tweet_count": 3589
+        },
+        "url": "https://t.co/wUcxlLlyQY",
+        "username": "DANGANRONPAV31",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,248 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2052624118022057984"
+      ],
+      "media_source_tweet_id": [
+        "2052711359117131819"
+      ]
+    },
+    "author_id": "1569397683814629379",
+    "conversation_id": "2053374093014294617",
+    "created_at": "2026-05-10T07:18:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-10T08:18:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2053374093014294617"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "231627081",
+          "start": 3,
+          "username": "aesttics"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/3oqdUH3T3X",
+          "end": 37,
+          "expanded_url": "https://x.com/aesttics/status/2052711359117131819/photo/1",
+          "media_key": "3_2052624118022057984",
+          "start": 14,
+          "url": "https://t.co/3oqdUH3T3X"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053374093014294617",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 4845
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052711359117131819",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @aesttics: https://t.co/3oqdUH3T3X"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 512,
+        "media_key": "3_2052624118022057984",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHxiwpQasAArr13.jpg",
+        "width": 605
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2052624118022057984"
+          ],
+          "media_source_tweet_id": [
+            "2052711359117131819"
+          ]
+        },
+        "author_id": "1569397683814629379",
+        "conversation_id": "2053374093014294617",
+        "created_at": "2026-05-10T07:18:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-10T08:18:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053374093014294617"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "231627081",
+              "start": 3,
+              "username": "aesttics"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/3oqdUH3T3X",
+              "end": 37,
+              "expanded_url": "https://x.com/aesttics/status/2052711359117131819/photo/1",
+              "media_key": "3_2052624118022057984",
+              "start": 14,
+              "url": "https://t.co/3oqdUH3T3X"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053374093014294617",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 4845
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052711359117131819",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @aesttics: https://t.co/3oqdUH3T3X"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2052624118022057984"
+          ]
+        },
+        "author_id": "231627081",
+        "conversation_id": "2052711359117131819",
+        "created_at": "2026-05-08T11:25:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-08T12:25:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2052711359117131819"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/3oqdUH3T3X",
+              "end": 23,
+              "expanded_url": "https://x.com/aesttics/status/2052711359117131819/photo/1",
+              "media_key": "3_2052624118022057984",
+              "start": 0,
+              "url": "https://t.co/3oqdUH3T3X"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052711359117131819",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 736,
+          "impression_count": 124155,
+          "like_count": 14107,
+          "quote_count": 20,
+          "reply_count": 20,
+          "retweet_count": 4845
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/3oqdUH3T3X"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-12T18:50:19.000Z",
+        "description": "随缘//医学爱好者/Arknights/绘画/混乱日常碎碎念无营养内容/可能会很吵？ /les/lgbt友好/中文/EN//喵喵//提问箱↓ ↓ ↓",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ppppppppp38481",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ppppppppp38481",
+                "start": 0,
+                "url": "https://t.co/dw8CaO6ajX"
+              }
+            ]
+          }
+        },
+        "id": "1569397683814629379",
+        "location": "世界的尽头",
+        "name": "腐烂培根卷",
+        "pinned_tweet_id": "2012485424057291255",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953366409284861953/HM3Aeou7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 233,
+          "following_count": 1421,
+          "like_count": 7788,
+          "listed_count": 1,
+          "media_count": 100,
+          "tweet_count": 5893
+        },
+        "url": "https://t.co/dw8CaO6ajX",
+        "username": "ppppggggjjjj",
+        "verified": false
+      },
+      {
+        "created_at": "2010-12-29T01:44:49.000Z",
+        "description": "",
+        "id": "231627081",
+        "name": "✧",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907053209153355776/zQk9beGl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 131750,
+          "following_count": 0,
+          "like_count": 12,
+          "listed_count": 328,
+          "media_count": 7725,
+          "tweet_count": 7807
+        },
+        "username": "aesttics",
+        "verified": true
+      }
+    ]
+  }
+}

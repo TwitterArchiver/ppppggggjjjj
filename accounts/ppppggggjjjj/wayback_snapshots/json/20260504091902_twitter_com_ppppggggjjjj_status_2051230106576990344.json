@@ -1,0 +1,224 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2051060101939683331"
+      ],
+      "media_source_tweet_id": [
+        "2051060105328623618"
+      ]
+    },
+    "author_id": "1569397683814629379",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2051230106576990344",
+    "created_at": "2026-05-04T09:19:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-04T10:19:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2051230106576990344"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1504268153425178626",
+          "start": 3,
+          "username": "NoteBo0ok"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/kls8l16xJm",
+          "end": 38,
+          "expanded_url": "https://x.com/NoteBo0ok/status/2051060105328623618/photo/1",
+          "media_key": "3_2051060101939683331",
+          "start": 15,
+          "url": "https://t.co/kls8l16xJm"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2051230106576990344",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 870
+    },
+    "referenced_tweets": [
+      {
+        "id": "2051060105328623618",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @NoteBo0ok: https://t.co/kls8l16xJm"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2051230106576990344].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2051230106576990344",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2051230106576990344"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 548,
+        "media_key": "3_2051060101939683331",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHbUS7UXYAM7D92.jpg",
+        "width": 491
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2051060101939683331"
+          ]
+        },
+        "author_id": "1504268153425178626",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2051060105328623618",
+        "created_at": "2026-05-03T22:03:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-03T23:03:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2051060105328623618"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/kls8l16xJm",
+              "end": 23,
+              "expanded_url": "https://x.com/NoteBo0ok/status/2051060105328623618/photo/1",
+              "media_key": "3_2051060101939683331",
+              "start": 0,
+              "url": "https://t.co/kls8l16xJm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051060105328623618",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 1429,
+          "impression_count": 95947,
+          "like_count": 10090,
+          "quote_count": 28,
+          "reply_count": 37,
+          "retweet_count": 870
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/kls8l16xJm"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-12T18:50:19.000Z",
+        "description": "随缘//医学爱好者/Arknights/绘画/混乱日常碎碎念无营养内容/可能会很吵？ /les/lgbt友好/中文/EN//喵喵//提问箱↓ ↓ ↓",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ppppppppp38481",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ppppppppp38481",
+                "start": 0,
+                "url": "https://t.co/dw8CaO6ajX"
+              }
+            ]
+          }
+        },
+        "id": "1569397683814629379",
+        "location": "世界的尽头",
+        "name": "腐烂培根卷",
+        "pinned_tweet_id": "2012485424057291255",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953366409284861953/HM3Aeou7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 223,
+          "following_count": 1388,
+          "like_count": 7329,
+          "listed_count": 1,
+          "media_count": 98,
+          "tweet_count": 5589
+        },
+        "url": "https://t.co/dw8CaO6ajX",
+        "username": "ppppggggjjjj",
+        "verified": false
+      },
+      {
+        "created_at": "2022-03-17T01:27:39.000Z",
+        "description": "♡︎ 🧸 Bulimia / TW: shedtwt,drugtwt,goretwt🧸 ♡ ︎ I’ll try following back !! 🤎",
+        "id": "1504268153425178626",
+        "location": "my wrist",
+        "name": "☆Nicole☆",
+        "pinned_tweet_id": "1684997467857727488",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1787947722172932096/BRAnUVeY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6133,
+          "following_count": 1827,
+          "like_count": 58781,
+          "listed_count": 10,
+          "media_count": 704,
+          "tweet_count": 2838
+        },
+        "username": "NoteBo0ok",
+        "verified": false
+      }
+    ]
+  }
+}

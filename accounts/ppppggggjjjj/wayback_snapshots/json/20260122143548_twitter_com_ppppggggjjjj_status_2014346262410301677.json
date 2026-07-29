@@ -1,0 +1,290 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2013978348792516608"
+      ],
+      "media_source_tweet_id": [
+        "2013978358686822742"
+      ]
+    },
+    "author_id": "1569397683814629379",
+    "conversation_id": "2014346262410301677",
+    "created_at": "2026-01-22T14:35:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-22T15:35:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2014346262410301677"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 19,
+          "normalized_text": "Specter",
+          "probability": 0.6248,
+          "start": 13,
+          "type": "Other"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 11,
+          "id": "4299824533",
+          "start": 3,
+          "username": "iz_nagi"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/NdpHstnWrC",
+          "end": 44,
+          "expanded_url": "https://x.com/iz_nagi/status/2013978358686822742/photo/1",
+          "media_key": "3_2013978348792516608",
+          "start": 21,
+          "url": "https://t.co/NdpHstnWrC"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2014346262410301677",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 202
+    },
+    "referenced_tweets": [
+      {
+        "id": "2013978358686822742",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @iz_nagi: Specter https://t.co/NdpHstnWrC"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2480,
+        "media_key": "3_2013978348792516608",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_MWo0EbEAAiJAW.jpg",
+        "width": 3508
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2013978348792516608"
+          ],
+          "media_source_tweet_id": [
+            "2013978358686822742"
+          ]
+        },
+        "author_id": "1569397683814629379",
+        "conversation_id": "2014346262410301677",
+        "created_at": "2026-01-22T14:35:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-22T15:35:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2014346262410301677"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 19,
+              "normalized_text": "Specter",
+              "probability": 0.6248,
+              "start": 13,
+              "type": "Other"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 11,
+              "id": "4299824533",
+              "start": 3,
+              "username": "iz_nagi"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/NdpHstnWrC",
+              "end": 44,
+              "expanded_url": "https://x.com/iz_nagi/status/2013978358686822742/photo/1",
+              "media_key": "3_2013978348792516608",
+              "start": 21,
+              "url": "https://t.co/NdpHstnWrC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2014346262410301677",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 202
+        },
+        "referenced_tweets": [
+          {
+            "id": "2013978358686822742",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @iz_nagi: Specter https://t.co/NdpHstnWrC"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2013978348792516608"
+          ]
+        },
+        "author_id": "4299824533",
+        "conversation_id": "2013978358686822742",
+        "created_at": "2026-01-21T14:13:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-21T15:13:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2013978358686822742"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 6,
+              "normalized_text": "Specter",
+              "probability": 0.605,
+              "start": 0,
+              "type": "Other"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/NdpHstnWrC",
+              "end": 31,
+              "expanded_url": "https://x.com/iz_nagi/status/2013978358686822742/photo/1",
+              "media_key": "3_2013978348792516608",
+              "start": 8,
+              "url": "https://t.co/NdpHstnWrC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2013978358686822742",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 157,
+          "impression_count": 15313,
+          "like_count": 1353,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 202
+        },
+        "reply_settings": "everyone",
+        "text": "Specter https://t.co/NdpHstnWrC"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-12T18:50:19.000Z",
+        "description": "随缘//医学爱好者/les🏳️‍🌈/lgbt友好/中文/EN/Arknights/绘画/混乱日常碎碎念/很吵//喵喵 【永远拥护培根卷番茄！】提问箱↓ ↓ ↓",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ppppppppp38481",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ppppppppp38481",
+                "start": 0,
+                "url": "https://t.co/dw8CaO5Cup"
+              }
+            ]
+          }
+        },
+        "id": "1569397683814629379",
+        "location": "世界的尽头",
+        "name": "腐烂培根卷",
+        "pinned_tweet_id": "2012485424057291255",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953366409284861953/HM3Aeou7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 185,
+          "following_count": 1068,
+          "like_count": 4438,
+          "listed_count": 1,
+          "media_count": 93,
+          "tweet_count": 4433
+        },
+        "url": "https://t.co/dw8CaO5Cup",
+        "username": "ppppggggjjjj",
+        "verified": false
+      },
+      {
+        "created_at": "2015-11-20T10:08:37.000Z",
+        "description": "なんでも描く。東方Project、Arknights、Limbus Company。ヰ世界情緒さん、OCも稀に。ホヨバースの犬",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/member.php?id=…",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/member.php?id=9133049",
+                "start": 0,
+                "url": "https://t.co/1kshozndsr"
+              }
+            ]
+          }
+        },
+        "id": "4299824533",
+        "name": "あいぜっと/なぎ",
+        "pinned_tweet_id": "2011367975245500608",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005293794791657472/Qq1Oo_-j_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9701,
+          "following_count": 399,
+          "like_count": 5603,
+          "listed_count": 80,
+          "media_count": 1544,
+          "tweet_count": 8316
+        },
+        "url": "https://t.co/1kshozndsr",
+        "username": "iz_nagi",
+        "verified": false
+      }
+    ]
+  }
+}

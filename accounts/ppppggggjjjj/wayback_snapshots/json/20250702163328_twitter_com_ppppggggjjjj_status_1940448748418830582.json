@@ -1,0 +1,249 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1940294192250462208"
+      ],
+      "media_source_tweet_id": [
+        "1940294201201369356"
+      ]
+    },
+    "author_id": "1569397683814629379",
+    "conversation_id": "1940448748418830582",
+    "created_at": "2025-07-02T16:33:28.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-02T17:33:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1940448748418830582"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "972976059229483008",
+          "start": 3,
+          "username": "DiDi_Oo_"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/IlsvZA3pgk",
+          "end": 37,
+          "expanded_url": "https://x.com/DiDi_Oo_/status/1940294201201369356/photo/1",
+          "media_key": "3_1940294192250462208",
+          "start": 14,
+          "url": "https://t.co/IlsvZA3pgk"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1940448748418830582",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 848
+    },
+    "referenced_tweets": [
+      {
+        "id": "1940294201201369356",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @DiDi_Oo_: https://t.co/IlsvZA3pgk"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1718,
+        "media_key": "3_1940294192250462208",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gu1PSajXoAAegUu.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1940294192250462208"
+          ],
+          "media_source_tweet_id": [
+            "1940294201201369356"
+          ]
+        },
+        "author_id": "1569397683814629379",
+        "conversation_id": "1940448748418830582",
+        "created_at": "2025-07-02T16:33:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-02T17:33:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1940448748418830582"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "972976059229483008",
+              "start": 3,
+              "username": "DiDi_Oo_"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/IlsvZA3pgk",
+              "end": 37,
+              "expanded_url": "https://x.com/DiDi_Oo_/status/1940294201201369356/photo/1",
+              "media_key": "3_1940294192250462208",
+              "start": 14,
+              "url": "https://t.co/IlsvZA3pgk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1940448748418830582",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 848
+        },
+        "referenced_tweets": [
+          {
+            "id": "1940294201201369356",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @DiDi_Oo_: https://t.co/IlsvZA3pgk"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1940294192250462208"
+          ]
+        },
+        "author_id": "972976059229483008",
+        "conversation_id": "1940294201201369356",
+        "created_at": "2025-07-02T06:19:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-02T07:19:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1940294201201369356"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/IlsvZA3pgk",
+              "end": 23,
+              "expanded_url": "https://x.com/DiDi_Oo_/status/1940294201201369356/photo/1",
+              "media_key": "3_1940294192250462208",
+              "start": 0,
+              "url": "https://t.co/IlsvZA3pgk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1940294201201369356",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1545,
+          "impression_count": 157808,
+          "like_count": 7764,
+          "quote_count": 27,
+          "reply_count": 2,
+          "retweet_count": 848
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/IlsvZA3pgk"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-12T18:50:19.000Z",
+        "description": "随缘//医学爱好者/les🏳️‍🌈/lgbt友好/中文/EN/Arknights/绘画/混乱日常碎碎念/很吵//喵喵",
+        "id": "1569397683814629379",
+        "name": "腐烂苹果酱",
+        "pinned_tweet_id": "1937498024907010498",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1620839959388393479/hsMKvVei_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 31,
+          "following_count": 268,
+          "like_count": 448,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 677
+        },
+        "username": "ppppggggjjjj",
+        "verified": false
+      },
+      {
+        "created_at": "2018-03-11T23:22:24.000Z",
+        "description": "contact✉️:dididi35353738@gmail.com",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "kre.pe/Lf8G",
+                "end": 23,
+                "expanded_url": "https://kre.pe/Lf8G",
+                "start": 0,
+                "url": "https://t.co/SVzncidrYW"
+              }
+            ]
+          }
+        },
+        "id": "972976059229483008",
+        "location": "인장 붕머님",
+        "name": "디디",
+        "pinned_tweet_id": "1940294201201369356",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1522149474243870720/pY9LKLmo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3595,
+          "following_count": 233,
+          "like_count": 1535,
+          "listed_count": 13,
+          "media_count": 125,
+          "tweet_count": 744
+        },
+        "url": "https://t.co/SVzncidrYW",
+        "username": "DiDi_Oo_",
+        "verified": false
+      }
+    ]
+  }
+}

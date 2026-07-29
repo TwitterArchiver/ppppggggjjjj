@@ -1,0 +1,249 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2051237601563328512"
+      ],
+      "media_source_tweet_id": [
+        "2051237605866631227"
+      ]
+    },
+    "author_id": "1569397683814629379",
+    "conversation_id": "2051500202947985703",
+    "created_at": "2026-05-05T03:12:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-05T04:12:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2051500202947985703"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2033235813123883008",
+          "start": 3,
+          "username": "x__Tears__x"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/wA9D9VzbgH",
+          "end": 40,
+          "expanded_url": "https://x.com/x__Tears__x/status/2051237605866631227/photo/1",
+          "media_key": "3_2051237601563328512",
+          "start": 17,
+          "url": "https://t.co/wA9D9VzbgH"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2051500202947985703",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 93
+    },
+    "referenced_tweets": [
+      {
+        "id": "2051237605866631227",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @x__Tears__x: https://t.co/wA9D9VzbgH"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 352,
+        "media_key": "3_2051237601563328512",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHd1uw8bQAAvO2M.jpg",
+        "width": 500
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2051237601563328512"
+          ],
+          "media_source_tweet_id": [
+            "2051237605866631227"
+          ]
+        },
+        "author_id": "1569397683814629379",
+        "conversation_id": "2051500202947985703",
+        "created_at": "2026-05-05T03:12:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-05T04:12:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2051500202947985703"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2033235813123883008",
+              "start": 3,
+              "username": "x__Tears__x"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/wA9D9VzbgH",
+              "end": 40,
+              "expanded_url": "https://x.com/x__Tears__x/status/2051237605866631227/photo/1",
+              "media_key": "3_2051237601563328512",
+              "start": 17,
+              "url": "https://t.co/wA9D9VzbgH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051500202947985703",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 93
+        },
+        "referenced_tweets": [
+          {
+            "id": "2051237605866631227",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @x__Tears__x: https://t.co/wA9D9VzbgH"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2051237601563328512"
+          ]
+        },
+        "author_id": "2033235813123883008",
+        "conversation_id": "2051237605866631227",
+        "created_at": "2026-05-04T09:48:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-04T10:48:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2051237605866631227"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/wA9D9VzbgH",
+              "end": 23,
+              "expanded_url": "https://x.com/x__Tears__x/status/2051237605866631227/photo/1",
+              "media_key": "3_2051237601563328512",
+              "start": 0,
+              "url": "https://t.co/wA9D9VzbgH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051237605866631227",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 7,
+          "impression_count": 4934,
+          "like_count": 202,
+          "quote_count": 10,
+          "reply_count": 0,
+          "retweet_count": 93
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/wA9D9VzbgH"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-12T18:50:19.000Z",
+        "description": "随缘//医学爱好者/Arknights/绘画/混乱日常碎碎念无营养内容/可能会很吵？ /les/lgbt友好/中文/EN//喵喵//提问箱↓ ↓ ↓",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ppppppppp38481",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ppppppppp38481",
+                "start": 0,
+                "url": "https://t.co/dw8CaO6ajX"
+              }
+            ]
+          }
+        },
+        "id": "1569397683814629379",
+        "location": "世界的尽头",
+        "name": "腐烂培根卷",
+        "pinned_tweet_id": "2012485424057291255",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953366409284861953/HM3Aeou7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 225,
+          "following_count": 1397,
+          "like_count": 7486,
+          "listed_count": 1,
+          "media_count": 99,
+          "tweet_count": 5672
+        },
+        "url": "https://t.co/dw8CaO6ajX",
+        "username": "ppppggggjjjj",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-15T17:36:46.000Z",
+        "description": "\"Tears are not Words that have not yet been written\"",
+        "id": "2033235813123883008",
+        "name": "Tears",
+        "pinned_tweet_id": "2051497660293828669",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033244968853417984/xEp4jxnA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8125,
+          "following_count": 160,
+          "like_count": 5807,
+          "listed_count": 2,
+          "media_count": 762,
+          "tweet_count": 6389
+        },
+        "username": "x__Tears__x",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,287 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_2046248572572647424"
+      ],
+      "media_source_tweet_id": [
+        "2046248642965590387"
+      ]
+    },
+    "author_id": "1569397683814629379",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2046952763909935518",
+    "created_at": "2026-04-22T14:02:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-22T15:02:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2046952763909935518"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 54,
+          "start": 47,
+          "tag": "988twt"
+        },
+        {
+          "end": 61,
+          "start": 55,
+          "tag": "shtwt"
+        },
+        {
+          "end": 70,
+          "start": 62,
+          "tag": "goretwt"
+        },
+        {
+          "end": 80,
+          "start": 71,
+          "tag": "selfharm"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2002963837100978176",
+          "start": 3,
+          "username": "Saiintita"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Vj1XEBj8Ca",
+          "end": 104,
+          "expanded_url": "https://x.com/Saiintita/status/2046248642965590387/video/1",
+          "media_key": "7_2046248572572647424",
+          "start": 81,
+          "url": "https://t.co/Vj1XEBj8Ca"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2046952763909935518",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 491
+    },
+    "referenced_tweets": [
+      {
+        "id": "2046248642965590387",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Saiintita: 💋\n\n⚠️💗Fake blood!! All make up\n\n#988twt #shtwt #goretwt #selfharm https://t.co/Vj1XEBj8Ca"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2046952763909935518].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2046952763909935518",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2046952763909935518"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 67240,
+        "height": 648,
+        "media_key": "7_2046248572572647424",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2046248572572647424/pu/img/-faUKxidZbmjYhU_.jpg",
+        "public_metrics": {
+          "view_count": 8575
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2046248572572647424/pu/vid/avc1/320x432/Lo6Bez2ZIgFmkhGv.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2046248572572647424/pu/vid/avc1/480x648/lf74SFFNOAHz__xB.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2046248572572647424/pu/pl/SBmxHoBb5mdsON_6.m3u8?tag=12"
+          }
+        ],
+        "width": 480
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2046248572572647424"
+          ]
+        },
+        "author_id": "2002963837100978176",
+        "conversation_id": "2046248642965590387",
+        "created_at": "2026-04-20T15:24:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-20T16:24:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2046248642965590387"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 39,
+              "start": 32,
+              "tag": "988twt"
+            },
+            {
+              "end": 46,
+              "start": 40,
+              "tag": "shtwt"
+            },
+            {
+              "end": 55,
+              "start": 47,
+              "tag": "goretwt"
+            },
+            {
+              "end": 65,
+              "start": 56,
+              "tag": "selfharm"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Vj1XEBj8Ca",
+              "end": 89,
+              "expanded_url": "https://x.com/Saiintita/status/2046248642965590387/video/1",
+              "media_key": "7_2046248572572647424",
+              "start": 66,
+              "url": "https://t.co/Vj1XEBj8Ca"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046248642965590387",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 526,
+          "impression_count": 20670,
+          "like_count": 2551,
+          "quote_count": 5,
+          "reply_count": 12,
+          "retweet_count": 491
+        },
+        "reply_settings": "everyone",
+        "text": "💋\n\n⚠️💗Fake blood!! All make up\n\n#988twt #shtwt #goretwt #selfharm https://t.co/Vj1XEBj8Ca"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-12T18:50:19.000Z",
+        "description": "随缘//医学爱好者/Arknights/绘画/混乱日常碎碎念无营养内容/可能会很吵？ /les/lgbt友好/中文/EN//喵喵//提问箱↓ ↓ ↓",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ppppppppp38481",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ppppppppp38481",
+                "start": 0,
+                "url": "https://t.co/dw8CaO6ajX"
+              }
+            ]
+          }
+        },
+        "id": "1569397683814629379",
+        "location": "世界的尽头",
+        "name": "腐烂培根卷",
+        "pinned_tweet_id": "2012485424057291255",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953366409284861953/HM3Aeou7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 212,
+          "following_count": 1314,
+          "like_count": 6867,
+          "listed_count": 1,
+          "media_count": 100,
+          "tweet_count": 5295
+        },
+        "url": "https://t.co/dw8CaO6ajX",
+        "username": "ppppggggjjjj",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-22T04:46:20.000Z",
+        "description": "todo lo contrario a una buena persona",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "subtwt.com",
+                "end": 23,
+                "expanded_url": "http://subtwt.com",
+                "start": 0,
+                "url": "https://t.co/ddkIPEFKXB"
+              }
+            ]
+          }
+        },
+        "id": "2002963837100978176",
+        "location": "I feel so sigma",
+        "name": "𝐒ainta",
+        "pinned_tweet_id": "2044833367527497995",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037689841912311808/C5KCPL1N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8138,
+          "following_count": 36,
+          "like_count": 1715,
+          "listed_count": 5,
+          "media_count": 32,
+          "tweet_count": 228
+        },
+        "url": "https://t.co/ddkIPEFKXB",
+        "username": "Saiintita",
+        "verified": false
+      }
+    ]
+  }
+}

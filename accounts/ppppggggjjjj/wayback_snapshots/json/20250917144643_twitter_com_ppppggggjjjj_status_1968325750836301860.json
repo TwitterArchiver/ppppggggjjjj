@@ -1,0 +1,259 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1968138672894816256"
+      ],
+      "media_source_tweet_id": [
+        "1968138682696892865"
+      ]
+    },
+    "author_id": "1569397683814629379",
+    "conversation_id": "1968325750836301860",
+    "created_at": "2025-09-17T14:46:43.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-17T15:46:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1968325750836301860"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1091942450984247296",
+          "start": 3,
+          "username": "eukkeon"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/eibjWH6gyV",
+          "end": 40,
+          "expanded_url": "https://x.com/eukkeon/status/1968138682696892865/photo/1",
+          "media_key": "3_1968138672894816256",
+          "start": 17,
+          "url": "https://t.co/eibjWH6gyV"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1968325750836301860",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 671
+    },
+    "referenced_tweets": [
+      {
+        "id": "1968138682696892865",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @eukkeon: cms https://t.co/eibjWH6gyV"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1968138672894816256",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G1A7sgKasAAA59D.jpg",
+        "width": 1671
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1968138672894816256"
+          ],
+          "media_source_tweet_id": [
+            "1968138682696892865"
+          ]
+        },
+        "author_id": "1569397683814629379",
+        "conversation_id": "1968325750836301860",
+        "created_at": "2025-09-17T14:46:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-17T15:46:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1968325750836301860"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1091942450984247296",
+              "start": 3,
+              "username": "eukkeon"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/eibjWH6gyV",
+              "end": 40,
+              "expanded_url": "https://x.com/eukkeon/status/1968138682696892865/photo/1",
+              "media_key": "3_1968138672894816256",
+              "start": 17,
+              "url": "https://t.co/eibjWH6gyV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1968325750836301860",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 671
+        },
+        "referenced_tweets": [
+          {
+            "id": "1968138682696892865",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @eukkeon: cms https://t.co/eibjWH6gyV"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1968138672894816256"
+          ]
+        },
+        "author_id": "1091942450984247296",
+        "conversation_id": "1968138682696892865",
+        "created_at": "2025-09-17T02:23:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-17T03:23:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1968138682696892865"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/eibjWH6gyV",
+              "end": 27,
+              "expanded_url": "https://x.com/eukkeon/status/1968138682696892865/photo/1",
+              "media_key": "3_1968138672894816256",
+              "start": 4,
+              "url": "https://t.co/eibjWH6gyV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1968138682696892865",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1390,
+          "impression_count": 119843,
+          "like_count": 7183,
+          "quote_count": 22,
+          "reply_count": 0,
+          "retweet_count": 671
+        },
+        "reply_settings": "everyone",
+        "text": "cms https://t.co/eibjWH6gyV"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-12T18:50:19.000Z",
+        "description": "随缘//医学爱好者/les🏳️‍🌈/lgbt友好/中文/EN/Arknights/绘画/混乱日常碎碎念/很吵//喵喵 【永远拥护培根卷番茄！】",
+        "id": "1569397683814629379",
+        "location": "世界的尽头",
+        "name": "腐烂培根卷",
+        "pinned_tweet_id": "1937498024907010498",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953366409284861953/HM3Aeou7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 109,
+          "following_count": 698,
+          "like_count": 2170,
+          "listed_count": 1,
+          "media_count": 60,
+          "tweet_count": 2796
+        },
+        "username": "ppppggggjjjj",
+        "verified": false
+      },
+      {
+        "created_at": "2019-02-03T06:12:22.000Z",
+        "description": "eukkeoncm@gmail.com /@ike_0910",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 30,
+                "start": 21,
+                "username": "ike_0910"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "eukkeoncm.carrd.co/#",
+                "end": 23,
+                "expanded_url": "https://eukkeoncm.carrd.co/#",
+                "start": 0,
+                "url": "https://t.co/qgXZpbVAB9"
+              }
+            ]
+          }
+        },
+        "id": "1091942450984247296",
+        "location": "구독도 합니다",
+        "name": "윾건 커미션",
+        "pinned_tweet_id": "1947890866015899875",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1788359101959098368/oJng_Th1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4574,
+          "following_count": 60,
+          "like_count": 3441,
+          "listed_count": 31,
+          "media_count": 64,
+          "tweet_count": 518
+        },
+        "url": "https://t.co/qgXZpbVAB9",
+        "username": "eukkeon",
+        "verified": false
+      }
+    ]
+  }
+}

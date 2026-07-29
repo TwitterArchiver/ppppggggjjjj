@@ -1,0 +1,248 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2057068891625660417"
+      ],
+      "media_source_tweet_id": [
+        "2057068930242588885"
+      ]
+    },
+    "author_id": "1569397683814629379",
+    "conversation_id": "2057091013005738259",
+    "created_at": "2026-05-20T13:28:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-20T14:28:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2057091013005738259"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "793697607033905152",
+          "start": 3,
+          "username": "uz30001"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/wjfrJOnnC4",
+          "end": 45,
+          "expanded_url": "https://x.com/uz30001/status/2057068930242588885/photo/1",
+          "media_key": "3_2057068891625660417",
+          "start": 22,
+          "url": "https://t.co/wjfrJOnnC4"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057091013005738259",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 139
+    },
+    "referenced_tweets": [
+      {
+        "id": "2057068930242588885",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @uz30001: 狼、草莓蛋糕时候 https://t.co/wjfrJOnnC4"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2057068891625660417",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIwtQhPaoAE5hPn.jpg",
+        "width": 1024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2057068891625660417"
+          ],
+          "media_source_tweet_id": [
+            "2057068930242588885"
+          ]
+        },
+        "author_id": "1569397683814629379",
+        "conversation_id": "2057091013005738259",
+        "created_at": "2026-05-20T13:28:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-20T14:28:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057091013005738259"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "793697607033905152",
+              "start": 3,
+              "username": "uz30001"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/wjfrJOnnC4",
+              "end": 45,
+              "expanded_url": "https://x.com/uz30001/status/2057068930242588885/photo/1",
+              "media_key": "3_2057068891625660417",
+              "start": 22,
+              "url": "https://t.co/wjfrJOnnC4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057091013005738259",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 139
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057068930242588885",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @uz30001: 狼、草莓蛋糕时候 https://t.co/wjfrJOnnC4"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2057068891625660417"
+          ]
+        },
+        "author_id": "793697607033905152",
+        "conversation_id": "2057068930242588885",
+        "created_at": "2026-05-20T12:00:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-20T13:00:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057068930242588885"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/wjfrJOnnC4",
+              "end": 32,
+              "expanded_url": "https://x.com/uz30001/status/2057068930242588885/photo/1",
+              "media_key": "3_2057068891625660417",
+              "start": 9,
+              "url": "https://t.co/wjfrJOnnC4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057068930242588885",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 99,
+          "impression_count": 5929,
+          "like_count": 850,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 139
+        },
+        "reply_settings": "everyone",
+        "text": "狼、草莓蛋糕时候 https://t.co/wjfrJOnnC4"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-12T18:50:19.000Z",
+        "description": "随缘//医学爱好者/Arknights/绘画/混乱日常碎碎念无营养内容/可能会很吵？ /les/lgbt友好/中文/EN//喵喵//提问箱↓ ↓ ↓",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ppppppppp38481",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ppppppppp38481",
+                "start": 0,
+                "url": "https://t.co/dw8CaO6ajX"
+              }
+            ]
+          }
+        },
+        "id": "1569397683814629379",
+        "location": "世界的尽头",
+        "name": "腐烂培根卷",
+        "pinned_tweet_id": "2012485424057291255",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953366409284861953/HM3Aeou7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 245,
+          "following_count": 1527,
+          "like_count": 8295,
+          "listed_count": 1,
+          "media_count": 100,
+          "tweet_count": 6192
+        },
+        "url": "https://t.co/dw8CaO6ajX",
+        "username": "ppppggggjjjj",
+        "verified": false
+      },
+      {
+        "created_at": "2016-11-02T06:13:50.000Z",
+        "description": "野生",
+        "id": "793697607033905152",
+        "name": "Kaleka",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1570060467854528513/tIt9dBtm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 64676,
+          "following_count": 340,
+          "like_count": 419,
+          "listed_count": 241,
+          "media_count": 764,
+          "tweet_count": 894
+        },
+        "username": "uz30001",
+        "verified": false
+      }
+    ]
+  }
+}

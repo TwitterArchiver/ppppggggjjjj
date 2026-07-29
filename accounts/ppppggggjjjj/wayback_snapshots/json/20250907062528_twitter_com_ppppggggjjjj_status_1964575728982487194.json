@@ -1,0 +1,595 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1964520242069327884"
+      ],
+      "media_source_tweet_id": [
+        "1964520252865462538"
+      ]
+    },
+    "author_id": "1569397683814629379",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A video game like Overwatch",
+          "id": "71",
+          "name": "Video Game"
+        },
+        "entity": {
+          "id": "1233113060732092416",
+          "name": "Arknights"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Gaming",
+          "id": "847527650667094017",
+          "name": "Gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1070028159964262400",
+          "name": "Video games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1233113060732092416",
+          "name": "Arknights"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1491897789013393420",
+          "name": "Strategy games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1491900085583577097",
+          "name": "Idol games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1491900373098921986",
+          "name": "Gacha games"
+        }
+      }
+    ],
+    "conversation_id": "1964575728982487194",
+    "created_at": "2025-09-07T06:25:28.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-07T07:25:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1964575728982487194"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 41,
+          "start": 31,
+          "tag": "AveMujica"
+        },
+        {
+          "end": 47,
+          "start": 42,
+          "tag": "明日方舟"
+        },
+        {
+          "end": 52,
+          "start": 48,
+          "tag": "若葉睦"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1787505627209859072",
+          "start": 3,
+          "username": "Phosphorus1104"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/mJUYMrhUVN",
+          "end": 76,
+          "expanded_url": "https://x.com/Phosphorus1104/status/1964520252865462538/photo/1",
+          "media_key": "3_1964520242069327884",
+          "start": 53,
+          "url": "https://t.co/mJUYMrhUVN"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1964575728982487194",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 128
+    },
+    "referenced_tweets": [
+      {
+        "id": "1964520252865462538",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Phosphorus1104: 睦宝你是塊薄荷蛋糕\n\n#AveMujica #明日方舟 #若葉睦 https://t.co/mJUYMrhUVN"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1314,
+        "media_key": "3_1964520242069327884",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G0NgwG6bUAw1c_h.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1964520242069327884"
+          ],
+          "media_source_tweet_id": [
+            "1964520252865462538"
+          ]
+        },
+        "author_id": "1569397683814629379",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1233113060732092416",
+              "name": "Arknights"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1233113060732092416",
+              "name": "Arknights"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491897789013393420",
+              "name": "Strategy games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491900085583577097",
+              "name": "Idol games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491900373098921986",
+              "name": "Gacha games"
+            }
+          }
+        ],
+        "conversation_id": "1964575728982487194",
+        "created_at": "2025-09-07T06:25:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-07T07:25:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1964575728982487194"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 41,
+              "start": 31,
+              "tag": "AveMujica"
+            },
+            {
+              "end": 47,
+              "start": 42,
+              "tag": "明日方舟"
+            },
+            {
+              "end": 52,
+              "start": 48,
+              "tag": "若葉睦"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1787505627209859072",
+              "start": 3,
+              "username": "Phosphorus1104"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/mJUYMrhUVN",
+              "end": 76,
+              "expanded_url": "https://x.com/Phosphorus1104/status/1964520252865462538/photo/1",
+              "media_key": "3_1964520242069327884",
+              "start": 53,
+              "url": "https://t.co/mJUYMrhUVN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1964575728982487194",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 128
+        },
+        "referenced_tweets": [
+          {
+            "id": "1964520252865462538",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Phosphorus1104: 睦宝你是塊薄荷蛋糕\n\n#AveMujica #明日方舟 #若葉睦 https://t.co/mJUYMrhUVN"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1964520242069327884"
+          ]
+        },
+        "author_id": "1787505627209859072",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1233113060732092416",
+              "name": "Arknights"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1233113060732092416",
+              "name": "Arknights"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491897789013393420",
+              "name": "Strategy games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491900085583577097",
+              "name": "Idol games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491900373098921986",
+              "name": "Gacha games"
+            }
+          }
+        ],
+        "conversation_id": "1964520252865462538",
+        "created_at": "2025-09-07T02:45:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-07T03:45:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1964520252865462538"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 21,
+              "start": 11,
+              "tag": "AveMujica"
+            },
+            {
+              "end": 27,
+              "start": 22,
+              "tag": "明日方舟"
+            },
+            {
+              "end": 32,
+              "start": 28,
+              "tag": "若葉睦"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/mJUYMrhUVN",
+              "end": 56,
+              "expanded_url": "https://x.com/Phosphorus1104/status/1964520252865462538/photo/1",
+              "media_key": "3_1964520242069327884",
+              "start": 33,
+              "url": "https://t.co/mJUYMrhUVN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1964520252865462538",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 85,
+          "impression_count": 11831,
+          "like_count": 734,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 128
+        },
+        "reply_settings": "everyone",
+        "text": "睦宝你是塊薄荷蛋糕\n\n#AveMujica #明日方舟 #若葉睦 https://t.co/mJUYMrhUVN"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-12T18:50:19.000Z",
+        "description": "随缘//医学爱好者/les🏳️‍🌈/lgbt友好/中文/EN/Arknights/绘画/混乱日常碎碎念/很吵//喵喵 【永远拥护培根卷番茄！】",
+        "id": "1569397683814629379",
+        "location": "世界的尽头",
+        "name": "腐烂培根卷",
+        "pinned_tweet_id": "1937498024907010498",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953366409284861953/HM3Aeou7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 103,
+          "following_count": 678,
+          "like_count": 1957,
+          "listed_count": 1,
+          "media_count": 59,
+          "tweet_count": 2482
+        },
+        "username": "ppppggggjjjj",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-06T15:32:16.000Z",
+        "description": "=磷 | ✍️VGEN：https://t.co/ELIj2NAujP | 📬COMMISSION：phosphorus1104@gmail.com | 🅿️PIXIV:霖晴Phosphorus | 🌐WEB：https://t.co/CkVStNyj6B",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "vgen.co/Phosphorus1104",
+                "end": 35,
+                "expanded_url": "https://vgen.co/Phosphorus1104",
+                "start": 12,
+                "url": "https://t.co/ELIj2NAujP"
+              },
+              {
+                "display_url": "phosphorus1104.carrd.co",
+                "end": 128,
+                "expanded_url": "http://phosphorus1104.carrd.co",
+                "start": 105,
+                "url": "https://t.co/CkVStNyj6B"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "phosphorus1104.carrd.co",
+                "end": 23,
+                "expanded_url": "http://phosphorus1104.carrd.co",
+                "start": 0,
+                "url": "https://t.co/CkVStNyj6B"
+              }
+            ]
+          }
+        },
+        "id": "1787505627209859072",
+        "location": "phosphorus1104.bsky.social",
+        "name": "霖晴🍎（cms close）",
+        "pinned_tweet_id": "1935528203738825039",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1787859324867637249/WBK-rotL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 27350,
+          "following_count": 723,
+          "like_count": 1932,
+          "listed_count": 170,
+          "media_count": 383,
+          "tweet_count": 1679
+        },
+        "url": "https://t.co/CkVStNyj6B",
+        "username": "Phosphorus1104",
+        "verified": false
+      }
+    ]
+  }
+}

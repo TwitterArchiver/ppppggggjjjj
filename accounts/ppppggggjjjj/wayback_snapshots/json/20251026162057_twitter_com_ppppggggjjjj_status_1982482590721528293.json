@@ -1,0 +1,235 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1982373416762998784"
+      ],
+      "media_source_tweet_id": [
+        "1982373447100707098"
+      ]
+    },
+    "author_id": "1569397683814629379",
+    "conversation_id": "1982482590721528293",
+    "created_at": "2025-10-26T16:20:57.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-26T17:20:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1982482590721528293"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "851297412970827776",
+          "start": 3,
+          "username": "ment502"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/WbRmykUFjY",
+          "end": 36,
+          "expanded_url": "https://x.com/ment502/status/1982373447100707098/photo/1",
+          "media_key": "3_1982373416762998784",
+          "start": 13,
+          "url": "https://t.co/WbRmykUFjY"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1982482590721528293",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1744
+    },
+    "referenced_tweets": [
+      {
+        "id": "1982373447100707098",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ment502: https://t.co/WbRmykUFjY"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3284,
+        "media_key": "3_1982373416762998784",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4LOHpZWAAADtP6.jpg",
+        "width": 1928
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1982373416762998784"
+          ],
+          "media_source_tweet_id": [
+            "1982373447100707098"
+          ]
+        },
+        "author_id": "1569397683814629379",
+        "conversation_id": "1982482590721528293",
+        "created_at": "2025-10-26T16:20:57.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-26T17:20:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1982482590721528293"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "851297412970827776",
+              "start": 3,
+              "username": "ment502"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/WbRmykUFjY",
+              "end": 36,
+              "expanded_url": "https://x.com/ment502/status/1982373447100707098/photo/1",
+              "media_key": "3_1982373416762998784",
+              "start": 13,
+              "url": "https://t.co/WbRmykUFjY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1982482590721528293",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1744
+        },
+        "referenced_tweets": [
+          {
+            "id": "1982373447100707098",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ment502: https://t.co/WbRmykUFjY"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1982373416762998784"
+          ]
+        },
+        "author_id": "851297412970827776",
+        "conversation_id": "1982373447100707098",
+        "created_at": "2025-10-26T09:07:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-26T10:07:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1982373447100707098"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/WbRmykUFjY",
+              "end": 23,
+              "expanded_url": "https://x.com/ment502/status/1982373447100707098/photo/1",
+              "media_key": "3_1982373416762998784",
+              "start": 0,
+              "url": "https://t.co/WbRmykUFjY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1982373447100707098",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 910,
+          "impression_count": 136197,
+          "like_count": 12476,
+          "quote_count": 22,
+          "reply_count": 2,
+          "retweet_count": 1744
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/WbRmykUFjY"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-12T18:50:19.000Z",
+        "description": "随缘//医学爱好者/les🏳️‍🌈/lgbt友好/中文/EN/Arknights/绘画/混乱日常碎碎念/很吵//喵喵 【永远拥护培根卷番茄！】",
+        "id": "1569397683814629379",
+        "location": "世界的尽头",
+        "name": "腐烂培根卷",
+        "pinned_tweet_id": "1937498024907010498",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953366409284861953/HM3Aeou7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 122,
+          "following_count": 740,
+          "like_count": 2327,
+          "listed_count": 1,
+          "media_count": 77,
+          "tweet_count": 3326
+        },
+        "username": "ppppggggjjjj",
+        "verified": false
+      },
+      {
+        "created_at": "2017-04-10T04:54:54.000Z",
+        "description": "摸鱼集散地。wb现在僵尸门徒 無断転載(AI学習含む)NG ◆ご連絡はこちらまで→1356574103＠qq.com◆在这里联系\n不给无料授权了太麻烦了，壁纸头像随意",
+        "id": "851297412970827776",
+        "location": "中国",
+        "name": "门徒",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1852692558901858304/MpgyJzaT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 184659,
+          "following_count": 1757,
+          "like_count": 2733,
+          "listed_count": 1052,
+          "media_count": 378,
+          "tweet_count": 851
+        },
+        "username": "ment502",
+        "verified": false
+      }
+    ]
+  }
+}

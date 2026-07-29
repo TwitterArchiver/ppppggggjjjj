@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1569397683814629379",
+    "conversation_id": "2001564770831683876",
+    "created_at": "2025-12-18T08:06:43.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-18T09:06:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2001564770831683876"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1247769753097101318",
+          "start": 3,
+          "username": "X09COTCC"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2001564770831683876",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 64
+    },
+    "referenced_tweets": [
+      {
+        "id": "2001230334260863342",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @X09COTCC: 我做事全靠死到临头和临时起意。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1569397683814629379",
+        "conversation_id": "2001564770831683876",
+        "created_at": "2025-12-18T08:06:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-18T09:06:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2001564770831683876"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1247769753097101318",
+              "start": 3,
+              "username": "X09COTCC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2001564770831683876",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 64
+        },
+        "referenced_tweets": [
+          {
+            "id": "2001230334260863342",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @X09COTCC: 我做事全靠死到临头和临时起意。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1247769753097101318",
+        "conversation_id": "2001230334260863342",
+        "created_at": "2025-12-17T09:57:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-17T10:57:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2001230334260863342"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2001230334260863342",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 10,
+          "impression_count": 21270,
+          "like_count": 428,
+          "quote_count": 2,
+          "reply_count": 19,
+          "retweet_count": 64
+        },
+        "reply_settings": "everyone",
+        "text": "我做事全靠死到临头和临时起意。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-12T18:50:19.000Z",
+        "description": "随缘//医学爱好者/les🏳️‍🌈/lgbt友好/中文/EN/Arknights/绘画/混乱日常碎碎念/很吵//喵喵 【永远拥护培根卷番茄！】",
+        "id": "1569397683814629379",
+        "location": "世界的尽头",
+        "name": "腐烂培根卷",
+        "pinned_tweet_id": "1993298688010322328",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953366409284861953/HM3Aeou7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 155,
+          "following_count": 979,
+          "like_count": 3712,
+          "listed_count": 1,
+          "media_count": 88,
+          "tweet_count": 4137
+        },
+        "username": "ppppggggjjjj",
+        "verified": false
+      },
+      {
+        "created_at": "2020-04-08T06:15:29.000Z",
+        "description": "roll me into the moonlight",
+        "id": "1247769753097101318",
+        "location": "Shinjuku-ku, Tokyo",
+        "name": "太阳瓜",
+        "pinned_tweet_id": "1992233381573357793",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1976459986567053312/fJpGKW31_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7700,
+          "following_count": 1767,
+          "like_count": 161995,
+          "listed_count": 18,
+          "media_count": 1305,
+          "tweet_count": 44798
+        },
+        "username": "X09COTCC",
+        "verified": false
+      }
+    ]
+  }
+}

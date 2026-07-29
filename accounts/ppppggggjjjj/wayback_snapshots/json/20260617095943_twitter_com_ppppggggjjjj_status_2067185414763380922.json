@@ -1,0 +1,283 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2066918015141302272"
+      ],
+      "media_source_tweet_id": [
+        "2066918035722789286"
+      ]
+    },
+    "author_id": "1569397683814629379",
+    "conversation_id": "2067185414763380922",
+    "created_at": "2026-06-17T09:59:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-17T10:59:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067185414763380922"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1758324617838788608",
+          "start": 3,
+          "username": "axzamyzed"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/VsXavoRStG",
+          "end": 38,
+          "expanded_url": "https://x.com/axzamyzed/status/2066918035722789286/photo/1",
+          "media_key": "3_2066918015141302272",
+          "start": 15,
+          "url": "https://t.co/VsXavoRStG"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067185414763380922",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 306
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066918035722789286",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @axzamyzed: https://t.co/VsXavoRStG"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1362,
+        "media_key": "3_2066918015141302272",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HK8q-9haUAAtboj.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2066918015141302272"
+          ],
+          "media_source_tweet_id": [
+            "2066918035722789286"
+          ]
+        },
+        "author_id": "1569397683814629379",
+        "conversation_id": "2067185414763380922",
+        "created_at": "2026-06-17T09:59:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-17T10:59:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067185414763380922"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1758324617838788608",
+              "start": 3,
+              "username": "axzamyzed"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/VsXavoRStG",
+              "end": 38,
+              "expanded_url": "https://x.com/axzamyzed/status/2066918035722789286/photo/1",
+              "media_key": "3_2066918015141302272",
+              "start": 15,
+              "url": "https://t.co/VsXavoRStG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067185414763380922",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 306
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066918035722789286",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @axzamyzed: https://t.co/VsXavoRStG"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2066918015141302272"
+          ]
+        },
+        "author_id": "1758324617838788608",
+        "conversation_id": "2066918035722789286",
+        "created_at": "2026-06-16T16:17:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-16T17:17:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2066918035722789286"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/VsXavoRStG",
+              "end": 23,
+              "expanded_url": "https://x.com/axzamyzed/status/2066918035722789286/photo/1",
+              "media_key": "3_2066918015141302272",
+              "start": 0,
+              "url": "https://t.co/VsXavoRStG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066918035722789286",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 225,
+          "impression_count": 81418,
+          "like_count": 6417,
+          "quote_count": 7,
+          "reply_count": 40,
+          "retweet_count": 306
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/VsXavoRStG"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-12T18:50:19.000Z",
+        "description": "随缘//医学爱好者/Arknights/绘画/混乱日常碎碎念无营养内容/可能会很吵？ /les/lgbt友好/中文/EN//喵喵//提问箱↓ ↓ ↓",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ppppppppp38481",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ppppppppp38481",
+                "start": 0,
+                "url": "https://t.co/dw8CaO6ajX"
+              }
+            ]
+          }
+        },
+        "id": "1569397683814629379",
+        "location": "世界的尽头",
+        "name": "腐烂培根卷",
+        "pinned_tweet_id": "2012485424057291255",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953366409284861953/HM3Aeou7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 241,
+          "following_count": 1615,
+          "like_count": 9854,
+          "listed_count": 1,
+          "media_count": 104,
+          "tweet_count": 7063
+        },
+        "url": "https://t.co/dw8CaO6ajX",
+        "username": "ppppggggjjjj",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-16T02:57:29.000Z",
+        "description": "mtx｜叫我翅膀就好｜私信互关｜本体 @axzameyzed ｜内容真假自辨｜好姐姐 @Kiss_light233 @tingxinzhongyu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 30,
+                "start": 19,
+                "username": "axzameyzed"
+              },
+              {
+                "end": 57,
+                "start": 43,
+                "username": "Kiss_light233"
+              },
+              {
+                "end": 73,
+                "start": 58,
+                "username": "tingxinzhongyu"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "hrt.transmtf.com",
+                "end": 23,
+                "expanded_url": "http://hrt.transmtf.com",
+                "start": 0,
+                "url": "https://t.co/8nPnyxNVu6"
+              }
+            ]
+          }
+        },
+        "id": "1758324617838788608",
+        "location": "猫猫的火星基地",
+        "name": "翅翅膀喵",
+        "pinned_tweet_id": "2066918035722789286",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035544600602120192/wfz0e3mo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3760,
+          "following_count": 946,
+          "like_count": 12996,
+          "listed_count": 10,
+          "media_count": 2620,
+          "tweet_count": 7996
+        },
+        "url": "https://t.co/8nPnyxNVu6",
+        "username": "axzamyzed",
+        "verified": true
+      }
+    ]
+  }
+}

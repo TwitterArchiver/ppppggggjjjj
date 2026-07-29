@@ -1,0 +1,250 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1992289786451673088"
+      ],
+      "media_source_tweet_id": [
+        "1992289798531506633"
+      ]
+    },
+    "author_id": "1569397683814629379",
+    "conversation_id": "1992646105759428736",
+    "created_at": "2025-11-23T17:27:07.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-23T18:27:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1992646105759428736"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1562910548630867969",
+          "start": 3,
+          "username": "lovesickdoe"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/GRSbL9S3Rw",
+          "end": 40,
+          "expanded_url": "https://x.com/lovesickdoe/status/1992289798531506633/photo/1",
+          "media_key": "3_1992289786451673088",
+          "start": 17,
+          "url": "https://t.co/GRSbL9S3Rw"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1992646105759428736",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 619
+    },
+    "referenced_tweets": [
+      {
+        "id": "1992289798531506633",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @lovesickdoe: https://t.co/GRSbL9S3Rw"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 398,
+        "media_key": "3_1992289786451673088",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6YJAVMXQAAYB42.png",
+        "width": 640
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1992289786451673088"
+          ],
+          "media_source_tweet_id": [
+            "1992289798531506633"
+          ]
+        },
+        "author_id": "1569397683814629379",
+        "conversation_id": "1992646105759428736",
+        "created_at": "2025-11-23T17:27:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-23T18:27:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1992646105759428736"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1562910548630867969",
+              "start": 3,
+              "username": "lovesickdoe"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/GRSbL9S3Rw",
+              "end": 40,
+              "expanded_url": "https://x.com/lovesickdoe/status/1992289798531506633/photo/1",
+              "media_key": "3_1992289786451673088",
+              "start": 17,
+              "url": "https://t.co/GRSbL9S3Rw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1992646105759428736",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 619
+        },
+        "referenced_tweets": [
+          {
+            "id": "1992289798531506633",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @lovesickdoe: https://t.co/GRSbL9S3Rw"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1992289786451673088"
+          ]
+        },
+        "author_id": "1562910548630867969",
+        "conversation_id": "1992289798531506633",
+        "created_at": "2025-11-22T17:51:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-22T18:51:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1992289798531506633"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/GRSbL9S3Rw",
+              "end": 23,
+              "expanded_url": "https://x.com/lovesickdoe/status/1992289798531506633/photo/1",
+              "media_key": "3_1992289786451673088",
+              "start": 0,
+              "url": "https://t.co/GRSbL9S3Rw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1992289798531506633",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 231,
+          "impression_count": 33142,
+          "like_count": 2608,
+          "quote_count": 21,
+          "reply_count": 4,
+          "retweet_count": 619
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/GRSbL9S3Rw"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-12T18:50:19.000Z",
+        "description": "随缘//医学爱好者/les🏳️‍🌈/lgbt友好/中文/EN/Arknights/绘画/混乱日常碎碎念/很吵//喵喵 【永远拥护培根卷番茄！】",
+        "id": "1569397683814629379",
+        "location": "世界的尽头",
+        "name": "腐烂培根卷",
+        "pinned_tweet_id": "1937498024907010498",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953366409284861953/HM3Aeou7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 142,
+          "following_count": 822,
+          "like_count": 2973,
+          "listed_count": 1,
+          "media_count": 82,
+          "tweet_count": 3807
+        },
+        "username": "ppppggggjjjj",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-25T21:12:23.000Z",
+        "description": "love everything pretty & cute • 💌 for promo",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "lovesickdoe.carrd.co",
+                "end": 23,
+                "expanded_url": "https://lovesickdoe.carrd.co/",
+                "start": 0,
+                "url": "https://t.co/VsrfaGjItr"
+              }
+            ]
+          }
+        },
+        "id": "1562910548630867969",
+        "location": "more info .ᐟ.ᐟ",
+        "name": "(•˕ •マ.ᐟ ☃️",
+        "pinned_tweet_id": "1992294716126470356",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1992558778277842944/bmQQfx0h_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 174050,
+          "following_count": 188,
+          "like_count": 79209,
+          "listed_count": 707,
+          "media_count": 19665,
+          "tweet_count": 54491
+        },
+        "url": "https://t.co/VsrfaGjItr",
+        "username": "lovesickdoe",
+        "verified": true
+      }
+    ]
+  }
+}

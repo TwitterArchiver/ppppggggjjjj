@@ -1,0 +1,265 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2067039845541990400"
+      ],
+      "media_source_tweet_id": [
+        "2067040050303607135"
+      ]
+    },
+    "author_id": "1569397683814629379",
+    "conversation_id": "2067185512566170101",
+    "created_at": "2026-06-17T10:00:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-17T11:00:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067185512566170101"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2063266311254552576",
+          "start": 3,
+          "username": "17nuun"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/3YcTrE7aVm",
+          "end": 41,
+          "expanded_url": "https://x.com/17nuun/status/2067040050303607135/photo/1",
+          "media_key": "3_2067039845541990400",
+          "start": 18,
+          "url": "https://t.co/3YcTrE7aVm"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067185512566170101",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 12
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067040050303607135",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @17nuun: 药圈定律: https://t.co/3YcTrE7aVm"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 908,
+        "media_key": "3_2067039845541990400",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HK-ZybIb0AA_CdP.jpg",
+        "width": 864
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2067039845541990400"
+          ],
+          "media_source_tweet_id": [
+            "2067040050303607135"
+          ]
+        },
+        "author_id": "1569397683814629379",
+        "conversation_id": "2067185512566170101",
+        "created_at": "2026-06-17T10:00:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-17T11:00:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067185512566170101"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2063266311254552576",
+              "start": 3,
+              "username": "17nuun"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/3YcTrE7aVm",
+              "end": 41,
+              "expanded_url": "https://x.com/17nuun/status/2067040050303607135/photo/1",
+              "media_key": "3_2067039845541990400",
+              "start": 18,
+              "url": "https://t.co/3YcTrE7aVm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067185512566170101",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 12
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067040050303607135",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @17nuun: 药圈定律: https://t.co/3YcTrE7aVm"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2067039845541990400"
+          ]
+        },
+        "author_id": "2063266311254552576",
+        "conversation_id": "2067040050303607135",
+        "created_at": "2026-06-17T00:22:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-17T01:22:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067040050303607135"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/3YcTrE7aVm",
+              "end": 29,
+              "expanded_url": "https://x.com/17nuun/status/2067040050303607135/photo/1",
+              "media_key": "3_2067039845541990400",
+              "start": 6,
+              "url": "https://t.co/3YcTrE7aVm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067040050303607135",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6,
+          "impression_count": 2836,
+          "like_count": 115,
+          "quote_count": 0,
+          "reply_count": 12,
+          "retweet_count": 12
+        },
+        "reply_settings": "everyone",
+        "text": "药圈定律: https://t.co/3YcTrE7aVm"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-12T18:50:19.000Z",
+        "description": "随缘//医学爱好者/Arknights/绘画/混乱日常碎碎念无营养内容/可能会很吵？ /les/lgbt友好/中文/EN//喵喵//提问箱↓ ↓ ↓",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ppppppppp38481",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ppppppppp38481",
+                "start": 0,
+                "url": "https://t.co/dw8CaO6ajX"
+              }
+            ]
+          }
+        },
+        "id": "1569397683814629379",
+        "location": "世界的尽头",
+        "name": "腐烂培根卷",
+        "pinned_tweet_id": "2012485424057291255",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953366409284861953/HM3Aeou7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 241,
+          "following_count": 1615,
+          "like_count": 9854,
+          "listed_count": 1,
+          "media_count": 104,
+          "tweet_count": 7064
+        },
+        "url": "https://t.co/dw8CaO6ajX",
+        "username": "ppppggggjjjj",
+        "verified": false
+      },
+      {
+        "created_at": "2026-06-06T14:27:34.000Z",
+        "description": "免费但失败的心理委员，欢迎聊天当树洞|sub|mtf|06|心境情感障碍|infp|💊|想要倾诉或者聊天可以找我说话|聊天请私信|最爱的小孩@dnshu135734|小号是@haiyueshuimuxia",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 82,
+                "start": 70,
+                "username": "dnshu135734"
+              },
+              {
+                "end": 102,
+                "start": 86,
+                "username": "haiyueshuimuxia"
+              }
+            ]
+          }
+        },
+        "id": "2063266311254552576",
+        "name": "海月水母",
+        "pinned_tweet_id": "2066760857493901415",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063269297489944576/ibIHQ0Jl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 592,
+          "following_count": 405,
+          "like_count": 303,
+          "listed_count": 3,
+          "media_count": 17,
+          "tweet_count": 623
+        },
+        "username": "17nuun",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,458 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2055870825769861120"
+      ],
+      "media_source_tweet_id": [
+        "2055870881034027133"
+      ]
+    },
+    "author_id": "1569397683814629379",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+          "id": "130",
+          "name": "Multimedia Franchise"
+        },
+        "entity": {
+          "id": "1236052936121151488",
+          "name": "Chainsaw Man"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1074757527995277313",
+          "name": "Entertainment franchises"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1236052936121151488",
+          "name": "Chainsaw Man"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1297951101136732160",
+          "name": "Animation & comics"
+        }
+      }
+    ],
+    "conversation_id": "2056301501363220913",
+    "created_at": "2026-05-18T09:10:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-18T10:10:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2056301501363220913"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "862326702898200576",
+          "start": 3,
+          "username": "minnano_dougaww"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/bMyarnvi9N",
+          "end": 66,
+          "expanded_url": "https://x.com/minnano_dougaww/status/2055870881034027133/video/1",
+          "media_key": "13_2055870825769861120",
+          "start": 43,
+          "url": "https://t.co/bMyarnvi9N"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056301501363220913",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 4655
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055870881034027133",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @minnano_dougaww: デンジを待つレゼみたいな雰囲気が良い... https://t.co/bMyarnvi9N"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 11469,
+        "height": 1280,
+        "media_key": "13_2055870825769861120",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2055870825769861120/img/XJt76nSgRYQQHOJT.jpg",
+        "public_metrics": {
+          "view_count": 569600
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2055870825769861120/vid/avc1/320x568/-9hPbok8s2YYI_5n.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2055870825769861120/vid/avc1/480x852/iY_HOMrzRd-uVAcC.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2055870825769861120/vid/avc1/720x1280/b49PPdYSvHs2kr2O.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2055870825769861120/pl/aP16PeBbGipNbAMm.m3u8?v=cfc"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2055870825769861120"
+          ],
+          "media_source_tweet_id": [
+            "2055870881034027133"
+          ]
+        },
+        "author_id": "1569397683814629379",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "id": "1236052936121151488",
+              "name": "Chainsaw Man"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1074757527995277313",
+              "name": "Entertainment franchises"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1236052936121151488",
+              "name": "Chainsaw Man"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1297951101136732160",
+              "name": "Animation & comics"
+            }
+          }
+        ],
+        "conversation_id": "2056301501363220913",
+        "created_at": "2026-05-18T09:10:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-18T10:10:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056301501363220913"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "862326702898200576",
+              "start": 3,
+              "username": "minnano_dougaww"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/bMyarnvi9N",
+              "end": 66,
+              "expanded_url": "https://x.com/minnano_dougaww/status/2055870881034027133/video/1",
+              "media_key": "13_2055870825769861120",
+              "start": 43,
+              "url": "https://t.co/bMyarnvi9N"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056301501363220913",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 4655
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055870881034027133",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @minnano_dougaww: デンジを待つレゼみたいな雰囲気が良い... https://t.co/bMyarnvi9N"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2055870825769861120"
+          ]
+        },
+        "author_id": "862326702898200576",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "id": "1236052936121151488",
+              "name": "Chainsaw Man"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1074757527995277313",
+              "name": "Entertainment franchises"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1236052936121151488",
+              "name": "Chainsaw Man"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1297951101136732160",
+              "name": "Animation & comics"
+            }
+          }
+        ],
+        "conversation_id": "2055870881034027133",
+        "created_at": "2026-05-17T04:39:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-17T05:39:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2055870881034027133"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/bMyarnvi9N",
+              "end": 45,
+              "expanded_url": "https://x.com/minnano_dougaww/status/2055870881034027133/video/1",
+              "media_key": "13_2055870825769861120",
+              "start": 22,
+              "url": "https://t.co/bMyarnvi9N"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055870881034027133",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6083,
+          "impression_count": 1337300,
+          "like_count": 73827,
+          "quote_count": 67,
+          "reply_count": 226,
+          "retweet_count": 4655
+        },
+        "reply_settings": "everyone",
+        "text": "デンジを待つレゼみたいな雰囲気が良い... https://t.co/bMyarnvi9N"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-12T18:50:19.000Z",
+        "description": "随缘//医学爱好者/Arknights/绘画/混乱日常碎碎念无营养内容/可能会很吵？ /les/lgbt友好/中文/EN//喵喵//提问箱↓ ↓ ↓",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ppppppppp38481",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ppppppppp38481",
+                "start": 0,
+                "url": "https://t.co/dw8CaO6ajX"
+              }
+            ]
+          }
+        },
+        "id": "1569397683814629379",
+        "location": "世界的尽头",
+        "name": "腐烂培根卷",
+        "pinned_tweet_id": "2012485424057291255",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953366409284861953/HM3Aeou7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 231,
+          "following_count": 1492,
+          "like_count": 8076,
+          "listed_count": 1,
+          "media_count": 100,
+          "tweet_count": 6082
+        },
+        "url": "https://t.co/dw8CaO6ajX",
+        "username": "ppppggggjjjj",
+        "verified": false
+      },
+      {
+        "created_at": "2017-05-10T15:21:22.000Z",
+        "description": "ここでは載せられない大人のやつ→ @alane281806",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 29,
+                "start": 17,
+                "username": "alane281806"
+              }
+            ]
+          }
+        },
+        "id": "862326702898200576",
+        "name": "衝撃bot",
+        "pinned_tweet_id": "1972227738733068646",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2010588976768528386/olro9CEQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 401779,
+          "following_count": 3748,
+          "like_count": 4265,
+          "listed_count": 982,
+          "media_count": 7733,
+          "tweet_count": 18405
+        },
+        "username": "minnano_dougaww",
+        "verified": true
+      }
+    ]
+  }
+}

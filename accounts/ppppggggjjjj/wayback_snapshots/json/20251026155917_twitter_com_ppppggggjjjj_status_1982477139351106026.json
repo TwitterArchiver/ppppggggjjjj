@@ -1,0 +1,247 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1981935571585974272"
+      ],
+      "media_source_tweet_id": [
+        "1981935602645053506"
+      ]
+    },
+    "author_id": "1569397683814629379",
+    "conversation_id": "1982477139351106026",
+    "created_at": "2025-10-26T15:59:17.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-26T16:59:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1982477139351106026"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1673394046503616512",
+          "start": 3,
+          "username": "brohungryasfuck"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/FY79qdyjzq",
+          "end": 44,
+          "expanded_url": "https://x.com/brohungryasfuck/status/1981935602645053506/photo/1",
+          "media_key": "3_1981935571585974272",
+          "start": 21,
+          "url": "https://t.co/FY79qdyjzq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1982477139351106026",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 37
+    },
+    "referenced_tweets": [
+      {
+        "id": "1981935602645053506",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @brohungryasfuck: https://t.co/FY79qdyjzq"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2364,
+        "media_key": "3_1981935571585974272",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4E_5tAXwAA6ZFV.jpg",
+        "width": 1773
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1981935571585974272"
+          ],
+          "media_source_tweet_id": [
+            "1981935602645053506"
+          ]
+        },
+        "author_id": "1569397683814629379",
+        "conversation_id": "1982477139351106026",
+        "created_at": "2025-10-26T15:59:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-26T16:59:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1982477139351106026"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1673394046503616512",
+              "start": 3,
+              "username": "brohungryasfuck"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/FY79qdyjzq",
+              "end": 44,
+              "expanded_url": "https://x.com/brohungryasfuck/status/1981935602645053506/photo/1",
+              "media_key": "3_1981935571585974272",
+              "start": 21,
+              "url": "https://t.co/FY79qdyjzq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1982477139351106026",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 37
+        },
+        "referenced_tweets": [
+          {
+            "id": "1981935602645053506",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @brohungryasfuck: https://t.co/FY79qdyjzq"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1981935571585974272"
+          ]
+        },
+        "author_id": "1673394046503616512",
+        "conversation_id": "1981935602645053506",
+        "created_at": "2025-10-25T04:07:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-25T05:07:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1981935602645053506"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/FY79qdyjzq",
+              "end": 23,
+              "expanded_url": "https://x.com/brohungryasfuck/status/1981935602645053506/photo/1",
+              "media_key": "3_1981935571585974272",
+              "start": 0,
+              "url": "https://t.co/FY79qdyjzq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1981935602645053506",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 51,
+          "impression_count": 74171,
+          "like_count": 1314,
+          "quote_count": 1,
+          "reply_count": 18,
+          "retweet_count": 37
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/FY79qdyjzq"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-12T18:50:19.000Z",
+        "description": "随缘//医学爱好者/les🏳️‍🌈/lgbt友好/中文/EN/Arknights/绘画/混乱日常碎碎念/很吵//喵喵 【永远拥护培根卷番茄！】",
+        "id": "1569397683814629379",
+        "location": "世界的尽头",
+        "name": "腐烂培根卷",
+        "pinned_tweet_id": "1937498024907010498",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953366409284861953/HM3Aeou7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 122,
+          "following_count": 740,
+          "like_count": 2327,
+          "listed_count": 1,
+          "media_count": 77,
+          "tweet_count": 3324
+        },
+        "username": "ppppggggjjjj",
+        "verified": false
+      },
+      {
+        "created_at": "2023-06-26T18:13:35.000Z",
+        "description": "本体：@weirdfisheeees 仅互关 🚪52",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 3,
+                "username": "weirdfisheeees"
+              }
+            ]
+          }
+        },
+        "id": "1673394046503616512",
+        "location": "Here, there and everywhere ",
+        "name": "奇怪鱼鱼",
+        "pinned_tweet_id": "1974528041432019080",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1782746425539072000/Q0v8ZNB1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 20029,
+          "following_count": 777,
+          "like_count": 23959,
+          "listed_count": 61,
+          "media_count": 784,
+          "tweet_count": 3545
+        },
+        "username": "brohungryasfuck",
+        "verified": false
+      }
+    ]
+  }
+}

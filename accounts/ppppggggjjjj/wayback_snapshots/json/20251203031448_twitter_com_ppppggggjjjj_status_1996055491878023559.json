@@ -1,0 +1,313 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1995825119953125377"
+      ],
+      "media_source_tweet_id": [
+        "1995825409230057761"
+      ]
+    },
+    "author_id": "1569397683814629379",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1339381554087223297",
+          "name": "Character design"
+        }
+      }
+    ],
+    "conversation_id": "1996055491878023559",
+    "created_at": "2025-12-03T03:14:48.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-03T04:14:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1996055491878023559"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1447836491690872835",
+          "start": 3,
+          "username": "motiizamurai"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/6rtKiqZ2HF",
+          "end": 60,
+          "expanded_url": "https://x.com/motiizamurai/status/1995825409230057761/photo/1",
+          "media_key": "3_1995825119953125377",
+          "start": 37,
+          "url": "https://t.co/6rtKiqZ2HF"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1996055491878023559",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 264
+    },
+    "referenced_tweets": [
+      {
+        "id": "1995825409230057761",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @motiizamurai: うちのこ\nみんなキャラデザお気に入り https://t.co/6rtKiqZ2HF"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4000,
+        "media_key": "3_1995825119953125377",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7KYX0ybgAEjj9p.jpg",
+        "width": 3000
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1995825119953125377"
+          ],
+          "media_source_tweet_id": [
+            "1995825409230057761"
+          ]
+        },
+        "author_id": "1569397683814629379",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1339381554087223297",
+              "name": "Character design"
+            }
+          }
+        ],
+        "conversation_id": "1996055491878023559",
+        "created_at": "2025-12-03T03:14:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-03T04:14:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1996055491878023559"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1447836491690872835",
+              "start": 3,
+              "username": "motiizamurai"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/6rtKiqZ2HF",
+              "end": 60,
+              "expanded_url": "https://x.com/motiizamurai/status/1995825409230057761/photo/1",
+              "media_key": "3_1995825119953125377",
+              "start": 37,
+              "url": "https://t.co/6rtKiqZ2HF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1996055491878023559",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 264
+        },
+        "referenced_tweets": [
+          {
+            "id": "1995825409230057761",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @motiizamurai: うちのこ\nみんなキャラデザお気に入り https://t.co/6rtKiqZ2HF"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1995825119953125377"
+          ]
+        },
+        "author_id": "1447836491690872835",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1339381554087223297",
+              "name": "Character design"
+            }
+          }
+        ],
+        "conversation_id": "1995825409230057761",
+        "created_at": "2025-12-02T12:00:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-02T13:00:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1995825409230057761"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/6rtKiqZ2HF",
+              "end": 42,
+              "expanded_url": "https://x.com/motiizamurai/status/1995825409230057761/photo/1",
+              "media_key": "3_1995825119953125377",
+              "start": 19,
+              "url": "https://t.co/6rtKiqZ2HF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1995825409230057761",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 317,
+          "impression_count": 34545,
+          "like_count": 3289,
+          "quote_count": 3,
+          "reply_count": 6,
+          "retweet_count": 264
+        },
+        "reply_settings": "everyone",
+        "text": "うちのこ\nみんなキャラデザお気に入り https://t.co/6rtKiqZ2HF"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-12T18:50:19.000Z",
+        "description": "随缘//医学爱好者/les🏳️‍🌈/lgbt友好/中文/EN/Arknights/绘画/混乱日常碎碎念/很吵//喵喵 【永远拥护培根卷番茄！】",
+        "id": "1569397683814629379",
+        "location": "世界的尽头",
+        "name": "腐烂培根卷",
+        "pinned_tweet_id": "1993298688010322328",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953366409284861953/HM3Aeou7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 147,
+          "following_count": 877,
+          "like_count": 3186,
+          "listed_count": 1,
+          "media_count": 86,
+          "tweet_count": 3890
+        },
+        "username": "ppppggggjjjj",
+        "verified": false
+      },
+      {
+        "created_at": "2021-10-12T08:10:36.000Z",
+        "description": "たまに絵を描く FAタグ→#amenoart /ご依頼はskeb→ https://t.co/TpFsyPrAf7 かDMで/心音ドク公式→@doc_kokone 無断転載・AI学習を含む使用全て禁止",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 22,
+                "start": 13,
+                "tag": "amenoart"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 81,
+                "start": 70,
+                "username": "doc_kokone"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "skeb.jp/@motiizamurai",
+                "end": 57,
+                "expanded_url": "http://skeb.jp/@motiizamurai",
+                "start": 34,
+                "url": "https://t.co/TpFsyPrAf7"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "marshmallow-qa.com/motiizamurai",
+                "end": 23,
+                "expanded_url": "https://marshmallow-qa.com/motiizamurai",
+                "start": 0,
+                "url": "https://t.co/7MsB64VbjG"
+              }
+            ]
+          }
+        },
+        "id": "1447836491690872835",
+        "name": "飴乃",
+        "pinned_tweet_id": "1989638900814623167",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995839453307568129/1v4SMzID_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 28410,
+          "following_count": 96,
+          "like_count": 5858,
+          "listed_count": 230,
+          "media_count": 222,
+          "tweet_count": 3149
+        },
+        "url": "https://t.co/7MsB64VbjG",
+        "username": "motiizamurai",
+        "verified": false
+      }
+    ]
+  }
+}

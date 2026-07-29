@@ -1,0 +1,250 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2037731754342076417"
+      ],
+      "media_source_tweet_id": [
+        "2037731759471620354"
+      ]
+    },
+    "author_id": "1569397683814629379",
+    "conversation_id": "2038496066426024163",
+    "created_at": "2026-03-30T05:58:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-30T06:58:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2038496066426024163"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1539428948844724226",
+          "start": 3,
+          "username": "boneswasted"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/uNngjUsMVB",
+          "end": 83,
+          "expanded_url": "https://x.com/boneswasted/status/2037731759471620354/photo/1",
+          "media_key": "3_2037731754342076417",
+          "start": 60,
+          "url": "https://t.co/uNngjUsMVB"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2038496066426024163",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3708
+    },
+    "referenced_tweets": [
+      {
+        "id": "2037731759471620354",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @boneswasted: something about this is quite triggering.. https://t.co/uNngjUsMVB"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1557,
+        "media_key": "3_2037731754342076417",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEd6O_UX0AEcMm-.jpg",
+        "width": 1170
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2037731754342076417"
+          ],
+          "media_source_tweet_id": [
+            "2037731759471620354"
+          ]
+        },
+        "author_id": "1569397683814629379",
+        "conversation_id": "2038496066426024163",
+        "created_at": "2026-03-30T05:58:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-30T06:58:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2038496066426024163"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1539428948844724226",
+              "start": 3,
+              "username": "boneswasted"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/uNngjUsMVB",
+              "end": 83,
+              "expanded_url": "https://x.com/boneswasted/status/2037731759471620354/photo/1",
+              "media_key": "3_2037731754342076417",
+              "start": 60,
+              "url": "https://t.co/uNngjUsMVB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038496066426024163",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3708
+        },
+        "referenced_tweets": [
+          {
+            "id": "2037731759471620354",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @boneswasted: something about this is quite triggering.. https://t.co/uNngjUsMVB"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2037731754342076417"
+          ]
+        },
+        "author_id": "1539428948844724226",
+        "conversation_id": "2037731759471620354",
+        "created_at": "2026-03-28T03:21:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-28T04:21:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2037731759471620354"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/uNngjUsMVB",
+              "end": 66,
+              "expanded_url": "https://x.com/boneswasted/status/2037731759471620354/photo/1",
+              "media_key": "3_2037731754342076417",
+              "start": 43,
+              "url": "https://t.co/uNngjUsMVB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037731759471620354",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5149,
+          "impression_count": 2539199,
+          "like_count": 32340,
+          "quote_count": 785,
+          "reply_count": 72,
+          "retweet_count": 3708
+        },
+        "reply_settings": "everyone",
+        "text": "something about this is quite triggering.. https://t.co/uNngjUsMVB"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-12T18:50:19.000Z",
+        "description": "随缘//医学爱好者/les🏳️‍🌈/lgbt友好/中文/EN/Arknights/绘画/混乱日常碎碎念/很吵//喵喵//提问箱↓ ↓ ↓",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ppppppppp38481",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ppppppppp38481",
+                "start": 0,
+                "url": "https://t.co/dw8CaO6ajX"
+              }
+            ]
+          }
+        },
+        "id": "1569397683814629379",
+        "location": "世界的尽头",
+        "name": "腐烂培根卷",
+        "pinned_tweet_id": "2012485424057291255",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953366409284861953/HM3Aeou7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 188,
+          "following_count": 1198,
+          "like_count": 5728,
+          "listed_count": 1,
+          "media_count": 98,
+          "tweet_count": 4832
+        },
+        "url": "https://t.co/dw8CaO6ajX",
+        "username": "ppppggggjjjj",
+        "verified": false
+      },
+      {
+        "created_at": "2022-06-22T02:04:12.000Z",
+        "description": "DNI non-edtwt.\nbecoming me again ♡",
+        "id": "1539428948844724226",
+        "location": "♡ 20, she/her ౨ৎ",
+        "name": "promise 🪽",
+        "pinned_tweet_id": "2036867053987004771",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033388165952638976/doJ3ksBY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2626,
+          "following_count": 690,
+          "like_count": 22040,
+          "listed_count": 4,
+          "media_count": 1169,
+          "tweet_count": 8168
+        },
+        "username": "boneswasted",
+        "verified": false
+      }
+    ]
+  }
+}

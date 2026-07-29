@@ -1,0 +1,236 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1968651014128680962"
+      ],
+      "media_source_tweet_id": [
+        "1968651018192699476"
+      ]
+    },
+    "author_id": "1569397683814629379",
+    "conversation_id": "1968860624760259058",
+    "created_at": "2025-09-19T02:12:07.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-19T03:12:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1968860624760259058"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1818531062764781570",
+          "start": 3,
+          "username": "W1Sd8396453"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/N2z3WHOPap",
+          "end": 40,
+          "expanded_url": "https://x.com/W1Sd8396453/status/1968651018192699476/photo/1",
+          "media_key": "3_1968651014128680962",
+          "start": 17,
+          "url": "https://t.co/N2z3WHOPap"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1968860624760259058",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 492
+    },
+    "referenced_tweets": [
+      {
+        "id": "1968651018192699476",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @W1Sd8396453: https://t.co/N2z3WHOPap"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1420,
+        "media_key": "3_1968651014128680962",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G1INqr_aQAIQ68n.jpg",
+        "width": 1900
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1968651014128680962"
+          ],
+          "media_source_tweet_id": [
+            "1968651018192699476"
+          ]
+        },
+        "author_id": "1569397683814629379",
+        "conversation_id": "1968860624760259058",
+        "created_at": "2025-09-19T02:12:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-19T03:12:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1968860624760259058"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1818531062764781570",
+              "start": 3,
+              "username": "W1Sd8396453"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/N2z3WHOPap",
+              "end": 40,
+              "expanded_url": "https://x.com/W1Sd8396453/status/1968651018192699476/photo/1",
+              "media_key": "3_1968651014128680962",
+              "start": 17,
+              "url": "https://t.co/N2z3WHOPap"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1968860624760259058",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 492
+        },
+        "referenced_tweets": [
+          {
+            "id": "1968651018192699476",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @W1Sd8396453: https://t.co/N2z3WHOPap"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1968651014128680962"
+          ]
+        },
+        "author_id": "1818531062764781570",
+        "conversation_id": "1968651018192699476",
+        "created_at": "2025-09-18T12:19:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-18T13:19:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1968651018192699476"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/N2z3WHOPap",
+              "end": 23,
+              "expanded_url": "https://x.com/W1Sd8396453/status/1968651018192699476/photo/1",
+              "media_key": "3_1968651014128680962",
+              "start": 0,
+              "url": "https://t.co/N2z3WHOPap"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1968651018192699476",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 198,
+          "impression_count": 26804,
+          "like_count": 2301,
+          "quote_count": 2,
+          "reply_count": 0,
+          "retweet_count": 492
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/N2z3WHOPap"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-12T18:50:19.000Z",
+        "description": "随缘//医学爱好者/les🏳️‍🌈/lgbt友好/中文/EN/Arknights/绘画/混乱日常碎碎念/很吵//喵喵 【永远拥护培根卷番茄！】",
+        "id": "1569397683814629379",
+        "location": "世界的尽头",
+        "name": "腐烂培根卷",
+        "pinned_tweet_id": "1937498024907010498",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953366409284861953/HM3Aeou7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 109,
+          "following_count": 698,
+          "like_count": 2177,
+          "listed_count": 1,
+          "media_count": 61,
+          "tweet_count": 2819
+        },
+        "username": "ppppggggjjjj",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-31T06:16:19.000Z",
+        "description": "",
+        "id": "1818531062764781570",
+        "location": "🔕",
+        "name": "nuku",
+        "pinned_tweet_id": "1922158356589887825",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1965710610319962112/nKmPUfhd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2042,
+          "following_count": 61,
+          "like_count": 2133,
+          "listed_count": 11,
+          "media_count": 38,
+          "tweet_count": 636
+        },
+        "username": "W1Sd8396453",
+        "verified": false
+      }
+    ]
+  }
+}

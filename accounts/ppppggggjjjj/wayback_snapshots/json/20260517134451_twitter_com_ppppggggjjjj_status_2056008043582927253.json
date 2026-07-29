@@ -1,0 +1,282 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2055369082896297984"
+      ],
+      "media_source_tweet_id": [
+        "2055619283263099320"
+      ]
+    },
+    "author_id": "1569397683814629379",
+    "conversation_id": "2056008043582927253",
+    "created_at": "2026-05-17T13:44:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-17T14:44:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2056008043582927253"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "3143045040",
+          "start": 3,
+          "username": "L0WR15E"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/6WiCyPvAWi",
+          "end": 36,
+          "expanded_url": "https://x.com/L0WR15E/status/2055619283263099320/photo/1",
+          "media_key": "3_2055369082896297984",
+          "start": 13,
+          "url": "https://t.co/6WiCyPvAWi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056008043582927253",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 609
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055619283263099320",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @L0WR15E: https://t.co/6WiCyPvAWi"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1875,
+        "media_key": "3_2055369082896297984",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIYjSoRasAAgkLB.jpg",
+        "width": 2500
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2055369082896297984"
+          ],
+          "media_source_tweet_id": [
+            "2055619283263099320"
+          ]
+        },
+        "author_id": "1569397683814629379",
+        "conversation_id": "2056008043582927253",
+        "created_at": "2026-05-17T13:44:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-17T14:44:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056008043582927253"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "3143045040",
+              "start": 3,
+              "username": "L0WR15E"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/6WiCyPvAWi",
+              "end": 36,
+              "expanded_url": "https://x.com/L0WR15E/status/2055619283263099320/photo/1",
+              "media_key": "3_2055369082896297984",
+              "start": 13,
+              "url": "https://t.co/6WiCyPvAWi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056008043582927253",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 609
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055619283263099320",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @L0WR15E: https://t.co/6WiCyPvAWi"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2055369082896297984"
+          ]
+        },
+        "author_id": "3143045040",
+        "conversation_id": "2055619283263099320",
+        "created_at": "2026-05-16T12:00:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-16T13:00:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2055619283263099320"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/6WiCyPvAWi",
+              "end": 23,
+              "expanded_url": "https://x.com/L0WR15E/status/2055619283263099320/photo/1",
+              "media_key": "3_2055369082896297984",
+              "start": 0,
+              "url": "https://t.co/6WiCyPvAWi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055619283263099320",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 846,
+          "impression_count": 86708,
+          "like_count": 8605,
+          "quote_count": 1,
+          "reply_count": 5,
+          "retweet_count": 609
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/6WiCyPvAWi"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-12T18:50:19.000Z",
+        "description": "随缘//医学爱好者/Arknights/绘画/混乱日常碎碎念无营养内容/可能会很吵？ /les/lgbt友好/中文/EN//喵喵//提问箱↓ ↓ ↓",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ppppppppp38481",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ppppppppp38481",
+                "start": 0,
+                "url": "https://t.co/dw8CaO6ajX"
+              }
+            ]
+          }
+        },
+        "id": "1569397683814629379",
+        "location": "世界的尽头",
+        "name": "腐烂培根卷",
+        "pinned_tweet_id": "2012485424057291255",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953366409284861953/HM3Aeou7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 229,
+          "following_count": 1478,
+          "like_count": 8007,
+          "listed_count": 1,
+          "media_count": 100,
+          "tweet_count": 6044
+        },
+        "url": "https://t.co/dw8CaO6ajX",
+        "username": "ppppggggjjjj",
+        "verified": false
+      },
+      {
+        "created_at": "2015-04-07T08:20:48.000Z",
+        "description": "フリーランスイラストレーター\nご連絡(新規2026年7月～)▷l0wr15egm@gmail.com\nCommission▷https://t.co/rBUUTHfAqA\nポートフォリオ▷https://t.co/rH3MqKWYa1",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "skeb.jp/@L0WR15E",
+                "end": 85,
+                "expanded_url": "https://skeb.jp/@L0WR15E",
+                "start": 62,
+                "url": "https://t.co/rBUUTHfAqA"
+              },
+              {
+                "display_url": "fori.io/L0WR15E",
+                "end": 117,
+                "expanded_url": "https://fori.io/L0WR15E",
+                "start": 94,
+                "url": "https://t.co/rH3MqKWYa1"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "fori.io/L0WR15E",
+                "end": 23,
+                "expanded_url": "https://fori.io/L0WR15E",
+                "start": 0,
+                "url": "https://t.co/rH3MqKWYa1"
+              }
+            ]
+          }
+        },
+        "id": "3143045040",
+        "location": "l0wr15egm@gmail.com",
+        "name": "LOWRISE",
+        "pinned_tweet_id": "2009907743260623277",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1659933864008220673/hCrwciaX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 116242,
+          "following_count": 224,
+          "like_count": 349,
+          "listed_count": 1201,
+          "media_count": 372,
+          "tweet_count": 2469
+        },
+        "url": "https://t.co/rH3MqKWYa1",
+        "username": "L0WR15E",
+        "verified": true
+      }
+    ]
+  }
+}

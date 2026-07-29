@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_2006472725867413504"
+      ],
+      "media_source_tweet_id": [
+        "2006472746566570354"
+      ]
+    },
+    "author_id": "1569397683814629379",
+    "conversation_id": "2007007106306847203",
+    "created_at": "2026-01-02T08:32:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-02T09:32:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2007007106306847203"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1705607590653120512",
+          "start": 3,
+          "username": "ioftenignoreit"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/zICj6Djh7W",
+          "end": 43,
+          "expanded_url": "https://x.com/ioftenignoreit/status/2006472746566570354/video/1",
+          "media_key": "7_2006472725867413504",
+          "start": 20,
+          "url": "https://t.co/zICj6Djh7W"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2007007106306847203",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 10978
+    },
+    "referenced_tweets": [
+      {
+        "id": "2006472746566570354",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ioftenignoreit: https://t.co/zICj6Djh7W"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2007007106306847203].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2007007106306847203",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2007007106306847203"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 9171,
+        "height": 608,
+        "media_key": "7_2006472725867413504",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2006472725867413504/pu/img/_6Mq8yvWnFc8gS6H.jpg",
+        "public_metrics": {
+          "view_count": 183514
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2006472725867413504/pu/vid/avc1/478x270/w3KBephpYraQw1T2.mp4?tag=12"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2006472725867413504/pu/vid/avc1/638x360/7mZeQsByofTczTC-.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2006472725867413504/pu/vid/avc1/1080x608/rx3v9O9L88Lu6q3e.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2006472725867413504/pu/pl/lULP2m65cDgVqOyM.m3u8?tag=12"
+          }
+        ],
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2006472725867413504"
+          ]
+        },
+        "author_id": "1705607590653120512",
+        "conversation_id": "2006472746566570354",
+        "created_at": "2025-12-31T21:09:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-31T22:09:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2006472746566570354"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/zICj6Djh7W",
+              "end": 23,
+              "expanded_url": "https://x.com/ioftenignoreit/status/2006472746566570354/video/1",
+              "media_key": "7_2006472725867413504",
+              "start": 0,
+              "url": "https://t.co/zICj6Djh7W"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2006472746566570354",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6748,
+          "impression_count": 6634018,
+          "like_count": 83156,
+          "quote_count": 874,
+          "reply_count": 248,
+          "retweet_count": 10978
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/zICj6Djh7W"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-12T18:50:19.000Z",
+        "description": "随缘//医学爱好者/les🏳️‍🌈/lgbt友好/中文/EN/Arknights/绘画/混乱日常碎碎念/很吵//喵喵 【永远拥护培根卷番茄！】",
+        "id": "1569397683814629379",
+        "location": "世界的尽头",
+        "name": "腐烂培根卷",
+        "pinned_tweet_id": "1993298688010322328",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953366409284861953/HM3Aeou7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 174,
+          "following_count": 1017,
+          "like_count": 3965,
+          "listed_count": 1,
+          "media_count": 91,
+          "tweet_count": 4238
+        },
+        "username": "ppppggggjjjj",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-23T15:38:43.000Z",
+        "description": "أسرع واحد/ة ي/ترد 👫🏻",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "onvo.me/Ioftenignoreit",
+                "end": 23,
+                "expanded_url": "https://onvo.me/Ioftenignoreit",
+                "start": 0,
+                "url": "https://t.co/4rOuwE1SCF"
+              }
+            ]
+          }
+        },
+        "id": "1705607590653120512",
+        "name": "عغعغع",
+        "pinned_tweet_id": "1705610735101817104",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1965507698683723776/JUSG4mqM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 20115,
+          "following_count": 395,
+          "like_count": 20648,
+          "listed_count": 11,
+          "media_count": 1592,
+          "tweet_count": 34762
+        },
+        "url": "https://t.co/4rOuwE1SCF",
+        "username": "ioftenignoreit",
+        "verified": false
+      }
+    ]
+  }
+}

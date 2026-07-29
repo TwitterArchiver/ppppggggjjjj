@@ -1,0 +1,249 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2050111148020887553"
+      ],
+      "media_source_tweet_id": [
+        "2050111153288986897"
+      ]
+    },
+    "author_id": "1569397683814629379",
+    "conversation_id": "2050287915553747308",
+    "created_at": "2026-05-01T18:55:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-01T19:55:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2050287915553747308"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2027587740062388225",
+          "start": 3,
+          "username": "ppigsol"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/IQHfZaEhWb",
+          "end": 39,
+          "expanded_url": "https://x.com/ppigsol/status/2050111153288986897/photo/1",
+          "media_key": "3_2050111148020887553",
+          "start": 16,
+          "url": "https://t.co/IQHfZaEhWb"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2050287915553747308",
+    "lang": "ko",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 23
+    },
+    "referenced_tweets": [
+      {
+        "id": "2050111153288986897",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ppigsol: 드랍 https://t.co/IQHfZaEhWb"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1423,
+        "media_key": "3_2050111148020887553",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHN1OifacAEDKsW.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2050111148020887553"
+          ],
+          "media_source_tweet_id": [
+            "2050111153288986897"
+          ]
+        },
+        "author_id": "1569397683814629379",
+        "conversation_id": "2050287915553747308",
+        "created_at": "2026-05-01T18:55:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-01T19:55:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2050287915553747308"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2027587740062388225",
+              "start": 3,
+              "username": "ppigsol"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/IQHfZaEhWb",
+              "end": 39,
+              "expanded_url": "https://x.com/ppigsol/status/2050111153288986897/photo/1",
+              "media_key": "3_2050111148020887553",
+              "start": 16,
+              "url": "https://t.co/IQHfZaEhWb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050287915553747308",
+        "lang": "ko",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 23
+        },
+        "referenced_tweets": [
+          {
+            "id": "2050111153288986897",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ppigsol: 드랍 https://t.co/IQHfZaEhWb"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2050111148020887553"
+          ]
+        },
+        "author_id": "2027587740062388225",
+        "conversation_id": "2050111153288986897",
+        "created_at": "2026-05-01T07:12:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-01T08:12:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2050111153288986897"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/IQHfZaEhWb",
+              "end": 26,
+              "expanded_url": "https://x.com/ppigsol/status/2050111153288986897/photo/1",
+              "media_key": "3_2050111148020887553",
+              "start": 3,
+              "url": "https://t.co/IQHfZaEhWb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050111153288986897",
+        "lang": "ko",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 12,
+          "impression_count": 1720,
+          "like_count": 167,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 23
+        },
+        "reply_settings": "everyone",
+        "text": "드랍 https://t.co/IQHfZaEhWb"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-12T18:50:19.000Z",
+        "description": "随缘//医学爱好者/Arknights/绘画/混乱日常碎碎念无营养内容/可能会很吵？ /les/lgbt友好/中文/EN//喵喵//提问箱↓ ↓ ↓",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ppppppppp38481",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ppppppppp38481",
+                "start": 0,
+                "url": "https://t.co/dw8CaO6ajX"
+              }
+            ]
+          }
+        },
+        "id": "1569397683814629379",
+        "location": "世界的尽头",
+        "name": "腐烂培根卷",
+        "pinned_tweet_id": "2012485424057291255",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953366409284861953/HM3Aeou7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 218,
+          "following_count": 1334,
+          "like_count": 7126,
+          "listed_count": 1,
+          "media_count": 98,
+          "tweet_count": 5452
+        },
+        "url": "https://t.co/dw8CaO6ajX",
+        "username": "ppppggggjjjj",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-28T03:33:15.000Z",
+        "description": "좌락도 락이다",
+        "id": "2027587740062388225",
+        "name": "소리",
+        "pinned_tweet_id": "2036407314870329537",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2029605902538657796/cQ8Px1Ka_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 108,
+          "following_count": 89,
+          "like_count": 490,
+          "listed_count": 1,
+          "media_count": 31,
+          "tweet_count": 246
+        },
+        "username": "ppigsol",
+        "verified": false
+      }
+    ]
+  }
+}

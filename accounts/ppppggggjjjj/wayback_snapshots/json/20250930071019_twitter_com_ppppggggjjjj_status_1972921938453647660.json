@@ -1,0 +1,267 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1972642429951193088"
+      ],
+      "media_source_tweet_id": [
+        "1972642958915871032"
+      ]
+    },
+    "author_id": "1569397683814629379",
+    "conversation_id": "1972921938453647660",
+    "created_at": "2025-09-30T07:10:19.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-30T08:10:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1972921938453647660"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "3682574239",
+          "start": 3,
+          "username": "senaoThankyou"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/7mYU27FXFa",
+          "end": 42,
+          "expanded_url": "https://x.com/senaoThankyou/status/1972642958915871032/photo/1",
+          "media_key": "3_1972642429951193088",
+          "start": 19,
+          "url": "https://t.co/7mYU27FXFa"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1972921938453647660",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 357
+    },
+    "referenced_tweets": [
+      {
+        "id": "1972642958915871032",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "mentionedUsers",
+    "text": "RT @senaoThankyou: https://t.co/7mYU27FXFa"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1415,
+        "media_key": "3_1972642429951193088",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G2A71qoasAAn2Qh.jpg",
+        "width": 1569
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1972642429951193088"
+          ],
+          "media_source_tweet_id": [
+            "1972642958915871032"
+          ]
+        },
+        "author_id": "1569397683814629379",
+        "conversation_id": "1972921938453647660",
+        "created_at": "2025-09-30T07:10:19.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-30T08:10:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1972921938453647660"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "3682574239",
+              "start": 3,
+              "username": "senaoThankyou"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/7mYU27FXFa",
+              "end": 42,
+              "expanded_url": "https://x.com/senaoThankyou/status/1972642958915871032/photo/1",
+              "media_key": "3_1972642429951193088",
+              "start": 19,
+              "url": "https://t.co/7mYU27FXFa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1972921938453647660",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 357
+        },
+        "referenced_tweets": [
+          {
+            "id": "1972642958915871032",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "mentionedUsers",
+        "text": "RT @senaoThankyou: https://t.co/7mYU27FXFa"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1972642429951193088"
+          ]
+        },
+        "author_id": "3682574239",
+        "conversation_id": "1972642958915871032",
+        "created_at": "2025-09-29T12:41:45.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-29T13:41:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1972642958915871032"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/7mYU27FXFa",
+              "end": 23,
+              "expanded_url": "https://x.com/senaoThankyou/status/1972642958915871032/photo/1",
+              "media_key": "3_1972642429951193088",
+              "start": 0,
+              "url": "https://t.co/7mYU27FXFa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1972642958915871032",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 806,
+          "impression_count": 67073,
+          "like_count": 4910,
+          "quote_count": 15,
+          "reply_count": 0,
+          "retweet_count": 357
+        },
+        "reply_settings": "mentionedUsers",
+        "text": "https://t.co/7mYU27FXFa"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-12T18:50:19.000Z",
+        "description": "随缘//医学爱好者/les🏳️‍🌈/lgbt友好/中文/EN/Arknights/绘画/混乱日常碎碎念/很吵//喵喵 【永远拥护培根卷番茄！】",
+        "id": "1569397683814629379",
+        "location": "世界的尽头",
+        "name": "腐烂培根卷",
+        "pinned_tweet_id": "1937498024907010498",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953366409284861953/HM3Aeou7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 113,
+          "following_count": 705,
+          "like_count": 2233,
+          "listed_count": 1,
+          "media_count": 67,
+          "tweet_count": 3025
+        },
+        "username": "ppppggggjjjj",
+        "verified": false
+      },
+      {
+        "created_at": "2015-09-25T14:56:16.000Z",
+        "description": "Do not re-upload my artworks【ﾏｼｭﾏﾛ▼】https://t.co/S86QdQ3iTi\n【Skeb※オリジナルのみ】https://t.co/vaTRW6jQgx",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "marshmallow-qa.com/senaothankyou",
+                "end": 59,
+                "expanded_url": "http://marshmallow-qa.com/senaothankyou",
+                "start": 36,
+                "url": "https://t.co/S86QdQ3iTi"
+              },
+              {
+                "display_url": "skeb.jp/@senaoThankyou",
+                "end": 97,
+                "expanded_url": "https://skeb.jp/@senaoThankyou",
+                "start": 74,
+                "url": "https://t.co/vaTRW6jQgx"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "senao-manythanks.tumblr.com",
+                "end": 23,
+                "expanded_url": "https://senao-manythanks.tumblr.com/",
+                "start": 0,
+                "url": "https://t.co/R8SByXfD4W"
+              }
+            ]
+          }
+        },
+        "id": "3682574239",
+        "location": "絵まとめ▶",
+        "name": "senao",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1411566990813106181/V2tfvShu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25328,
+          "following_count": 0,
+          "like_count": 0,
+          "listed_count": 148,
+          "media_count": 312,
+          "tweet_count": 831
+        },
+        "url": "https://t.co/R8SByXfD4W",
+        "username": "senaoThankyou",
+        "verified": false
+      }
+    ]
+  }
+}

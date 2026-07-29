@@ -1,0 +1,190 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1569397683814629379",
+    "conversation_id": "2062330607569604817",
+    "created_at": "2026-06-04T00:28:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-04T01:28:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062330607569604817"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "4094370737",
+          "start": 3,
+          "username": "melasmando"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062330607569604817",
+    "lang": "es",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1380
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062201576442241303",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @melasmando: Cuantas veces podes \"tirarte un ratito\" por día antes de que te diagnostiquen depresión."
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1569397683814629379",
+        "conversation_id": "2062330607569604817",
+        "created_at": "2026-06-04T00:28:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-04T01:28:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062330607569604817"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "4094370737",
+              "start": 3,
+              "username": "melasmando"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062330607569604817",
+        "lang": "es",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1380
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062201576442241303",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @melasmando: Cuantas veces podes \"tirarte un ratito\" por día antes de que te diagnostiquen depresión."
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "4094370737",
+        "conversation_id": "2062201576442241303",
+        "created_at": "2026-06-03T15:55:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-03T16:55:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062201576442241303"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2062201576442241303",
+        "lang": "es",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 469,
+          "impression_count": 345255,
+          "like_count": 19211,
+          "quote_count": 60,
+          "reply_count": 32,
+          "retweet_count": 1380
+        },
+        "reply_settings": "everyone",
+        "text": "Cuantas veces podes \"tirarte un ratito\" por día antes de que te diagnostiquen depresión."
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-12T18:50:19.000Z",
+        "description": "随缘//医学爱好者/Arknights/绘画/混乱日常碎碎念无营养内容/可能会很吵？ /les/lgbt友好/中文/EN//喵喵//提问箱↓ ↓ ↓",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ppppppppp38481",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ppppppppp38481",
+                "start": 0,
+                "url": "https://t.co/dw8CaO6ajX"
+              }
+            ]
+          }
+        },
+        "id": "1569397683814629379",
+        "location": "世界的尽头",
+        "name": "腐烂培根卷",
+        "pinned_tweet_id": "2012485424057291255",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953366409284861953/HM3Aeou7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 239,
+          "following_count": 1604,
+          "like_count": 9479,
+          "listed_count": 1,
+          "media_count": 104,
+          "tweet_count": 6815
+        },
+        "url": "https://t.co/dw8CaO6ajX",
+        "username": "ppppggggjjjj",
+        "verified": false
+      },
+      {
+        "created_at": "2015-11-02T02:59:34.000Z",
+        "description": "Una de los tres hinchas de Vélez y de los 4 fans de Las pastillas del abuelo. Fundamentalista del saquito.",
+        "id": "4094370737",
+        "name": "Ogi",
+        "pinned_tweet_id": "834843029009727488",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053734305600258048/fgUWDsGJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2979,
+          "following_count": 337,
+          "like_count": 117093,
+          "listed_count": 11,
+          "media_count": 3398,
+          "tweet_count": 67695
+        },
+        "username": "melasmando",
+        "verified": false
+      }
+    ]
+  }
+}

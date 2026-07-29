@@ -1,0 +1,281 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1970797562061012993"
+      ],
+      "media_source_tweet_id": [
+        "1970797677064671495"
+      ]
+    },
+    "author_id": "1569397683814629379",
+    "conversation_id": "1970883302749020358",
+    "created_at": "2025-09-24T16:09:31.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-24T17:09:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1970883302749020358"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 21,
+          "start": 16,
+          "tag": "重音テト"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 14,
+          "id": "857173942586441729",
+          "start": 3,
+          "username": "kieed23232"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/3M0ATYCGpo",
+          "end": 45,
+          "expanded_url": "https://x.com/kieed23232/status/1970797677064671495/photo/1",
+          "media_key": "3_1970797562061012993",
+          "start": 22,
+          "url": "https://t.co/3M0ATYCGpo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1970883302749020358",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 5194
+    },
+    "referenced_tweets": [
+      {
+        "id": "1970797677064671495",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @kieed23232: #重音テト https://t.co/3M0ATYCGpo"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2156,
+        "media_key": "3_1970797562061012993",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G1mt8OLaQAEaSuz.jpg",
+        "width": 2500
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1970797562061012993"
+          ],
+          "media_source_tweet_id": [
+            "1970797677064671495"
+          ]
+        },
+        "author_id": "1569397683814629379",
+        "conversation_id": "1970883302749020358",
+        "created_at": "2025-09-24T16:09:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-24T17:09:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1970883302749020358"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 21,
+              "start": 16,
+              "tag": "重音テト"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 14,
+              "id": "857173942586441729",
+              "start": 3,
+              "username": "kieed23232"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/3M0ATYCGpo",
+              "end": 45,
+              "expanded_url": "https://x.com/kieed23232/status/1970797677064671495/photo/1",
+              "media_key": "3_1970797562061012993",
+              "start": 22,
+              "url": "https://t.co/3M0ATYCGpo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1970883302749020358",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 5194
+        },
+        "referenced_tweets": [
+          {
+            "id": "1970797677064671495",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @kieed23232: #重音テト https://t.co/3M0ATYCGpo"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1970797562061012993"
+          ]
+        },
+        "author_id": "857173942586441729",
+        "conversation_id": "1970797677064671495",
+        "created_at": "2025-09-24T10:29:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-24T11:29:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1970797677064671495"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 5,
+              "start": 0,
+              "tag": "重音テト"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/3M0ATYCGpo",
+              "end": 29,
+              "expanded_url": "https://x.com/kieed23232/status/1970797677064671495/photo/1",
+              "media_key": "3_1970797562061012993",
+              "start": 6,
+              "url": "https://t.co/3M0ATYCGpo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1970797677064671495",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4031,
+          "impression_count": 482836,
+          "like_count": 40474,
+          "quote_count": 124,
+          "reply_count": 25,
+          "retweet_count": 5194
+        },
+        "reply_settings": "everyone",
+        "text": "#重音テト https://t.co/3M0ATYCGpo"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-12T18:50:19.000Z",
+        "description": "随缘//医学爱好者/les🏳️‍🌈/lgbt友好/中文/EN/Arknights/绘画/混乱日常碎碎念/很吵//喵喵 【永远拥护培根卷番茄！】",
+        "id": "1569397683814629379",
+        "location": "世界的尽头",
+        "name": "腐烂培根卷",
+        "pinned_tweet_id": "1937498024907010498",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953366409284861953/HM3Aeou7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 112,
+          "following_count": 702,
+          "like_count": 2216,
+          "listed_count": 1,
+          "media_count": 65,
+          "tweet_count": 2923
+        },
+        "username": "ppppggggjjjj",
+        "verified": false
+      },
+      {
+        "created_at": "2017-04-26T10:06:08.000Z",
+        "description": "Illustrator，Hatsune Miku ♥/ Kasane Teto ♥\nNO AI🚫 didn`t use AI \nPainting Live Streaming &screen recording 作画生放送/作画録画→https://t.co/wLGByCsiwn",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "space.bilibili.com/25589919",
+                "end": 140,
+                "expanded_url": "https://space.bilibili.com/25589919",
+                "start": 117,
+                "url": "https://t.co/wLGByCsiwn"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/11525066",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/11525066",
+                "start": 0,
+                "url": "https://t.co/iHBM2GdjPo"
+              }
+            ]
+          }
+        },
+        "id": "857173942586441729",
+        "name": "kieed",
+        "pinned_tweet_id": "1829852267304140916",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/908705750075060224/ciddanZN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 307894,
+          "following_count": 562,
+          "like_count": 722,
+          "listed_count": 1954,
+          "media_count": 202,
+          "tweet_count": 334
+        },
+        "url": "https://t.co/iHBM2GdjPo",
+        "username": "kieed23232",
+        "verified": false
+      }
+    ]
+  }
+}

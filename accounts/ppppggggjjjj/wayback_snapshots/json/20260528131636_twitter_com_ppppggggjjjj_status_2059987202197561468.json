@@ -1,0 +1,289 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2059746722260119554",
+        "3_2059746722281074696",
+        "3_2059746722297815043"
+      ],
+      "media_source_tweet_id": [
+        "2059746727196786842",
+        "2059746727196786842",
+        "2059746727196786842"
+      ]
+    },
+    "author_id": "1569397683814629379",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2059987202197561468",
+    "created_at": "2026-05-28T13:16:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-28T14:16:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059987202197561468"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1988658843153534977",
+          "start": 3,
+          "username": "0MINOUSLUMINOUS"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/CmDAXyDZzP",
+          "end": 60,
+          "expanded_url": "https://x.com/0MINOUSLUMINOUS/status/2059746727196786842/photo/1",
+          "media_key": "3_2059746722260119554",
+          "start": 37,
+          "url": "https://t.co/CmDAXyDZzP"
+        },
+        {
+          "display_url": "pic.x.com/CmDAXyDZzP",
+          "end": 60,
+          "expanded_url": "https://x.com/0MINOUSLUMINOUS/status/2059746727196786842/photo/1",
+          "media_key": "3_2059746722281074696",
+          "start": 37,
+          "url": "https://t.co/CmDAXyDZzP"
+        },
+        {
+          "display_url": "pic.x.com/CmDAXyDZzP",
+          "end": 60,
+          "expanded_url": "https://x.com/0MINOUSLUMINOUS/status/2059746727196786842/photo/1",
+          "media_key": "3_2059746722297815043",
+          "start": 37,
+          "url": "https://t.co/CmDAXyDZzP"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059987202197561468",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 189
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059746727196786842",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @0MINOUSLUMINOUS: i want it again https://t.co/CmDAXyDZzP"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2059987202197561468].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2059987202197561468",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2059987202197561468"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 960,
+        "media_key": "3_2059746722260119554",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJWwuxuW8AIq6TQ.jpg",
+        "width": 1280
+      },
+      {
+        "height": 1280,
+        "media_key": "3_2059746722281074696",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJWwuxzWsAgiY7-.jpg",
+        "width": 960
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2059746722297815043",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJWwux3WIAM1EGq.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2059746722260119554",
+            "3_2059746722281074696",
+            "3_2059746722297815043"
+          ]
+        },
+        "author_id": "1988658843153534977",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2059746727196786842",
+        "created_at": "2026-05-27T21:21:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T22:21:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059746727196786842"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/CmDAXyDZzP",
+              "end": 39,
+              "expanded_url": "https://x.com/0MINOUSLUMINOUS/status/2059746727196786842/photo/1",
+              "media_key": "3_2059746722260119554",
+              "start": 16,
+              "url": "https://t.co/CmDAXyDZzP"
+            },
+            {
+              "display_url": "pic.x.com/CmDAXyDZzP",
+              "end": 39,
+              "expanded_url": "https://x.com/0MINOUSLUMINOUS/status/2059746727196786842/photo/1",
+              "media_key": "3_2059746722281074696",
+              "start": 16,
+              "url": "https://t.co/CmDAXyDZzP"
+            },
+            {
+              "display_url": "pic.x.com/CmDAXyDZzP",
+              "end": 39,
+              "expanded_url": "https://x.com/0MINOUSLUMINOUS/status/2059746727196786842/photo/1",
+              "media_key": "3_2059746722297815043",
+              "start": 16,
+              "url": "https://t.co/CmDAXyDZzP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059746727196786842",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 105,
+          "impression_count": 10333,
+          "like_count": 1732,
+          "quote_count": 1,
+          "reply_count": 7,
+          "retweet_count": 189
+        },
+        "reply_settings": "everyone",
+        "text": "i want it again https://t.co/CmDAXyDZzP"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-12T18:50:19.000Z",
+        "description": "随缘//医学爱好者/Arknights/绘画/混乱日常碎碎念无营养内容/可能会很吵？ /les/lgbt友好/中文/EN//喵喵//提问箱↓ ↓ ↓",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ppppppppp38481",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ppppppppp38481",
+                "start": 0,
+                "url": "https://t.co/dw8CaO6ajX"
+              }
+            ]
+          }
+        },
+        "id": "1569397683814629379",
+        "location": "世界的尽头",
+        "name": "腐烂培根卷",
+        "pinned_tweet_id": "2012485424057291255",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953366409284861953/HM3Aeou7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 247,
+          "following_count": 1597,
+          "like_count": 8913,
+          "listed_count": 1,
+          "media_count": 104,
+          "tweet_count": 6480
+        },
+        "url": "https://t.co/dw8CaO6ajX",
+        "username": "ppppggggjjjj",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-12T17:23:25.000Z",
+        "description": "here if my main gets suspended or locked \nmain @OMINOUSLUMINOUS",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 63,
+                "start": 47,
+                "username": "OMINOUSLUMINOUS"
+              }
+            ]
+          }
+        },
+        "id": "1988658843153534977",
+        "location": "psychiatric facility ",
+        "name": "ominous",
+        "pinned_tweet_id": "1988660372627419647",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023080197013274624/OfQolU97_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 132,
+          "following_count": 110,
+          "like_count": 8252,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 332
+        },
+        "username": "0MINOUSLUMINOUS",
+        "verified": false
+      }
+    ]
+  }
+}

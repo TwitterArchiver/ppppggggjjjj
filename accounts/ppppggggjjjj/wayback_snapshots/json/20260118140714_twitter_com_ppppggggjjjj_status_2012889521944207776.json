@@ -1,0 +1,263 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2012739300807610368"
+      ],
+      "media_source_tweet_id": [
+        "2012739305513374139"
+      ]
+    },
+    "author_id": "1569397683814629379",
+    "conversation_id": "2012889521944207776",
+    "created_at": "2026-01-18T14:07:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-18T15:07:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2012889521944207776"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1099975963511685120",
+          "start": 3,
+          "username": "sa_sadesu"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/L3s4vDKMax",
+          "end": 44,
+          "expanded_url": "https://x.com/sa_sadesu/status/2012739305513374139/photo/1",
+          "media_key": "3_2012739300807610368",
+          "start": 21,
+          "url": "https://t.co/L3s4vDKMax"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2012889521944207776",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1822
+    },
+    "referenced_tweets": [
+      {
+        "id": "2012739305513374139",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @sa_sadesu: 私あるある https://t.co/L3s4vDKMax"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1078,
+        "media_key": "3_2012739300807610368",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-6vuuobEAABhnu.jpg",
+        "width": 1178
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2012739300807610368"
+          ],
+          "media_source_tweet_id": [
+            "2012739305513374139"
+          ]
+        },
+        "author_id": "1569397683814629379",
+        "conversation_id": "2012889521944207776",
+        "created_at": "2026-01-18T14:07:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-18T15:07:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2012889521944207776"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1099975963511685120",
+              "start": 3,
+              "username": "sa_sadesu"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/L3s4vDKMax",
+              "end": 44,
+              "expanded_url": "https://x.com/sa_sadesu/status/2012739305513374139/photo/1",
+              "media_key": "3_2012739300807610368",
+              "start": 21,
+              "url": "https://t.co/L3s4vDKMax"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2012889521944207776",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1822
+        },
+        "referenced_tweets": [
+          {
+            "id": "2012739305513374139",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @sa_sadesu: 私あるある https://t.co/L3s4vDKMax"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2012739300807610368"
+          ]
+        },
+        "author_id": "1099975963511685120",
+        "conversation_id": "2012739305513374139",
+        "created_at": "2026-01-18T04:10:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-18T05:10:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2012739305513374139"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/L3s4vDKMax",
+              "end": 29,
+              "expanded_url": "https://x.com/sa_sadesu/status/2012739305513374139/photo/1",
+              "media_key": "3_2012739300807610368",
+              "start": 6,
+              "url": "https://t.co/L3s4vDKMax"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2012739305513374139",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1044,
+          "impression_count": 1510169,
+          "like_count": 47344,
+          "quote_count": 623,
+          "reply_count": 114,
+          "retweet_count": 1822
+        },
+        "reply_settings": "everyone",
+        "text": "私あるある https://t.co/L3s4vDKMax"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-12T18:50:19.000Z",
+        "description": "随缘//医学爱好者/les🏳️‍🌈/lgbt友好/中文/EN/Arknights/绘画/混乱日常碎碎念/很吵//喵喵 【永远拥护培根卷番茄！】提问箱↓ ↓ ↓",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ppppppppp38481",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ppppppppp38481",
+                "start": 0,
+                "url": "https://t.co/dw8CaO5Cup"
+              }
+            ]
+          }
+        },
+        "id": "1569397683814629379",
+        "location": "世界的尽头",
+        "name": "腐烂培根卷",
+        "pinned_tweet_id": "2012485424057291255",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953366409284861953/HM3Aeou7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 185,
+          "following_count": 1050,
+          "like_count": 4280,
+          "listed_count": 1,
+          "media_count": 93,
+          "tweet_count": 4393
+        },
+        "url": "https://t.co/dw8CaO5Cup",
+        "username": "ppppggggjjjj",
+        "verified": false
+      },
+      {
+        "created_at": "2019-02-25T10:14:41.000Z",
+        "description": "女の子の畜生を叫んでいきます",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "note.com/sersa_h/n/n63c…",
+                "end": 23,
+                "expanded_url": "https://note.com/sersa_h/n/n63c892db9668",
+                "start": 0,
+                "url": "https://t.co/fDO6pAMKFB"
+              }
+            ]
+          }
+        },
+        "id": "1099975963511685120",
+        "name": "セルサ",
+        "pinned_tweet_id": "1987802598670545253",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1245402796934844418/PkGO4oP9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 24279,
+          "following_count": 6,
+          "like_count": 576,
+          "listed_count": 90,
+          "media_count": 115,
+          "tweet_count": 3667
+        },
+        "url": "https://t.co/fDO6pAMKFB",
+        "username": "sa_sadesu",
+        "verified": false
+      }
+    ]
+  }
+}

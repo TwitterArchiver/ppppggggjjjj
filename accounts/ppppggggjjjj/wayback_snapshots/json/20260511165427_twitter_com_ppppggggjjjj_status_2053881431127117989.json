@@ -1,0 +1,248 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2053553159600062464"
+      ],
+      "media_source_tweet_id": [
+        "2053553162594725892"
+      ]
+    },
+    "author_id": "1569397683814629379",
+    "conversation_id": "2053881431127117989",
+    "created_at": "2026-05-11T16:54:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-11T17:54:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2053881431127117989"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1716279271792992256",
+          "start": 3,
+          "username": "outsidercore1"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/1VufxBWjm8",
+          "end": 42,
+          "expanded_url": "https://x.com/outsidercore1/status/2053553162594725892/photo/1",
+          "media_key": "3_2053553159600062464",
+          "start": 19,
+          "url": "https://t.co/1VufxBWjm8"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053881431127117989",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 20
+    },
+    "referenced_tweets": [
+      {
+        "id": "2053553162594725892",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @outsidercore1: https://t.co/1VufxBWjm8"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 846,
+        "media_key": "3_2053553159600062464",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HH-vt-1XwAA6P3R.jpg",
+        "width": 564
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2053553159600062464"
+          ],
+          "media_source_tweet_id": [
+            "2053553162594725892"
+          ]
+        },
+        "author_id": "1569397683814629379",
+        "conversation_id": "2053881431127117989",
+        "created_at": "2026-05-11T16:54:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-11T17:54:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053881431127117989"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1716279271792992256",
+              "start": 3,
+              "username": "outsidercore1"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/1VufxBWjm8",
+              "end": 42,
+              "expanded_url": "https://x.com/outsidercore1/status/2053553162594725892/photo/1",
+              "media_key": "3_2053553159600062464",
+              "start": 19,
+              "url": "https://t.co/1VufxBWjm8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053881431127117989",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 20
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053553162594725892",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @outsidercore1: https://t.co/1VufxBWjm8"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2053553159600062464"
+          ]
+        },
+        "author_id": "1716279271792992256",
+        "conversation_id": "2053553162594725892",
+        "created_at": "2026-05-10T19:10:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-10T20:10:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2053553162594725892"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/1VufxBWjm8",
+              "end": 23,
+              "expanded_url": "https://x.com/outsidercore1/status/2053553162594725892/photo/1",
+              "media_key": "3_2053553159600062464",
+              "start": 0,
+              "url": "https://t.co/1VufxBWjm8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053553162594725892",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 15,
+          "impression_count": 1630,
+          "like_count": 83,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 20
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/1VufxBWjm8"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-12T18:50:19.000Z",
+        "description": "随缘//医学爱好者/Arknights/绘画/混乱日常碎碎念无营养内容/可能会很吵？ /les/lgbt友好/中文/EN//喵喵//提问箱↓ ↓ ↓",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ppppppppp38481",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ppppppppp38481",
+                "start": 0,
+                "url": "https://t.co/dw8CaO6ajX"
+              }
+            ]
+          }
+        },
+        "id": "1569397683814629379",
+        "location": "世界的尽头",
+        "name": "腐烂培根卷",
+        "pinned_tweet_id": "2012485424057291255",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953366409284861953/HM3Aeou7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 229,
+          "following_count": 1441,
+          "like_count": 7882,
+          "listed_count": 1,
+          "media_count": 100,
+          "tweet_count": 5966
+        },
+        "url": "https://t.co/dw8CaO6ajX",
+        "username": "ppppggggjjjj",
+        "verified": false
+      },
+      {
+        "created_at": "2023-10-23T02:25:01.000Z",
+        "description": "\"The problem is not that I am blind, but rather I see all too clearly.\" \nOutsider Aesthetics",
+        "id": "1716279271792992256",
+        "name": "Outsider Aesthetics",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1716294782501244928/Iyxr8Rlx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16946,
+          "following_count": 101,
+          "like_count": 3837,
+          "listed_count": 102,
+          "media_count": 8486,
+          "tweet_count": 8918
+        },
+        "username": "outsidercore1",
+        "verified": false
+      }
+    ]
+  }
+}

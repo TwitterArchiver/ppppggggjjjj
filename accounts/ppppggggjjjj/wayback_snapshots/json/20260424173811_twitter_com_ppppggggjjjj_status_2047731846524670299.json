@@ -1,0 +1,272 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2047268373000826880"
+      ],
+      "media_source_tweet_id": [
+        "2047268379313238180"
+      ]
+    },
+    "author_id": "1569397683814629379",
+    "conversation_id": "2047731846524670299",
+    "created_at": "2026-04-24T17:38:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-24T18:38:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2047731846524670299"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2028814965965312001",
+          "start": 3,
+          "username": "Miiharukawa"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/pA6vT42FtD",
+          "end": 55,
+          "expanded_url": "https://x.com/Miiharukawa/status/2047268379313238180/photo/1",
+          "media_key": "3_2047268373000826880",
+          "start": 32,
+          "url": "https://t.co/pA6vT42FtD"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047731846524670299",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 120
+    },
+    "referenced_tweets": [
+      {
+        "id": "2047268379313238180",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "verified",
+    "text": "RT @Miiharukawa: 发个挺好用的梯子，用了几年了 https://t.co/pA6vT42FtD"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 160,
+        "media_key": "3_2047268373000826880",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGlbvQSbMAAsfHF.jpg",
+        "width": 160
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2047268373000826880"
+          ],
+          "media_source_tweet_id": [
+            "2047268379313238180"
+          ]
+        },
+        "author_id": "1569397683814629379",
+        "conversation_id": "2047731846524670299",
+        "created_at": "2026-04-24T17:38:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-24T18:38:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047731846524670299"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2028814965965312001",
+              "start": 3,
+              "username": "Miiharukawa"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/pA6vT42FtD",
+              "end": 55,
+              "expanded_url": "https://x.com/Miiharukawa/status/2047268379313238180/photo/1",
+              "media_key": "3_2047268373000826880",
+              "start": 32,
+              "url": "https://t.co/pA6vT42FtD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047731846524670299",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 120
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047268379313238180",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "verified",
+        "text": "RT @Miiharukawa: 发个挺好用的梯子，用了几年了 https://t.co/pA6vT42FtD"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2047268373000826880"
+          ]
+        },
+        "author_id": "2028814965965312001",
+        "conversation_id": "2047268379313238180",
+        "created_at": "2026-04-23T10:56:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-23T11:56:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2047268379313238180"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/pA6vT42FtD",
+              "end": 38,
+              "expanded_url": "https://x.com/Miiharukawa/status/2047268379313238180/photo/1",
+              "media_key": "3_2047268373000826880",
+              "start": 15,
+              "url": "https://t.co/pA6vT42FtD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047268379313238180",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 81,
+          "impression_count": 161367,
+          "like_count": 3227,
+          "quote_count": 4,
+          "reply_count": 395,
+          "retweet_count": 120
+        },
+        "reply_settings": "verified",
+        "text": "发个挺好用的梯子，用了几年了 https://t.co/pA6vT42FtD"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-12T18:50:19.000Z",
+        "description": "随缘//医学爱好者/Arknights/绘画/混乱日常碎碎念无营养内容/可能会很吵？ /les/lgbt友好/中文/EN//喵喵//提问箱↓ ↓ ↓",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ppppppppp38481",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ppppppppp38481",
+                "start": 0,
+                "url": "https://t.co/dw8CaO6ajX"
+              }
+            ]
+          }
+        },
+        "id": "1569397683814629379",
+        "location": "世界的尽头",
+        "name": "腐烂培根卷",
+        "pinned_tweet_id": "2012485424057291255",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953366409284861953/HM3Aeou7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 212,
+          "following_count": 1315,
+          "like_count": 6966,
+          "listed_count": 1,
+          "media_count": 98,
+          "tweet_count": 5349
+        },
+        "url": "https://t.co/dw8CaO6ajX",
+        "username": "ppppggggjjjj",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-03T12:50:01.000Z",
+        "description": "怨是用希\n世另我：@Harukayo96",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 9,
+                "username": "Harukayo96"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "Note.ms/Miharuka",
+                "end": 23,
+                "expanded_url": "http://Note.ms/Miharuka",
+                "start": 0,
+                "url": "https://t.co/Qn8w6FgBfd"
+              }
+            ]
+          }
+        },
+        "id": "2028814965965312001",
+        "name": "遥",
+        "pinned_tweet_id": "2039138354856665156",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028815256949342208/hoWGdF7B_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1092,
+          "following_count": 189,
+          "like_count": 5715,
+          "listed_count": 6,
+          "media_count": 230,
+          "tweet_count": 2078
+        },
+        "url": "https://t.co/Qn8w6FgBfd",
+        "username": "Miiharukawa",
+        "verified": false
+      }
+    ]
+  }
+}

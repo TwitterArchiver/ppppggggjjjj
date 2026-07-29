@@ -1,0 +1,728 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1569397683814629379",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A video game like Overwatch",
+          "id": "71",
+          "name": "Video Game"
+        },
+        "entity": {
+          "id": "1233113060732092416",
+          "name": "Arknights"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Gaming",
+          "id": "847527650667094017",
+          "name": "Gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1070028159964262400",
+          "name": "Video games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1233113060732092416",
+          "name": "Arknights"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1491897789013393420",
+          "name": "Strategy games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1491900085583577097",
+          "name": "Idol games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1491900373098921986",
+          "name": "Gacha games"
+        }
+      }
+    ],
+    "conversation_id": "1940560051888181315",
+    "created_at": "2025-07-02T23:55:44.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-03T00:55:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1940560051888181315"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 47,
+          "normalized_text": "Arknights",
+          "probability": 0.8263,
+          "start": 39,
+          "type": "Other"
+        }
+      ],
+      "hashtags": [
+        {
+          "end": 48,
+          "start": 38,
+          "tag": "Arknights"
+        },
+        {
+          "end": 57,
+          "start": 49,
+          "tag": "プリースティス"
+        },
+        {
+          "end": 63,
+          "start": 58,
+          "tag": "明日方舟"
+        },
+        {
+          "end": 74,
+          "start": 64,
+          "tag": "Priestess"
+        },
+        {
+          "end": 82,
+          "start": 75,
+          "tag": "アークナイツ"
+        },
+        {
+          "end": 88,
+          "start": 83,
+          "tag": "普瑞赛斯"
+        },
+        {
+          "end": 105,
+          "start": 90,
+          "tag": "Endministrator"
+        },
+        {
+          "end": 115,
+          "start": 106,
+          "tag": "Endfield"
+        },
+        {
+          "end": 124,
+          "start": 116,
+          "tag": "明日方舟終末地"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1626234446537166848",
+          "start": 3,
+          "username": "FuzeL7L"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "x.com/SuperQQ_Jean",
+          "end": 139,
+          "expanded_url": "https://x.com/SuperQQ_Jean",
+          "start": 125,
+          "status": 200,
+          "title": "X",
+          "unwound_url": "https://twitter.com/SuperQQ_Jean",
+          "url": "https://t.co/y"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1940560051888181315",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 183
+    },
+    "referenced_tweets": [
+      {
+        "id": "1940376190558326937",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @FuzeL7L: I see everything you do.\n#Arknights #プリースティス #明日方舟 #Priestess #アークナイツ #普瑞赛斯  #Endministrator #Endfield #明日方舟終末地 https://t.co/y…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1689,
+        "media_key": "3_1940371399031312384",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gu2VgcOW0AAE-Wv.jpg",
+        "width": 1156
+      },
+      {
+        "height": 1689,
+        "media_key": "3_1940371486197317632",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gu2Vlg8WgAA11jz.jpg",
+        "width": 1156
+      },
+      {
+        "height": 1689,
+        "media_key": "3_1940371556900741120",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gu2VpoVXIAAo5t2.jpg",
+        "width": 1156
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1569397683814629379",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1233113060732092416",
+              "name": "Arknights"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1233113060732092416",
+              "name": "Arknights"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491897789013393420",
+              "name": "Strategy games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491900085583577097",
+              "name": "Idol games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491900373098921986",
+              "name": "Gacha games"
+            }
+          }
+        ],
+        "conversation_id": "1940560051888181315",
+        "created_at": "2025-07-02T23:55:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-03T00:55:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1940560051888181315"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 47,
+              "normalized_text": "Arknights",
+              "probability": 0.8263,
+              "start": 39,
+              "type": "Other"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 48,
+              "start": 38,
+              "tag": "Arknights"
+            },
+            {
+              "end": 57,
+              "start": 49,
+              "tag": "プリースティス"
+            },
+            {
+              "end": 63,
+              "start": 58,
+              "tag": "明日方舟"
+            },
+            {
+              "end": 74,
+              "start": 64,
+              "tag": "Priestess"
+            },
+            {
+              "end": 82,
+              "start": 75,
+              "tag": "アークナイツ"
+            },
+            {
+              "end": 88,
+              "start": 83,
+              "tag": "普瑞赛斯"
+            },
+            {
+              "end": 105,
+              "start": 90,
+              "tag": "Endministrator"
+            },
+            {
+              "end": 115,
+              "start": 106,
+              "tag": "Endfield"
+            },
+            {
+              "end": 124,
+              "start": 116,
+              "tag": "明日方舟終末地"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1626234446537166848",
+              "start": 3,
+              "username": "FuzeL7L"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/SuperQQ_Jean",
+              "end": 139,
+              "expanded_url": "https://x.com/SuperQQ_Jean",
+              "start": 125,
+              "status": 200,
+              "title": "X",
+              "unwound_url": "https://twitter.com/SuperQQ_Jean",
+              "url": "https://t.co/y"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1940560051888181315",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 183
+        },
+        "referenced_tweets": [
+          {
+            "id": "1940376190558326937",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @FuzeL7L: I see everything you do.\n#Arknights #プリースティス #明日方舟 #Priestess #アークナイツ #普瑞赛斯  #Endministrator #Endfield #明日方舟終末地 https://t.co/y…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1940371399031312384",
+            "3_1940371486197317632",
+            "3_1940371556900741120"
+          ]
+        },
+        "author_id": "1626234446537166848",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1233113060732092416",
+              "name": "Arknights"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1233113060732092416",
+              "name": "Arknights"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491897789013393420",
+              "name": "Strategy games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491900085583577097",
+              "name": "Idol games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491900373098921986",
+              "name": "Gacha games"
+            }
+          }
+        ],
+        "conversation_id": "1940376190558326937",
+        "created_at": "2025-07-02T11:45:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-02T12:45:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1940376190558326937"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 34,
+              "normalized_text": "Arknights",
+              "probability": 0.8609,
+              "start": 26,
+              "type": "Other"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 35,
+              "start": 25,
+              "tag": "Arknights"
+            },
+            {
+              "end": 44,
+              "start": 36,
+              "tag": "プリースティス"
+            },
+            {
+              "end": 50,
+              "start": 45,
+              "tag": "明日方舟"
+            },
+            {
+              "end": 61,
+              "start": 51,
+              "tag": "Priestess"
+            },
+            {
+              "end": 69,
+              "start": 62,
+              "tag": "アークナイツ"
+            },
+            {
+              "end": 75,
+              "start": 70,
+              "tag": "普瑞赛斯"
+            },
+            {
+              "end": 92,
+              "start": 77,
+              "tag": "Endministrator"
+            },
+            {
+              "end": 102,
+              "start": 93,
+              "tag": "Endfield"
+            },
+            {
+              "end": 111,
+              "start": 103,
+              "tag": "明日方舟終末地"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/yzXBTHG42K",
+              "end": 135,
+              "expanded_url": "https://x.com/FuzeL7L/status/1940376190558326937/photo/1",
+              "media_key": "3_1940371399031312384",
+              "start": 112,
+              "url": "https://t.co/yzXBTHG42K"
+            },
+            {
+              "display_url": "pic.x.com/yzXBTHG42K",
+              "end": 135,
+              "expanded_url": "https://x.com/FuzeL7L/status/1940376190558326937/photo/1",
+              "media_key": "3_1940371486197317632",
+              "start": 112,
+              "url": "https://t.co/yzXBTHG42K"
+            },
+            {
+              "display_url": "pic.x.com/yzXBTHG42K",
+              "end": 135,
+              "expanded_url": "https://x.com/FuzeL7L/status/1940376190558326937/photo/1",
+              "media_key": "3_1940371556900741120",
+              "start": 112,
+              "url": "https://t.co/yzXBTHG42K"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1940376190558326937",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 215,
+          "impression_count": 16411,
+          "like_count": 1122,
+          "quote_count": 5,
+          "reply_count": 0,
+          "retweet_count": 183
+        },
+        "reply_settings": "everyone",
+        "text": "I see everything you do.\n#Arknights #プリースティス #明日方舟 #Priestess #アークナイツ #普瑞赛斯  #Endministrator #Endfield #明日方舟終末地 https://t.co/yzXBTHG42K"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-12T18:50:19.000Z",
+        "description": "随缘//医学爱好者/les🏳️‍🌈/lgbt友好/中文/EN/Arknights/绘画/混乱日常碎碎念/很吵//喵喵",
+        "id": "1569397683814629379",
+        "name": "腐烂苹果酱",
+        "pinned_tweet_id": "1937498024907010498",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1620839959388393479/hsMKvVei_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 32,
+          "following_count": 272,
+          "like_count": 452,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 686
+        },
+        "username": "ppppggggjjjj",
+        "verified": false
+      },
+      {
+        "created_at": "2023-02-16T14:58:06.000Z",
+        "description": "English/中文/日本语\nSD ＆ 手動加筆\nPixiv: https://t.co/eUQvCJ7cv3",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/103514228",
+                "end": 55,
+                "expanded_url": "https://www.pixiv.net/users/103514228",
+                "start": 32,
+                "url": "https://t.co/eUQvCJ7cv3"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/103514228",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/103514228",
+                "start": 0,
+                "url": "https://t.co/eUQvCJ7cv3"
+              }
+            ]
+          }
+        },
+        "id": "1626234446537166848",
+        "location": "Earth",
+        "name": "杏仁豆腐",
+        "pinned_tweet_id": "1870094615787008168",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1626415728353226755/gqIwEKr0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7243,
+          "following_count": 32,
+          "like_count": 20,
+          "listed_count": 47,
+          "media_count": 22,
+          "tweet_count": 28
+        },
+        "url": "https://t.co/eUQvCJ7cv3",
+        "username": "FuzeL7L",
+        "verified": true
+      }
+    ]
+  }
+}

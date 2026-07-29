@@ -1,0 +1,246 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1996598184253263872"
+      ],
+      "media_source_tweet_id": [
+        "1996598196353847760"
+      ]
+    },
+    "author_id": "1569397683814629379",
+    "conversation_id": "1996630705795944525",
+    "created_at": "2025-12-04T17:20:30.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-04T18:20:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1996630705795944525"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "3706493113",
+          "start": 3,
+          "username": "PP_2280"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/6qMX3Bk2Rz",
+          "end": 36,
+          "expanded_url": "https://x.com/PP_2280/status/1996598196353847760/photo/1",
+          "media_key": "3_1996598184253263872",
+          "start": 13,
+          "url": "https://t.co/6qMX3Bk2Rz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1996630705795944525",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 66
+    },
+    "referenced_tweets": [
+      {
+        "id": "1996598196353847760",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @PP_2280: https://t.co/6qMX3Bk2Rz"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 724,
+        "media_key": "3_1996598184253263872",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7VXeFubEAAKRJ7.png",
+        "width": 572
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1996598184253263872"
+          ],
+          "media_source_tweet_id": [
+            "1996598196353847760"
+          ]
+        },
+        "author_id": "1569397683814629379",
+        "conversation_id": "1996630705795944525",
+        "created_at": "2025-12-04T17:20:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-04T18:20:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1996630705795944525"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "3706493113",
+              "start": 3,
+              "username": "PP_2280"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/6qMX3Bk2Rz",
+              "end": 36,
+              "expanded_url": "https://x.com/PP_2280/status/1996598196353847760/photo/1",
+              "media_key": "3_1996598184253263872",
+              "start": 13,
+              "url": "https://t.co/6qMX3Bk2Rz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1996630705795944525",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 66
+        },
+        "referenced_tweets": [
+          {
+            "id": "1996598196353847760",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @PP_2280: https://t.co/6qMX3Bk2Rz"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1996598184253263872"
+          ]
+        },
+        "author_id": "3706493113",
+        "conversation_id": "1996598196353847760",
+        "created_at": "2025-12-04T15:11:19.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-04T16:11:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1996598196353847760"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/6qMX3Bk2Rz",
+              "end": 23,
+              "expanded_url": "https://x.com/PP_2280/status/1996598196353847760/photo/1",
+              "media_key": "3_1996598184253263872",
+              "start": 0,
+              "url": "https://t.co/6qMX3Bk2Rz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1996598196353847760",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 28,
+          "impression_count": 4020,
+          "like_count": 391,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 66
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/6qMX3Bk2Rz"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-12T18:50:19.000Z",
+        "description": "随缘//医学爱好者/les🏳️‍🌈/lgbt友好/中文/EN/Arknights/绘画/混乱日常碎碎念/很吵//喵喵 【永远拥护培根卷番茄！】",
+        "id": "1569397683814629379",
+        "location": "世界的尽头",
+        "name": "腐烂培根卷",
+        "pinned_tweet_id": "1993298688010322328",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953366409284861953/HM3Aeou7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 150,
+          "following_count": 897,
+          "like_count": 3293,
+          "listed_count": 1,
+          "media_count": 87,
+          "tweet_count": 3929
+        },
+        "username": "ppppggggjjjj",
+        "verified": false
+      },
+      {
+        "created_at": "2015-09-27T18:41:32.000Z",
+        "description": "히나미자와 명예주민 / 명빵 uid06409999 / 그림창고 @AP_2280",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 43,
+                "start": 35,
+                "username": "AP_2280"
+              }
+            ]
+          }
+        },
+        "id": "3706493113",
+        "name": "RYNE🍵",
+        "pinned_tweet_id": "1926566977931243824",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1578980412872744961/OGf5r1IL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 31156,
+          "following_count": 1875,
+          "like_count": 5235,
+          "listed_count": 229,
+          "media_count": 1240,
+          "tweet_count": 9018
+        },
+        "username": "PP_2280",
+        "verified": true
+      }
+    ]
+  }
+}

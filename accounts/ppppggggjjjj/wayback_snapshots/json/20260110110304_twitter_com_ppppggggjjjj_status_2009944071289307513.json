@@ -1,0 +1,856 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1569397683814629379",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A video game like Overwatch",
+          "id": "71",
+          "name": "Video Game"
+        },
+        "entity": {
+          "id": "1233113060732092416",
+          "name": "Arknights"
+        }
+      },
+      {
+        "domain": {
+          "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+          "id": "130",
+          "name": "Multimedia Franchise"
+        },
+        "entity": {
+          "description": "BanG Dream!",
+          "id": "1004022548147798016",
+          "name": "BanG Dream!"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "839544274442051584",
+          "name": "Entertainment"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Gaming",
+          "id": "847527650667094017",
+          "name": "Gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "BanG Dream!",
+          "id": "1004022548147798016",
+          "name": "BanG Dream!"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1070028159964262400",
+          "name": "Video games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1074757527995277313",
+          "name": "Entertainment franchises"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1233113060732092416",
+          "name": "Arknights"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1491897789013393420",
+          "name": "Strategy games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1491900085583577097",
+          "name": "Idol games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1491900373098921986",
+          "name": "Gacha games"
+        }
+      }
+    ],
+    "conversation_id": "2009944071289307513",
+    "created_at": "2026-01-10T11:03:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-10T12:03:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2009944071289307513"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 44,
+          "normalized_text": "BanG Dream",
+          "probability": 0.4086,
+          "start": 35,
+          "type": "Other"
+        }
+      ],
+      "hashtags": [
+        {
+          "end": 32,
+          "start": 25,
+          "tag": "アークナイツ"
+        },
+        {
+          "end": 57,
+          "start": 47,
+          "tag": "AveMujica"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1027065272371372033",
+          "start": 3,
+          "username": "ArknightsStaff"
+        }
+      ],
+      "urls": [
+        {
+          "description": "アークナイツ × BanG Dream! AveMujica コラボが開催決定！夢のお城へようこそ。詳細は後日公開いたします。お楽しみに！公式サイト：https://www.arknights.jp/公式X：https://x.com/ArknightsStaff---© HYPERGRYPH/© Yostar/...",
+          "display_url": "youtu.be/dLU_L8cLevE",
+          "end": 122,
+          "expanded_url": "https://youtu.be/dLU_L8cLevE",
+          "images": [
+            {
+              "height": 720,
+              "url": "https://pbs.twimg.com/news_img/2009906826528337922/FWilZ6Yk?format=jpg&name=orig",
+              "width": 1280
+            },
+            {
+              "height": 150,
+              "url": "https://pbs.twimg.com/news_img/2009906826528337922/FWilZ6Yk?format=jpg&name=150x150",
+              "width": 150
+            }
+          ],
+          "start": 99,
+          "status": 200,
+          "title": "アークナイツ × BanG Dream! Ave Mujica コラボ予告PV",
+          "unwound_url": "https://www.youtube.com/watch?v=dLU_L8cLevE&feature=youtu.be",
+          "url": "https://t.co/LrxsqylKot"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2009944071289307513",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 6449
+    },
+    "referenced_tweets": [
+      {
+        "id": "2009906890550227077",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ArknightsStaff: 【予告】\n#アークナイツ × BanG Dream! #AveMujica コラボが開催決定！\nまずはこちらのPVをご覧ください！\n\n▼ HD版はこちらから\nhttps://t.co/LrxsqylKot\n\n詳細は後日公開いたします。お楽…"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 38000,
+        "height": 720,
+        "media_key": "7_2009906811990896640",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2009906811990896640/pu/img/RBHmgeWPcBSAtaj1.jpg",
+        "public_metrics": {
+          "view_count": 136942
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2009906811990896640/pu/vid/avc1/480x270/9Rd1Y_6_lgojc2cu.mp4?tag=12"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2009906811990896640/pu/vid/avc1/640x360/W3l1xQtXZRNEY95N.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2009906811990896640/pu/vid/avc1/1280x720/gzD9YJbO-4Sd8qMM.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2009906811990896640/pu/pl/1Souwa5SEWbCzC7T.m3u8?tag=12"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1569397683814629379",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1233113060732092416",
+              "name": "Arknights"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "description": "BanG Dream!",
+              "id": "1004022548147798016",
+              "name": "BanG Dream!"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839544274442051584",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "BanG Dream!",
+              "id": "1004022548147798016",
+              "name": "BanG Dream!"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1074757527995277313",
+              "name": "Entertainment franchises"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1233113060732092416",
+              "name": "Arknights"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491897789013393420",
+              "name": "Strategy games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491900085583577097",
+              "name": "Idol games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491900373098921986",
+              "name": "Gacha games"
+            }
+          }
+        ],
+        "conversation_id": "2009944071289307513",
+        "created_at": "2026-01-10T11:03:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-10T12:03:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2009944071289307513"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 44,
+              "normalized_text": "BanG Dream",
+              "probability": 0.4086,
+              "start": 35,
+              "type": "Other"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 32,
+              "start": 25,
+              "tag": "アークナイツ"
+            },
+            {
+              "end": 57,
+              "start": 47,
+              "tag": "AveMujica"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1027065272371372033",
+              "start": 3,
+              "username": "ArknightsStaff"
+            }
+          ],
+          "urls": [
+            {
+              "description": "アークナイツ × BanG Dream! AveMujica コラボが開催決定！夢のお城へようこそ。詳細は後日公開いたします。お楽しみに！公式サイト：https://www.arknights.jp/公式X：https://x.com/ArknightsStaff---© HYPERGRYPH/© Yostar/...",
+              "display_url": "youtu.be/dLU_L8cLevE",
+              "end": 122,
+              "expanded_url": "https://youtu.be/dLU_L8cLevE",
+              "images": [
+                {
+                  "height": 720,
+                  "url": "https://pbs.twimg.com/news_img/2009906826528337922/FWilZ6Yk?format=jpg&name=orig",
+                  "width": 1280
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2009906826528337922/FWilZ6Yk?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 99,
+              "status": 200,
+              "title": "アークナイツ × BanG Dream! Ave Mujica コラボ予告PV",
+              "unwound_url": "https://www.youtube.com/watch?v=dLU_L8cLevE&feature=youtu.be",
+              "url": "https://t.co/LrxsqylKot"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2009944071289307513",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 6449
+        },
+        "referenced_tweets": [
+          {
+            "id": "2009906890550227077",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ArknightsStaff: 【予告】\n#アークナイツ × BanG Dream! #AveMujica コラボが開催決定！\nまずはこちらのPVをご覧ください！\n\n▼ HD版はこちらから\nhttps://t.co/LrxsqylKot\n\n詳細は後日公開いたします。お楽…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2009906811990896640"
+          ]
+        },
+        "author_id": "1027065272371372033",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1233113060732092416",
+              "name": "Arknights"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "description": "BanG Dream!",
+              "id": "1004022548147798016",
+              "name": "BanG Dream!"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839544274442051584",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "BanG Dream!",
+              "id": "1004022548147798016",
+              "name": "BanG Dream!"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1074757527995277313",
+              "name": "Entertainment franchises"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1233113060732092416",
+              "name": "Arknights"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491897789013393420",
+              "name": "Strategy games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491900085583577097",
+              "name": "Idol games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491900373098921986",
+              "name": "Gacha games"
+            }
+          }
+        ],
+        "conversation_id": "2009906890550227077",
+        "created_at": "2026-01-10T08:35:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-10T09:35:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2009906890550227077"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 24,
+              "normalized_text": "BanG Dream",
+              "probability": 0.3826,
+              "start": 15,
+              "type": "Other"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 12,
+              "start": 5,
+              "tag": "アークナイツ"
+            },
+            {
+              "end": 37,
+              "start": 27,
+              "tag": "AveMujica"
+            }
+          ],
+          "urls": [
+            {
+              "description": "アークナイツ × BanG Dream! AveMujica コラボが開催決定！夢のお城へようこそ。詳細は後日公開いたします。お楽しみに！公式サイト：https://www.arknights.jp/公式X：https://x.com/ArknightsStaff---© HYPERGRYPH/© Yostar/...",
+              "display_url": "youtu.be/dLU_L8cLevE",
+              "end": 102,
+              "expanded_url": "https://youtu.be/dLU_L8cLevE",
+              "images": [
+                {
+                  "height": 720,
+                  "url": "https://pbs.twimg.com/news_img/2009906826528337922/FWilZ6Yk?format=jpg&name=orig",
+                  "width": 1280
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2009906826528337922/FWilZ6Yk?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 79,
+              "status": 200,
+              "title": "アークナイツ × BanG Dream! Ave Mujica コラボ予告PV",
+              "unwound_url": "https://www.youtube.com/watch?v=dLU_L8cLevE&feature=youtu.be",
+              "url": "https://t.co/LrxsqylKot"
+            },
+            {
+              "display_url": "pic.x.com/n78ER0TRmT",
+              "end": 147,
+              "expanded_url": "https://x.com/ArknightsStaff/status/2009906890550227077/video/1",
+              "media_key": "7_2009906811990896640",
+              "start": 124,
+              "url": "https://t.co/n78ER0TRmT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2009906890550227077",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1286,
+          "impression_count": 516506,
+          "like_count": 13926,
+          "quote_count": 802,
+          "reply_count": 58,
+          "retweet_count": 6449
+        },
+        "reply_settings": "everyone",
+        "text": "【予告】\n#アークナイツ × BanG Dream! #AveMujica コラボが開催決定！\nまずはこちらのPVをご覧ください！\n\n▼ HD版はこちらから\nhttps://t.co/LrxsqylKot\n\n詳細は後日公開いたします。お楽しみに！ https://t.co/n78ER0TRmT"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-12T18:50:19.000Z",
+        "description": "随缘//医学爱好者/les🏳️‍🌈/lgbt友好/中文/EN/Arknights/绘画/混乱日常碎碎念/很吵//喵喵 【永远拥护培根卷番茄！】提问箱↓ ↓ ↓",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ppppppppp38481",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ppppppppp38481",
+                "start": 0,
+                "url": "https://t.co/dw8CaO5Cup"
+              }
+            ]
+          }
+        },
+        "id": "1569397683814629379",
+        "location": "世界的尽头",
+        "name": "腐烂培根卷",
+        "pinned_tweet_id": "1993298688010322328",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953366409284861953/HM3Aeou7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 177,
+          "following_count": 1027,
+          "like_count": 4121,
+          "listed_count": 1,
+          "media_count": 91,
+          "tweet_count": 4303
+        },
+        "url": "https://t.co/dw8CaO5Cup",
+        "username": "ppppggggjjjj",
+        "verified": false
+      },
+      {
+        "created_at": "2018-08-08T05:33:37.000Z",
+        "description": "YostarとHyperGryphが贈るスマートフォン向け新作ゲーム「#アークナイツ」の公式アカウントです。お問い合わせ⇛ https://t.co/wbdyNLoUaf\nTVアニメ アークナイツ【焔燼曙明/RISE FROM EMBER】 2025年7月4日(金) より放送開始",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 42,
+                "start": 35,
+                "tag": "アークナイツ"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "arknights.jp/contact-1-hint",
+                "end": 85,
+                "expanded_url": "http://arknights.jp/contact-1-hint",
+                "start": 62,
+                "url": "https://t.co/wbdyNLoUaf"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "arknights.jp",
+                "end": 23,
+                "expanded_url": "https://www.arknights.jp/",
+                "start": 0,
+                "url": "https://t.co/KeFHMK3HsW"
+              }
+            ]
+          }
+        },
+        "id": "1027065272371372033",
+        "name": "アークナイツ公式",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1260264885771890689/2KcWaF8a_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 767300,
+          "following_count": 16,
+          "like_count": 203,
+          "listed_count": 5116,
+          "media_count": 4976,
+          "tweet_count": 7235
+        },
+        "url": "https://t.co/KeFHMK3HsW",
+        "username": "ArknightsStaff",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,272 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2046981442044108800"
+      ],
+      "media_source_tweet_id": [
+        "2046981448452960363"
+      ]
+    },
+    "author_id": "1569397683814629379",
+    "conversation_id": "2047340515197346241",
+    "created_at": "2026-04-23T15:43:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-23T16:43:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2047340515197346241"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1705464083095642112",
+          "start": 3,
+          "username": "xoxo_o_x_x"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/azsnlFmosF",
+          "end": 39,
+          "expanded_url": "https://x.com/xoxo_o_x_x/status/2046981448452960363/photo/1",
+          "media_key": "3_2046981442044108800",
+          "start": 16,
+          "url": "https://t.co/azsnlFmosF"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047340515197346241",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 31
+    },
+    "referenced_tweets": [
+      {
+        "id": "2046981448452960363",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @xoxo_o_x_x: https://t.co/azsnlFmosF"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1518,
+        "media_key": "3_2046981442044108800",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGhWxrLbIAAP_bt.jpg",
+        "width": 1639
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2046981442044108800"
+          ],
+          "media_source_tweet_id": [
+            "2046981448452960363"
+          ]
+        },
+        "author_id": "1569397683814629379",
+        "conversation_id": "2047340515197346241",
+        "created_at": "2026-04-23T15:43:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-23T16:43:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047340515197346241"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1705464083095642112",
+              "start": 3,
+              "username": "xoxo_o_x_x"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/azsnlFmosF",
+              "end": 39,
+              "expanded_url": "https://x.com/xoxo_o_x_x/status/2046981448452960363/photo/1",
+              "media_key": "3_2046981442044108800",
+              "start": 16,
+              "url": "https://t.co/azsnlFmosF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047340515197346241",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 31
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046981448452960363",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @xoxo_o_x_x: https://t.co/azsnlFmosF"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2046981442044108800"
+          ]
+        },
+        "author_id": "1705464083095642112",
+        "conversation_id": "2046981448452960363",
+        "created_at": "2026-04-22T15:56:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-22T16:56:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2046981448452960363"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/azsnlFmosF",
+              "end": 23,
+              "expanded_url": "https://x.com/xoxo_o_x_x/status/2046981448452960363/photo/1",
+              "media_key": "3_2046981442044108800",
+              "start": 0,
+              "url": "https://t.co/azsnlFmosF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046981448452960363",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 42,
+          "impression_count": 4793,
+          "like_count": 626,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 31
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/azsnlFmosF"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-12T18:50:19.000Z",
+        "description": "随缘//医学爱好者/Arknights/绘画/混乱日常碎碎念无营养内容/可能会很吵？ /les/lgbt友好/中文/EN//喵喵//提问箱↓ ↓ ↓",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ppppppppp38481",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ppppppppp38481",
+                "start": 0,
+                "url": "https://t.co/dw8CaO6ajX"
+              }
+            ]
+          }
+        },
+        "id": "1569397683814629379",
+        "location": "世界的尽头",
+        "name": "腐烂培根卷",
+        "pinned_tweet_id": "2012485424057291255",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953366409284861953/HM3Aeou7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 212,
+          "following_count": 1315,
+          "like_count": 6960,
+          "listed_count": 1,
+          "media_count": 98,
+          "tweet_count": 5342
+        },
+        "url": "https://t.co/dw8CaO6ajX",
+        "username": "ppppggggjjjj",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-23T06:08:56.000Z",
+        "description": "FAタグ▶#女家糸会",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 10,
+                "start": 5,
+                "tag": "女家糸会"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/a1a2g1n1a2",
+                "end": 23,
+                "expanded_url": "https://lit.link/a1a2g1n1a2",
+                "start": 0,
+                "url": "https://t.co/VRFSiscZVc"
+              }
+            ]
+          }
+        },
+        "id": "1705464083095642112",
+        "location": "不定期浮上 ¦ 記録倉庫",
+        "name": "嫁",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2017391802421284867/AUHvMaFd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2913,
+          "following_count": 59,
+          "like_count": 681,
+          "listed_count": 5,
+          "media_count": 619,
+          "tweet_count": 920
+        },
+        "url": "https://t.co/VRFSiscZVc",
+        "username": "xoxo_o_x_x",
+        "verified": false
+      }
+    ]
+  }
+}

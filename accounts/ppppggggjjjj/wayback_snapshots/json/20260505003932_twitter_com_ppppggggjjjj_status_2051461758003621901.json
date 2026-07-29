@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2051335519372779520"
+      ],
+      "media_source_tweet_id": [
+        "2051335601644023824"
+      ]
+    },
+    "author_id": "1569397683814629379",
+    "conversation_id": "2051461758003621901",
+    "created_at": "2026-05-05T00:39:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-05T01:39:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2051461758003621901"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "353074772",
+          "start": 3,
+          "username": "PIBI_Bullet"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/RbTZ3VtL0y",
+          "end": 49,
+          "expanded_url": "https://x.com/PIBI_Bullet/status/2051335601644023824/photo/1",
+          "media_key": "3_2051335519372779520",
+          "start": 26,
+          "url": "https://t.co/RbTZ3VtL0y"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2051461758003621901",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 184
+    },
+    "referenced_tweets": [
+      {
+        "id": "2051335601644023824",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @PIBI_Bullet: 裂变。裂变。复活 https://t.co/RbTZ3VtL0y"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2051461758003621901].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2051461758003621901",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2051461758003621901"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1434,
+        "media_key": "3_2051335519372779520",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHfOyVNbIAA6my_.jpg",
+        "width": 1377
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2051335519372779520"
+          ]
+        },
+        "author_id": "353074772",
+        "conversation_id": "2051335601644023824",
+        "created_at": "2026-05-04T16:18:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-04T17:18:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2051335601644023824"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/RbTZ3VtL0y",
+              "end": 32,
+              "expanded_url": "https://x.com/PIBI_Bullet/status/2051335601644023824/photo/1",
+              "media_key": "3_2051335519372779520",
+              "start": 9,
+              "url": "https://t.co/RbTZ3VtL0y"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051335601644023824",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 117,
+          "impression_count": 7710,
+          "like_count": 1047,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 184
+        },
+        "reply_settings": "everyone",
+        "text": "裂变。裂变。复活 https://t.co/RbTZ3VtL0y"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-12T18:50:19.000Z",
+        "description": "随缘//医学爱好者/Arknights/绘画/混乱日常碎碎念无营养内容/可能会很吵？ /les/lgbt友好/中文/EN//喵喵//提问箱↓ ↓ ↓",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ppppppppp38481",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ppppppppp38481",
+                "start": 0,
+                "url": "https://t.co/dw8CaO6ajX"
+              }
+            ]
+          }
+        },
+        "id": "1569397683814629379",
+        "location": "世界的尽头",
+        "name": "腐烂培根卷",
+        "pinned_tweet_id": "2012485424057291255",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953366409284861953/HM3Aeou7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 224,
+          "following_count": 1394,
+          "like_count": 7450,
+          "listed_count": 1,
+          "media_count": 99,
+          "tweet_count": 5651
+        },
+        "url": "https://t.co/dw8CaO6ajX",
+        "username": "ppppggggjjjj",
+        "verified": false
+      },
+      {
+        "created_at": "2011-08-11T14:24:11.000Z",
+        "description": "🌈🌈🌈咻咻咻。\n《解异集》为中国神怪故事再创作妖神合集，已经出版~\n\n転載使用禁止 \nPlease don't use my work without permission💦💦\n所有的评论我都会用中文回复，见谅！！\n让我们来说中文~~",
+        "id": "353074772",
+        "name": "屁屁弹",
+        "pinned_tweet_id": "1850194832268067153",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/840242850541395968/6czmXLjR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 80059,
+          "following_count": 3430,
+          "like_count": 4769,
+          "listed_count": 618,
+          "media_count": 681,
+          "tweet_count": 1131
+        },
+        "username": "PIBI_Bullet",
+        "verified": false
+      }
+    ]
+  }
+}

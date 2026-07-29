@@ -1,0 +1,650 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2034509157056073728"
+      ],
+      "media_source_tweet_id": [
+        "2034509172121977238"
+      ]
+    },
+    "author_id": "1569397683814629379",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A video game like Overwatch",
+          "id": "71",
+          "name": "Video Game"
+        },
+        "entity": {
+          "id": "1233113060732092416",
+          "name": "Arknights"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Gaming",
+          "id": "847527650667094017",
+          "name": "Gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1070028159964262400",
+          "name": "Video games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1233113060732092416",
+          "name": "Arknights"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1491897789013393420",
+          "name": "Strategy games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1491900085583577097",
+          "name": "Idol games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1491900373098921986",
+          "name": "Gacha games"
+        }
+      }
+    ],
+    "conversation_id": "2034600008251752916",
+    "created_at": "2026-03-19T11:56:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-19T12:56:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2034600008251752916"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 29,
+          "normalized_text": "Charging\nPri",
+          "probability": 0.418,
+          "start": 18,
+          "type": "Other"
+        },
+        {
+          "end": 71,
+          "normalized_text": "Ora",
+          "probability": 0.4902,
+          "start": 69,
+          "type": "Other"
+        },
+        {
+          "end": 79,
+          "normalized_text": "Pri",
+          "probability": 0.493,
+          "start": 77,
+          "type": "Other"
+        },
+        {
+          "end": 115,
+          "normalized_text": "Arknights",
+          "probability": 0.8295,
+          "start": 107,
+          "type": "Other"
+        }
+      ],
+      "hashtags": [
+        {
+          "end": 105,
+          "start": 98,
+          "tag": "アークナイツ"
+        },
+        {
+          "end": 116,
+          "start": 106,
+          "tag": "Arknights"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1745715883975352320",
+          "start": 3,
+          "username": "HAIDAN267174"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/GHxM46N4AV",
+          "end": 140,
+          "expanded_url": "https://x.com/HAIDAN267174/status/2034509172121977238/photo/1",
+          "media_key": "3_2034509157056073728",
+          "start": 117,
+          "url": "https://t.co/GHxM46N4AV"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2034600008251752916",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 131
+    },
+    "referenced_tweets": [
+      {
+        "id": "2034509172121977238",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @HAIDAN267174: Charging\nPri:Is the experiment not going smoothly?\nOra:...\nPri:Take a good rest\n#アークナイツ #Arknights https://t.co/GHxM46N4AV"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2034509157056073728",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDwHTI6bUAAL9eQ.jpg",
+        "width": 1832
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2034509157056073728"
+          ],
+          "media_source_tweet_id": [
+            "2034509172121977238"
+          ]
+        },
+        "author_id": "1569397683814629379",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1233113060732092416",
+              "name": "Arknights"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1233113060732092416",
+              "name": "Arknights"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491897789013393420",
+              "name": "Strategy games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491900085583577097",
+              "name": "Idol games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491900373098921986",
+              "name": "Gacha games"
+            }
+          }
+        ],
+        "conversation_id": "2034600008251752916",
+        "created_at": "2026-03-19T11:56:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-19T12:56:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2034600008251752916"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 29,
+              "normalized_text": "Charging\nPri",
+              "probability": 0.418,
+              "start": 18,
+              "type": "Other"
+            },
+            {
+              "end": 71,
+              "normalized_text": "Ora",
+              "probability": 0.4902,
+              "start": 69,
+              "type": "Other"
+            },
+            {
+              "end": 79,
+              "normalized_text": "Pri",
+              "probability": 0.493,
+              "start": 77,
+              "type": "Other"
+            },
+            {
+              "end": 115,
+              "normalized_text": "Arknights",
+              "probability": 0.8295,
+              "start": 107,
+              "type": "Other"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 105,
+              "start": 98,
+              "tag": "アークナイツ"
+            },
+            {
+              "end": 116,
+              "start": 106,
+              "tag": "Arknights"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1745715883975352320",
+              "start": 3,
+              "username": "HAIDAN267174"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/GHxM46N4AV",
+              "end": 140,
+              "expanded_url": "https://x.com/HAIDAN267174/status/2034509172121977238/photo/1",
+              "media_key": "3_2034509157056073728",
+              "start": 117,
+              "url": "https://t.co/GHxM46N4AV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2034600008251752916",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 131
+        },
+        "referenced_tweets": [
+          {
+            "id": "2034509172121977238",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @HAIDAN267174: Charging\nPri:Is the experiment not going smoothly?\nOra:...\nPri:Take a good rest\n#アークナイツ #Arknights https://t.co/GHxM46N4AV"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2034509157056073728"
+          ]
+        },
+        "author_id": "1745715883975352320",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1233113060732092416",
+              "name": "Arknights"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1233113060732092416",
+              "name": "Arknights"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491897789013393420",
+              "name": "Strategy games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491900085583577097",
+              "name": "Idol games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491900373098921986",
+              "name": "Gacha games"
+            }
+          }
+        ],
+        "conversation_id": "2034509172121977238",
+        "created_at": "2026-03-19T05:56:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-19T06:56:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2034509172121977238"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 11,
+              "normalized_text": "Pri",
+              "probability": 0.3037,
+              "start": 9,
+              "type": "Other"
+            },
+            {
+              "end": 53,
+              "normalized_text": "Ora",
+              "probability": 0.5001,
+              "start": 51,
+              "type": "Other"
+            },
+            {
+              "end": 61,
+              "normalized_text": "Pri",
+              "probability": 0.5624,
+              "start": 59,
+              "type": "Other"
+            },
+            {
+              "end": 97,
+              "normalized_text": "Arknights",
+              "probability": 0.8585,
+              "start": 89,
+              "type": "Other"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 87,
+              "start": 80,
+              "tag": "アークナイツ"
+            },
+            {
+              "end": 98,
+              "start": 88,
+              "tag": "Arknights"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/GHxM46N4AV",
+              "end": 122,
+              "expanded_url": "https://x.com/HAIDAN267174/status/2034509172121977238/photo/1",
+              "media_key": "3_2034509157056073728",
+              "start": 99,
+              "url": "https://t.co/GHxM46N4AV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2034509172121977238",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 107,
+          "impression_count": 6403,
+          "like_count": 922,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 131
+        },
+        "reply_settings": "everyone",
+        "text": "Charging\nPri:Is the experiment not going smoothly?\nOra:...\nPri:Take a good rest\n#アークナイツ #Arknights https://t.co/GHxM46N4AV"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-12T18:50:19.000Z",
+        "description": "随缘//医学爱好者/les🏳️‍🌈/lgbt友好/中文/EN/Arknights/绘画/混乱日常碎碎念/很吵//喵喵//提问箱↓ ↓ ↓",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ppppppppp38481",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ppppppppp38481",
+                "start": 0,
+                "url": "https://t.co/dw8CaO6ajX"
+              }
+            ]
+          }
+        },
+        "id": "1569397683814629379",
+        "location": "世界的尽头",
+        "name": "腐烂培根卷",
+        "pinned_tweet_id": "2012485424057291255",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953366409284861953/HM3Aeou7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 193,
+          "following_count": 1197,
+          "like_count": 5589,
+          "listed_count": 1,
+          "media_count": 97,
+          "tweet_count": 4788
+        },
+        "url": "https://t.co/dw8CaO6ajX",
+        "username": "ppppggggjjjj",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-12T07:54:42.000Z",
+        "description": "=乙烯=\nFrom China use machine translation\n爬墙速度超快",
+        "id": "1745715883975352320",
+        "name": "EThylene",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1823553556882055168/XzXy-vqG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 454,
+          "following_count": 28,
+          "like_count": 385,
+          "listed_count": 1,
+          "media_count": 51,
+          "tweet_count": 108
+        },
+        "username": "HAIDAN267174",
+        "verified": false
+      }
+    ]
+  }
+}

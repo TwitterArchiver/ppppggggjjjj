@@ -1,0 +1,247 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1998076834194567168"
+      ],
+      "media_source_tweet_id": [
+        "1998076841610084368"
+      ]
+    },
+    "author_id": "1569397683814629379",
+    "conversation_id": "1998304490177569057",
+    "created_at": "2025-12-09T08:11:31.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-09T09:11:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1998304490177569057"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "3706493113",
+          "start": 3,
+          "username": "PP_2280"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/jRmWbebt6h",
+          "end": 43,
+          "expanded_url": "https://x.com/PP_2280/status/1998076841610084368/photo/1",
+          "media_key": "3_1998076834194567168",
+          "start": 20,
+          "url": "https://t.co/jRmWbebt6h"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1998304490177569057",
+    "lang": "ko",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 381
+    },
+    "referenced_tweets": [
+      {
+        "id": "1998076841610084368",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @PP_2280: 오늘 마그마 https://t.co/jRmWbebt6h"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3344,
+        "media_key": "3_1998076834194567168",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7qYS2AasAAAW8d.jpg",
+        "width": 2095
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1998076834194567168"
+          ],
+          "media_source_tweet_id": [
+            "1998076841610084368"
+          ]
+        },
+        "author_id": "1569397683814629379",
+        "conversation_id": "1998304490177569057",
+        "created_at": "2025-12-09T08:11:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-09T09:11:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1998304490177569057"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "3706493113",
+              "start": 3,
+              "username": "PP_2280"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/jRmWbebt6h",
+              "end": 43,
+              "expanded_url": "https://x.com/PP_2280/status/1998076841610084368/photo/1",
+              "media_key": "3_1998076834194567168",
+              "start": 20,
+              "url": "https://t.co/jRmWbebt6h"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1998304490177569057",
+        "lang": "ko",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 381
+        },
+        "referenced_tweets": [
+          {
+            "id": "1998076841610084368",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @PP_2280: 오늘 마그마 https://t.co/jRmWbebt6h"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1998076834194567168"
+          ]
+        },
+        "author_id": "3706493113",
+        "conversation_id": "1998076841610084368",
+        "created_at": "2025-12-08T17:06:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-08T18:00:23.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1998075195731636231",
+          "1998076841610084368"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/jRmWbebt6h",
+              "end": 30,
+              "expanded_url": "https://x.com/PP_2280/status/1998076841610084368/photo/1",
+              "media_key": "3_1998076834194567168",
+              "start": 7,
+              "url": "https://t.co/jRmWbebt6h"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1998076841610084368",
+        "lang": "ko",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 249,
+          "impression_count": 21434,
+          "like_count": 2629,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 381
+        },
+        "reply_settings": "everyone",
+        "text": "오늘 마그마 https://t.co/jRmWbebt6h"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-12T18:50:19.000Z",
+        "description": "随缘//医学爱好者/les🏳️‍🌈/lgbt友好/中文/EN/Arknights/绘画/混乱日常碎碎念/很吵//喵喵 【永远拥护培根卷番茄！】",
+        "id": "1569397683814629379",
+        "location": "世界的尽头",
+        "name": "腐烂培根卷",
+        "pinned_tweet_id": "1993298688010322328",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953366409284861953/HM3Aeou7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 155,
+          "following_count": 926,
+          "like_count": 3404,
+          "listed_count": 1,
+          "media_count": 88,
+          "tweet_count": 3974
+        },
+        "username": "ppppggggjjjj",
+        "verified": false
+      },
+      {
+        "created_at": "2015-09-27T18:41:32.000Z",
+        "description": "히나미자와 명예주민 / 명빵 uid06409999 / 그림창고 @AP_2280",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 43,
+                "start": 35,
+                "username": "AP_2280"
+              }
+            ]
+          }
+        },
+        "id": "3706493113",
+        "name": "RYNE🍵",
+        "pinned_tweet_id": "1926566977931243824",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1578980412872744961/OGf5r1IL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 31220,
+          "following_count": 1876,
+          "like_count": 5243,
+          "listed_count": 229,
+          "media_count": 1243,
+          "tweet_count": 9027
+        },
+        "username": "PP_2280",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,799 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1569397683814629379",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "id": "839543165002506240",
+          "name": "Anime"
+        }
+      },
+      {
+        "domain": {
+          "description": "A video game like Overwatch",
+          "id": "71",
+          "name": "Video Game"
+        },
+        "entity": {
+          "id": "1233113060732092416",
+          "name": "Arknights"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "839543165002506240",
+          "name": "Anime"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Gaming",
+          "id": "847527650667094017",
+          "name": "Gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1070028159964262400",
+          "name": "Video games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1233113060732092416",
+          "name": "Arknights"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1297951101136732160",
+          "name": "Animation & comics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1491897789013393420",
+          "name": "Strategy games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1491900085583577097",
+          "name": "Idol games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1491900373098921986",
+          "name": "Gacha games"
+        }
+      }
+    ],
+    "conversation_id": "1940454896312242518",
+    "created_at": "2025-07-02T16:57:53.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-02T17:57:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1940454896312242518"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 38,
+          "normalized_text": "焔燼曙明",
+          "probability": 0.2291,
+          "start": 35,
+          "type": "Person"
+        },
+        {
+          "end": 54,
+          "normalized_text": "RISE FROM EMBER",
+          "probability": 0.6616,
+          "start": 40,
+          "type": "Other"
+        }
+      ],
+      "hashtags": [
+        {
+          "end": 129,
+          "start": 122,
+          "tag": "アークナイツ"
+        },
+        {
+          "end": 135,
+          "start": 130,
+          "tag": "焔燼曙明"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1027065272371372033",
+          "start": 3,
+          "username": "ArknightsStaff"
+        }
+      ],
+      "urls": [
+        {
+          "description": "アークナイツTVアニメシリーズの公式サイトです。TVアニメシリーズ シーズン03『アークナイツ【焔燼曙明/RISE FROM EMBER】』鋭意制作中！",
+          "display_url": "arknights-anime.jp/on-air",
+          "end": 120,
+          "expanded_url": "https://arknights-anime.jp/on-air",
+          "images": [
+            {
+              "height": 1080,
+              "url": "https://pbs.twimg.com/news_img/1938949251343724545/e8AtiJ0y?format=png&name=orig",
+              "width": 1920
+            },
+            {
+              "height": 150,
+              "url": "https://pbs.twimg.com/news_img/1938949251343724545/e8AtiJ0y?format=png&name=150x150",
+              "width": 150
+            }
+          ],
+          "start": 97,
+          "status": 200,
+          "title": "『アークナイツ』TVアニメシリーズ公式サイト",
+          "unwound_url": "https://arknights-anime.jp/on-air",
+          "url": "https://t.co/zwdCRaSTIR"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1940454896312242518",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2618
+    },
+    "referenced_tweets": [
+      {
+        "id": "1940364834362753212",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ArknightsStaff: 【TVアニメ】\nアークナイツ【焔燼曙明/RISE FROM EMBER】\n放送開始まであと2日！\n\n7月4日（金）より順次放送開始！\n\n▼放送/配信情報\nhttps://t.co/zwdCRaSTIR\n\n#アークナイツ\n#焔燼曙明 htt…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1920,
+        "media_key": "3_1940251375256182785",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gu0oWI0boAEA1Re.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1569397683814629379",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "839543165002506240",
+              "name": "Anime"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1233113060732092416",
+              "name": "Arknights"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839543165002506240",
+              "name": "Anime"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1233113060732092416",
+              "name": "Arknights"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1297951101136732160",
+              "name": "Animation & comics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491897789013393420",
+              "name": "Strategy games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491900085583577097",
+              "name": "Idol games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491900373098921986",
+              "name": "Gacha games"
+            }
+          }
+        ],
+        "conversation_id": "1940454896312242518",
+        "created_at": "2025-07-02T16:57:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-02T17:57:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1940454896312242518"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 38,
+              "normalized_text": "焔燼曙明",
+              "probability": 0.2291,
+              "start": 35,
+              "type": "Person"
+            },
+            {
+              "end": 54,
+              "normalized_text": "RISE FROM EMBER",
+              "probability": 0.6616,
+              "start": 40,
+              "type": "Other"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 129,
+              "start": 122,
+              "tag": "アークナイツ"
+            },
+            {
+              "end": 135,
+              "start": 130,
+              "tag": "焔燼曙明"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1027065272371372033",
+              "start": 3,
+              "username": "ArknightsStaff"
+            }
+          ],
+          "urls": [
+            {
+              "description": "アークナイツTVアニメシリーズの公式サイトです。TVアニメシリーズ シーズン03『アークナイツ【焔燼曙明/RISE FROM EMBER】』鋭意制作中！",
+              "display_url": "arknights-anime.jp/on-air",
+              "end": 120,
+              "expanded_url": "https://arknights-anime.jp/on-air",
+              "images": [
+                {
+                  "height": 1080,
+                  "url": "https://pbs.twimg.com/news_img/1938949251343724545/e8AtiJ0y?format=png&name=orig",
+                  "width": 1920
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/1938949251343724545/e8AtiJ0y?format=png&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 97,
+              "status": 200,
+              "title": "『アークナイツ』TVアニメシリーズ公式サイト",
+              "unwound_url": "https://arknights-anime.jp/on-air",
+              "url": "https://t.co/zwdCRaSTIR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1940454896312242518",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2618
+        },
+        "referenced_tweets": [
+          {
+            "id": "1940364834362753212",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ArknightsStaff: 【TVアニメ】\nアークナイツ【焔燼曙明/RISE FROM EMBER】\n放送開始まであと2日！\n\n7月4日（金）より順次放送開始！\n\n▼放送/配信情報\nhttps://t.co/zwdCRaSTIR\n\n#アークナイツ\n#焔燼曙明 htt…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1940251375256182785"
+          ]
+        },
+        "author_id": "1027065272371372033",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "839543165002506240",
+              "name": "Anime"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1233113060732092416",
+              "name": "Arknights"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839543165002506240",
+              "name": "Anime"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1233113060732092416",
+              "name": "Arknights"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1297951101136732160",
+              "name": "Animation & comics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491897789013393420",
+              "name": "Strategy games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491900085583577097",
+              "name": "Idol games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491900373098921986",
+              "name": "Gacha games"
+            }
+          }
+        ],
+        "conversation_id": "1940364834362753212",
+        "created_at": "2025-07-02T11:00:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-02T12:00:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1940364834362753212"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 18,
+              "normalized_text": "焔燼曙明",
+              "probability": 0.2317,
+              "start": 15,
+              "type": "Person"
+            },
+            {
+              "end": 34,
+              "normalized_text": "RISE FROM EMBER",
+              "probability": 0.7124,
+              "start": 20,
+              "type": "Other"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 109,
+              "start": 102,
+              "tag": "アークナイツ"
+            },
+            {
+              "end": 115,
+              "start": 110,
+              "tag": "焔燼曙明"
+            }
+          ],
+          "urls": [
+            {
+              "description": "アークナイツTVアニメシリーズの公式サイトです。TVアニメシリーズ シーズン03『アークナイツ【焔燼曙明/RISE FROM EMBER】』鋭意制作中！",
+              "display_url": "arknights-anime.jp/on-air",
+              "end": 100,
+              "expanded_url": "https://arknights-anime.jp/on-air",
+              "images": [
+                {
+                  "height": 1080,
+                  "url": "https://pbs.twimg.com/news_img/1938949251343724545/e8AtiJ0y?format=png&name=orig",
+                  "width": 1920
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/1938949251343724545/e8AtiJ0y?format=png&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 77,
+              "status": 200,
+              "title": "『アークナイツ』TVアニメシリーズ公式サイト",
+              "unwound_url": "https://arknights-anime.jp/on-air",
+              "url": "https://t.co/zwdCRaSTIR"
+            },
+            {
+              "display_url": "pic.x.com/nzlexYFcbS",
+              "end": 139,
+              "expanded_url": "https://x.com/ArknightsStaff/status/1940364834362753212/photo/1",
+              "media_key": "3_1940251375256182785",
+              "start": 116,
+              "url": "https://t.co/nzlexYFcbS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1940364834362753212",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 424,
+          "impression_count": 217724,
+          "like_count": 7390,
+          "quote_count": 132,
+          "reply_count": 12,
+          "retweet_count": 2618
+        },
+        "reply_settings": "everyone",
+        "text": "【TVアニメ】\nアークナイツ【焔燼曙明/RISE FROM EMBER】\n放送開始まであと2日！\n\n7月4日（金）より順次放送開始！\n\n▼放送/配信情報\nhttps://t.co/zwdCRaSTIR\n\n#アークナイツ\n#焔燼曙明 https://t.co/nzlexYFcbS"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-12T18:50:19.000Z",
+        "description": "随缘//医学爱好者/les🏳️‍🌈/lgbt友好/中文/EN/Arknights/绘画/混乱日常碎碎念/很吵//喵喵",
+        "id": "1569397683814629379",
+        "name": "腐烂苹果酱",
+        "pinned_tweet_id": "1937498024907010498",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1620839959388393479/hsMKvVei_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 31,
+          "following_count": 271,
+          "like_count": 452,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 684
+        },
+        "username": "ppppggggjjjj",
+        "verified": false
+      },
+      {
+        "created_at": "2018-08-08T05:33:37.000Z",
+        "description": "YostarとHyperGryphが贈るスマートフォン向け新作ゲーム「#アークナイツ」の公式アカウントです。お問い合わせ⇛ https://t.co/wbdyNLoUaf\nTVアニメ アークナイツ【焔燼曙明/RISE FROM EMBER】 2025年7月4日(金) より放送開始",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 42,
+                "start": 35,
+                "tag": "アークナイツ"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "arknights.jp/contact-1-hint",
+                "end": 85,
+                "expanded_url": "http://arknights.jp/contact-1-hint",
+                "start": 62,
+                "url": "https://t.co/wbdyNLoUaf"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "arknights.jp",
+                "end": 23,
+                "expanded_url": "https://www.arknights.jp/",
+                "start": 0,
+                "url": "https://t.co/KeFHMK3HsW"
+              }
+            ]
+          }
+        },
+        "id": "1027065272371372033",
+        "name": "アークナイツ公式",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1260264885771890689/2KcWaF8a_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 740068,
+          "following_count": 16,
+          "like_count": 200,
+          "listed_count": 5062,
+          "media_count": 4495,
+          "tweet_count": 6524
+        },
+        "url": "https://t.co/KeFHMK3HsW",
+        "username": "ArknightsStaff",
+        "verified": true
+      }
+    ]
+  }
+}

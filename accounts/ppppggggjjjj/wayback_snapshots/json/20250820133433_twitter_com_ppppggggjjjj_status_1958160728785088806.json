@@ -1,0 +1,423 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1957766789808680961"
+      ],
+      "media_source_tweet_id": [
+        "1957766871307985390"
+      ]
+    },
+    "author_id": "1569397683814629379",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A video game like Overwatch",
+          "id": "71",
+          "name": "Video Game"
+        },
+        "entity": {
+          "id": "1390782787301494785",
+          "name": "Touhou Project"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1390782787301494785",
+          "name": "Touhou Project"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1403427158953922560",
+          "name": "Shooting games"
+        }
+      }
+    ],
+    "conversation_id": "1958160728785088806",
+    "created_at": "2025-08-20T13:34:33.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-20T14:34:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1958160728785088806"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 16,
+          "normalized_text": "文ちゃん",
+          "probability": 0.6454,
+          "start": 13,
+          "type": "Person"
+        }
+      ],
+      "hashtags": [
+        {
+          "end": 28,
+          "start": 18,
+          "tag": "東方Project"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1802886094784184320",
+          "start": 3,
+          "username": "ctd_114"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/EGGKq4aOFz",
+          "end": 52,
+          "expanded_url": "https://x.com/ctd_114/status/1957766871307985390/photo/1",
+          "media_key": "3_1957766789808680961",
+          "start": 29,
+          "url": "https://t.co/EGGKq4aOFz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1958160728785088806",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1008
+    },
+    "referenced_tweets": [
+      {
+        "id": "1957766871307985390",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ctd_114: 文ちゃん　#東方Project https://t.co/EGGKq4aOFz"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1650,
+        "media_key": "3_1957766789808680961",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GytihcuacAEDzkh.jpg",
+        "width": 1283
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1957766789808680961"
+          ],
+          "media_source_tweet_id": [
+            "1957766871307985390"
+          ]
+        },
+        "author_id": "1569397683814629379",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1390782787301494785",
+              "name": "Touhou Project"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1390782787301494785",
+              "name": "Touhou Project"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1403427158953922560",
+              "name": "Shooting games"
+            }
+          }
+        ],
+        "conversation_id": "1958160728785088806",
+        "created_at": "2025-08-20T13:34:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-20T14:34:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1958160728785088806"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 16,
+              "normalized_text": "文ちゃん",
+              "probability": 0.6454,
+              "start": 13,
+              "type": "Person"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 28,
+              "start": 18,
+              "tag": "東方Project"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1802886094784184320",
+              "start": 3,
+              "username": "ctd_114"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/EGGKq4aOFz",
+              "end": 52,
+              "expanded_url": "https://x.com/ctd_114/status/1957766871307985390/photo/1",
+              "media_key": "3_1957766789808680961",
+              "start": 29,
+              "url": "https://t.co/EGGKq4aOFz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1958160728785088806",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1008
+        },
+        "referenced_tweets": [
+          {
+            "id": "1957766871307985390",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ctd_114: 文ちゃん　#東方Project https://t.co/EGGKq4aOFz"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1957766789808680961"
+          ]
+        },
+        "author_id": "1802886094784184320",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1390782787301494785",
+              "name": "Touhou Project"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1390782787301494785",
+              "name": "Touhou Project"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1403427158953922560",
+              "name": "Shooting games"
+            }
+          }
+        ],
+        "conversation_id": "1957766871307985390",
+        "created_at": "2025-08-19T11:29:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-19T12:29:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1957766871307985390"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 3,
+              "normalized_text": "文ちゃん",
+              "probability": 0.6176,
+              "start": 0,
+              "type": "Person"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 15,
+              "start": 5,
+              "tag": "東方Project"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/EGGKq4aOFz",
+              "end": 39,
+              "expanded_url": "https://x.com/ctd_114/status/1957766871307985390/photo/1",
+              "media_key": "3_1957766789808680961",
+              "start": 16,
+              "url": "https://t.co/EGGKq4aOFz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1957766871307985390",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 798,
+          "impression_count": 103861,
+          "like_count": 7351,
+          "quote_count": 2,
+          "reply_count": 9,
+          "retweet_count": 1008
+        },
+        "reply_settings": "everyone",
+        "text": "文ちゃん　#東方Project https://t.co/EGGKq4aOFz"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-12T18:50:19.000Z",
+        "description": "随缘//医学爱好者/les🏳️‍🌈/lgbt友好/中文/EN/Arknights/绘画/混乱日常碎碎念/很吵//喵喵 【永远拥护培根卷番茄！】",
+        "id": "1569397683814629379",
+        "location": "世界的尽头",
+        "name": "腐烂培根卷",
+        "pinned_tweet_id": "1937498024907010498",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953366409284861953/HM3Aeou7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 103,
+          "following_count": 654,
+          "like_count": 1819,
+          "listed_count": 0,
+          "media_count": 55,
+          "tweet_count": 2206
+        },
+        "username": "ppppggggjjjj",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-18T02:09:14.000Z",
+        "description": "いろんな絵を描きます❣️\n無断転載・AI学習→NG！！❌️❌️\nご依頼はDMにてお願いします！",
+        "id": "1802886094784184320",
+        "name": "しべりあ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1802943999638224896/Qup2YKhH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17005,
+          "following_count": 16,
+          "like_count": 5703,
+          "listed_count": 120,
+          "media_count": 138,
+          "tweet_count": 1019
+        },
+        "username": "ctd_114",
+        "verified": false
+      }
+    ]
+  }
+}

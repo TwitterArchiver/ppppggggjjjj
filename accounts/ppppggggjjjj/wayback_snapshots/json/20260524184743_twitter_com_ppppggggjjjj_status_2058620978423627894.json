@@ -1,0 +1,262 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2058491957551505409"
+      ],
+      "media_source_tweet_id": [
+        "2058492619244904519"
+      ]
+    },
+    "author_id": "1569397683814629379",
+    "conversation_id": "2058620978423627894",
+    "created_at": "2026-05-24T18:47:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-24T19:47:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2058620978423627894"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1215257592898785282",
+          "start": 3,
+          "username": "odatsu5"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/bi6pLCvlBT",
+          "end": 40,
+          "expanded_url": "https://x.com/odatsu5/status/2058492619244904519/photo/1",
+          "media_key": "3_2058491957551505409",
+          "start": 17,
+          "url": "https://t.co/bi6pLCvlBT"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058620978423627894",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 65
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058492619244904519",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @odatsu5: アミ博 https://t.co/bi6pLCvlBT"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1439,
+        "media_key": "3_2058491957551505409",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJE7h27bIAEA2Wn.jpg",
+        "width": 1367
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2058491957551505409"
+          ],
+          "media_source_tweet_id": [
+            "2058492619244904519"
+          ]
+        },
+        "author_id": "1569397683814629379",
+        "conversation_id": "2058620978423627894",
+        "created_at": "2026-05-24T18:47:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-24T19:47:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058620978423627894"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1215257592898785282",
+              "start": 3,
+              "username": "odatsu5"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/bi6pLCvlBT",
+              "end": 40,
+              "expanded_url": "https://x.com/odatsu5/status/2058492619244904519/photo/1",
+              "media_key": "3_2058491957551505409",
+              "start": 17,
+              "url": "https://t.co/bi6pLCvlBT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058620978423627894",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 65
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058492619244904519",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @odatsu5: アミ博 https://t.co/bi6pLCvlBT"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2058491957551505409"
+          ]
+        },
+        "author_id": "1215257592898785282",
+        "conversation_id": "2058492619244904519",
+        "created_at": "2026-05-24T10:17:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-24T11:17:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2058492619244904519"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/bi6pLCvlBT",
+              "end": 27,
+              "expanded_url": "https://x.com/odatsu5/status/2058492619244904519/photo/1",
+              "media_key": "3_2058491957551505409",
+              "start": 4,
+              "url": "https://t.co/bi6pLCvlBT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058492619244904519",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 57,
+          "impression_count": 6423,
+          "like_count": 756,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 65
+        },
+        "reply_settings": "everyone",
+        "text": "アミ博 https://t.co/bi6pLCvlBT"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-12T18:50:19.000Z",
+        "description": "随缘//医学爱好者/Arknights/绘画/混乱日常碎碎念无营养内容/可能会很吵？ /les/lgbt友好/中文/EN//喵喵//提问箱↓ ↓ ↓",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ppppppppp38481",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ppppppppp38481",
+                "start": 0,
+                "url": "https://t.co/dw8CaO6ajX"
+              }
+            ]
+          }
+        },
+        "id": "1569397683814629379",
+        "location": "世界的尽头",
+        "name": "腐烂培根卷",
+        "pinned_tweet_id": "2012485424057291255",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953366409284861953/HM3Aeou7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 248,
+          "following_count": 1550,
+          "like_count": 8543,
+          "listed_count": 1,
+          "media_count": 103,
+          "tweet_count": 6317
+        },
+        "url": "https://t.co/dw8CaO6ajX",
+        "username": "ppppggggjjjj",
+        "verified": false
+      },
+      {
+        "created_at": "2020-01-09T13:02:53.000Z",
+        "description": "腐れ 二次創作絵 20↑",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/45081315",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/45081315",
+                "start": 0,
+                "url": "https://t.co/E6wfvrsvBn"
+              }
+            ]
+          }
+        },
+        "id": "1215257592898785282",
+        "name": "小田",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048078766476546048/gYyttQUo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4828,
+          "following_count": 223,
+          "like_count": 2587,
+          "listed_count": 31,
+          "media_count": 158,
+          "tweet_count": 914
+        },
+        "url": "https://t.co/E6wfvrsvBn",
+        "username": "odatsu5",
+        "verified": false
+      }
+    ]
+  }
+}

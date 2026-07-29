@@ -1,0 +1,336 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1939899508537655296"
+      ],
+      "media_source_tweet_id": [
+        "1939899564087288217"
+      ]
+    },
+    "author_id": "1569397683814629379",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1940203287179141205",
+    "created_at": "2025-07-02T00:18:05.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-02T01:18:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1940203287179141205"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 46,
+          "normalized_text": "シュウ",
+          "probability": 0.8408,
+          "start": 44,
+          "type": "Person"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 17,
+          "id": "2963260532",
+          "start": 3,
+          "username": "shutenndouji1"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/pHfqSC6URZ",
+          "end": 80,
+          "expanded_url": "https://x.com/shutenndouji1/status/1939899564087288217/photo/1",
+          "media_key": "3_1939899508537655296",
+          "start": 57,
+          "url": "https://t.co/pHfqSC6URZ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1940203287179141205",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 334
+    },
+    "referenced_tweets": [
+      {
+        "id": "1939899564087288217",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @shutenndouji1: 懐黍離復刻！懐黍離復刻！読んで！みんな読んで！\n\nシュウ姉最高だから！！！ https://t.co/pHfqSC6URZ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1637,
+        "media_key": "3_1939899508537655296",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GuvoUzJXgAAkmrN.jpg",
+        "width": 1158
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1939899508537655296"
+          ],
+          "media_source_tweet_id": [
+            "1939899564087288217"
+          ]
+        },
+        "author_id": "1569397683814629379",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1940203287179141205",
+        "created_at": "2025-07-02T00:18:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-02T01:18:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1940203287179141205"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 46,
+              "normalized_text": "シュウ",
+              "probability": 0.8408,
+              "start": 44,
+              "type": "Person"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 17,
+              "id": "2963260532",
+              "start": 3,
+              "username": "shutenndouji1"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/pHfqSC6URZ",
+              "end": 80,
+              "expanded_url": "https://x.com/shutenndouji1/status/1939899564087288217/photo/1",
+              "media_key": "3_1939899508537655296",
+              "start": 57,
+              "url": "https://t.co/pHfqSC6URZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1940203287179141205",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 334
+        },
+        "referenced_tweets": [
+          {
+            "id": "1939899564087288217",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @shutenndouji1: 懐黍離復刻！懐黍離復刻！読んで！みんな読んで！\n\nシュウ姉最高だから！！！ https://t.co/pHfqSC6URZ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1939899508537655296"
+          ]
+        },
+        "author_id": "2963260532",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1939899564087288217",
+        "created_at": "2025-07-01T04:11:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-01T05:11:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1939899564087288217"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 27,
+              "normalized_text": "シュウ",
+              "probability": 0.823,
+              "start": 25,
+              "type": "Person"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/pHfqSC6URZ",
+              "end": 61,
+              "expanded_url": "https://x.com/shutenndouji1/status/1939899564087288217/photo/1",
+              "media_key": "3_1939899508537655296",
+              "start": 38,
+              "url": "https://t.co/pHfqSC6URZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1939899564087288217",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 200,
+          "impression_count": 41588,
+          "like_count": 2645,
+          "quote_count": 2,
+          "reply_count": 4,
+          "retweet_count": 334
+        },
+        "reply_settings": "everyone",
+        "text": "懐黍離復刻！懐黍離復刻！読んで！みんな読んで！\n\nシュウ姉最高だから！！！ https://t.co/pHfqSC6URZ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-12T18:50:19.000Z",
+        "description": "随缘//医学爱好者/les🏳️‍🌈/lgbt友好/中文/EN/Arknights/绘画/混乱日常碎碎念/很吵//喵喵",
+        "id": "1569397683814629379",
+        "name": "腐烂苹果酱",
+        "pinned_tweet_id": "1937498024907010498",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1620839959388393479/hsMKvVei_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 29,
+          "following_count": 246,
+          "like_count": 393,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 606
+        },
+        "username": "ppppggggjjjj",
+        "verified": false
+      },
+      {
+        "created_at": "2015-01-07T15:02:11.000Z",
+        "description": "描いたり作る人\nアークナイツ、艦これ、ウマ娘、城プロ、弐瓶、FSS、アマコア\n\nskeb受付中\nhttps://t.co/SIHcF3edxc\nPIXIVFANBOX　https://t.co/pjLuLjCYi5\n\n無断転載禁止\nRepost is prohibited.",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "skeb.jp/@shutenndouji1",
+                "end": 71,
+                "expanded_url": "http://skeb.jp/@shutenndouji1",
+                "start": 48,
+                "url": "https://t.co/SIHcF3edxc"
+              },
+              {
+                "display_url": "ken1.fanbox.cc",
+                "end": 107,
+                "expanded_url": "http://ken1.fanbox.cc",
+                "start": 84,
+                "url": "https://t.co/pjLuLjCYi5"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/3168230",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/3168230",
+                "start": 0,
+                "url": "https://t.co/UmOOHshc9l"
+              }
+            ]
+          }
+        },
+        "id": "2963260532",
+        "location": "日本 東京 ",
+        "name": "ken　Skeb受付中",
+        "pinned_tweet_id": "1887390953713115587",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1757756153721942016/m7Y3KDpr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 83460,
+          "following_count": 1355,
+          "like_count": 118054,
+          "listed_count": 701,
+          "media_count": 19008,
+          "tweet_count": 87456
+        },
+        "url": "https://t.co/UmOOHshc9l",
+        "username": "shutenndouji1",
+        "verified": false
+      }
+    ]
+  }
+}

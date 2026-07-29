@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1569397683814629379",
+    "conversation_id": "2053635538771730813",
+    "created_at": "2026-05-11T00:37:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-11T01:37:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2053635538771730813"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1927912422385537024",
+          "start": 3,
+          "username": "giveson30"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053635538771730813",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 178
+    },
+    "referenced_tweets": [
+      {
+        "id": "2053309775249858698",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @giveson30: 过度独立是一种很严重的心理创伤"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1569397683814629379",
+        "conversation_id": "2053635538771730813",
+        "created_at": "2026-05-11T00:37:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-11T01:37:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053635538771730813"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1927912422385537024",
+              "start": 3,
+              "username": "giveson30"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053635538771730813",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 178
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053309775249858698",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @giveson30: 过度独立是一种很严重的心理创伤"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1927912422385537024",
+        "conversation_id": "2053309775249858698",
+        "created_at": "2026-05-10T03:02:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-10T04:02:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2053309775249858698"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2053309775249858698",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 186,
+          "impression_count": 151131,
+          "like_count": 1940,
+          "quote_count": 37,
+          "reply_count": 321,
+          "retweet_count": 178
+        },
+        "reply_settings": "everyone",
+        "text": "过度独立是一种很严重的心理创伤"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-12T18:50:19.000Z",
+        "description": "随缘//医学爱好者/Arknights/绘画/混乱日常碎碎念无营养内容/可能会很吵？ /les/lgbt友好/中文/EN//喵喵//提问箱↓ ↓ ↓",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ppppppppp38481",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ppppppppp38481",
+                "start": 0,
+                "url": "https://t.co/dw8CaO6ajX"
+              }
+            ]
+          }
+        },
+        "id": "1569397683814629379",
+        "location": "世界的尽头",
+        "name": "腐烂培根卷",
+        "pinned_tweet_id": "2012485424057291255",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953366409284861953/HM3Aeou7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 228,
+          "following_count": 1426,
+          "like_count": 7827,
+          "listed_count": 1,
+          "media_count": 100,
+          "tweet_count": 5927
+        },
+        "url": "https://t.co/dw8CaO6ajX",
+        "username": "ppppggggjjjj",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-29T02:18:50.000Z",
+        "description": "活着就是为了爽/此账号是鸭子日常 有啥好奇的事可以来我提问箱https://t.co/bapTaOHuOn",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sadnessduck1",
+                "end": 53,
+                "expanded_url": "https://ngl.link/sadnessduck1",
+                "start": 30,
+                "url": "https://t.co/bapTaOHuOn"
+              }
+            ]
+          }
+        },
+        "id": "1927912422385537024",
+        "name": "忧郁鸭子🦆",
+        "pinned_tweet_id": "1972329830030139885",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004422367746093056/x07hWnLC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1433,
+          "following_count": 330,
+          "like_count": 29931,
+          "listed_count": 3,
+          "media_count": 989,
+          "tweet_count": 14526
+        },
+        "username": "giveson30",
+        "verified": false
+      }
+    ]
+  }
+}

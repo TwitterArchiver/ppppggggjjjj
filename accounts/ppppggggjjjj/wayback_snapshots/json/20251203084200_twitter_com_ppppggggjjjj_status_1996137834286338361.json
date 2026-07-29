@@ -1,0 +1,465 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1996046858528194561"
+      ],
+      "media_source_tweet_id": [
+        "1996051771588747635"
+      ]
+    },
+    "author_id": "1569397683814629379",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Comics",
+          "id": "847521144173350912",
+          "name": "Comics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1297951101136732160",
+          "name": "Animation & comics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1308511162783334400",
+          "name": "Webcomics"
+        }
+      }
+    ],
+    "conversation_id": "1996137834286338361",
+    "created_at": "2025-12-03T08:42:00.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-03T09:42:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1996137834286338361"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 30,
+          "normalized_text": "ガールズバンドクライ",
+          "probability": 0.4235,
+          "start": 21,
+          "type": "Other"
+        },
+        {
+          "end": 39,
+          "normalized_text": "WEBTOON",
+          "probability": 0.5472,
+          "start": 33,
+          "type": "Organization"
+        }
+      ],
+      "hashtags": [
+        {
+          "end": 71,
+          "start": 66,
+          "tag": "ガルクラ"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1646013705874976768",
+          "start": 3,
+          "username": "girlsbandcry"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/t5XeIPbVV1",
+          "end": 95,
+          "expanded_url": "https://x.com/girlsbandcry/status/1996051771588747635/photo/1",
+          "media_key": "3_1996046858528194561",
+          "start": 72,
+          "url": "https://t.co/t5XeIPbVV1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1996137834286338361",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2477
+    },
+    "referenced_tweets": [
+      {
+        "id": "1996051771588747635",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @girlsbandcry: ／\n「ガールズバンドクライ」\nWEBTOON化が決定🎉\n＼\n\n詳細は後日発表👀\nお楽しみに✨\n\n#ガルクラ https://t.co/t5XeIPbVV1"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1200,
+        "media_key": "3_1996046858528194561",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7NiCtWbgAExR5Z.jpg",
+        "width": 837
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1996046858528194561"
+          ],
+          "media_source_tweet_id": [
+            "1996051771588747635"
+          ]
+        },
+        "author_id": "1569397683814629379",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Comics",
+              "id": "847521144173350912",
+              "name": "Comics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1297951101136732160",
+              "name": "Animation & comics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1308511162783334400",
+              "name": "Webcomics"
+            }
+          }
+        ],
+        "conversation_id": "1996137834286338361",
+        "created_at": "2025-12-03T08:42:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-03T09:42:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1996137834286338361"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 30,
+              "normalized_text": "ガールズバンドクライ",
+              "probability": 0.4235,
+              "start": 21,
+              "type": "Other"
+            },
+            {
+              "end": 39,
+              "normalized_text": "WEBTOON",
+              "probability": 0.5472,
+              "start": 33,
+              "type": "Organization"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 71,
+              "start": 66,
+              "tag": "ガルクラ"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1646013705874976768",
+              "start": 3,
+              "username": "girlsbandcry"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/t5XeIPbVV1",
+              "end": 95,
+              "expanded_url": "https://x.com/girlsbandcry/status/1996051771588747635/photo/1",
+              "media_key": "3_1996046858528194561",
+              "start": 72,
+              "url": "https://t.co/t5XeIPbVV1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1996137834286338361",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2477
+        },
+        "referenced_tweets": [
+          {
+            "id": "1996051771588747635",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @girlsbandcry: ／\n「ガールズバンドクライ」\nWEBTOON化が決定🎉\n＼\n\n詳細は後日発表👀\nお楽しみに✨\n\n#ガルクラ https://t.co/t5XeIPbVV1"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1996046858528194561"
+          ]
+        },
+        "author_id": "1646013705874976768",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Comics",
+              "id": "847521144173350912",
+              "name": "Comics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1308511162783334400",
+              "name": "Webcomics"
+            }
+          }
+        ],
+        "conversation_id": "1996051771588747635",
+        "created_at": "2025-12-03T03:00:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-03T04:00:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1996051771588747635"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 12,
+              "normalized_text": "ガールズバンドクライ",
+              "probability": 0.5011,
+              "start": 3,
+              "type": "Other"
+            },
+            {
+              "end": 21,
+              "normalized_text": "WEBTOON",
+              "probability": 0.5819,
+              "start": 15,
+              "type": "Organization"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 53,
+              "start": 48,
+              "tag": "ガルクラ"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/t5XeIPbVV1",
+              "end": 77,
+              "expanded_url": "https://x.com/girlsbandcry/status/1996051771588747635/photo/1",
+              "media_key": "3_1996046858528194561",
+              "start": 54,
+              "url": "https://t.co/t5XeIPbVV1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1996051771588747635",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 769,
+          "impression_count": 276024,
+          "like_count": 8637,
+          "quote_count": 392,
+          "reply_count": 23,
+          "retweet_count": 2477
+        },
+        "reply_settings": "everyone",
+        "text": "／\n「ガールズバンドクライ」\nWEBTOON化が決定🎉\n＼\n\n詳細は後日発表👀\nお楽しみに✨\n\n#ガルクラ https://t.co/t5XeIPbVV1"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-12T18:50:19.000Z",
+        "description": "随缘//医学爱好者/les🏳️‍🌈/lgbt友好/中文/EN/Arknights/绘画/混乱日常碎碎念/很吵//喵喵 【永远拥护培根卷番茄！】",
+        "id": "1569397683814629379",
+        "location": "世界的尽头",
+        "name": "腐烂培根卷",
+        "pinned_tweet_id": "1993298688010322328",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953366409284861953/HM3Aeou7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 149,
+          "following_count": 889,
+          "like_count": 3261,
+          "listed_count": 1,
+          "media_count": 86,
+          "tweet_count": 3915
+        },
+        "username": "ppppggggjjjj",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-12T04:53:52.000Z",
+        "description": "オリジナルアニメ『ガールズバンドクライ』公式アカウント\n各サービスにて全話配信中！劇場版総集編 前編・後編 製作決定！\n前編：10月3日(金)、後編：11月14日(金)公開！\n推奨ハッシュタグ： #ガルクラ #トゲナシトゲアリ",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 103,
+                "start": 98,
+                "tag": "ガルクラ"
+              },
+              {
+                "end": 113,
+                "start": 104,
+                "tag": "トゲナシトゲアリ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "girls-band-cry.com",
+                "end": 23,
+                "expanded_url": "https://girls-band-cry.com/",
+                "start": 0,
+                "url": "https://t.co/HKW89YsJ1J"
+              }
+            ]
+          }
+        },
+        "id": "1646013705874976768",
+        "name": "アニメ『ガールズバンドクライ』公式",
+        "pinned_tweet_id": "1989106000100733187",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1741475331314536448/-CMk_tHF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 240671,
+          "following_count": 30,
+          "like_count": 3321,
+          "listed_count": 878,
+          "media_count": 2276,
+          "tweet_count": 5594
+        },
+        "url": "https://t.co/HKW89YsJ1J",
+        "username": "girlsbandcry",
+        "verified": true
+      }
+    ]
+  }
+}

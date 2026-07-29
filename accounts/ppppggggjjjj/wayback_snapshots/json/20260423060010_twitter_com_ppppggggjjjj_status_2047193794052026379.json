@@ -1,0 +1,388 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2046882374915600385"
+      ],
+      "media_source_tweet_id": [
+        "2046882387829936280"
+      ]
+    },
+    "author_id": "1569397683814629379",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+          "id": "130",
+          "name": "Multimedia Franchise"
+        },
+        "entity": {
+          "id": "1341539621839093761",
+          "name": "Bungo Stray Dogs"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1341539621839093761",
+          "name": "Bungo Stray Dogs"
+        }
+      }
+    ],
+    "conversation_id": "2047193794052026379",
+    "created_at": "2026-04-23T06:00:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-23T07:00:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2047193794052026379"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 17,
+          "start": 13,
+          "tag": "BSD"
+        },
+        {
+          "end": 22,
+          "start": 18,
+          "tag": "文スト"
+        },
+        {
+          "end": 30,
+          "start": 23,
+          "tag": "fyodor"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1921220076323434496",
+          "start": 3,
+          "username": "ss54moo"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Kp31EwXlrn",
+          "end": 54,
+          "expanded_url": "https://x.com/ss54moo/status/2046882387829936280/photo/1",
+          "media_key": "3_2046882374915600385",
+          "start": 31,
+          "url": "https://t.co/Kp31EwXlrn"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047193794052026379",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 800
+    },
+    "referenced_tweets": [
+      {
+        "id": "2046882387829936280",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ss54moo: #BSD #文スト #fyodor https://t.co/Kp31EwXlrn"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1927,
+        "media_key": "3_2046882374915600385",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGf8rNXaMAEMG5h.jpg",
+        "width": 1712
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2046882374915600385"
+          ],
+          "media_source_tweet_id": [
+            "2046882387829936280"
+          ]
+        },
+        "author_id": "1569397683814629379",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "id": "1341539621839093761",
+              "name": "Bungo Stray Dogs"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1341539621839093761",
+              "name": "Bungo Stray Dogs"
+            }
+          }
+        ],
+        "conversation_id": "2047193794052026379",
+        "created_at": "2026-04-23T06:00:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-23T07:00:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047193794052026379"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 17,
+              "start": 13,
+              "tag": "BSD"
+            },
+            {
+              "end": 22,
+              "start": 18,
+              "tag": "文スト"
+            },
+            {
+              "end": 30,
+              "start": 23,
+              "tag": "fyodor"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1921220076323434496",
+              "start": 3,
+              "username": "ss54moo"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Kp31EwXlrn",
+              "end": 54,
+              "expanded_url": "https://x.com/ss54moo/status/2046882387829936280/photo/1",
+              "media_key": "3_2046882374915600385",
+              "start": 31,
+              "url": "https://t.co/Kp31EwXlrn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047193794052026379",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 800
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046882387829936280",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ss54moo: #BSD #文スト #fyodor https://t.co/Kp31EwXlrn"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2046882374915600385"
+          ]
+        },
+        "author_id": "1921220076323434496",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "id": "1341539621839093761",
+              "name": "Bungo Stray Dogs"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1341539621839093761",
+              "name": "Bungo Stray Dogs"
+            }
+          }
+        ],
+        "conversation_id": "2046882387829936280",
+        "created_at": "2026-04-22T09:22:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-22T10:22:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2046882387829936280"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 4,
+              "start": 0,
+              "tag": "BSD"
+            },
+            {
+              "end": 9,
+              "start": 5,
+              "tag": "文スト"
+            },
+            {
+              "end": 17,
+              "start": 10,
+              "tag": "fyodor"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Kp31EwXlrn",
+              "end": 41,
+              "expanded_url": "https://x.com/ss54moo/status/2046882387829936280/photo/1",
+              "media_key": "3_2046882374915600385",
+              "start": 18,
+              "url": "https://t.co/Kp31EwXlrn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046882387829936280",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 400,
+          "impression_count": 33378,
+          "like_count": 4532,
+          "quote_count": 20,
+          "reply_count": 2,
+          "retweet_count": 800
+        },
+        "reply_settings": "everyone",
+        "text": "#BSD #文スト #fyodor https://t.co/Kp31EwXlrn"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-12T18:50:19.000Z",
+        "description": "随缘//医学爱好者/Arknights/绘画/混乱日常碎碎念无营养内容/可能会很吵？ /les/lgbt友好/中文/EN//喵喵//提问箱↓ ↓ ↓",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ppppppppp38481",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ppppppppp38481",
+                "start": 0,
+                "url": "https://t.co/dw8CaO6ajX"
+              }
+            ]
+          }
+        },
+        "id": "1569397683814629379",
+        "location": "世界的尽头",
+        "name": "腐烂培根卷",
+        "pinned_tweet_id": "2012485424057291255",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953366409284861953/HM3Aeou7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 214,
+          "following_count": 1316,
+          "like_count": 6919,
+          "listed_count": 1,
+          "media_count": 100,
+          "tweet_count": 5323
+        },
+        "url": "https://t.co/dw8CaO6ajX",
+        "username": "ppppggggjjjj",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-10T15:05:46.000Z",
+        "description": "💍: @globefish82 , @globefish01",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 3,
+                "username": "globefish82"
+              },
+              {
+                "end": 30,
+                "start": 18,
+                "username": "globefish01"
+              }
+            ]
+          }
+        },
+        "id": "1921220076323434496",
+        "name": "SS",
+        "pinned_tweet_id": "2042610800096170035",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039370711547203584/jxPOUJwU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1696,
+          "following_count": 20,
+          "like_count": 2962,
+          "listed_count": 0,
+          "media_count": 113,
+          "tweet_count": 789
+        },
+        "username": "ss54moo",
+        "verified": false
+      }
+    ]
+  }
+}

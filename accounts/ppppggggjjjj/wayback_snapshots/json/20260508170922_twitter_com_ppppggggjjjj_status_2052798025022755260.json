@@ -1,0 +1,237 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2052628497189990400",
+        "3_2052628515561115648"
+      ],
+      "media_source_tweet_id": [
+        "2052629498370359430",
+        "2052629498370359430"
+      ]
+    },
+    "author_id": "1569397683814629379",
+    "conversation_id": "2052798025022755260",
+    "created_at": "2026-05-08T17:09:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-08T18:09:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2052798025022755260"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1614971072444784641",
+          "start": 3,
+          "username": "isikishoku_akn"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/dpe61WyRt8",
+          "end": 43,
+          "expanded_url": "https://x.com/isikishoku_akn/status/2052629498370359430/photo/1",
+          "media_key": "3_2052628497189990400",
+          "start": 20,
+          "url": "https://t.co/dpe61WyRt8"
+        },
+        {
+          "display_url": "pic.x.com/dpe61WyRt8",
+          "end": 43,
+          "expanded_url": "https://x.com/isikishoku_akn/status/2052629498370359430/photo/1",
+          "media_key": "3_2052628515561115648",
+          "start": 20,
+          "url": "https://t.co/dpe61WyRt8"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052798025022755260",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 252
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052629498370359430",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @isikishoku_akn: https://t.co/dpe61WyRt8"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2052798025022755260].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2052798025022755260",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2052798025022755260"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1815,
+        "media_key": "3_2052628497189990400",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHxmvi7acAA7ve0.jpg",
+        "width": 2604
+      },
+      {
+        "height": 1815,
+        "media_key": "3_2052628515561115648",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHxmwnXbkAAQafp.jpg",
+        "width": 2604
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2052628497189990400",
+            "3_2052628515561115648"
+          ]
+        },
+        "author_id": "1614971072444784641",
+        "conversation_id": "2052629498370359430",
+        "created_at": "2026-05-08T05:59:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-08T06:59:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2052629498370359430"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/dpe61WyRt8",
+              "end": 23,
+              "expanded_url": "https://x.com/isikishoku_akn/status/2052629498370359430/photo/1",
+              "media_key": "3_2052628497189990400",
+              "start": 0,
+              "url": "https://t.co/dpe61WyRt8"
+            },
+            {
+              "display_url": "pic.x.com/dpe61WyRt8",
+              "end": 23,
+              "expanded_url": "https://x.com/isikishoku_akn/status/2052629498370359430/photo/1",
+              "media_key": "3_2052628515561115648",
+              "start": 0,
+              "url": "https://t.co/dpe61WyRt8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052629498370359430",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 198,
+          "impression_count": 15290,
+          "like_count": 1712,
+          "quote_count": 2,
+          "reply_count": 2,
+          "retweet_count": 252
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/dpe61WyRt8"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-12T18:50:19.000Z",
+        "description": "随缘//医学爱好者/Arknights/绘画/混乱日常碎碎念无营养内容/可能会很吵？ /les/lgbt友好/中文/EN//喵喵//提问箱↓ ↓ ↓",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ppppppppp38481",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ppppppppp38481",
+                "start": 0,
+                "url": "https://t.co/dw8CaO6ajX"
+              }
+            ]
+          }
+        },
+        "id": "1569397683814629379",
+        "location": "世界的尽头",
+        "name": "腐烂培根卷",
+        "pinned_tweet_id": "2012485424057291255",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953366409284861953/HM3Aeou7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 233,
+          "following_count": 1414,
+          "like_count": 7688,
+          "listed_count": 1,
+          "media_count": 100,
+          "tweet_count": 5804
+        },
+        "url": "https://t.co/dw8CaO6ajX",
+        "username": "ppppggggjjjj",
+        "verified": false
+      },
+      {
+        "created_at": "2023-01-16T13:01:46.000Z",
+        "description": "芙爱",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "poipiku.com/11505216/",
+                "end": 23,
+                "expanded_url": "https://poipiku.com/11505216/",
+                "start": 0,
+                "url": "https://t.co/UTngqPIUn3"
+              }
+            ]
+          }
+        },
+        "id": "1614971072444784641",
+        "location": "🔕",
+        "name": "铁紺",
+        "pinned_tweet_id": "1914024476825837661",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042251915153846272/IJGRdFYe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5127,
+          "following_count": 37,
+          "like_count": 1571,
+          "listed_count": 29,
+          "media_count": 120,
+          "tweet_count": 428
+        },
+        "url": "https://t.co/UTngqPIUn3",
+        "username": "isikishoku_akn",
+        "verified": false
+      }
+    ]
+  }
+}

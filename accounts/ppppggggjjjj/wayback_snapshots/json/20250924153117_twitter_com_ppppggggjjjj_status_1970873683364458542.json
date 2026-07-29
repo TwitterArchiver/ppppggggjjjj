@@ -1,0 +1,261 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1970768939132272640"
+      ],
+      "media_source_tweet_id": [
+        "1970768943645446512"
+      ]
+    },
+    "author_id": "1569397683814629379",
+    "conversation_id": "1970873683364458542",
+    "created_at": "2025-09-24T15:31:17.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-24T16:31:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1970873683364458542"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1679875740198899713",
+          "start": 3,
+          "username": "_IRIRARY"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/jnBPf7hLzU",
+          "end": 37,
+          "expanded_url": "https://x.com/_IRIRARY/status/1970768943645446512/photo/1",
+          "media_key": "3_1970768939132272640",
+          "start": 14,
+          "url": "https://t.co/jnBPf7hLzU"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1970873683364458542",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1246
+    },
+    "referenced_tweets": [
+      {
+        "id": "1970768943645446512",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "following",
+    "text": "RT @_IRIRARY: https://t.co/jnBPf7hLzU"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1115,
+        "media_key": "3_1970768939132272640",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G1mT6JdaQAAq_gb.jpg",
+        "width": 724
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1970768939132272640"
+          ],
+          "media_source_tweet_id": [
+            "1970768943645446512"
+          ]
+        },
+        "author_id": "1569397683814629379",
+        "conversation_id": "1970873683364458542",
+        "created_at": "2025-09-24T15:31:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-24T16:31:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1970873683364458542"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1679875740198899713",
+              "start": 3,
+              "username": "_IRIRARY"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/jnBPf7hLzU",
+              "end": 37,
+              "expanded_url": "https://x.com/_IRIRARY/status/1970768943645446512/photo/1",
+              "media_key": "3_1970768939132272640",
+              "start": 14,
+              "url": "https://t.co/jnBPf7hLzU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1970873683364458542",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1246
+        },
+        "referenced_tweets": [
+          {
+            "id": "1970768943645446512",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "following",
+        "text": "RT @_IRIRARY: https://t.co/jnBPf7hLzU"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1970768939132272640"
+          ]
+        },
+        "author_id": "1679875740198899713",
+        "conversation_id": "1970768943645446512",
+        "created_at": "2025-09-24T08:35:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-24T09:35:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1970768943645446512"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/jnBPf7hLzU",
+              "end": 23,
+              "expanded_url": "https://x.com/_IRIRARY/status/1970768943645446512/photo/1",
+              "media_key": "3_1970768939132272640",
+              "start": 0,
+              "url": "https://t.co/jnBPf7hLzU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1970768943645446512",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 905,
+          "impression_count": 106117,
+          "like_count": 11879,
+          "quote_count": 7,
+          "reply_count": 0,
+          "retweet_count": 1246
+        },
+        "reply_settings": "following",
+        "text": "https://t.co/jnBPf7hLzU"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-12T18:50:19.000Z",
+        "description": "随缘//医学爱好者/les🏳️‍🌈/lgbt友好/中文/EN/Arknights/绘画/混乱日常碎碎念/很吵//喵喵 【永远拥护培根卷番茄！】",
+        "id": "1569397683814629379",
+        "location": "世界的尽头",
+        "name": "腐烂培根卷",
+        "pinned_tweet_id": "1937498024907010498",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953366409284861953/HM3Aeou7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 112,
+          "following_count": 702,
+          "like_count": 2212,
+          "listed_count": 1,
+          "media_count": 65,
+          "tweet_count": 2917
+        },
+        "username": "ppppggggjjjj",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-14T15:29:30.000Z",
+        "description": "https://t.co/u7cHTprZU4 一次創作／版権FA 本人周辺B済",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "irirary.carrd.co",
+                "end": 23,
+                "expanded_url": "https://irirary.carrd.co",
+                "start": 0,
+                "url": "https://t.co/u7cHTprZU4"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "skeb.jp/@mgr_skb",
+                "end": 23,
+                "expanded_url": "https://skeb.jp/@mgr_skb",
+                "start": 0,
+                "url": "https://t.co/T4f13TxCBh"
+              }
+            ]
+          }
+        },
+        "id": "1679875740198899713",
+        "location": "f外通知🔕pfp&h:お友達",
+        "name": "🖤",
+        "pinned_tweet_id": "1752014809749725687",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1939034492280135680/P7MFXfA-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6502,
+          "following_count": 14,
+          "like_count": 763,
+          "listed_count": 27,
+          "media_count": 124,
+          "tweet_count": 242
+        },
+        "url": "https://t.co/T4f13TxCBh",
+        "username": "_IRIRARY",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,237 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2063805122975772672"
+      ],
+      "media_source_tweet_id": [
+        "2063814017240740149"
+      ]
+    },
+    "author_id": "1569397683814629379",
+    "conversation_id": "2063902561459896568",
+    "created_at": "2026-06-08T08:34:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-08T09:34:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063902561459896568"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1918274202580467713",
+          "start": 3,
+          "username": "CyberKanjousen"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/eiKIqGK009",
+          "end": 84,
+          "expanded_url": "https://x.com/CyberKanjousen/status/2063814017240740149/photo/1",
+          "media_key": "3_2063805122975772672",
+          "start": 61,
+          "url": "https://t.co/eiKIqGK009"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063902561459896568",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 9
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063814017240740149",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @CyberKanjousen: 未成年人一切自我伤害的事件，\n未成年人自己有没有责任不好说，\n但家长一定有责任。 https://t.co/eiKIqGK009"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2063902561459896568].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2063902561459896568",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2063902561459896568"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1920,
+        "media_key": "3_2063805122975772672",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKQb0yiaMAAw3Ik.jpg",
+        "width": 1110
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2063805122975772672"
+          ]
+        },
+        "author_id": "1918274202580467713",
+        "conversation_id": "2063814017240740149",
+        "created_at": "2026-06-08T02:43:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-08T03:43:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063814017240740149"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/eiKIqGK009",
+              "end": 64,
+              "expanded_url": "https://x.com/CyberKanjousen/status/2063814017240740149/photo/1",
+              "media_key": "3_2063805122975772672",
+              "start": 41,
+              "url": "https://t.co/eiKIqGK009"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063814017240740149",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 12,
+          "impression_count": 4918,
+          "like_count": 150,
+          "quote_count": 1,
+          "reply_count": 36,
+          "retweet_count": 9
+        },
+        "reply_settings": "everyone",
+        "text": "未成年人一切自我伤害的事件，\n未成年人自己有没有责任不好说，\n但家长一定有责任。 https://t.co/eiKIqGK009"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-12T18:50:19.000Z",
+        "description": "随缘//医学爱好者/Arknights/绘画/混乱日常碎碎念无营养内容/可能会很吵？ /les/lgbt友好/中文/EN//喵喵//提问箱↓ ↓ ↓",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ppppppppp38481",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ppppppppp38481",
+                "start": 0,
+                "url": "https://t.co/dw8CaO6ajX"
+              }
+            ]
+          }
+        },
+        "id": "1569397683814629379",
+        "location": "世界的尽头",
+        "name": "腐烂培根卷",
+        "pinned_tweet_id": "2012485424057291255",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953366409284861953/HM3Aeou7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 240,
+          "following_count": 1609,
+          "like_count": 9616,
+          "listed_count": 1,
+          "media_count": 104,
+          "tweet_count": 6895
+        },
+        "url": "https://t.co/dw8CaO6ajX",
+        "username": "ppppggggjjjj",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-02T12:00:51.000Z",
+        "description": "中国人 | CN/EN/JP | まのさば好き | 友跨 | 想当猫猫 | 头像来自 @xfoopy | 正在由 @yameta_www 保管中\n日语号：@NihonKanjousen\n给我钱：https://t.co/NMKeNLoCQ8",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 50,
+                "start": 43,
+                "username": "xfoopy"
+              },
+              {
+                "end": 68,
+                "start": 57,
+                "username": "yameta_www"
+              },
+              {
+                "end": 92,
+                "start": 77,
+                "username": "NihonKanjousen"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/CyberKanjousen",
+                "end": 120,
+                "expanded_url": "https://buymeacoffee.com/CyberKanjousen",
+                "start": 97,
+                "url": "https://t.co/NMKeNLoCQ8"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kanjousen.com",
+                "end": 23,
+                "expanded_url": "https://kanjousen.com",
+                "start": 0,
+                "url": "https://t.co/s9lflnLycZ"
+              }
+            ]
+          }
+        },
+        "id": "1918274202580467713",
+        "name": "サイバー環状線",
+        "pinned_tweet_id": "2061036992599925240",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040429111588605952/rKqVKsen_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5276,
+          "following_count": 872,
+          "like_count": 24877,
+          "listed_count": 9,
+          "media_count": 1363,
+          "tweet_count": 7533
+        },
+        "url": "https://t.co/s9lflnLycZ",
+        "username": "CyberKanjousen",
+        "verified": true
+      }
+    ]
+  }
+}

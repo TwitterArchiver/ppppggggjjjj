@@ -1,0 +1,266 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2047152034739281920"
+      ],
+      "media_source_tweet_id": [
+        "2047152037071294892"
+      ]
+    },
+    "author_id": "1569397683814629379",
+    "conversation_id": "2047251936597221815",
+    "created_at": "2026-04-23T09:51:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-23T10:51:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2047251936597221815"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1621552410048237569",
+          "start": 3,
+          "username": "amecandy_x"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/FtQHXytIUF",
+          "end": 46,
+          "expanded_url": "https://x.com/amecandy_x/status/2047152037071294892/photo/1",
+          "media_key": "3_2047152034739281920",
+          "start": 23,
+          "url": "https://t.co/FtQHXytIUF"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047251936597221815",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 18
+    },
+    "referenced_tweets": [
+      {
+        "id": "2047152037071294892",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @amecandy_x: 我笑的柰子疼 https://t.co/FtQHXytIUF"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 642,
+        "media_key": "3_2047152034739281920",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGjx7efaYAAJc0j.jpg",
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2047152034739281920"
+          ],
+          "media_source_tweet_id": [
+            "2047152037071294892"
+          ]
+        },
+        "author_id": "1569397683814629379",
+        "conversation_id": "2047251936597221815",
+        "created_at": "2026-04-23T09:51:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-23T10:51:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047251936597221815"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1621552410048237569",
+              "start": 3,
+              "username": "amecandy_x"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/FtQHXytIUF",
+              "end": 46,
+              "expanded_url": "https://x.com/amecandy_x/status/2047152037071294892/photo/1",
+              "media_key": "3_2047152034739281920",
+              "start": 23,
+              "url": "https://t.co/FtQHXytIUF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047251936597221815",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 18
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047152037071294892",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @amecandy_x: 我笑的柰子疼 https://t.co/FtQHXytIUF"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2047152034739281920"
+          ]
+        },
+        "author_id": "1621552410048237569",
+        "conversation_id": "2047152037071294892",
+        "created_at": "2026-04-23T03:14:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-23T04:14:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2047152037071294892"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/FtQHXytIUF",
+              "end": 30,
+              "expanded_url": "https://x.com/amecandy_x/status/2047152037071294892/photo/1",
+              "media_key": "3_2047152034739281920",
+              "start": 7,
+              "url": "https://t.co/FtQHXytIUF"
+            }
+          ]
+        },
+        "geo": {
+          "place_id": "c999e6a453e9ef72"
+        },
+        "id": "2047152037071294892",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 6292,
+          "like_count": 148,
+          "quote_count": 0,
+          "reply_count": 8,
+          "retweet_count": 18
+        },
+        "reply_settings": "everyone",
+        "text": "我笑的柰子疼 https://t.co/FtQHXytIUF"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-12T18:50:19.000Z",
+        "description": "随缘//医学爱好者/Arknights/绘画/混乱日常碎碎念无营养内容/可能会很吵？ /les/lgbt友好/中文/EN//喵喵//提问箱↓ ↓ ↓",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ppppppppp38481",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ppppppppp38481",
+                "start": 0,
+                "url": "https://t.co/dw8CaO6ajX"
+              }
+            ]
+          }
+        },
+        "id": "1569397683814629379",
+        "location": "世界的尽头",
+        "name": "腐烂培根卷",
+        "pinned_tweet_id": "2012485424057291255",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953366409284861953/HM3Aeou7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 212,
+          "following_count": 1314,
+          "like_count": 6943,
+          "listed_count": 1,
+          "media_count": 98,
+          "tweet_count": 5330
+        },
+        "url": "https://t.co/dw8CaO6ajX",
+        "username": "ppppggggjjjj",
+        "verified": false
+      },
+      {
+        "created_at": "2023-02-03T16:53:25.000Z",
+        "description": "07 / MtF / 自由意志左翼🚩/ 全栈工程师 / 独立LLM研究者 / 药百GPT开发者",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "angelkawaii.xyz",
+                "end": 23,
+                "expanded_url": "https://angelkawaii.xyz",
+                "start": 0,
+                "url": "https://t.co/Ul32kqG4uh"
+              }
+            ]
+          }
+        },
+        "id": "1621552410048237569",
+        "location": "山东·济南",
+        "name": "小雨",
+        "pinned_tweet_id": "2046119775114551305",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023354415944495104/Uixnel15_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6154,
+          "following_count": 2118,
+          "like_count": 27083,
+          "listed_count": 15,
+          "media_count": 1415,
+          "tweet_count": 10124
+        },
+        "url": "https://t.co/Ul32kqG4uh",
+        "username": "amecandy_x",
+        "verified": true
+      }
+    ]
+  }
+}

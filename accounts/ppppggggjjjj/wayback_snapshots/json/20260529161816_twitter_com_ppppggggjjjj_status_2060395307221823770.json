@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1569397683814629379",
+    "conversation_id": "2060395307221823770",
+    "created_at": "2026-05-29T16:18:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-29T17:18:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060395307221823770"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1780686074550837248",
+          "start": 3,
+          "username": "priapsprolab"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060395307221823770",
+    "lang": "ru",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 405
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060015045203870111",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @priapsprolab: Мужская вера в то, что хуй может что-то изменить в женщине, должна быть детально исследована"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1569397683814629379",
+        "conversation_id": "2060395307221823770",
+        "created_at": "2026-05-29T16:18:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-29T17:18:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060395307221823770"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1780686074550837248",
+              "start": 3,
+              "username": "priapsprolab"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060395307221823770",
+        "lang": "ru",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 405
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060015045203870111",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @priapsprolab: Мужская вера в то, что хуй может что-то изменить в женщине, должна быть детально исследована"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1780686074550837248",
+        "conversation_id": "2060015045203870111",
+        "created_at": "2026-05-28T15:07:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T16:06:50.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060014943819202692",
+          "2060015045203870111"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/ObjetivoHincha…",
+              "end": 116,
+              "expanded_url": "https://twitter.com/ObjetivoHincha/status/2059610629233664370",
+              "start": 93,
+              "url": "https://t.co/I7HnVVMmlS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060015045203870111",
+        "lang": "ru",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 102,
+          "impression_count": 72458,
+          "like_count": 6199,
+          "quote_count": 10,
+          "reply_count": 45,
+          "retweet_count": 405
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059610629233664370",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "Мужская вера в то, что хуй может что-то изменить в женщине, должна быть детально исследована https://t.co/I7HnVVMmlS"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-12T18:50:19.000Z",
+        "description": "随缘//医学爱好者/Arknights/绘画/混乱日常碎碎念无营养内容/可能会很吵？ /les/lgbt友好/中文/EN//喵喵//提问箱↓ ↓ ↓",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ppppppppp38481",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ppppppppp38481",
+                "start": 0,
+                "url": "https://t.co/dw8CaO6ajX"
+              }
+            ]
+          }
+        },
+        "id": "1569397683814629379",
+        "location": "世界的尽头",
+        "name": "腐烂培根卷",
+        "pinned_tweet_id": "2012485424057291255",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953366409284861953/HM3Aeou7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 246,
+          "following_count": 1598,
+          "like_count": 9050,
+          "listed_count": 1,
+          "media_count": 104,
+          "tweet_count": 6553
+        },
+        "url": "https://t.co/dw8CaO6ajX",
+        "username": "ppppggggjjjj",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-17T19:53:56.000Z",
+        "description": "6B4T\n\nЗапасной аккаунт\n@deus_ex_potato",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 38,
+                "start": 23,
+                "username": "deus_ex_potato"
+              }
+            ]
+          }
+        },
+        "id": "1780686074550837248",
+        "location": "Kiel, Deutschland",
+        "name": "▫️Deus ex potato▫️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1786386379120771072/NF8PW4LN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3236,
+          "following_count": 216,
+          "like_count": 75642,
+          "listed_count": 46,
+          "media_count": 1483,
+          "tweet_count": 19092
+        },
+        "username": "priapsprolab",
+        "verified": true
+      }
+    ]
+  }
+}

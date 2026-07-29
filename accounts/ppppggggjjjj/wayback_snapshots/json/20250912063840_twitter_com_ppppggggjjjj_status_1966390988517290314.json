@@ -1,0 +1,268 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1966066293540544512"
+      ],
+      "media_source_tweet_id": [
+        "1966066301174165949"
+      ]
+    },
+    "author_id": "1569397683814629379",
+    "conversation_id": "1966390988517290314",
+    "created_at": "2025-09-12T06:38:40.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-12T07:38:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1966390988517290314"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1811616942069022720",
+          "start": 3,
+          "username": "Im_CanDo"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/HM6IHlS3Fu",
+          "end": 37,
+          "expanded_url": "https://x.com/Im_CanDo/status/1966066301174165949/photo/1",
+          "media_key": "3_1966066293540544512",
+          "start": 14,
+          "url": "https://t.co/HM6IHlS3Fu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1966390988517290314",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 38
+    },
+    "referenced_tweets": [
+      {
+        "id": "1966066301174165949",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Im_CanDo: https://t.co/HM6IHlS3Fu"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1158,
+        "media_key": "3_1966066293540544512",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G0je4JdaYAAwdwt.jpg",
+        "width": 1279
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1966066293540544512"
+          ],
+          "media_source_tweet_id": [
+            "1966066301174165949"
+          ]
+        },
+        "author_id": "1569397683814629379",
+        "conversation_id": "1966390988517290314",
+        "created_at": "2025-09-12T06:38:40.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-12T07:38:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1966390988517290314"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1811616942069022720",
+              "start": 3,
+              "username": "Im_CanDo"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/HM6IHlS3Fu",
+              "end": 37,
+              "expanded_url": "https://x.com/Im_CanDo/status/1966066301174165949/photo/1",
+              "media_key": "3_1966066293540544512",
+              "start": 14,
+              "url": "https://t.co/HM6IHlS3Fu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1966390988517290314",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 38
+        },
+        "referenced_tweets": [
+          {
+            "id": "1966066301174165949",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Im_CanDo: https://t.co/HM6IHlS3Fu"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1966066293540544512"
+          ]
+        },
+        "author_id": "1811616942069022720",
+        "conversation_id": "1966066301174165949",
+        "created_at": "2025-09-11T09:08:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-11T10:08:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1966066301174165949"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/HM6IHlS3Fu",
+              "end": 23,
+              "expanded_url": "https://x.com/Im_CanDo/status/1966066301174165949/photo/1",
+              "media_key": "3_1966066293540544512",
+              "start": 0,
+              "url": "https://t.co/HM6IHlS3Fu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1966066301174165949",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 61,
+          "impression_count": 69222,
+          "like_count": 828,
+          "quote_count": 1,
+          "reply_count": 10,
+          "retweet_count": 38
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/HM6IHlS3Fu"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-12T18:50:19.000Z",
+        "description": "随缘//医学爱好者/les🏳️‍🌈/lgbt友好/中文/EN/Arknights/绘画/混乱日常碎碎念/很吵//喵喵 【永远拥护培根卷番茄！】",
+        "id": "1569397683814629379",
+        "location": "世界的尽头",
+        "name": "腐烂培根卷",
+        "pinned_tweet_id": "1937498024907010498",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953366409284861953/HM3Aeou7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 107,
+          "following_count": 693,
+          "like_count": 2081,
+          "listed_count": 1,
+          "media_count": 59,
+          "tweet_count": 2658
+        },
+        "username": "ppppggggjjjj",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-12T04:22:04.000Z",
+        "description": "摄影专业 艺术家 社会科学研究 喜欢音乐剧 / 阿斯伯格 / 当朋友圈发 / 福瑞新闻@HelloFurryNews / 【https://t.co/gHEGHqCnZ9】Minecraft服务器",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 58,
+                "start": 43,
+                "username": "HelloFurryNews"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "mcfurry.cc",
+                "end": 85,
+                "expanded_url": "http://mcfurry.cc",
+                "start": 62,
+                "url": "https://t.co/gHEGHqCnZ9"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/im_cando2",
+                "end": 23,
+                "expanded_url": "https://ngl.link/im_cando2",
+                "start": 0,
+                "url": "https://t.co/97wAs4NVPe"
+              }
+            ]
+          }
+        },
+        "id": "1811616942069022720",
+        "location": "-4.2km",
+        "name": "一只小残冬 Cando",
+        "pinned_tweet_id": "1891751637011791973",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1927686835603476480/zaqoSpcO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7686,
+          "following_count": 825,
+          "like_count": 22499,
+          "listed_count": 12,
+          "media_count": 409,
+          "tweet_count": 7507
+        },
+        "url": "https://t.co/97wAs4NVPe",
+        "username": "Im_CanDo",
+        "verified": true
+      }
+    ]
+  }
+}

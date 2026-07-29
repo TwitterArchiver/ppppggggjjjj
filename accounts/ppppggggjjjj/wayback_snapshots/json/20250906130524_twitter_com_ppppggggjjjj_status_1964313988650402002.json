@@ -1,0 +1,235 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1963945739752759296"
+      ],
+      "media_source_tweet_id": [
+        "1963945785135153428"
+      ]
+    },
+    "author_id": "1569397683814629379",
+    "conversation_id": "1964313988650402002",
+    "created_at": "2025-09-06T13:05:24.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-06T14:05:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1964313988650402002"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1282896009400430592",
+          "start": 3,
+          "username": "LucifHungsl"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/8NE1PQhAbP",
+          "end": 40,
+          "expanded_url": "https://x.com/LucifHungsl/status/1963945785135153428/photo/1",
+          "media_key": "3_1963945739752759296",
+          "start": 17,
+          "url": "https://t.co/8NE1PQhAbP"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1964313988650402002",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 18
+    },
+    "referenced_tweets": [
+      {
+        "id": "1963945785135153428",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @LucifHungsl: https://t.co/8NE1PQhAbP"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1280,
+        "media_key": "3_1963945739752759296",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G0FWPrAa4AA92uD.jpg",
+        "width": 940
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1963945739752759296"
+          ],
+          "media_source_tweet_id": [
+            "1963945785135153428"
+          ]
+        },
+        "author_id": "1569397683814629379",
+        "conversation_id": "1964313988650402002",
+        "created_at": "2025-09-06T13:05:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-06T14:05:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1964313988650402002"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1282896009400430592",
+              "start": 3,
+              "username": "LucifHungsl"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/8NE1PQhAbP",
+              "end": 40,
+              "expanded_url": "https://x.com/LucifHungsl/status/1963945785135153428/photo/1",
+              "media_key": "3_1963945739752759296",
+              "start": 17,
+              "url": "https://t.co/8NE1PQhAbP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1964313988650402002",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 18
+        },
+        "referenced_tweets": [
+          {
+            "id": "1963945785135153428",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @LucifHungsl: https://t.co/8NE1PQhAbP"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1963945739752759296"
+          ]
+        },
+        "author_id": "1282896009400430592",
+        "conversation_id": "1963945785135153428",
+        "created_at": "2025-09-05T12:42:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-05T13:42:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1963945785135153428"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/8NE1PQhAbP",
+              "end": 23,
+              "expanded_url": "https://x.com/LucifHungsl/status/1963945785135153428/photo/1",
+              "media_key": "3_1963945739752759296",
+              "start": 0,
+              "url": "https://t.co/8NE1PQhAbP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1963945785135153428",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 27,
+          "impression_count": 25424,
+          "like_count": 369,
+          "quote_count": 1,
+          "reply_count": 4,
+          "retweet_count": 18
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/8NE1PQhAbP"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-12T18:50:19.000Z",
+        "description": "随缘//医学爱好者/les🏳️‍🌈/lgbt友好/中文/EN/Arknights/绘画/混乱日常碎碎念/很吵//喵喵 【永远拥护培根卷番茄！】",
+        "id": "1569397683814629379",
+        "location": "世界的尽头",
+        "name": "腐烂培根卷",
+        "pinned_tweet_id": "1937498024907010498",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953366409284861953/HM3Aeou7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 100,
+          "following_count": 666,
+          "like_count": 1942,
+          "listed_count": 1,
+          "media_count": 58,
+          "tweet_count": 2447
+        },
+        "username": "ppppggggjjjj",
+        "verified": false
+      },
+      {
+        "created_at": "2020-07-14T04:33:47.000Z",
+        "description": "",
+        "id": "1282896009400430592",
+        "name": "米谷米",
+        "pinned_tweet_id": "1948686477145374804",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1282896269929668608/fJ4t_Nq3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 708,
+          "following_count": 50,
+          "like_count": 1418,
+          "listed_count": 2,
+          "media_count": 182,
+          "tweet_count": 200
+        },
+        "username": "LucifHungsl",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,396 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1940005051851776001"
+      ],
+      "media_source_tweet_id": [
+        "1940005063675846942"
+      ]
+    },
+    "author_id": "1569397683814629379",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A video game like Overwatch",
+          "id": "71",
+          "name": "Video Game"
+        },
+        "entity": {
+          "id": "1390782787301494785",
+          "name": "Touhou Project"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1390782787301494785",
+          "name": "Touhou Project"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1403427158953922560",
+          "name": "Shooting games"
+        }
+      }
+    ],
+    "conversation_id": "1940330486506942900",
+    "created_at": "2025-07-02T08:43:32.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-02T09:43:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1940330486506942900"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 24,
+          "start": 14,
+          "tag": "東方Project"
+        },
+        {
+          "end": 40,
+          "start": 26,
+          "tag": "フランドール・スカーレット"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1338474422819115009",
+          "start": 3,
+          "username": "rokka937"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/e3TbW4tVRK",
+          "end": 75,
+          "expanded_url": "https://x.com/rokka937/status/1940005063675846942/photo/1",
+          "media_key": "3_1940005051851776001",
+          "start": 52,
+          "url": "https://t.co/e3TbW4tVRK"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1940330486506942900",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 448
+    },
+    "referenced_tweets": [
+      {
+        "id": "1940005063675846942",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @rokka937: #東方Project  #フランドール・スカーレット \n( ･̆-･̆ ) https://t.co/e3TbW4tVRK"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1940005051851776001",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GuxIUOoWoAEuCrS.jpg",
+        "width": 1470
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1940005051851776001"
+          ],
+          "media_source_tweet_id": [
+            "1940005063675846942"
+          ]
+        },
+        "author_id": "1569397683814629379",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1390782787301494785",
+              "name": "Touhou Project"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1390782787301494785",
+              "name": "Touhou Project"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1403427158953922560",
+              "name": "Shooting games"
+            }
+          }
+        ],
+        "conversation_id": "1940330486506942900",
+        "created_at": "2025-07-02T08:43:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-02T09:43:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1940330486506942900"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 24,
+              "start": 14,
+              "tag": "東方Project"
+            },
+            {
+              "end": 40,
+              "start": 26,
+              "tag": "フランドール・スカーレット"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1338474422819115009",
+              "start": 3,
+              "username": "rokka937"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/e3TbW4tVRK",
+              "end": 75,
+              "expanded_url": "https://x.com/rokka937/status/1940005063675846942/photo/1",
+              "media_key": "3_1940005051851776001",
+              "start": 52,
+              "url": "https://t.co/e3TbW4tVRK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1940330486506942900",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 448
+        },
+        "referenced_tweets": [
+          {
+            "id": "1940005063675846942",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @rokka937: #東方Project  #フランドール・スカーレット \n( ･̆-･̆ ) https://t.co/e3TbW4tVRK"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1940005051851776001"
+          ]
+        },
+        "author_id": "1338474422819115009",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1390782787301494785",
+              "name": "Touhou Project"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1390782787301494785",
+              "name": "Touhou Project"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1403427158953922560",
+              "name": "Shooting games"
+            }
+          }
+        ],
+        "conversation_id": "1940005063675846942",
+        "created_at": "2025-07-01T11:10:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-01T12:10:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1940005063675846942"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 10,
+              "start": 0,
+              "tag": "東方Project"
+            },
+            {
+              "end": 26,
+              "start": 12,
+              "tag": "フランドール・スカーレット"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/e3TbW4tVRK",
+              "end": 61,
+              "expanded_url": "https://x.com/rokka937/status/1940005063675846942/photo/1",
+              "media_key": "3_1940005051851776001",
+              "start": 38,
+              "url": "https://t.co/e3TbW4tVRK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1940005063675846942",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 631,
+          "impression_count": 94009,
+          "like_count": 8906,
+          "quote_count": 3,
+          "reply_count": 3,
+          "retweet_count": 448
+        },
+        "reply_settings": "everyone",
+        "text": "#東方Project  #フランドール・スカーレット \n( ･̆-･̆ ) https://t.co/e3TbW4tVRK"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-12T18:50:19.000Z",
+        "description": "随缘//医学爱好者/les🏳️‍🌈/lgbt友好/中文/EN/Arknights/绘画/混乱日常碎碎念/很吵//喵喵",
+        "id": "1569397683814629379",
+        "name": "腐烂苹果酱",
+        "pinned_tweet_id": "1937498024907010498",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1620839959388393479/hsMKvVei_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 31,
+          "following_count": 257,
+          "like_count": 415,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 638
+        },
+        "username": "ppppggggjjjj",
+        "verified": false
+      },
+      {
+        "created_at": "2020-12-14T13:22:37.000Z",
+        "description": "コミュ障イラストレーターです…👉🏻👈🏻︎💦 ※自作発言禁止 他サイトでイラスト使う時はTwitterIDをお忘れなく！❌AI学習 pixiv… https://t.co/ceWQ341Nsg 有償依頼…https://t.co/ejX8QQ7uBG",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/64903239…",
+                "end": 95,
+                "expanded_url": "https://www.pixiv.net/users/64903239/artworks",
+                "start": 72,
+                "url": "https://t.co/ceWQ341Nsg"
+              },
+              {
+                "display_url": "skeb.jp/@rokka937",
+                "end": 124,
+                "expanded_url": "https://skeb.jp/@rokka937",
+                "start": 101,
+                "url": "https://t.co/ejX8QQ7uBG"
+              }
+            ]
+          }
+        },
+        "id": "1338474422819115009",
+        "location": "お仕事はDMからお待ちしております！！",
+        "name": "六華（パソコン絶好調）",
+        "pinned_tweet_id": "1893640251471691835",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1742140120478961664/rQxdwGfG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3847,
+          "following_count": 474,
+          "like_count": 146923,
+          "listed_count": 25,
+          "media_count": 1340,
+          "tweet_count": 13677
+        },
+        "username": "rokka937",
+        "verified": false
+      }
+    ]
+  }
+}

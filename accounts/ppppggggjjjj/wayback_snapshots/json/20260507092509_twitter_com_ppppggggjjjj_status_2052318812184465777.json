@@ -1,0 +1,248 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2052059350907174919"
+      ],
+      "media_source_tweet_id": [
+        "2052059370498785577"
+      ]
+    },
+    "author_id": "1569397683814629379",
+    "conversation_id": "2052318812184465777",
+    "created_at": "2026-05-07T09:25:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-07T10:25:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2052318812184465777"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1893030530532204545",
+          "start": 3,
+          "username": "vimpirerose"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/n2GUBOZDuo",
+          "end": 40,
+          "expanded_url": "https://x.com/vimpirerose/status/2052059370498785577/photo/1",
+          "media_key": "3_2052059350907174919",
+          "start": 17,
+          "url": "https://t.co/n2GUBOZDuo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052318812184465777",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2663
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052059370498785577",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "mentionedUsers",
+    "text": "RT @vimpirerose: https://t.co/n2GUBOZDuo"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2052059350907174919",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHphG3zXQAcjSqK.jpg",
+        "width": 866
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2052059350907174919"
+          ],
+          "media_source_tweet_id": [
+            "2052059370498785577"
+          ]
+        },
+        "author_id": "1569397683814629379",
+        "conversation_id": "2052318812184465777",
+        "created_at": "2026-05-07T09:25:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-07T10:25:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052318812184465777"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1893030530532204545",
+              "start": 3,
+              "username": "vimpirerose"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/n2GUBOZDuo",
+              "end": 40,
+              "expanded_url": "https://x.com/vimpirerose/status/2052059370498785577/photo/1",
+              "media_key": "3_2052059350907174919",
+              "start": 17,
+              "url": "https://t.co/n2GUBOZDuo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052318812184465777",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2663
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052059370498785577",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "mentionedUsers",
+        "text": "RT @vimpirerose: https://t.co/n2GUBOZDuo"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2052059350907174919"
+          ]
+        },
+        "author_id": "1893030530532204545",
+        "conversation_id": "2052059370498785577",
+        "created_at": "2026-05-06T16:14:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-06T17:14:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2052059370498785577"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/n2GUBOZDuo",
+              "end": 23,
+              "expanded_url": "https://x.com/vimpirerose/status/2052059370498785577/photo/1",
+              "media_key": "3_2052059350907174919",
+              "start": 0,
+              "url": "https://t.co/n2GUBOZDuo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052059370498785577",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3047,
+          "impression_count": 296413,
+          "like_count": 29735,
+          "quote_count": 208,
+          "reply_count": 0,
+          "retweet_count": 2663
+        },
+        "reply_settings": "mentionedUsers",
+        "text": "https://t.co/n2GUBOZDuo"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-12T18:50:19.000Z",
+        "description": "随缘//医学爱好者/Arknights/绘画/混乱日常碎碎念无营养内容/可能会很吵？ /les/lgbt友好/中文/EN//喵喵//提问箱↓ ↓ ↓",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ppppppppp38481",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ppppppppp38481",
+                "start": 0,
+                "url": "https://t.co/dw8CaO6ajX"
+              }
+            ]
+          }
+        },
+        "id": "1569397683814629379",
+        "location": "世界的尽头",
+        "name": "腐烂培根卷",
+        "pinned_tweet_id": "2012485424057291255",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953366409284861953/HM3Aeou7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 231,
+          "following_count": 1407,
+          "like_count": 7593,
+          "listed_count": 1,
+          "media_count": 99,
+          "tweet_count": 5749
+        },
+        "url": "https://t.co/dw8CaO6ajX",
+        "username": "ppppggggjjjj",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-21T20:10:42.000Z",
+        "description": "a rose for the apocalypse",
+        "id": "1893030530532204545",
+        "name": "⛧",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2034494270917271553/fkoPSqcp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6763,
+          "following_count": 58,
+          "like_count": 2758,
+          "listed_count": 11,
+          "media_count": 151,
+          "tweet_count": 494
+        },
+        "username": "vimpirerose",
+        "verified": false
+      }
+    ]
+  }
+}

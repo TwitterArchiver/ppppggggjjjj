@@ -1,0 +1,263 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1967672734147829761"
+      ],
+      "media_source_tweet_id": [
+        "1967672738207932746"
+      ]
+    },
+    "author_id": "1569397683814629379",
+    "conversation_id": "1967774228675183081",
+    "created_at": "2025-09-16T02:15:10.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-16T03:15:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1967774228675183081"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1225268231826362369",
+          "start": 3,
+          "username": "hSwoiMuxk0pwr0h"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/oFgRLr98GS",
+          "end": 44,
+          "expanded_url": "https://x.com/hSwoiMuxk0pwr0h/status/1967672738207932746/photo/1",
+          "media_key": "3_1967672734147829761",
+          "start": 21,
+          "url": "https://t.co/oFgRLr98GS"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1967774228675183081",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 140
+    },
+    "referenced_tweets": [
+      {
+        "id": "1967672738207932746",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @hSwoiMuxk0pwr0h: https://t.co/oFgRLr98GS"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1387,
+        "media_key": "3_1967672734147829761",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G06T7TEaYAEuYZD.jpg",
+        "width": 1143
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1967672734147829761"
+          ],
+          "media_source_tweet_id": [
+            "1967672738207932746"
+          ]
+        },
+        "author_id": "1569397683814629379",
+        "conversation_id": "1967774228675183081",
+        "created_at": "2025-09-16T02:15:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-16T03:15:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1967774228675183081"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1225268231826362369",
+              "start": 3,
+              "username": "hSwoiMuxk0pwr0h"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/oFgRLr98GS",
+              "end": 44,
+              "expanded_url": "https://x.com/hSwoiMuxk0pwr0h/status/1967672738207932746/photo/1",
+              "media_key": "3_1967672734147829761",
+              "start": 21,
+              "url": "https://t.co/oFgRLr98GS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1967774228675183081",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 140
+        },
+        "referenced_tweets": [
+          {
+            "id": "1967672738207932746",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @hSwoiMuxk0pwr0h: https://t.co/oFgRLr98GS"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1967672734147829761"
+          ]
+        },
+        "author_id": "1225268231826362369",
+        "conversation_id": "1967672738207932746",
+        "created_at": "2025-09-15T19:31:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-15T20:31:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1967672738207932746"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/oFgRLr98GS",
+              "end": 23,
+              "expanded_url": "https://x.com/hSwoiMuxk0pwr0h/status/1967672738207932746/photo/1",
+              "media_key": "3_1967672734147829761",
+              "start": 0,
+              "url": "https://t.co/oFgRLr98GS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1967672738207932746",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 32,
+          "impression_count": 7075,
+          "like_count": 547,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 140
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/oFgRLr98GS"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-12T18:50:19.000Z",
+        "description": "随缘//医学爱好者/les🏳️‍🌈/lgbt友好/中文/EN/Arknights/绘画/混乱日常碎碎念/很吵//喵喵 【永远拥护培根卷番茄！】",
+        "id": "1569397683814629379",
+        "location": "世界的尽头",
+        "name": "腐烂培根卷",
+        "pinned_tweet_id": "1937498024907010498",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953366409284861953/HM3Aeou7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 108,
+          "following_count": 699,
+          "like_count": 2155,
+          "listed_count": 1,
+          "media_count": 59,
+          "tweet_count": 2764
+        },
+        "username": "ppppggggjjjj",
+        "verified": false
+      },
+      {
+        "created_at": "2020-02-06T04:01:34.000Z",
+        "description": "あまり落書きしない 腐 成人済み/ポイピク→https://t.co/Zg4Wjjkv3o / pixiv→ https://t.co/qI39Def1ke / 成人向け(腐)→@TAx70097/07thディスコ鯖については聞いてください",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 98,
+                "start": 89,
+                "username": "TAx70097"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "poipiku.com/5458562/",
+                "end": 45,
+                "expanded_url": "https://poipiku.com/5458562/",
+                "start": 22,
+                "url": "https://t.co/Zg4Wjjkv3o"
+              },
+              {
+                "display_url": "pixiv.net/users/2299490",
+                "end": 78,
+                "expanded_url": "https://www.pixiv.net/users/2299490",
+                "start": 55,
+                "url": "https://t.co/qI39Def1ke"
+              }
+            ]
+          }
+        },
+        "id": "1225268231826362369",
+        "location": "ジャンル雑多",
+        "name": "たたたた",
+        "pinned_tweet_id": "1859584971691958458",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1323120398905405440/l6jQGdaw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3616,
+          "following_count": 51,
+          "like_count": 2896,
+          "listed_count": 21,
+          "media_count": 510,
+          "tweet_count": 2756
+        },
+        "username": "hSwoiMuxk0pwr0h",
+        "verified": false
+      }
+    ]
+  }
+}
