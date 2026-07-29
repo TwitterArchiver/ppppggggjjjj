@@ -1,0 +1,342 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1940745017238183938"
+      ],
+      "media_source_tweet_id": [
+        "1940745028135276730"
+      ]
+    },
+    "author_id": "1569397683814629379",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A video game like Overwatch",
+          "id": "71",
+          "name": "Video Game"
+        },
+        "entity": {
+          "id": "1370105546607534081",
+          "name": "Project Sekai"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1370105546607534081",
+          "name": "Project Sekai"
+        }
+      }
+    ],
+    "conversation_id": "1941056345186386241",
+    "created_at": "2025-07-04T08:47:50.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-04T09:47:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1941056345186386241"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 19,
+          "start": 11,
+          "tag": "prsk_FA"
+        },
+        {
+          "end": 24,
+          "start": 20,
+          "tag": "宵崎奏"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1663527073741422592",
+          "start": 3,
+          "username": "ozk9c"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/9e3JTfL3j2",
+          "end": 48,
+          "expanded_url": "https://x.com/ozk9c/status/1940745028135276730/photo/1",
+          "media_key": "3_1940745017238183938",
+          "start": 25,
+          "url": "https://t.co/9e3JTfL3j2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1941056345186386241",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 370
+    },
+    "referenced_tweets": [
+      {
+        "id": "1940745028135276730",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ozk9c: #prsk_FA #宵崎奏 https://t.co/9e3JTfL3j2"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1940745017238183938",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gu7pT4gXYAIQnHk.jpg",
+        "width": 1364
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1940745017238183938"
+          ],
+          "media_source_tweet_id": [
+            "1940745028135276730"
+          ]
+        },
+        "author_id": "1569397683814629379",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1370105546607534081",
+              "name": "Project Sekai"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1370105546607534081",
+              "name": "Project Sekai"
+            }
+          }
+        ],
+        "conversation_id": "1941056345186386241",
+        "created_at": "2025-07-04T08:47:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-04T09:47:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1941056345186386241"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 19,
+              "start": 11,
+              "tag": "prsk_FA"
+            },
+            {
+              "end": 24,
+              "start": 20,
+              "tag": "宵崎奏"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1663527073741422592",
+              "start": 3,
+              "username": "ozk9c"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/9e3JTfL3j2",
+              "end": 48,
+              "expanded_url": "https://x.com/ozk9c/status/1940745028135276730/photo/1",
+              "media_key": "3_1940745017238183938",
+              "start": 25,
+              "url": "https://t.co/9e3JTfL3j2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1941056345186386241",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 370
+        },
+        "referenced_tweets": [
+          {
+            "id": "1940745028135276730",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ozk9c: #prsk_FA #宵崎奏 https://t.co/9e3JTfL3j2"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1940745017238183938"
+          ]
+        },
+        "author_id": "1663527073741422592",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1370105546607534081",
+              "name": "Project Sekai"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1370105546607534081",
+              "name": "Project Sekai"
+            }
+          }
+        ],
+        "conversation_id": "1940745028135276730",
+        "created_at": "2025-07-03T12:10:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-03T13:10:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1940745028135276730"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 8,
+              "start": 0,
+              "tag": "prsk_FA"
+            },
+            {
+              "end": 13,
+              "start": 9,
+              "tag": "宵崎奏"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/9e3JTfL3j2",
+              "end": 37,
+              "expanded_url": "https://x.com/ozk9c/status/1940745028135276730/photo/1",
+              "media_key": "3_1940745017238183938",
+              "start": 14,
+              "url": "https://t.co/9e3JTfL3j2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1940745028135276730",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 196,
+          "impression_count": 32476,
+          "like_count": 3160,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 370
+        },
+        "reply_settings": "everyone",
+        "text": "#prsk_FA #宵崎奏 https://t.co/9e3JTfL3j2"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-12T18:50:19.000Z",
+        "description": "随缘//医学爱好者/les🏳️‍🌈/lgbt友好/中文/EN/Arknights/绘画/混乱日常碎碎念/很吵//喵喵",
+        "id": "1569397683814629379",
+        "name": "腐烂苹果酱",
+        "pinned_tweet_id": "1937498024907010498",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1620839959388393479/hsMKvVei_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 35,
+          "following_count": 321,
+          "like_count": 610,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 846
+        },
+        "username": "ppppggggjjjj",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-30T12:46:08.000Z",
+        "description": "一次創作、二次創作／❌AI学習、転載、使用",
+        "id": "1663527073741422592",
+        "name": "JINU",
+        "pinned_tweet_id": "1940014557054837037",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1940713623795466241/oHwFX_RD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 542,
+          "following_count": 81,
+          "like_count": 441,
+          "listed_count": 2,
+          "media_count": 12,
+          "tweet_count": 14
+        },
+        "username": "ozk9c",
+        "verified": false
+      }
+    ]
+  }
+}

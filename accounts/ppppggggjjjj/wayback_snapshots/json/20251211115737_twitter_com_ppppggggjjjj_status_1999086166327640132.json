@@ -1,0 +1,249 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1998746405243072514"
+      ],
+      "media_source_tweet_id": [
+        "1998746410943238368"
+      ]
+    },
+    "author_id": "1569397683814629379",
+    "conversation_id": "1999086166327640132",
+    "created_at": "2025-12-11T11:57:37.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-11T12:57:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1999086166327640132"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1861496092086657024",
+          "start": 3,
+          "username": "ebikouka1"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/gk9ocVdbWk",
+          "end": 46,
+          "expanded_url": "https://x.com/ebikouka1/status/1998746410943238368/photo/1",
+          "media_key": "3_1998746405243072514",
+          "start": 23,
+          "url": "https://t.co/gk9ocVdbWk"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1999086166327640132",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 144
+    },
+    "referenced_tweets": [
+      {
+        "id": "1998746410943238368",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ebikouka1: らくがきだぶち https://t.co/gk9ocVdbWk"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 989,
+        "media_key": "3_1998746405243072514",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7z5RAiaMAIE4Oh.jpg",
+        "width": 1361
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1998746405243072514"
+          ],
+          "media_source_tweet_id": [
+            "1998746410943238368"
+          ]
+        },
+        "author_id": "1569397683814629379",
+        "conversation_id": "1999086166327640132",
+        "created_at": "2025-12-11T11:57:37.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-11T12:57:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1999086166327640132"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1861496092086657024",
+              "start": 3,
+              "username": "ebikouka1"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/gk9ocVdbWk",
+              "end": 46,
+              "expanded_url": "https://x.com/ebikouka1/status/1998746410943238368/photo/1",
+              "media_key": "3_1998746405243072514",
+              "start": 23,
+              "url": "https://t.co/gk9ocVdbWk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1999086166327640132",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 144
+        },
+        "referenced_tweets": [
+          {
+            "id": "1998746410943238368",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ebikouka1: らくがきだぶち https://t.co/gk9ocVdbWk"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1998746405243072514"
+          ]
+        },
+        "author_id": "1861496092086657024",
+        "conversation_id": "1998746410943238368",
+        "created_at": "2025-12-10T13:27:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-10T14:27:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1998746410943238368"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/gk9ocVdbWk",
+              "end": 31,
+              "expanded_url": "https://x.com/ebikouka1/status/1998746410943238368/photo/1",
+              "media_key": "3_1998746405243072514",
+              "start": 8,
+              "url": "https://t.co/gk9ocVdbWk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1998746410943238368",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 131,
+          "impression_count": 12561,
+          "like_count": 1254,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 144
+        },
+        "reply_settings": "everyone",
+        "text": "らくがきだぶち https://t.co/gk9ocVdbWk"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-12T18:50:19.000Z",
+        "description": "随缘//医学爱好者/les🏳️‍🌈/lgbt友好/中文/EN/Arknights/绘画/混乱日常碎碎念/很吵//喵喵 【永远拥护培根卷番茄！】",
+        "id": "1569397683814629379",
+        "location": "世界的尽头",
+        "name": "腐烂培根卷",
+        "pinned_tweet_id": "1993298688010322328",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953366409284861953/HM3Aeou7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 154,
+          "following_count": 931,
+          "like_count": 3375,
+          "listed_count": 1,
+          "media_count": 88,
+          "tweet_count": 3992
+        },
+        "username": "ppppggggjjjj",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-26T19:44:04.000Z",
+        "description": "明日方舟やってます 大陸の話もします 時々絵描いてます",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/ebiabokad0",
+                "end": 23,
+                "expanded_url": "https://lit.link/ebiabokad0",
+                "start": 0,
+                "url": "https://t.co/P0EtlFuUTB"
+              }
+            ]
+          }
+        },
+        "id": "1861496092086657024",
+        "name": "ヱビ",
+        "pinned_tweet_id": "1995722481089265961",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1932487918595289088/rNDHYMp4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1000,
+          "following_count": 62,
+          "like_count": 2135,
+          "listed_count": 7,
+          "media_count": 166,
+          "tweet_count": 695
+        },
+        "url": "https://t.co/P0EtlFuUTB",
+        "username": "ebikouka1",
+        "verified": false
+      }
+    ]
+  }
+}
